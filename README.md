@@ -20,7 +20,11 @@ General
 
 3.2 Development of a ⟨ Noun - Adjective ⟩ Pair Ranker (20 marks)
 
-> Placeholder
+- get the reviews100.csv inside downloads folder 
+
+`cd amazon_reviews_scraping && scrapy crawl amazon -o ../downloads/reviews100.csv`
+
+- look into q3_2.ipynb
 
 3.3 Application (10 marks)
 
