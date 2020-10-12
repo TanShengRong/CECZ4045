@@ -22,7 +22,7 @@ General
 
 - get the reviews100.csv inside downloads folder 
 
-`cd amazon_reviews_scraping && scrapy crawl amazon -o ../downloads/reviews100.csv`
+`cd amazon_reviews_scraping && scrapy crawl amazon -o ../downloads/reviews100.csv -t csv` 
 
 - look into q3_2.ipynb
 
