@@ -1,0 +1,3466 @@
+
+
+***********************************************************************
+|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|
+=======================================================================
+|                                                                     |
+|          #######        ###                                         |
+|        /       ###  #    ###                                        |
+|       /         ## ###    ##                            #           |
+|       ##        #   #     ##                           ##           |
+|        ###                ##                           ##           |
+|       ## ###      ###     ##      /##  ###  /###     ########       |
+|        ### ###     ###    ##     / ###  ###/ #### / ########        |
+|          ### ###    ##    ##    /   ###  ##   ###/     ##           |
+|            ### /##  ##    ##   ##    ### ##    ##      ##           |
+|              #/ /## ##    ##   ########  ##    ##      ##           |
+|               #/ ## ##    ##   #######   ##    ##      ##           |
+|                # /  ##    ##   ##        ##    ##      ##           |
+|      /##        /   ##    ##   ####    / ##    ##      ##           |
+|     /  ########/    ### / ### / ######/  ###   ###     ##           |
+|    /     #####       ##/   ##/   #####    ###   ###     ##          |
+|    |                                                                |
+|     \)              -------------------------                       |
+|                     P L O T   A N A L Y S I S                       |
+|                     -------------------------                       |
+|                                                                     |
+|                    #####    ##        ###   ###                     |
+|                 ######  /  #### / #    ###   ###                    |
+|                /#   /  /   ####/ ###    ##    ##                    |
+|               /    /  /    # #    #     ##    ##                    |
+|                   /  /     #            ##    ##                    |
+|                  ## ##     #    ###     ##    ##                    |
+|                  ## ##     #     ###    ##    ##                    |
+|                  ## ########      ##    ##    ##                    |
+|                  ## ##     #      ##    ##    ##                    |
+|                  ## ##     ##     ##    ##    ##                    |
+|                  #  ##     ##     ##    ##    ##                    |
+|                     /       ##    ##    ##    ##                    |
+|                 /##/        ##    ##    ##    ##                    |
+|                /  #####      ##   ### / ### / ### /                 |
+|                /     ##             ##/   ##/   ##/                 |
+|                #                                                    |
+|                 ##                                                  |
+|                                                                     |
+=======================================================================
+|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|
+***********************************************************************
+|A Plot Analysis for the "Silent Hill" Series by Konami               |
+|Written by: Orca782 and cvxfreak                                     |
+|Games: Silent Hill (PSone)                                           |
+|       Silent Hill: Play Novel (GBA)                                 |
+|       Silent Hill 2 (PS2)                                           |
+|       Silent Hill 2: Restless Dreams (PS2, Xbox, PC)                |
+|       Silent Hill 3 (PS2/PC)                                        |
+|                                                                     |
+|Version 6.5                                                          |
+|May 13, 2007                                                         |
+|E-mail: Orca782[at]hotmail[dot]com (Orca782)                         |
+|        FireEmblemPride[at]gmail[dot]com (cvxfreak)                  |
+***********************************************************************
+
+///////////////////////////////////////////////////////////////////////
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+C O N T E N T S
+c o n t e n t s
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+///////////////////////////////////////////////////////////////////////
+
+1. Introduction
+2. Version History
+3. Silent Hill
+   A. A Synopsis of Silent Hill
+   B. Endings
+   C. Silent Hill: Play Novel
+   D. Characters
+   E. Angels
+   F. Metatron
+4. Silent Hill 3
+   A. A Synopsis of Silent Hill 3
+   B. Endings
+   C. Characters
+5. Silent Hill 2
+   A. A Synopsis of Silent Hill 2
+      I. Born from a Wish
+      II. Letter from Silent Heaven
+   B. Endings
+   C. Characters
+   D. Themes
+   E. Differences of Silent Hill 2 and Silent Hill 2: Restless Dreams
+6. The Town Itself
+   A. Cult Presence
+   B. The Drug Market
+   C. Silent Hill's History
+   D. Old Silent Hill
+   E. Central Silent Hill
+   F. Lakeside Silent Hill and Palevile
+   G. Southvale Silent Hill
+   H. Other Potential Areas
+   I. The UFOs
+7. The Radio and Flashlight
+8. Frequently Asked Questions
+9. Conclusion
+
+///////////////////////////////////////////////////////////////////////
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+1. I N T R O D U C T I O N
+   i n t r o d u c t i o n
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+///////////////////////////////////////////////////////////////////////
+
+Silent Hill is a series unlike any other. The storyline, in particular,
+is extremely deep and thought-provoking. The series is easy and 
+difficult to analyze it at the same time. It's easy in a sense that the 
+games sometimes give the hidden meanings away. Other times, they're so
+well hidden that it takes deep thought and actual outside research to 
+properly analyze them, and even then, there might be more than one way 
+to analyze a given message. 
+
+Therefore, another plot document for the Silent Hill series exists, in
+addition to Dan Birlew's guides. There are so many ways to analyze this 
+series, and the authors feel this document is an adequate alternative,
+not substitute, to other plot guides on the Silent Hill series. So
+please enjoy this guide, and decide what views work best for you.  
+
+Orca782 originally started this document alone with only miniscule 
+support from cvxfreak, who became co-author after the initial version 
+was posted. The two authors had complimentary views and different
+writing strengths, so they put their effort into one document. 
+
+Silent Hill is pretty much what YOU want it to be. It's discreet, yet 
+extremely clear (oxymoron or not). So, let's get on with this document.
+
+Remember, this document contains spoilers, so you should play out all
+the games before reading this.
+
+///////////////////////////////////////////////////////////////////////
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+2. V E R S I O N   H I S T O R Y
+   v e r s i o n   h i s t o r y
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+///////////////////////////////////////////////////////////////////////
+
+------------
+May 13, 2007
+------------
+Version 7.0 
+I added more information to the guide and fixed up anything else that
+needed to be fixed. 
+
+--------------
+April 22, 2007
+--------------
+Version 6.5
+cvxfreak here. This plot analysis has not been updated in three years. 
+Well, I'm here to fix up any of the writing that needed improvements.
+The plot summaries often omitted important details and were far too
+brief; this new update restores them so they now have detailed and
+accurate descriptions. The previous version also had some awkward
+writing and grammar; these two have also been proofread and fixed. 
+
+I also removed the Silent Hill 4 section, as I do not plan on covering
+that game in this guide anymore, and apparently neither does Orca782. 
+Silent Hill 0rigins, a prequel to the original Silent Hill, is coming
+to the Sony PSP. Hopefully analysis for that title can be added into
+this document, but no promises just yet. 
+
+///////////////////////////////////////////////////////////////////////
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+3. S I L E N T   H I L L
+   s i l e n t   h i l l
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+///////////////////////////////////////////////////////////////////////
+
+Silent Hill was the game that innovated the survival horror genre.
+Released in early 1999 for the original PlayStation, the game was met 
+with great acclaim and praise and earned a spot in many PlayStation
+gamers' game collection alongside the Resident Evil series.
+
+Immediately removed from being called a Resident Evil clone, Silent 
+Hill created a dedicated fanbase that follows the games very closely,
+especially in regards to plotline. Silent Hill follows the adventures 
+of Harry Mason, as he arrives in Silent Hill only to see his daughter
+vanish, and a nightmare of events unfold before his eyes.
+
+++++++++++++++++++++++++++++
+A. A Synopsis of Silent Hill
+++++++++++++++++++++++++++++
+
+Written by cvxfreak, edited by Orca782
+-
+In a jeep on a nearly deserted freeway, Harry Mason and his daughter 
+Cheryl are approaching Silent Hill, a small resort lakeside town, at 
+night. Car trouble has pushed them behind schedule, hence the evening
+drive. 
+
+As Harry drives the jeep, a female police officer drives passed his 
+vehicle on her motorcycle. Moments later, he sees the motorcycle on
+the side of the road, abandoned, with the driver nowhere to be seen.
+Harry looks at the motorcycle, wondering where the driver has 
+disappeared to, before focusing on the road once again. 
+
+Seconds later, as Harry's car finally reaches Silent Hill, he sees a 
+woman in a school dress crossing the road, and swerves the car, going 
+off the road and unexpectedly through a fence into a section of the 
+town. 
+
+He is loses consciousness for the rest of the night, and wakes up in 
+the morning, seemingly unharmed. It's foggy, and it's snowing out of 
+season. Harry looks to the passengers seat, and notices that Cheryl is 
+missing, with the passengers side door left open. Harry decides to look
+for his daughter, and leaves the vehicle. He walks for a few seconds 
+before sees a shadow of Cheryl in the distance. After realizing it's
+Cheryl, Harry approaches her, but Cheryl starts to run off. Harry tells
+his daughter to stop, but Cheryl keeps running. 
+
+Harry chases Cheryl up a small, thin alleyway, and into a back area
+past some gates and fences.  As he gives chase, it becomes increasingly 
+dark. Suddenly, the skies become pitch black, surprising Harry. But
+this ominous sign fails to stop him, so he takes his lighter out and
+uses it to aid in his vision. 
+
+With just the slight illumination of his lighter, Harry proceeds down
+the alleyway, where he sees increasingly disturbing scenes; an empty 
+wheel chair, a gurney, and larger and larger puddles of blood.  The 
+fences go from normal metal to barbed wire with chunks of bodies and 
+blood hanging from them. He comes to a sight of a crucified corpse.
+
+The surroundings disturb and trouble Harry, and he runs into a dead end
+without seeing Cheryl anywhere. Harry turns around, and suddenly is
+attacked by vicious looking, children-like demons that wield knives.
+(note: In the Japanese version, the demon children are replaced by
+those orange creatures with one eye and claws. However, demon children
+make more sense as far as the plot goes, so I'm going with that.)
+
+Harry, unarmed, can only endure the attacks by the demon children, and
+falls to the ground, losing consciousness, as he is slowly killed...
+
+Sometime later, Harry awakes on a cushioned seat in a cafe. He is not 
+alone; the police officer from the road is there too. She introduces 
+herself as Cybil, and asks if Harry knows what's going on with the
+abandoned town and broken communications. (Harry doesn't question Cybil
+about abandoning the motorcycle earlier)
+
+He replies, of course, that he doesn't know what's going on, since he's
+just a tourist that arrived recently. Harry remembers that his daughter
+is missing, and asks Cybil if she has seen Cheryl. 
+ 
+Unfortunately, Cybil has not seen Cheryl, and tells Harry as much. 
+Harry then gets up to leave, in order to look for his daughter. Cybil
+tries to stop Harry from leaving, warning him of the dangers outside
+(unexplained dangers). But, Harry protests, and Cybil finally allows 
+him to leave. She gives Harry a handgun for protection, warning him
+about the dangers of the weapon. Cybil warns for Harry not to shoot 
+her by accident (important later). 
+
+Cybil leaves the cafe in order to return to Brahms, the next town 
+over, so she can get backup. She vows to return as soon as she can, 
+leaving Harry alone in the cafe. Harry sees a few supplies that will 
+be useful to him on his search; a map, flashlight, health drinks, and 
+even a kitchen knife, in case he runs out of bullets. As he leaves 
+the cafe, a broken radio begins to emit static noise, and as Harry 
+examines the radio, a flying demon breaks through the cafe window 
+and knocks Harry off his feet. Harry uses Cybil's gun to dispose of 
+the creature.
+
+It's at this point that Harry realizes just what kind of a situation
+he's caught up in. He decides to take the radio with him, and finally
+leaves the cafe. He decides to resume his search by beginning in 
+the alleyway he was in earlier. He uses his map to guide him there. 
+
+Returning to the alleyway, the area leading to the bloody mess is
+blocked off by a wall, but on the ground are pages from Cheryl's
+sketchbook that Harry bought her as a birthday gift.  
+
+On the front of the book is a scribbled drawing of Harry, and on a 
+page in large, red ink is written "to School."  
+
+Checking the map he found in the cafe, Harry locates Midwich 
+Elementary, a school in his vicinity, in southwest Old Silent Hill.  
+
+Attempting to head there, Harry notices that all possible paths to 
+the school are blocked due to mysterious chasms in in the streets. 
+He is also attacked by dozens of flying demons and demon dogs, but 
+Harry manages to dispose of them with Cybil's handgun. 
+
+Near one of the chasms, he finds more notes from Cheryl, and after 
+a goose hunt for some oddly themed "Keys for Eclipse", he finds a 
+path through a house which bypasses the chasms, allowing Harry to 
+reach Midwich.
+
+However, as soon as he steps into the backyard of the house, the 
+town becomes blanketed in darkness once again, with the Keys for 
+Eclipse living up to their name. Instead of a lighter, Harry uses 
+the flashlight from the cafe, hanging from his front pocket, allowing 
+him to continue holding onto his weapons. More creatures attack 
+Harry, and in the darkness, they become difficult to see and attack, 
+so Harry runs as fast as his legs can carry him to the school. 
+
+In Midwich, Harry finds the place is deserted, with Cheryl nowhere to 
+be found, as Harry searches the empty classrooms and offices. 
+
+Harry, in order to advance, solves several puzzles related to time, 
+birds, a dissolution chemical and a boiler room. After solving all 
+these puzzles, Harry steps into the school's clock tower, now unlocked
+thanks to completing the puzzles, and ends up... back in the school
+courtyard, from where he entered the clock tower. But he couldn't have
+ended up back in the schoolyard, because that's where he came from...
+However, Harry looks onto the ground at his feet, and sees an odd,
+circular image engraved onto the ground that wasn't there earlier. It
+seems like a strange symbol with a meaning Harry doesn't seem to know.
+
+In awe, he discovers that the school has become a mess hall, just 
+like the alleyway. Still eager to find Cheryl, he does continues 
+to explore. 
+
+In one room, Harry finds an open book about teenage girls and 
+poltergeist activity (important, read further). After some 
+unpleasant encounters, including a ringing telephone that emits 
+Cheryl's voice, Harry makes his way to the school basement. He 
+encounters a lizard with a giant mouth that Harry manages to kill 
+with a Shotgun he finds, thanks to a tip from a book he read as he 
+wandered through the dark school.
+
+Killing the lizard apparently reverses the transformation of the 
+school. As Harry reappears in the school boiler room, he sees the 
+girl from the road, the one he almost hit. But before Harry could 
+say or do anything, the girl smiles at him and vanishes into thin 
+air, quite literally.
+
+Harry wonders what just happened, and realizes the school has 
+returned to its relatively normal state. The darkness has also 
+disappeared, with the fog and snowing dominating the Silent Hill 
+air. Harry hears church bells ringing, and sees a Balkan Church on 
+his map, so he decides to try searching for who rang the bells. 
+
+More chasms attempt to block Harry from reaching the church, but 
+he lucked across a key when the girl vanished, and it happened to 
+be the key to access the back door of a house on Levin Street he 
+discovered in the school directory, allowing him to once again 
+bypass a chasm. 
+
+At the church, Harry sees an old woman in ragged clothing, walking
+barefoot. Harry wonders just who this strange woman is, but all she 
+does is clue him to go to the hospital, after leaving him with 
+a pyramid-shaped relic, the Flauros. The lady leaves, with Harry
+having little choice but to proceed to the hospital, located in
+another part of Silent Hill, across the bridge, in Central Silent 
+Hill.
+
+Using a key he found at the church, Harry lowers the bridge to 
+Central Silent Hill. Before heading to the hospital, Harry stops by 
+the police station to look for anything useful. He finds some 
+mysterious files that speak of some hallucinogenic drug called 
+"White Claudia". There seems  to be a large market for them in Silent 
+Hill. But none of this seems to be relevant, so Harry proceeds to 
+Alchemilla Hospital in the southern portion of Central Silent Hill. 
+
+After Harry enters the hospital, he hears a bullet shot in one of the
+rooms. Harry enters the room where the shot came from, and meets an 
+irritable doctor, Michael Kaufmann. Kaufmann, gruff in tone and nature,
+just shot one of the flying demons. He also shoots his gun towards 
+Harry, but luckily misses, realizing Harry is a human. 
+
+Harry and Kaufmann speak, with Harry asking if he's seen Cheryl. Like
+Cybil, Kaufmann hasn't seen her. Kaufmann explains that he went to
+sleep in a break room, and when he woke up, he saw that the hospital
+became empty, the weather out of season, and monsters everywhere. He
+even asks Harry about his wife. Harry tells Kaufmann that his wife
+died four years ago. Kaufmann decides to take his leave, Harry wishing
+him luck as he explores the rest of the hospital. 
+
+The hospital is devoid of any life except for cockroaches in the
+basement. In the director's room, he uses a bottle to scoop up some
+suspicious-looking red liquid that had seemingly been dropped on 
+purpose. The rest of the room has been ransacked, and it appears as 
+if  the liquid was the object of the search. 
+
+Harry restores power to the hospital in the basement. He uses the 
+elevator to reach the upper floors, but a search of the upper 
+floors is impossible due to jammed doors. 
+
+As Harry returns to the elevator, a mysterious fourth floor appears! 
+It's an ominous sight, but Harry has no choice but to take the 
+elevator up to this mysterious fourth floor. As Harry gets off the 
+elevator, he ends up in a dark, bloody hallway. The hospital, like 
+the elementary school and the alleyway, has transformed into darkness, 
+and Harry has to reverse this on his own. 
+
+Harry proceeds down this fourth floor, but he doesn't seem much,
+ending up at a staircase that will take him to the third floor. He
+encounters demon nurses that have weird, wiggling bulges on their
+backs. Harry also sees demon doctors, and avoids or kills whoever
+he runs into. He can't let any monster stop him from finding
+Cheryl. 
+
+As with the school, Harry goes through fruitless searching of the 
+now-unlocked second and third floors. After unlocking a few doors
+and reaching the basement, Harry pushes a shelf in the basement
+storeroom, revealing a secret door. He enters it, finding another 
+passage guarded by metal grating. 
+
+Harry stumbles onto a hallway containing six rooms. One of the 
+rooms is a hospital room whose patient is identified by a photo
+on a machine -- the same girl who Harry nearly hit on the road,
+and saw appear and vanish at the elementary school. The name on
+the photo reads "Alessa". 
+
+Alessa's hospital room contains a stretcher, her photo, and some 
+medicinal pills. Harry searches elsewhere, and finds another key,
+one that leads him into the room he met Kaufmann in. But instead
+of finding Kaufmann, Harry shines his flashlight at a woman hiding
+beneath a desk, a panicked but human nurse. When the nurse realizes
+Harry isn't a demon, she hugs him, looking relieved, smiling. 
+
+Harry chats with the nurse, who identifies herself as Lisa Garland.
+Of course, she works at this hospital. Harry asks Lisa if she's 
+seen Cheryl, but as with everyone else Harry's met in Silent Hill,
+Lisa hasn't seen Cheryl. Harry asks Lisa about the hidden basement,
+but Lisa is ignorant of such matters, as nurses are instructed not
+to enter the basement storeroom on strict orders. Lisa asks Harry
+if he's seen anything, but before Harry can explain, he is hit with
+a headache, and suddenly loses consciousness. Lisa tries to help
+Harry, but Harry blacks out.
+
+Harry ends up back in the room he met Kaufmann in, the hospital
+having returned to its normal state. No lizards or other demons
+to kill this time, apparently. 
+
+Someone enters the room. It's the old woman from the church, who 
+reveals herself as Dahlia Gillespie. Once again, she speaks 
+to Harry in cryptic language, explaining that the town is 
+being swallowed by darkness. Harry is clueless about this, 
+but does know about a circular symbol appearing all over town,
+as he encountered it at the schoolyard. Dahlia explains that 
+this is the Mark of Samael, a symbol of evil. Dahlia commands 
+Harry not to let it be "completed". She leaves a key on the desk, 
+telling Harry to visit the "Other Church" of this town. She 
+leaves, leaving Harry alone again. 
+
+Harry looks at his map and cannot find any church on the map 
+except for Balkan Church, which he already visited. However, 
+the key Dahlia leaves behind is an antique shop key, so Harry 
+decides to find one. 
+
+Using a phonebook at the hospital, Harry finds an antique shop
+in the northeastern part of Central Silent Hill, across town. 
+It's a long run, avoiding monsters amidst the fog and snow,
+but Harry eventually finds the shop. Harry takes a flight of
+stairs down from its entrance, and enters the shop. 
+
+Inside, Harry moves aside a shelf, finding a hidden, mysterious 
+tunnel in the wall. Before Harry could explore it, Cybil enters
+the shop and begins to speak to Harry. She explains to Harry 
+that she was unable to find a way out of town due to all the 
+chasms in the roads. 
+
+Harry explains that he's still on his hunt for Cheryl, but
+still hasn't found her. Cybil points out that she did see
+a girl on Bachman Road, but the girl got away from Cybil
+because the girl literally crossed over one of the chasms
+leading towards the Silent Hill lakeside. Harry is shocked
+at thus revelation. 
+
+He asks Cybil if she knows anything about Dahlia and the 
+darkness she spoke of. Cybil answers that the people of 
+Silent Hill were addicted to drugs, and that there was 
+trafficking going on. Cybil was investigating it, but all 
+leads have gone cold. Harry doesn't seem to see a connection 
+to the current situation, though. Although, he did read up 
+on drug trafficking in the police station...
+
+He tries to tell Cybil about the dark transformations he's 
+experienced all over town, mentioning his meeting with Lisa, 
+but Cybil doesn't seem to know what he's talking about. She
+thinks Harry is tired and imagining things, and Harry seems
+to concur, uninterested in convincing Cybil to believe
+something so strange and unbelievable. 
+
+Cybil asks Harry about the tunnel in the wall, and Harry
+says he found it before she came in. Harry decides to have
+a look, while Cybil, after protesting the logic of a cop
+covering for a civilian. Cybil guards the entrance as 
+Harry explores. The tunnel is short, and leads to a simple
+room with an altar, and a picture of a flying, naked demon. 
+
+Harry concludes this to be the "Other Church" Dahlia spoke
+of. Harry sees an axe on a wall, and decides to use it for
+a weapon. Harry finds a jammed door, but nothing else of
+interest. He tries to return to Cybil, but suddenly, the
+altar begins emitting fire from cups set atop the altar, 
+which surprises Harry.
+
+Cybil, still guarding the entrance to the tunnel, calls
+out to Harry, stunned by the silence in the room. She 
+decides to check the secret tunnel out for herself, but
+as she arrives in the altar room, still flaring, she 
+sees no sign of Harry, wondering just what happened to
+him...
+
+Harry wakes up in the demonic hospital with Lisa. Harry 
+asks Lisa about Dahlia, and Lisa clues him in on the awful 
+occurrence with her kid seven years ago and of a weird 
+cult in Silent Hill. Apparently, Dahlia went insane after 
+her child died in a fire. The cult that existed in Silent
+Hill apparently had been around for a long time, but when 
+the lakeside resort was built, younger people moved into 
+the town, all drawn in by drug trafficking. Lisa decides 
+that she's rambled on too much, and stops speaking 
+afterwards.
+
+Harry wakes up in the antique shop again. However, it's now
+become the dark, decaying environment Harry experienced at
+the school and hospital. Cybil is no longer here, but Harry
+remembers what she said about Cheryl crossing a chasm towards
+the lake. But, with a chasm there, Harry can't access the lake
+area. There should be another way to get there. Lisa should 
+know, so Harry decides to brave the nightmarishly transformed
+town and return to Alchemilla Hospital. 
+
+The town has not been spared from the dark transformation to
+evil. Chasms have appeared, trying to block Harry from 
+returning to the hospital. Harry goes through a mall, and as
+he tries to reach the second floor, a set of television 
+screens turn on, showing Cheryl in a panicked, suffering
+state, asking for her daddy to help her. The screens go blank,
+prompting Harry to continue his search. After taking down a
+type of larva creature, Harry manages to make a break for
+the hospital, taking a hunting rifle with him for added
+firepower. 
+
+Harry runs into Lisa again, asking her if she knows another
+path to the sewers. Lisa tells Harry of a sewer waterworks
+located next to Midwich Elementary School (in fact, Harry
+had passed by it earlier). However, Lisa demands Harry to
+stay in with her and keep her company. However, Harry needs
+to find Cheryl, but offers for Lisa to go with him. Lisa,
+unfortunately, finds herself unable to leave to the hospital.
+Not arguing, Harry promises to come back for Lisa after he
+finds Cheryl. 
+
+Harry leaves the hospital again, but chasms have blocked him
+from getting anywhere except the rooftop of a building 
+across the hospital. On the roof, a giant moth has arrived
+to attack Harry and prevent him from advancing. The moth
+apparently evolved from the larva he fought at the mall
+(Pokemon style!). Using his new rifle, Harry kills the moth.
+As the moth collapses onto the ground, a light shines, 
+restoring Silent Hill to "normal" daylight. The chasms have
+vanished, and Harry is free to return to Old Silent Hill.
+
+After a long run, backtracking through the Gordan residence,
+Harry arrives at the waterworks next door to Midwich School.
+There's a padlock keeping the entrance locked, but being a
+waterworks, the padlock has become rusty over the years,
+allowing Harry to break it with the axe he found at the
+antique shop. 
+
+Harry traverses into the sewers, and it doesn't take him 
+very long to find the way out, despite the presence of odd 
+lizard demons that harass him as he finds his way through
+the long tunnels. 
+
+He ends up in an area not far from the lake, and it has 
+become dark again, but not actually in the evil, decaying 
+state. 
+
+Harry finds a map of Lakeside Silent Hill, and tries the
+nearest building first, a nearby pool hall. As soon as he 
+enters the pool hall, Harry sees Kaufmann, the doctor from
+the hospital, being attacked by a bear-like demon. How he
+reached the lake before Harry is a mystery. However, 
+Kaufmann, on the ground, about to be bitten by the creature, 
+is saved when Harry uses Cybil's handgun to kills it. 
+
+Kaufmann, seemingly grateful to Harry, asks him if he's
+found a way out yet. Neither of the two men have. Kaufmann
+seems optimistic that help will arrive soon, and decides
+to continue searching for a way out. 
+
+It seems that Kaufmann dropped a wallet, and Harry examines 
+it. Harry finds a motel key, and a store receipt. The 
+store receipt is for the Indian Runner shop nearby,
+which Harry searches. In a safe, he finds drugs. Clues take
+him to the motel, which he accesses using the key Kaufmann 
+dropped.
+
+After uncovering a set of motorcycle keys, Harry uses them 
+on a motorcycle he finds in the motel garage, and then 
+uncovers the same red liquid he found at the hospital. 
+Kaufmann returns, and angrily snatches the liquid from 
+Harry. Kaufmann is irritated that Harry seems to have been 
+wasting time searching in places he shouldn't be searching. 
+Harry asks Kaufmann to calm down, but Kaufmann leaves, 
+warning Harry to concentrate on leaving town instead of 
+wasting time.
+
+Harry wonders just why Kaufmann appeared so irritated. 
+He decides to concur with Kaufmann's message about having
+wasted time, so Harry resumes his search for Cheryl. The
+lakeside area is quite a bit smaller than the other two
+sections of town, so Harry only has two places to look:
+the lighthouse out on the lake, and the amusement park.
+
+On his way, Silent Hill transforms into pure evil once
+again. A chasm appears behind Harry, so he won't be able
+to get back to the motel area or to the sewers anymore. 
+
+The path to the amusement park is blocked, so he decides
+to try the lighthouse. On his way there, he sees Cybil 
+again, in a cruise boat. Cybil managed to follow Harry 
+by using the sewer tunnels, wondering if Harry was the
+one who cut the fence. After confirming that, Harry, 
+having learned much since their last meeting, tells Cybil 
+of a demon taking over Silent Hill. Cybil is pretty 
+shocked, but Harry assures her that he isn't becoming 
+insane. 
+
+Dahlia enters the boat, telling Harry to go to the 
+lighthouse and the amusement park, as those are the places
+where the Mark of Samael are to be completed. Cybil offers
+to help Harry, and decides to go to the amusement park 
+while Harry runs for the lighthouse. Cybil leaves first,
+while Dahlia reminds Harry to use the Flauros before
+leaving herself. Harry attempts to ask Dahlia about what
+Cybil would do without a Flauros, but she ignores him.
+
+Harry reaches the lighthouse, seeing Alessa. Before he can 
+speak to her, she vanishes once again. Harry was too late.
+Harry returns to the boat, realizing that Cybil hasn't
+returned yet. Harry decides to follow Cybil to the amusement 
+park, returning to the main road. The chasm to the park is
+still there, but Harry sees an open door leading to another
+set of waterworks. It seems as if Cybil had gone that way. 
+
+As Harry enters the sewer tunnels, Cybil, a few paces ahead 
+of him, turns to check the next tunnel from a corner. 
+Suddenly, she is pushed forward by a strong force and knocked 
+out. 
+
+Compared to the first set of sewers, this second set is 
+linear, and Harry reaches the ladder at the end in no time.
+He ends up in the amusement park, and searches the park for
+signs of Cybil or Alessa. 
+
+On one of the rides, Harry encounters Cybil, but she is no
+longer herself. Cybil, unable to speak or walk properly,
+stumbles towards Harry, and begins attacking him. She seems
+to have been taken over by the same symptoms that plagued
+the hospital nurses and doctors, with a bulging creature
+protruding from Cybil's back. Left with no choice, Harry 
+shoots Cybil with her very own gun, eventually killing her.
+
+Harry mourns Cybil's death, having been unable to protect
+the ally who had aligned herself to his cause to find his
+daughter ever since they met. But, Harry realizes he can't
+mourn forever, and searches the rest of the park, finally
+discovering Alessa. 
+
+Harry tries to question Alessa, who doesn't vanish this
+time. As Harry approaches Alessa, Alessa holds her arm 
+out, palm facing out, and knocks Harry back with some 
+kind of magic force. Suddenly, Harry's Flauros activates 
+itself, as it begins floating. Suddenly, the Flauros, 
+becoming brighter, shoots a ray straight into Alessa, 
+hurting her.
+
+Dahlia appears, and speaks to Alessa, telling her that
+she can no longer escape, or continue running away from
+her. Alessa resists being captured by Dahlia, but now
+that the Flauros attacked her, she is powerless again
+Dahlia. Harry wonders what's going on and attempts to
+intervene, but everything becomes dark once again...
+
+Harry wakes up in the hospital again, with Lisa. He 
+speaks to Lisa, who admits she checked the hospital
+basement after he mentioned it to her. Lisa admits that
+there was nothing really strange in there, other than
+the feeling that she had been there before. Lisa, now
+uncontrollably emotional, runs away. With Cybil dead
+and Lisa no longer a reliable ally, Harry leaves the
+hospital room, now on his own.
+
+Harry follows Lisa, but he realizes that he's in some 
+weird form of the hospital, a place he calls "Nowhere"
+Nowhere seems to be randomly laid out, making a map
+useless and nonexistent. It's dominated by the hospital
+layout, but rooms Harry's explored throughout his 
+adventure appear beyond random doors. He finds a 
+classroom from Midwich, a jewelry store like the one
+from the mall, the antique shop (without the secret
+passage) and another hospital room, with a TV and VCR.
+Harry found a VHS tape earlier, but he finally decides
+to play it. On the tape is obviously Lisa Garland,
+confessing her inability to stop a patient's wounds
+from bleeding, as well as her drug addiction. 
+
+Harry finds Lisa again, but Lisa is no longer human. 
+She begins to bleed uncontrollably from all parts of
+her body. She stumbles towards Harry, asking him to
+help her, but Harry is just repulsed by the bleeding
+Lisa. Harry leaves the room, and prevents Lisa from 
+getting out. Lisa tries to break through the door,
+but Harry's push is too strong, and Lisa eventually
+gives up and runs off. Harry returns to the room, to
+find Lisa's diary, speaking of her addiction. 
+
+Harry explores the rest of Nowhere, and eventually finds 
+the hospital room Alessa had stayed in. There, he sees a 
+recollection from Alessa's life, with Dahlia, Kaufmann 
+and two other men looking over the incinerated and heavily 
+bandaged Alessa. Dahlia tells the situation they're in, 
+realizing that only half of a god's soul has entered 
+Alessa's body, wondering how to manifest the other half. 
+
+Harry travels some more, and encounters another struggle 
+between Alessa and Dahlia, before Alessa was burned. Dahlia 
+demands for Alessa to be a goodgirl and for her to cooperate 
+with Dahlia's orders. Alessa wishes for her and her mother 
+to just live a happy, simple life, but Dahlia resists. 
+
+Harry arrives at the bottom floor, the same place where he
+fought the lizard at Midwich. He sees Dahlia and a burned
+woman in a wheelchair, as well as Alessa, sitting on the 
+ground. Harry demands Cheryl back, but Dahlia tells Harry
+that she's right there, just like she has been the entire
+game. 
+
+Harry knows that's preposterous, but Dahlia explains that
+Alessa is simply Cheryl restored to her former self. 
+Therefore, the Alessa sitting on the ground is actually 
+Cheryl, and the burned woman is the true Alessa. Suddenly.
+a bright light emits through the whole room, and the two
+girls, Alessa/Cheryl and the burned woman, merge to become
+a beautiful angel. 
+
+Suddenly, Dahlia is shot from a distance, by Kaufmann. 
+Kaufmann screams at Dahlia, accusing her of not meeting
+her end of the bargain. Kaufmann didn't expect to be 
+taken to a living hell. Dahlia responds that Kaufmann is
+no longer needed in her grand scheme. Kaufmann planned for
+a betrayal, and pulls out the red liquid Harry found at
+the motel, which Dahlia calls Aglophatis. Kaufmann tosses
+it straight into the angel Alessa, which causes Alessa 
+to scream. 
+
+Dahlia begins to laugh in an evil manner, and the flying
+goat-like creature Harry saw in the painting at the
+antique shop appears, emitting lightning bolts. One of 
+them strikes Dahlia, engulfing her in flames, perhaps a
+kind of ironic, poetic justice. 
+
+Kaufmann steps back, while Harry uses every gun he has to
+shoot the creature. Eventually, the creature falls to the
+ground, dying. Alessa, the angel, reappears, and looks at
+Harry. She then pulls a baby from her arms, and presents
+it to Harry. Harry realized that Cheryl isn't going to
+come back, but has to take care of this new child. Taking
+the child, Harry is guided to a light by Alessa. The room
+is collapsing, with debris falling everywhere. Harry runs
+for the light. 
+
+Kaufmann attempts to join Harry in his escape, but Lisa 
+returns from below the metal grating, still bleeding. 
+She laughs as she grabs onto Kaufmann and drags him into
+the abyss with her, Lisa finally having her revenge.
+
+Harry escapes with the baby in his arms. He ends up in a
+street, and looks up a lighted streetlight. He's made it
+back into the real world.
+
+++++++++++
+B. Endings
+++++++++++
+
+This is a description of all the endings available in Silent 
+Hill. This section does not explain how to obtain them, so you 
+should check out the appropriate FAQs.
+
+Good+ Ending
+------------
+In this ending, Cybil is alive and Harry found the Aglophatis 
+for Kaufmann. In the final confrontation, Cybil tries to confront 
+Dahlia, but she's knocked out by Dahlia's strange power. Harry 
+confronts Dahlia, and Kaufmann arrives, throws the Aglophatis 
+at Mother Alessa, and Harry kills the creature that comes out of 
+her after it burns Dahlia. Mother Alessa returns, gives Harry 
+the new baby girl, and runs off with Cybil, while demonic Lisa 
+drags Kaufmann into the flames of Hell. As of Silent Hill 3, it's 
+probable that this ending did not occur.
+
+Good Ending
+-----------
+In this ending, Cybil is dead and Harry found the Aglophatis for
+Kaufmann. Harry confronts Dahlia, and Kaufmann arrives, throws 
+the Aglophatis at Mother Alessa, and Harry kills the creature that 
+comes out of her after it burns Dahlia. Mother Alessa returns, gives 
+Harry the new baby girl, and runs off with Cybil, while demonic Lisa 
+drags Kaufmann into the flames of Hell. As of Silent Hill 3, it's 
+probable that this ending is the one that actually occurred.
+
+Bad+ Ending
+-----------
+In this ending, Cybil is alive, but Harry didn't find the Aglophatis
+for Kaufmann. In the final confrontation, Cybil tries to confront 
+Dahlia, but she's knocked out by Dahlia's strange power. Harry 
+confronts Dahlia and Mother Alessa arrives, burning Dahlia. Harry 
+kills Mother Alessa. He sobs about having lost Cheryl. Cybil wakes up 
+and slaps Harry, telling him to "go" (as in escape and move on with
+his life). As of Silent Hill 3, this ending definitely did not occur.
+
+Bad Ending
+----------
+In this ending, Cybil is dead and Harry didn't find the Aglophatis 
+for Kaufmann. Harry  confronts Dahlia and Mother Alessa arrives, 
+burning Dahlia. Harry kills Mother Alessa. He sobs about Cheryl 
+again. We cut to a scene in Harry's jeep, where's he's bleeding over 
+the wheel, possibly dead. As of Silent Hill 3, it is impossible for
+this ending to have occurred.
+
+UFO Ending
+----------
+Harry finds this jewel called the Channeling Stone and he uses it
+throughout Silent Hill. When he uses it at the lighthouse after 
+Alessa vanishes, aliens come, Harry asks them if they've seen Cheryl 
+and the aliens zap Harry and take him away.
+
+++++++++++++++++++++++++++
+C. Play Novel: Silent Hill
+++++++++++++++++++++++++++
+
+When the original Game Boy Advance model launched in Japan in 
+March of 2001, one of the launch games was Play Novel: Silent Hill. 
+The game didn't sell too well due to being in a niche genre, but some 
+people picked it up and played it. 
+
+The game is not like Silent Hill for the PSone. It takes many 
+photographic images from the first Silent Hill and places 
+Japanese text over them, presenting the game in a storylike
+"Play Novel" format. 
+
+Due to the niche genre this game falls in, it was never released
+outside of Japan. It does contain important plot elements, but
+unfortunately without a proper translation, only Japanese readers
+will know what the plot is about, 
+
++++++++++++++
+D. Characters
++++++++++++++
+
+-----------------------------------------------------------------------
+Harry
+-----------------------------------------------------------------------
+
+First, I'd like to make it clear that Harry is a lowly writer few have
+heard of. This is stated somewhere in the game or the booklet.  Harry
+is the adopted father of Cheryl, and after finding her raises her
+lovingly with his wife until his wife dies. He then goes to Silent
+Hill, for a vacation, and crashes into Alessa (who has made it the dark
+world, unbeknownst to him). Alessa is searching for her sister, and
+Harry is now in Silent Hill. He becomes Dahlia's servant, finding
+Alessa, because he thinks she has Cheryl, while Dahlia herself really
+does.  He then saves all of humanity however, when he eradicates
+Samael's incarnation in Alessa. Alessa/Cheryl is pleased with her
+father, knowing he meant well, and aids him to the normal world again.
+
+-----------------------------------------------------------------------
+Alessa Gillespie
+-----------------------------------------------------------------------
+
+Alessa is actually in a hospital, or in Dahlia's home at any point in
+time, but she is metaphysically in her realm. She is hurt, and she was
+burned at an early age, so she does not really know what is happening
+to her, she is just hurt and confused.  
+
+In Silent Hill 1, there is a text in the school that explains 
+poltergeist activity.  Studies (real studies) also show that teen-aged 
+girls are the most able to project telekinetic energy into real forces.  
+This explains the crashing of windows Harry often heard, and it 
+explains a lot of the weird occurrences. If a poltergeist is strong 
+enough, members of the household may hallucinate, and see different 
+things than any other given person.  This is because they live near 
+the teen.
+
+Because Alessa holds in her half, or more than half of Samael, her 
+telekinetic powers are enhanced, and she is also in pain, which will 
+add power to her telekinesis. Her telekinetic power is once again 
+demonstrated when she pushes Cybil backwards at the conclusion of the 
+game. She is Dahlia's gate to eternal power, and a new, darker world.
+
+Appearances
+
+Road:
+-----
+Harry is driving into town, and almost hits Alessa.  She is here, 
+because she senses the presence of her sister, and wants to see her.
+It is not to complete Samael, but it is partially that, because 
+Samael inside of her wants completion (reunification).
+
+School Basement:
+----------------
+She appears here, after Harry beats the lizard.  Alessa, as a child, 
+is pleased that Harry killed one of her nightmares, but Samael inside
+of her is angry because Harry have defeated his minion.  Thus, Alessa
+somewhat smiles at you as she disappears. 
+
+I like that theory of Alessa being happy that Harry destroyed her 
+nightmare. It explains her "gift," the Gordon Key.
+
+Entrance to "Other" Church:
+---------------------------
+I'm really not sure why they put this cut-scene in. It seems 
+really worthless, but it might not be. It may be a foreshadowing 
+of the "Other Church's" importance in the game, or it might simply 
+tell you (the player, since Harry doesn't seem to realize this
+scene is taking place) to go in there after Dahlia gives Harry 
+instructions because it may be too confusing to find the place. 
+Anyway, Alessa's entering  the building, which is basically it. She 
+could be going there to get something, or to hide from Dahlia.
+
+Lighthouse:
+-----------
+She appears here, knowing that Harry is after Cheryl, and not wanting
+him to take her.  The symbol on the ground is symbolic of Samael, and
+thus at this sighting, the darker side of Alessa has sway.
+
+Carnival:
+---------
+Alessa appears here because Harry was getting too close to her, and
+Cybil, who she has taken control of, failed to stop him. She has to
+deal with Harry herself, and this is when Metatron's essence comes 
+in, and defeats the evil inside of Alessa momentarily. However, Dahlia 
+is allowed into Alessa's darker realm because of her momentary 
+weakness, and recaptures her. Dahlia then takes her away. 
+
+If you're wondering why Alessa attacks Harry, it's because he's 
+following orders from Dahlia and harboring the Flauros. As opposed to 
+seeing her at the school, he was out on his own quest. But since it's 
+really Dahlia who Harry's working for at that time, she sees a 
+foresight to attack Harry, despite him being Alessa's (Cheryl's) 
+father.
+
+Stairs in Nowhere:
+------------------
+Alessa is a child at this moment, and it is just a view of Alessa right
+before her mother was going to burn her. This is the last time she is a
+child. She yells "no, no, I don't want to," because she already is
+confused, but knows her mother is going to hurt her.
+
+Final Room:
+-----------
+Here, Alessa is back in her realistic form, her power being drained by
+Dahlia. Her dark realm remains, but Dahlia is in control of it, with
+Alessa's own power. She is once again bandaged fully, for the puss and
+blood still leak from her body. When forced to fight, she either does
+so because of her mother's power over her, or she falls, as Samael is
+brought into existence before his time.
+
+-----------------------------------------------------------------------
+Lisa Garland
+-----------------------------------------------------------------------
+
+She was the nurse of Alessa, and Cheryl, and she was addicted to the
+drug, White Claudia, which caused hallucinations similar to dark Silent
+Hill. 
+
+She only appears in the dark world of Silent Hill, so one can wonder 
+how she got there. The answer is most likely that Alessa remembers her 
+as a kindly caretaker, and has placed her soul into her dark realm. 
+
+She was probably killed by Dahlia for her insubordination, and her soul 
+is kept in dark Silent Hill, where her soul went immediately after 
+dying. Besides Cybil, Lisa is the only other ally in Silent Hill of 
+Harry's. I wish she lived to escape the horror, but as mentioned, 
+she died at some point.
+
+Appearances
+
+Hospital:
+---------
+Here, Lisa first appears to Harry.  She is hiding in a room, under a
+table.  She is unsure of how she got to where she is.  She is, however,
+a memory, a soul, brought back by Alessa's will.  This is why Harry 
+will only see her in the darker realm of Silent Hill.
+
+Hospital:
+---------
+After passing out in the antique shop, Harry wakes up here, with 
+Lisa. She has almost a demonic look in her eyes as Harry comes to. 
+This is because she was just about to drink Harry's blood, or suck his 
+power, or whatever it is that the other nurses do to Harry, but then 
+Harry regained consciousness. 
+
+She has to restrain the evil urges within herself, brought on by Samael, 
+and become human again.  She tells Harry that he were having a bad dream, 
+because she doesn't know what's happening, and to her, Harry were asleep 
+when he was in the other world, but intangible until he entered that 
+realm completely.
+
+Hospital [Nowhere]:
+-------------------
+Here, after having gotten through the dark realm of the town, to the
+hospital again, Harry finds her, in the same room. She is relieved to 
+see Harry, but cannot leave the room, because of Alessa's control over 
+her. Alessa does not want one of the other monsters hurting her.
+
+Nowhere:
+--------
+Lisa is here, as Samael's power is weakening, and she has made her way
+here. She realizes what she is, that she is no different than another
+Animated corpse in this realm. However, she is different, because she
+has a soul, and the other monsters are soulless. She then goes for
+Harry, not to attack him, but for security and safety (a hug). She
+falters, and dies, partially because her physical form is falling
+apart, partially because Harry is afraid, and can offer no friendship.
+
+Final Room:
+-----------
+Depending on the ending, she appears here to drag Kaufman to his doom
+(as Harry and maybe Cybil make their escape).  This is a double
+meaning, because Kaufmann is more than likely the one that killed her
+(or Dahlia, as mentioned earlier, but they're one and all).  He has no
+qualms with using a gun, and she became too much of a trouble, as seen
+in the opening CG where she shakes off his hand.  So, this is revenge.
+Also, Alessa does not want Kaufmann there, because he caused her much
+pain, by throwing the Aglophatis at her, and by burning her.
+
+-----------------------------------------------------------------------
+Dahlia Gillespie
+-----------------------------------------------------------------------
+
+Dahlia is the head of a cult that worships angels, particularly fallen
+ones. She is the one maintaining the evil.  She wants Samael's evil
+power, and she created the two children.  She created Alessa, but one
+human form was not enough to hold the dark power, and so she had to
+create another child, after getting everything from Alessa that she
+could.  
+
+During the game, she wants to get to Alessa, and eventually does 
+through Harry and Metatron.  She is playing both sides of good/evil, 
+a real schemer.  Her realm is maintained even though she dies.  She 
+also sells White Claudia in order to finance her cult, and to get aid
+from lesser members.  She is the "bad guy" of the first game, and 
+overall she starts the whole problem with the town that we know and 
+love, Silent Hill.  She gets Cheryl to come to her, by drawing on her 
+as a mother, and then she uses Cheryl to bribe Harry to move faster, 
+try harder to get to her, thus to get to Alessa. Dahlia also takes 
+control of the darker realm of Silent Hill after Alessa comes under 
+her control again.
+
+Appearances
+
+Church:
+-------
+
+This is her preliminary meeting with Harry.  She is here to give him
+the Flauros and the key to continue his mission.  In a bad sort of 
+way, she is there to help Harry along, because in the end it means 
+she accomplishes what she wants.  Jesus on the cross is symbolic, 
+because it represents the suffering of Alessa.  Meeting in a church
+is also an interesting place to first meet, perhaps so Dahlia 
+could make Harry think that she means well by using a house of God
+to speak out to him and guide him. 
+
+Hospital:
+---------
+Dahlia comes in person, having called Harry from the darker Silent
+Hill, to urge him onward and move faster.  She is becoming more
+impatient as Harry makes relatively little progress.
+
+Boat:
+-----
+Once again, Dahlia is impatient, and urges Harry to move faster. 
+She reminds Harry of what to do when she encounters Alessa. 
+
+Carnival:
+---------
+Dahlia has finally succeeded because you have found Alessa for her.
+She takes Alessa, and leaves.  However, she has unwittingly released
+Metatron by giving you the Flauros, and now he is here, to counter any
+excessive evil.
+
+Stairs in Nowhere:
+------------------
+Dahlia's essence is trapped in a rendition of her, right before she
+burns Alessa, wanting more power from her.  This is an early view of
+Dahlia.
+
+Nowhere:
+--------
+Dahlia is about to raise Samael, but it is either too early, or
+Kaufmann steps in, depending upon your ending. She has both children,
+and she is planning upon starting the ritual. Depending upon your
+ending, Cybil is there also, trying to stop whatever is happening.
+
+Then, Kaufman steps in and throws the Aglophatis at the "Mother," 
+(Cheryl and Alessa joined) and Samael is finally born into the real
+world. 
+
+Either way, Harry beats the incarnation. What is not guaranteed is 
+whether Harry gets Cheryl as a child from the "Mother." Kaufman shoots 
+Dahlia, or she is killed by the "Mother," but either way she dies. 
+Strangely enough, she dies happy as she laughs maniacally, thinking 
+she had accomplished her goals.
+
+-----------------------------------------------------------------------
+Michael Kaufmann
+-----------------------------------------------------------------------
+
+He inseminates Dahlia (ugh), and sells the drugs to tourists.  Besides
+being in the cult, he is left in the foggy Silent Hill, being summoned
+there by Dahlia because he is an important member of her cult. However,
+she neglects to tell him this, and he sees it as a quick trip to Hell.
+He is unhappy with his transition from normal Silent Hill to fog Silent
+Hill, and thus uses Aglophatis to end Dahlia's spree, if Harry saves 
+him.  He is in the hospital trying to find out what happened when Harry 
+finds him, even thinking Harry is another monster he shoots towards. 
+Once he finds Alessa and Dahlia, Alessa summons Lisa to do away with 
+him, for aiding in her torture.
+
+Appearances
+
+Hospital:
+---------
+Kaufmann first appears in the hospital, not knowing what is happening.
+Dahlia has brought him to her fog realm, and he was at work when it
+happened. Now he is just confused and unhappy.  His stash of Aglophatis
+has all but been destroyed, and he's angry at Dahlia because of the
+situation he's in.
+
+Annie's Bar:
+------------
+He is here, about to be killed as he is attacked by a teddy bear 
+creature. Harry saves him, and he leaves, thankful. It doesn't explain
+why he was in the bar, of all locations, but he was probably here in
+order to find a few items he may have needed.
+
+Bates Motel:
+------------
+He appears when you find the Aglophatis bottle in the motorcycle.  
+This  is his secret stash, and the fact that you are messing with it 
+angers him.  He threatens Harry, and leaves in order to find Dahlia.
+
+Final Room:
+-----------
+Dahlia has control of both dark Silent Hills now, so he can make his
+way to this darker basement, and use the Aglaophotis on "Mother," to
+stop it. However, Samael is only birthed prematurely, and Harry has to
+fight him. Kaufmann is then brought to Hell for what he did to Alessa
+and Lisa.
+
+-----------------------------------------------------------------------
+Cybil Bennett
+-----------------------------------------------------------------------
+
+Cybil is in Silent Hill not without purpose.  She was accidentally
+brought into the fog town by Dahlia when she came in at the same time
+as Harry.  Dahlia realizes that there is a use for her, when she draws
+Harry into the town. She is there to help him on his search, and when 
+she leads Harry to Alessa, Alessa takes matters into her own hands and 
+controls and then attempts to kill Cybil. Overall she is not meant to 
+be where she is.  She was working together with the Silent Hill Police
+Department to investigate the drug trafficking, but of course could 
+find no evidence.
+
+Appearances
+
+Intro:
+------
+Cybil passes you on the road, on her way to investigating the lack
+of communication coming from Silent Hill. You later see her motorcycle, 
+which leads Harry to wonder what happened to her.  In the process of
+bringing Harry to Silent Hill, as she was also in the vicinity, her
+abandonment of her motorcycle likely shows she was transported to
+the hell-like Silent Hill by Dahlia.
+
+Cafe:
+-----
+She is here, having saved Harry from the child demons. She makes no
+mention of it, in order to not scare him. She also gives Harry a gun, 
+and advice, telling him to stay near. She doesn't know what is 
+happening, and as an officer, she is only trying to protect Harry as
+a regular citizen.
+
+Antique Shop:
+-------------
+She finds Harry here, after having followed him inside. She wants, 
+once again, to help Harry. When Harry go into the secret passage, 
+she loses him again, and goes off looking on her own.
+
+Boat:
+-----
+She meets Harry here, trying to help him with Cheryl, and to find out
+what is going on. She goes to the amusement park while Harry checks the
+lighthouse. When he gets back, she's not there, and Harry decides to
+look for him..
+
+Carnival:
+---------
+Here, Cybil has been taken over by Alessa, because she was helping 
+Harry find Alessa.  So, Alessa plays them off against each other, and
+Harry can only save her with the Aglophatis.  If he saves her, she and 
+Harry talk about why this is happening, giving Harry the opportunity to
+explain to Cybil that Cheryl was actually adopted. 
+
+Final Room:
+-----------
+Cybil is here, trying to stop whatever is going on.  However, she is 
+quickly knocked aside by Alessa.
+
+-----------------------------------------------------------------------
+Cheryl Mason
+-----------------------------------------------------------------------
+
+Cheryl was born X-Gallespie-Kaufmann (aka Dahlia is her mother and
+Kaufmann *might* be her father). After she was separated from the
+cult, Harry found her and raised her as his own. Dahlia eventually drew
+her back into Silent Hill.  The pain of her sister also draws her in, 
+because she is still a good person, due to the love Harry gave her, 
+as opposed the pain Alessa received. Cheryl/Alessa is reborn, depending 
+upon the ending that you get, and Harry, we assume, takes care of her 
+as well, and she is raised as a normal child, once again named Cheryl.
+However, her story continues in Silent Hill. 
+
+Appearances
+
+Jeep:
+-----
+When you start the game, Cheryl is just a happy little girl with her
+sketch book.  She looks like an ordinary child and there's nothing
+apparently special or unique about her.
+
+Crashed Jeep:
+-------------
+Harry sees a shadow of Cheryl in the mist, and goes after her.  
+Dahlia is already drawing Cheryl to her and Alessa, who are her mother 
+and sister.  She is safe in both realms though, due to the realms' 
+keepers desires to keep her safe.
+
+School:
+-------
+Cheryl is calling Harry from a phone, because Dahlia wants to meet 
+with him, and Cheryl is with Dahlia.  Though Cheryl is with Dahlia, 
+Dahlia can force her image and voice into this realm via phone or TV.
+
+Town Center:
+------------
+The screens on the wall show Cheryl, asking where her father is and
+for him to come help her. This is once again Dahlia's work, trying to 
+get Harry to try harder and move faster, because she relies on him to 
+find Alessa, while he wants to get his daughter.
+
+Final Room:
+-----------
+This room has Cheryl already in her original form for the creation of 
+Samael. She looks like Alessa, because she is actually the other part 
+of Samael. Alessa is also in the room, wrapped in bandages due to being
+badly burned.
+
++++++++++
+E. Angels
++++++++++
+
+-----------------------------------------------------------------------
+Samael
+-----------------------------------------------------------------------
+
+Also called Sammael, Samael is a dark and fallen angel. It has been 
+said that he is the devil himself, but not for certain.  In any case, 
+he is the evil in Silent Hill, and it is he that was summoned into
+Alessa's form. However, after being defeated in his physical form,
+because he was premature, and weak, he can now only watch over the town, 
+and only has the power to suck the sinners into his realm. He cannot 
+take the souls of the innocent, because Metatron also guards the town.
+
+The cult that Dahlia was the head of worshipped angels, darker ones at
+that. Older Hebrew rituals were said to have been able to raise angels
+to do commands, which is where this may have started. Dahlia's 
+ethnicity is revealed through her clothing.  (Not at all a negative
+statement towards any ethnicity or religion, just interpreting the 
+game as I see it).  These angels, though not appearing in the game,
+are referenced many times within the game. The referenced angels are:
+
+Hagith
+Phaleg
+Ophiel
+Bethor
+Aratron
+Och
+Phul
+
+These angels are the angels of the planets, and thus they also
+represent some of the Greek Gods. My info came from the Dictionary of
+Angels, by Gustav Davidson. The names, and the symbols are mentioned 
+in his book. I believe the original source was The Magus, an older 
+book.  Anyway, these angels are of course viewed as wicked, and of 
+the occult, but really it is just another branch of a religion.  
+
++++++++++++
+F. Metatron
++++++++++++
+
+Metatron is called upon by the tetrahedral item that Dahlia gave Harry.
+It was the essence of the Archangel Metatron. Unwittingly, in her quest
+to get dark power, Dahlia overstepped herself, and this item of light
+broke through Alessa's dark power over the evil in Silent Hill. It is 
+he who looked out for Harry and James, and in some ways makes the 
+darkness of Silent Hill equal in lightness in the real town. He comes to 
+the town to battle evil, as an Archangel, not out of personal gain for 
+Dahlia. Though Metatron has been stated as one of the greatest, if not 
+the greatest angel, he is the power of good in this town, and will 
+counteract Samael if need be.
+
+///////////////////////////////////////////////////////////////////////
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+4. S I L E N T   H I L L   3
+   s i l e n t   h i l l   3
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+///////////////////////////////////////////////////////////////////////
+
+Silent Hill 3 is obvious the third game in the Silent Hill series. It 
+stars Heather, a 17 year old girl who ends up in Silent Hill to 
+discover the circumstances of her birth, as well as a death in the 
+family. Silent Hill 3 is far more up front than Silent Hill or Silent 
+Hill 2 is about its plot, and thus isn't nearly as deep as those games. 
+
+It's the direct sequel to the first Silent Hill, which is fitting. 
+The game nearly explains itself through the files and dialogue, so not 
+much analysis is needed.
+
+Please note that the Silent Hill 3 section is meant to come before the
+section on Silent Hill 2. Silent Hill 3 is the true sequel to the
+original Silent Hill in nearly every aspect, while Silent Hill 2 really
+stands on its own or with Silent Hill 4.
+
+++++++++++++++++++++++++++++++
+A. A Synopsis of Silent Hill 3
+++++++++++++++++++++++++++++++
+
+A girl named Heather is strolling through a dark amusement park. As she
+arrives, she explores the park, encountering monsters and such (you
+know the drill). As she finds her way to the tracks of a tall ride, she
+is run over by a track car. As Heather is hit, the screen blacks out...
+
+Suddenly, Heather wakes up in a burger shop at the mall. The amusement
+park was just a nasty dream. Noticing that she fell asleep and needs 
+to be home, Heather gets up and leaves. 
+
+Outside, she calls her dad, telling him she didn't fullfill his errand,
+but reassures her love for her father. As she hangs up, she sees an 
+older-aged man looking straight at her. She offers him the phone as 
+Heather walks away. The old mans shakes his head, not needing to use
+the phone, and follows Heather.
+
+Heather is naturally creeped out, and the man introduces himself as 
+Douglas Cartland, a detective. He wants a little of Heather's time
+to tell her about her birth, but Heather's not interested. Heather
+walks away, and Douglas follows. Heather is now just irritated. She
+walks into the women's bathroom as Douglas waits outside, in order to
+get away from him.
+
+Heather, wanting to avoid Douglas, leaves the bathroom through a window
+leading to the side of the mall, and she runs toward the exit.
+Unfortunately, a truck blocks the way out, so she takes a door back 
+into a different area of the mall, but far enough away from Douglas. 
+There, she finds her way through the mall, only to find that it's 
+filled  with all kinds of monsters. In a clothing store, she finds a 
+gun to defend herself with.
+
+As she wanders, she meets a woman named Claudia. Claudia says that the
+"Hand of God" caused all this and that Heather seems to be needed.
+Heather is hit with a hangover as Claudia walks away. Heather tries to
+follow her. But Claudia's gone, so Heather gets into an elevator. As 
+she rides it down, she finds a radio emitting static when monsters are
+near.
+
+The elevator takes her to an alternate version of the mall. There are
+more monsters everywhere and the mall doesn't look like a mall anymore.
+Heather is naturally astonished and afraid, noting that even a child
+couldn't believe the world she's now in. Heather wanders the mall
+again, avoiding various monsters, running for her life. She finds a
+bulletproof vest for protection, though it slows her down.
+
+Eventually, Heather meets up with a worm boss. She shoots directly into
+it's mouth and kills it. After the worm dies, the mall returns to
+normal and she sees Douglas again. Douglas wonders what the hell just
+happened, and Heather associates Douglas with Claudia. Douglas says
+that Claudia hired him to find her. Not wanting to deal with him,
+Heather runs off. 
+
+Afterwards, Heather decides to head home using a train station below
+the mall. Unfortunately, the train station is infested with monsters
+but she finds the appropriate street. She jumps on a train which locks
+her in and takes her to a sewer system. After that, she wanders through
+it, avoiding all the monsters that come after her.
+
+Heather then reaches a construction site. There, she runs her way
+through the building, killing monsters, trying to find a way out. 
+After examining a bathtub, the building becomes another hellhole. 
+Shortly after the office complex becomes an alternate realm, 
+Heather meets Vincent. Vincent says he's on Heather's side, and 
+demands Heather not to associate him with Claudia. Vincent talks about 
+Heather's father, Harry, and Heather is angered at Vincent's negative
+comments about him. Heather sees something wrong with Vincent, too,
+and runs away from him.
+
+Heather reaches the bottom floor of the office building. She sees a
+creature blocking the exit. She also runs into several pages of fairly
+tales. She reads the story, about a village of people trying to kill 
+a guardian monster using a special command phrase. Heather recites the 
+command phrase, which is composed of the Latin words "tu fui, ego 
+eris."  Like the story, the monster blocking the exit vanishes upon
+the recital of the phrase.  
+
+Heather escapes the building and finds her way to her apartment,
+among the dark streets of the town she lives in.  The alternate 
+reality has vanished once again. At her apartment, she sees her
+father dead, having been stabbed in the chest by a huge blade. 
+
+Heather cries over her father's dead body, and as she cries, she 
+sees a trail of blood leading to the roof of the building.  She 
+sees Claudia, and Claudia says admits that ordered the monster to 
+kill her father. Heather vows revenge on Claudia, and Claudia says 
+that she's heading to the town of Silent Hill.  Heather manages to
+kill the monster, called the Missionary and, returns to her 
+apartment.
+
+Douglas is there, praying for Harry. Heather is angry at Douglas, 
+thinking this is his fault, but eventually she regains her senses
+and calms down. Heather covers Harry in his bed with a sheet and
+flowers, saying that no one's around to give him a decent burial.
+
+Heather then vows to go to Silent Hill and kill Claudia herself,
+in order to have her revenge. Douglas offers to take Heather and 
+gets his car ready.
+
+Heather says her final goodbye to her late father, and heads 
+outside. Douglas has the car, ready to go, but Douglas tells 
+Heather that he just met Vincent. Vincent told Douglas to go
+find a man named Leonard, and gives Heather the Silent Hill map.
+Heather is suspicious of Vincent, but decides to just ride in 
+the car.  
+
+They get in the car and drive on the long journey to Silent Hill. 
+During the car ride, Heather speaks to Douglas about her past. 
+Her father, Harry Mason, found Heather after he defeated a god of 
+Silent Hill. Harry raised Heather as his very own daughter and 
+always loved her. 
+
+Heather then repeats the events that occurred 17 years ago in 
+Silent Hill (see below, and above). Douglas is amazed at 
+this story, and mentions that he has heard nasty rumors about 
+Silent Hill over the years. He also was there once to look for a
+missing person, but never found him.
+
+They reach Silent Hill, ending up in the same part of town James 
+Sunderland visited in Silent Hill 2. Their base location is Jack's 
+Inn, near Rosewater Park.  Douglas decides to go search Leonard's 
+house, while Heather searches the hospital, which is Brookhaven 
+Hospital. Douglas and Heather exchange remarks about being afraid
+of what is to come, but they realize they have to face their 
+fears.  They each leave the motel towards their destinations.  
+
+Heather travels across the still-foggy streets of Southvale Silent
+Hill, and looks for supplies in the bar of Heaven's Night. After
+that, she enters Brookhaven Hospital. It's not exactly the same 
+as when James Sunderland and Maria explored it, but there are still
+evil nurses about, ready to kill Heather. The hospital definitely 
+doesn't look as old as it does in Silent Hill 2.
+
+As Heather explores the insane asylum, she finds a doll in several 
+locations with files written by a patient named Stanley Coleman. 
+Stanley seems to know Heather and is obssessed with her. Heather 
+eventually finds a phone and answers it. It's Leonard. Leonard 
+thinks Heather is Claudia and speaks about an irresponsible woman
+named Claudia.  Heather says she's not Claudia and that her name is
+Heather.  Upon hearing this, Leonard apologizes for the confusion, 
+and mentions Claudia is his daughter.
+
+Leonard sends Heather to release him from his prison on the 
+hospital's second floor. She heads there, and she finds a familar 
+red mark, not like the marks she's been seeing (the save points). 
+It's the Mark of Samael, and when she examines it, a video of Lisa 
+Garland pops up; it's the same videotape Harry viewed 17 years ago. 
+Heather, now that she knows that she has memories of Alessa, 
+remembers about Lisa's kindness (and strangeness, as a result of
+her drug addiction).
+
+Heather finds herself in a maze that definitely doesn't fit within 
+the hospital geography, and she finds herself in alternate 
+Brookhaven.  This isn't the first time Brookhaven took on a hellish
+alternate form, but it's VERY different from the one James
+Sunderland experienced. Heather finds another phone and some guy, 
+who isn't Leonard or Stanley, tells Heather it's her birthday 
+and hangs up. Of course, it isn't actually Heather's birthday. 
+
+Astonished, Heather finds her way to an altar and pours blood that
+she finds on it, revealing a passage below the hellish hospital.
+
+She meets Leonard, but he's not a human being. He's a monster (big
+surprise!).  Leonard attempts to explain to Heather about his 
+beliefs, but when Heather reveals her lack of interest in the topic,
+Leonard feels that Heather has betrayed him.  Leonard then suspects
+that Heather only wanted his seal, proving Leonard is obviously a 
+member of the cult.  Leonard attacks Heather, but Heather manages
+to kill him.  Upon Leonard's death, the hospital restores to normal.
+
+Heather finds a round coin called the "Seal of Metatron", which 
+Leonard previously held.  Done with her search, Heather leaves
+Brookhaven and returns to Jack's Inn to meet up with Douglas. 
+
+In the actual room, Claudia and Vincent have a conversation about how 
+Heather was sent to Leonard, as well as the fact Leonard, Claudia's 
+father, abused her, and made her cry, which is why Claudia now 
+believes in the cult's ideals.  She feels that god is needed to
+reverse her abuse as a child. 
+
+Heather reaches Jack's Inn and then sees only Vincent inside. 
+Vincent tells Heather that Douglas left her a message, to explore 
+a church in northern Silent Hill, passed the amusement park. Heather, 
+still astounded by Vincent, leaves for Northern Silent Hill.
+
+In the streets, she spends time heading northwest on Nathan Avenue. She
+reaches the amusement park and it becomes hell on earth, just like her
+dream at the beginning of the game. She reaches the ride she walked on 
+in her dream, and shuts it off before getting on. As she walks, the ride 
+is repowered and a car is about to run her over. This time, she jumps 
+off the tracks to avoid being run over...
+
+Meanwhile, elsewhere in the park, Douglas confronts Claudia. Claudia
+says that Douglas fullfilled his job and isn't needed anymore. Douglas, 
+in order to end the ordeal, is about to shoot Claudia...
+
+Meanwhile, Heather recovers, over a trashcan near the ride. To
+get elsewhere, she goes through the standard haunted house of the
+amusement park.
+
+The haunted house is merely only meant to scare Heather as she reaches
+other sections of the park. After finding her way, she meets Douglas,
+and finally seems to accept Douglas as an ally, telling him not to die
+on her. Douglas mentions to Heather the story of his son, who robbed
+a bank because Douglas was too poor to support his family.  Heather
+is sympathetic, and thanks Douglas for his help, knowing that he is 
+not at fault for any of this.  
+
+She reaches a portion of the park where Harry Mason was, and finds 
+notes left by him 17 years ago (in the first game's save points). 
+Heather gets onto the same carousel where Harry killed Cybil. Cybil 
+isn't around, but a clone of Heather, with black hair, greets her. 
+Heather kills four of the clones, and then proceeds to the church 
+Vincent spoke about.
+
+Claudia's there and Heather threatens to kill her and finally avenge 
+her father's death.  However, Claudia leaves. Heather follows her, 
+and reaches a confession box and listens to a woman confess her sins.  
+Thinking Heather is a priest, the woman begs for her forgiveness (fork 
+in the plot road). Heather either forgives the woman or doesn't. 
+Heather proceeds to meet Vincent in an old library and Vincent wonders 
+if Heather took the Seal of Metatron from Leonard, discovering she did. 
+
+Heather then explains to Vincent about the monsters she's been seeing,
+but Vincent questions her.  Apparently, they aren't monsters to him,
+which causes Heather to panic, as she may have been killing real 
+people.  But Vincent was only teasing her, and lashes out at Heather
+because of the killing streak she's been on.  Vincent then takes his
+leave. 
+
+Claudia is at the church again, when Heather sees her with Vincent.
+Claudia and Heather speak of the whole cult and the God, and Claudia
+stabs Vincent twice after he tells Heather to use the Seal of Metatron
+(which proves to be useless). Heather decides to get her revenge on
+Claudia. Heather takes her necklace and drinks the red liquid in it.
+Heather then regurgitates out a little humanoid fetus, which is the 
+god she's been harboring for 17 years. Claudia takes it and swallows 
+it before Heather can kill it, and she becomes the bearer of the God.
+
+Heather, tired and vengeful, kills the creature after a hard-fought
+battle.  To make sure its dead, and for her to completely end the
+thing's miserable existence, Heather steps on its  head a few times 
+after it falls. Heather then sobs, because she managed to get her 
+revenge, but her father is still dead...
+
+++++++++++
+B. Endings
+++++++++++
+
+Normal Ending
+-------------
+Heather returns to the amusement park where Douglas is at. She acts
+posssessed, with a knife, and nearly kills Douglas. However, at the
+last second, she startles him. It was a joke. Douglas says Heather has
+bad taste. Heather tells Douglas to call her "Cheryl," which is
+Heather's real name. Douglas then makes a comment about Heather's dyed
+hair, saying that blondes have more fun. At the end, Heather is looking
+over Harry's tombstone, where Harry is finally at peace.
+
+Possessed Ending
+----------------
+Heather, after she kills the god, returns to the amusement park. A
+demented woman, she stabs Douglas with her pocket knife several times,
+killing him. Heather examines her knife, wondering what she just did,
+seemingly without regret...
+
+Revenge Ending
+--------------
+If Heather obtains the Heather Beam weapon in a replay game and kills
+at least 30 enemies with it, then when she visits Harry's Apartment, a
+new ending will occur, where Harry is still alive (although obviously
+possessed by the aliens from the last two Silent Hill games). Heather
+tells Harry what happened to her, and Harry vows to get his "revenge"
+on Silent Hill. (During the whole encounter, James Sunderland is in the
+background). The UFOs fly to Silent Hill, and blow the place up.
+Literally. The UFOs fly away, and Japanese music plays. This ending,
+like the last two UFO endings, is a joke at best and isn't true,
+because Silent Hill gets blown up but returns in Silent Hill 4 (unless
+it's a prequel).
+
++++++++++++++
+C. Characters
++++++++++++++
+
+-----------------------------------------------------------------------
+Heather Mason
+-----------------------------------------------------------------------
+
+Heather is the 17-year old protagonist of Silent Hill 3. Much younger
+than Harry or James, she's drawn into the world of Silent Hill through
+a nightmare she has while doing errands for her father. She seems to
+possess a grouchy, carefree attitude and lacks sleep. As you play, the
+fact is revealed that Heather is Alessa from the original Silent Hill. 
+Or, more appropriately, Heather is the little baby Alessa gave to Harry 
+at the end of the first Silent Hill.
+
+Heather is essentially drawn into the nightmare that Claudia created
+for her. When Heather has a dream, it's because Claudia is finally
+close by and senses Heather. Much of the information about Heather's 
+past is essentially what happened to Alessa. Alessa was a tortured,
+abused little girl because she was due to be the sacrifice of Dahlia 
+to give birth to the god. 
+
+So Heather is Alessa, which means that Heather is Cheryl because Cheryl
+was Alessa. But how can that be? Didn't Mother Alessa die? Shouldn't
+Heather be the daughter of Alessa? Not necessarily. It's implied in
+Silent Hill 3 that Mother Alessa's spirit and memories were transferred
+into the baby she gave to Harry. Why it is done isn't officially
+explained, but I (cvxfreak) tend to believe that it was for her spirit
+to be saved and to grant the polite man, Harry, a new daughter and a
+new beginning.  It's not a bad assumption, since one would assume that
+with Dahlia dead and Silent Hill abandoned, the cult would have died
+out.  But Silent Hill 3 and 4 prove this to be incorrect. 
+
+What also is a conflict of question is how Heather now possesses the
+god even though Harry killed it. You'll notice in the original Silent
+Hill's final battle, that when the goat-like creature, Samael, fell to
+the ground, it immediately transformed back to Mother Alessa. So, if
+that visual cue is correct, the spiritual transfer from Mother Alessa
+to Baby Alessa carried Samael along with it. Intentional or not, it is
+never explained.
+
+But Heather is definitely Harry's Cheryl and the "original" Alessa
+combined, because before the final showdown of Silent Hill 1, they
+combined, so in a way, Dahlia accomplished one of her goals. Toward the
+end of the game (Silent Hill 3), Heather uses Aglophatis that was
+stored in the pendant Harry gave her, and released the baby god (a
+physical baby god). Now that Aglophatis has been applied to Heather,
+she is no longer harboring a demon, or god of some sort. So, in theory,
+Heather's troubles are over.
+
+Despite not being Harry's biological daughter, Heather lived a happy
+life for 17 years. That love easily caused the god inside of Heather to
+be dormant for 17 years. As Claudia would later mention, filling
+Heather's heart with hatred would nurture the god. Clearly that makes
+sense, as this god Claudia and Dahlia worshipped is clearly not the god
+everyone would have in mind; in fact, it's the opposite. Samael is one
+of the names for Satan, and obviously, Satan's not the nicest man ever.
+As long as Heather was happy, Samael or the god couldn't become
+nurtured.
+
+This is why Heather has those weird headaches and body transformations
+toward the end. Her hatred and need for revenge against Claudia has
+clouded her good mind, and has clearly started nurturing the god.
+However, it obviously hasn't been long enough. So, when Heather
+released the little fetus, it's not quite as powerful as it could have
+been.
+
+Silent Hill 3 ends with the god finally destroyed and the cult
+officially gone (hopefully). Heather finally lets her father rest in
+peace, and we can only assume the options she has from here. She could
+get adopted by Douglas, or enter foster care as she's about a year too
+young to be on her own.
+
+It's finally revealed that Heather's real name was Cheryl, as Heather
+was given the alias "Heather" to hide from the cult.
+
+-----------------------------------------------------------------------
+Douglas Cartland
+-----------------------------------------------------------------------
+
+An 50+ year-old detective, Douglas meets Heather in a mall. He tries to
+get Heather to go with him to have a conversation about her birth, but
+Heather refuses. Douglas definitely knows something about Heather, and
+is also very persistent. Claudia Wolf hired Douglas to find Heather.
+Over the course of the game, Douglas and Heather become friends and
+allies in this nightmare.
+
+Douglas also had a son, and if he had a son, he had a wife/girlfriend.
+Where his wife/girlfriend went is not explained, but we can assume
+she's dead since Douglas clearly mentions that if he died, no one would
+cry for him. Douglas' son was killed trying to rob a bank because
+Douglas was poor and penniless, so his son went to the bank for money.
+From there, we can assume Douglas joined law enforcement to be the
+opposite of his son, and to finally have a real money-making career.
+
+Appearances
+
+Shopping Mall
+-------------
+Douglas walks to Heather after Heather finishes her phone conversation
+with her father. Douglas asks for some of Heather's time, and Heather
+clearly isn't interested. Douglas says it's about Heather's birth, but
+that isn't good enough to interest her. Douglas follows Heather but can
+only go so far as Heather enters the bathroom.
+
+Shopping Mall (After Splitworm)
+-------------------------------
+Douglas finds Heather after she kills the Splitworm. Heather acuses
+Douglas of being in on it with Claudia, but Douglas is just as shocked
+as she is. Douglas wonders what the monster was, and Heather decides to
+head home using the subway.
+
+Harry's Apartment
+-----------------
+After praying for Harry, Douglas calms Heather down and they lay him in
+bed. Douglas says he feels partially responsible and offers to take
+Heather to Silent Hill. He heads to get his car ready.
+
+Outside Apartment
+-----------------
+Douglas greets Heather, saying Vincent gave him a map and told him to
+go look for Leonard upon arriving in Silent Hill. Douglas gives Heather
+the map and they get in the car.
+
+Car Ride
+--------
+Douglas and Heather discuss about the nasty rumors of Silent Hill, and
+Heather/Alessa's past. Heather also recaps the events of the first
+Silent Hill.
+
+Jack's Inn
+----------
+Douglas and Heather discuss about being afraid to be alone. Douglas
+admits to being afraid, and then heads for Leonard's house.
+
+Amusement Park
+--------------
+Douglas speaks with Claudia and is angry she deceived him. Claudia once
+again explains her whole plot, and Douglas, like everyone else,
+disagrees and mocks her. Douglas points his gun at Claudia, but
+whatever happens after causes Douglas to break his leg.
+
+Amusement Park 2
+----------------
+Douglas' leg is broken, and Heather arrives. Douglas tells Heather she
+reminds him of his son, and also tells Heather, as she leaves to
+confront Claudia, that if killed her, it'd all be over. Heather doesn't
+feel offended, and continues on her way.
+
+Amusement Park 3
+----------------
+After Heather kills Claudia, she pretends to be possessed and startles
+Douglas before nearly stabbing him. Douglas says Heather had bad taste,
+but Heather interrupts, telling Douglas to call her Cheryl.
+
+-----------------------------------------------------------------------
+Claudia Wolf
+-----------------------------------------------------------------------
+
+An old woman with long hair, and clothing similar to what Dahlia wore.
+She definitely knows a lot about Silent Hill, Alessa and the cult
+itself. Claudia is a force to be reckoned with, stopping at nothing to
+summon the God of Silent Hill. As a young girl, she was friends with
+Alessa. Her father, Leonard, abused her and made her cry when she was
+young, although she eventually had him committed to Brookhaven
+Hospital. The abuse she endured as a child reinforced her belief in
+the cult, believing that her suffering would be reversed upon the
+arrival of the Samael god. 
+
+Appearances
+
+Mall
+----
+She sees Heather, and tells her of her destiny to fulfill her duty to
+summon and give birth to the Silent Hill God. She tells Heather to
+remember her "true self" as well as herself.
+
+Daisy Villa Apartment Rooftop
+-----------------------------
+After Heather follows bloody footsteps to the roof, she sees Claudia
+who commanded the mercenary boss to kill Harry. Claudia says that Harry
+had to die to continue the plan for Heather, and tells her that she's
+going to Silent Hill. She then leaves.
+
+Jack's Inn
+----------
+Claudia and Vincent chat about Leonard and Heather visiting him.
+Claudia says that the torture she received from Leonard is a reason why
+God must save them all. Vincent once again disagrees with Claudia and
+mocks her, and Claudia responds saying Vincent and everyone else
+doesn't understand the whole plan.
+
+Amusement Park
+--------------
+Douglas speaks with Claudia and is angry she deceived him. Claudia once
+again explains her whole plot, and Douglas, like everyone else,
+disagrees and mocks her. Douglas points his gun at Claudia, but
+whatever happens after causes Douglas to break his leg.
+
+Church
+------
+Claudia once again explains her plot to Heather, and leaves.
+
+Alternate Church
+----------------
+Claudia kills Vincent after they have yet another arguement about the
+cult and everyone's motives. Heather meanwhile uses the Aglophatis her
+father gave her to take the fetus God out of her (since the Seal of
+Metatron is basically worthless when Heather tries to use it). Claudia
+swallows the fetus after explaining her plan _AGAIN_ and becomes the
+God. Heather kills the God afterwards.
+
+-----------------------------------------------------------------------
+Harry Mason
+-----------------------------------------------------------------------
+
+Harry is the hero of the first Silent Hill (please check on him in the
+Silent Hill section). He's Heather's father, and gets killed by
+Claudia's soldier mercenary.
+
+-----------------------------------------------------------------------
+Vincent
+-----------------------------------------------------------------------
+
+Vincent is another cult-member with his own agenda. He seems to favor
+the whole cult, but seems to be a bit more realistic than Claudia is -
+that he's glad to believe in the religion and all, but he opposes the
+summoning of the god as it would mean the end of his world as he knows
+it, a world he enjoys thanks to money and mundane pleasures. He opposes 
+Claudia, manipulates Heather to take the Seal of Metatron from Leonard, 
+and gets killed by Claudia. He was a church father for whatever 
+religion they believed in. Vincent's also a bit of a hypocrite, 
+opposing the cult for removing his pleasures, while favoring the cult
+in principle.
+
+Appearances
+
+Construction Building
+---------------------
+Vincent explains that he's Heather's ally and Claudia's enemy, and
+wonders why Harry Mason didn't tell Heather about her past. Heather
+sees Vincent as weird, and leaves.
+
+Outside Harry's Apartment
+-------------------------
+Vincent gives Douglas instructions to go to Silent Hill, and a map. He
+tells Douglas to look for Leonard at Brookhaven Hospital upon their
+arrival.
+
+Jack's Inn
+----------
+Claudia and Vincent chat about Leonard and Heather visiting him.
+Claudia says that the torture she received from Leonard is a reason why
+God must save them all. Vincent once again disagrees with Claudia and
+mocks her, and Claudia responds saying Vincent and everyone else
+doesn't understand the whole plan.
+
+Jack's Inn (2)
+--------------
+Vincent directs Douglas to the church on the north side of the lake.
+
+Jack's Inn (3)
+--------------
+Vincent directs Heather to follow Douglas to the church after she
+returns from her Brookhaven search. Heather then leaves for northern
+Silent Hill.
+
+Church Library
+--------------
+Vincent explains to Heather the Seal of Metatron, and hands her a book
+about the ancient Gods. He also has a personality change, saying that
+Heather's the "worst person in the room." He leaves after explaining
+more to Heather.
+
+Church Finale
+-------------
+Claudia kills Vincent after they have yet another arguement about the
+cult and everyone's motives. She stabs him twice.
+
+-----------------------------------------------------------------------
+Leonard Wolf
+-----------------------------------------------------------------------
+
+Leonard is Claudia's father, and he's mentally insane. He was a cult
+member before being committed to Brookhaven Hospital. He abused the
+young Claudia. He might've wanted to stop the cult because he carried
+the Seal of Metatron around, which, as you saw in Silent Hill 1, a tool
+Alessa used to stop Dahlia.
+
+Appearances
+
+Telephone
+---------
+Heather talks to Leonard who says he's trapped in the hospital. He
+mentions that he's Claudia's father, and mentions that he has the Seal
+of Metatron.
+
+Brookhaven Sewers
+-----------------
+Leonard feels that Heather only wanted his seal, since he thinks that
+Heather wants to kill God. Heather and Leonard duke it out with Heather
+as the winner. Heather takes the Seal of Metatron afterwards.
+
+///////////////////////////////////////////////////////////////////////
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+5. S I L E N T   H I L L   2
+   s i l e n t   h i l l   2
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+///////////////////////////////////////////////////////////////////////
+
+Although officially the second saga of the Silent Hill series, Silent
+Hill 2 appropriately belongs after the section about Silent Hill 3.
+Although Silent Hill and Silent Hill 2 are very different games in
+terms of themes and story, they can be analyzed in the same document
+because of their intertwining messages and related themes. 
+
+Silent Hill 2 is the story of James Sunderland, who receives a letter 
+from Mary, his wife who had died a few years before. After reading the 
+letter, James travels to Silent Hill, where he and Mary went before 
+her death. Upon arrival, James' conscience takes over as he wanders 
+around Silent Hill, and encounters many new demons, as his guilt is 
+out to get him, as well.
+
+++++++++++++++++++++++++++++++
+A. A Synopsis of Silent Hill 2
+++++++++++++++++++++++++++++++
+
+-------------------
+I. Born from a Wish
+-------------------
+
+Written by cvxfreak, edited by Orca782
+-
+NOTE: Born from a Wish takes place before James arrives in Silent Hill,
+or possibly when James has just arrived. It is for that reason that
+Maria's short scenario is documented before James' scenario.
+
+The mini game begins in Heaven's Night, a nightclub with Southvale
+Silent Hill, on the other side of the lake, and one of the buildings
+Heather Mason visited on her visit to town. 
+
+A woman sits in a chair; her name is Maria, and she just woke up and 
+cannot find anybody else in town. She holds a revolver in her hands,
+and considers suicide due to her sense of loneliness. 
+
+However, she decides to leave and go look for another person. In the 
+main room of the strip club, she grabs a Chinese cleaver for a
+secondary weapon, since her revolver only has 1 bullet in it, not
+quite enough for what she's about to encounter. 
+
+Outside, Maria passes by Brookhaven Hospital, an insane asylum, but
+she doesn't seem to have any business there, so she keeps going down
+the street. 
+
+Unfortunately, the only way she can go is up the street by the Blue 
+Creek Apartments. Barricades have blocked her from reaching the 
+main roadway. As Maria travels, she sees monsters that are coated in 
+blood, and is forced to either run from them or try fighting them 
+with her weapons. 
+
+The only open door she finds leads to a mansion, called the Baldwin 
+Mansion. It is a fairly big house, with many rooms to explore. 
+She begins searching the upper floors. 
+
+Maria comes upon an unlocked door. She tries to open it, but the door 
+is forced shut by someone behind it. Maria knocks to get the person's 
+attention; she then hears a man's voice behind it . 
+
+Maria and the man converse; Maria is pleased to have finally found 
+someone else in town. The man refuses to open, and at first doesn't 
+want to cooperate with Maria, but eventually he begins to tell Maria.
+Ernest ponders if it's not the town that's insane, but her and Maria.
+Maria tells the man her name. The man's name is Ernest, as he reveals 
+to Maria. Maria then mutters the surname "Hemmingway?", a reference 
+to the late author. Not finding the joke funny, Ernest says his last
+name is Baldwin. Maria tells Ernest that she'll return soon.   
+
+Past Ernest's door, on a landing, is a white board with holes in it. 
+Maria continues her search downstairs, and finds a hidden ladder 
+inside a fireplace. She finds an oddly located mini-cemetery with a 
+puzzle to solve. Using the red board, white board and black boards 
+she finds, she solves a puzzle and grabs an acacia key. It unlocks 
+the door to another area of the house, in which Maria also explores. 
+A hallway leads to a child's bedroom. She finds matches that might 
+be useful. She then finds her way to an attic, where a mysterious 
+voice says something cryptic; a girl falls from a window and her 
+parents are wondering what just happened.
+
+She finds a birthday card and hears another voice, telling her to 
+take the birthday card to Ernest. She does just that, but Ernest 
+still refuses to open the door after Maria discovers that Ernest 
+was a father to a girl. Ernest realizes the truth. He finally 
+realizes why his daughter, Amy, was in the attic, and how she met 
+her doom.
+
+Maria apologizes for reminding, but Ernest never forgot the 
+incident. He says that some things just cannot be forgotten, even
+after ten years. Ernest then says something cryptic, about how
+Maria can see (or sense) him. Ernest then says he can hope for a
+miracle. 
+
+Ernest asks Maria to get a white liquid for him in the nearby Blue
+Creek Apartment Building. Maria at first wonders why Ernest just
+couldn't get the liquid himself, but eventually doesn't bother to
+force it on Ernest, who claims that if he could get it himself, he
+would have done so already. Ernest unlocks the stairway door, 
+allowing Maria to reach the apartment building. 
+ 
+Maria searches the complex, and makes it to room 105. James hasn't
+been there yet, so the drawer in room 105 is still locked. (James
+probably is still at the cemetery talking to Angela, or is in the
+apartment building next door, which would explain Pyramid Head's
+presence there.)
+
+She finds the white liquid after a short search, and returns to
+Ernest's mansion. She delivers the liquid, and Ernest thanks
+Maria for her deed. When Ernest finally knew about the white
+liquid, he says that he was no longer able to leave the house.
+Ernest then tells Maria that the gods are in Silent Hill, and
+that Maria was born in the town. 
+
+Ernest asks Maria if she believes in fate, and she says no. Maria
+asks to enter the room, but Ernest says it's no use. Maria then
+wonders what would have happened if she said she did believe in
+fate.
+
+Ernest simply responds that "James" is a bad man. James is 
+looking for the Maria that isn't actually Maria. Maria then
+wonders what Ernest knows, but decides he doesn't actually know
+anything. Maria finally opens the door, and in the room, no
+one is there, except the birthday card from Amy. Maria realizes
+that Ernest was only a ghost, which is what he meant by not
+being able to leave the house to get the white liquid himself. 
+
+Maria leaves the mansion. As she walks down a street outside
+Rosewater Park, Maria looks at her revolver, contemplating
+suicide once again. She points the gun to her head, ready to
+pull the trigger. But she slowly eases the gun away from her
+head, before throwing it over a stone wall. She turns around
+and begins walking towards Rosewater Park, whispering James'
+name...
+
+-----------------------------
+II. Letter from Silent Heaven
+-----------------------------
+
+Written by Orca782, edited by cvxfreak 
+-
+James Sunderland's wife died 3 years ago from a disease (most likely
+cancer). After thinking about her for all that time, and moping around,
+he receives a letter. The writer's name is... Mary.  He gets in his car
+and drives to Silent Hill, where they used to spend a lot of time. Mary
+had told him that she wanted to come back to that town; that it felt
+special and sacred, but she died before he could take her again. The
+letter said to come for her; she was waiting in their "Special Place."
+
+First James shoots for the Rosewater Park, which is where they went
+often. He can't enter town because of car trouble, so he walks into
+town on foot. After stopping and thinking about his last few years with
+Mary, he heads off. He sees a frantic woman named Angela in a graveyard
+(possibly the one in the beginning cinematic of Silent Hill 1), and she
+points him toward town.
+
+He finally enters town. Upon entering, it's extremely empty, but he
+sees several blood trails. He suddenly finds a monsters and a radio, as
+well a wooden plank for his defense. He kills the creature and moves
+on. After a few ominous clues in the empty town, he goes through an
+apartment complex first, coming in contact with 2 people, Eddie
+Dombrowski, somewhat of an overweight resident who's currently vomiting
+in an apartment toilet. James also meets Laura, a child who is
+apparently somewhat of a brat, and a resident of Silent Hill. He sees
+Angela from the graveyard again, where this time she's just become
+suicidal, holding a blood-stained knife and acting very irritated and
+tired. Angela gives James the knife and runs off. He eventually escapes
+the apartments, shortly after a meeting with "Pyramid Head," a menacing
+existence who seems to be somewhat of a guardian at Silent Hill.
+
+Once in Rosewater Park, James is startled to come across.. his wife
+Mary! Or so he thinks until the woman he has met turns, and explains
+that she is named Maria. She asks if "She looks like his girlfriend."
+He tells her shortly of his quest for Mary, and she asks if she "Looks
+like a ghost." (important). Finally James decides to take Maria with
+him for safekeeping, and he ventures off again for the Hotel, his only
+other "special place" with his wife.
+
+He and Maria make their way to a bowling alley, where Maria stays
+outside and James goes in to find Eddie, and Laura running out the
+back.  He leaves Eddie eating a pizza, and goes in chase of Laura.
+Maria joins him outside, saying she chased but failed to catch the
+child.  They follow her path down an alley, to a locked door.  Laura
+has squeezed through a tiny passage, whereas Maria and James journey
+through a gentleman's club, "Heaven's Night," where Maria was earlier.
+They then see Laura run into the resident hospital, Brookhaven.
+
+After searching for awhile in the hospital, Maria grows nauseous and
+sits down. James leaves her taking her pills, and goes off on his own.
+He makes his way to the roof, where he is attacked by Pyramid Head.
+The huge sword luckily hits James with the flat side, and knocks him
+off the roof, through the ceiling into a containment area.  James goes
+off for Maria again.  Instead he finds Laura in a room, playing with
+her tEddie-bears.  She leads him to another room, claiming there's a
+letter from Mary in "the way back." (Had to see this one coming a mile
+away). James, being eager, goes into the room, where Laura promptly
+locks him in, and runs off. James is knocked out by some of the less
+friendly residents, and then is wheeled away to safety by what sounds
+to be either Mary or Maria.
+
+He awakes in a courtyard. The hospital is now a much less habitable
+place. He finally finds Maria in the basement, but is disappointed that
+it's not Mary. Maria has had enough, and explodes. "All you care about
+is that dead wife of yours," she screams at him. "I've never been so
+
+scared in my whole life." James shrugs it off, and they keep going.
+
+After some time, they reach the true basement. It is a long snaking
+passageway, and when they are part of the way down it, James turns to
+approaching footsteps... Pyramid Head has found him. Now armed with a
+short spear like weapon, Pyramid Head goes for Maria. After laying down
+some heavy fire on the entity, they both run.  Upon reaching the
+elevator, with Pyramid Head in close pursuit, James gets in and the
+doors jam, leaving only a crack, for Maria's hand, and the gruesome
+visage of Maria being mauled by the creature. The hand goes limp. The
+doors close, and James sinks to the floor.
+
+Having failed Maria, James vows to find Mary.  He sees Laura once again
+and takes off for a museum at the edge of the vicinity. To get there,
+he circles back across town on a wrench hunt, which lets him find the
+key, unlocking the museum entrance. Upon reaching the museum, he finds
+that it used to be a prison in the Civil War, and that atrocities
+occurred there. Eddie is there as well... and there are dead people all
+over his area. Eddie takes off after some crude jokes.
+
+James goes down a broken wall and into the ancient prison. From there,
+he makes his way even deeper into caves under the prison. He finds
+Angela in a room, about to be attacked by a demon.  James destroys the
+demon, and Angela screams at it to leave her alone, below). He finds
+Maria, alive, and unhurt. After a strange personality change, she
+speaks to him as Mary would. She is in a jail cell unfortunately, and
+he leaves to find another route to Maria. Upon getting there, her body
+is beaten beyond recognition, and she is but a corpse. Again he is
+mollified, and leaves. Finally he emerges in a meat locker, where Eddie
+confronts James.
+
+Eddie has decided that James hates him, and has called him fat. Up to
+now James had only suspected, but now he knows that the bodies around
+Silent Hill with bullets in the brain are the work of Eddie. After a
+short battle with James as the victorious, James wonders again what is
+happening in this town, and leaves the meat locker, and Eddie's corpse.
+He finds a rickety boat and rows across the foggy lake to the only
+landmark he can see, the lighthouse. It turns out to be a single light
+on the dock of his Hotel.
+
+Upon journeying through the Hotel, James again comes in contact with
+Laura, who sweetens up and gives him a letter from his wife, that she
+gave to Laura. It is a birthday letter stating that she wished Laura a
+happy birthday. It is dated not one week ago. James is in uproar.
+What could this mean?  Laura leaves, and again he goes in search of
+Mary. Finally he comes to the room they used to stay in, and he uses
+the VCR to play the tape he has of them together which he found in
+storage safe earlier. It shows Mary, happy as usual, and then it cuts
+to a chaotic shot of James, smothering his wife with a pillow.
+
+James is once again amazed. How could this be? Laura enters the room
+and discovers the truth, and in anger, runs off. James leaves, seeking
+answers. The hotel is now not as clean a place, and in the basement he
+finds Angela. She is still speaking of her father, and walks into a
+burning room at the top of a flaming staircase, and eventually gets
+engulfed herself. Finally James finds a room with Maria in it, strapped
+to a rack. Two Pyramid Heads are there, and once again, Maria is
+killed. James defeats the Pyramid Heads and leaves. At the top of a
+caged area, he finds Maria, dressed as Mary (/Mary dressed as Mary).
+She is angry (see above) and turns into a demon, which James destroys.
+Then the ending CG starts, and explains how James turns out (different,
+see below).
+
+++++++++++
+B. Endings
+++++++++++
+
+Leave Ending:
+-------------
+After defeating the Maria demon, James will speak to Mary in her
+sickbed. Mary will tell him to go on with his life. After Mary reads
+the full letter, James will follow Laura through the graveyard where he
+first met Angela, ready to adopt her and start a new life with her. If
+you spend as little time with Maria as possible throughout the game,
+you'll get this ending.
+
+Maria Ending:
+-------------
+Right after defeating the final demon, James goes back to Rosewater
+Park where Maria greets him. James decides that he needs Maria, even
+though she isn't Mary. James and Maria travel back to James' car as
+Mary reads off her letter. Just before they get in, Maria starts
+coughing again, like Mary did. James tells her to do something about
+that cough.
+
+In Water Ending:
+----------------
+After defeating the final demon, James speaks to Mary. He really,
+really wants to be with her, and to be with her forever, James drives
+his car into the lake, committing suicide. As this happens, Mary reads
+off her letter once again.
+
+Rebirth Ending:
+---------------
+After destroying the final demon, James takes four of the ritual items
+he's found on his stroll through Silent Hill. Those items are the White
+Chrism, the Book of Crimson Ceremony, the Book of Lost Memories and the
+Obsidian Goblet. He uses them, according to President Evil and the
+content in the books, to revive the cult that was wiped out in the
+first game.
+
+DOG Ending:
+-----------
+In a replay game, James finds a DOG Key outside Rosewater Park. He uses
+it in the Observation Room at the hotel, and he finds a big screen with
+a map of Silent Hill, with James and Maria's faces on them. Controlling
+it is a dog, and James realizes that the dog did it the entire time.
+James speaks Japanese to the dog, and then we are treated to special
+credits with images of every character goofing off. This ending should
+not be taken seriously unless Orca can analyze. Perhaps this dog was
+the one that mocked Eddie.
+
+UFO Ending:
+-----------
+Well, the rumors are true. Using the Blue Gem found in a Replay game,
+you can achieve the UFO Ending. Use the Blue Gem in the following
+locations, in order:
+
+1. Garden, Evil Brookhaven Hospital
+2. The dock next to the boat after killing Eddie
+3. Room 312 of the Hotel, before viewing the tape
+
+A new ending will appear, and here is the description. After the UFO
+appear in front of the window, some greets James, in the form of a
+comic picture. It is none other than Silent Hill's Harry Mason (and the
+same polygon model from his game, too). Apparently, he is still be held
+captive by the aliens, and asks James if he's seen a "little girl,
+short, black hair." Obviously, Harry is still looking for Cheryl. James
+doesn't know who he is talking about, and James asks Harry if he's seen
+Mary. Aliens come and zap James, and Harry and his alien friend take
+James away.
+
++++++++++++++
+C. Characters
++++++++++++++
+
+-----------------------------------------------------------------------
+James
+-----------------------------------------------------------------------
+
+James killed his wife after 3 years of a painful disease.  He then
+feels guilty, and makes up a story of his own in his mind, which he
+then convinces himself of, and goes to Silent Hill after getting a
+letter in the mail from Mary, sent by the nurse at the hospital most
+likely. After Mary died, the nurse sent the letter. James then drove
+home, having convinced himself of the story he had made up, received
+the letter, and then you find him as he is in the beginning of the
+game: incredulous that a dead wife has written to him. He did love his
+wife, but when she grew sick, he did not know how to deal with it, and
+it began to anger him that he could do nothing for his wife, and that
+she was helpless herself. In confusion, he killed her, hoping what he
+had done was right. Depending upon your ending, he justifies his
+killing in different ways.
+
+-----------------------------------------------------------------------
+Mary
+-----------------------------------------------------------------------
+
+Mary was James' faithful, loving wife. She grew sick, and she stayed
+alive for the full 3 years expected of a dying person with her disease.
+(There is a statement somewhere in the game of a doctor saying she
+could live anywhere from 6 months to 3 years). We do not know the
+disease, but we can assume that it had no cure, and that it was a
+wasting away disease (similar to the plague). When she grew ugly, she
+felt ashamed, and lashed out at James when he tried to act helpful.
+They were both confused and helpless, and thus she acted ungrateful
+often, but really she was just sad to die, to leave him, and not
+wanting his or her pain to be prolonged.
+
+Appearances
+
+James' Picture:
+---------------
+Here is a picture of Mary, and we all know a picture is 1000 words. She
+is not a superstar, but she is attractive, and she has the bearing of
+an average loving female. She dresses meanly, and her smile portrays a
+lot of love for James.
+
+James' Letter:
+--------------
+Here is the traditional intro that we all know. "In my restless dreams
+I see that town, Silent Hill...special place."  This is only the first
+half of the actual letter (or the first 1/6 or 1/8, considering how
+long the other half is).
+
+Conclusion:
+-----------
+Depending upon your ending (2 of the normal 3, Water/ Leave) you will
+get to talk to Mary for a short time. Depending upon your ending,
+Jamestreats her in different ways. If you got the water ending, James
+is so glad to see her, that when she dies, James is once again thrown
+into darkness, and he commits suicide, by driving into the lake. If you
+get the leave ending, James is glad to see her, but he is a bit
+cautious of how she will feel about what he did to her. She reassures
+him that she is happier now that he killed her, and the fact that he
+came after her shows he really cared, and that he is a good person.
+
+Final Letter:
+-------------
+James receives this no matter what ending he gets. It shows that though
+he may have been inhumane, Mary's intentions were always noble. She
+explains that she did treat you badly, but that it was because of the
+sickness, and her inability to stop her oncoming death. She loved
+James, but depending upon your ending, James may not have loved her.
+Either way, Mary comes out with almost saintly proportions.
+
+-----------------------------------------------------------------------
+Angela
+-----------------------------------------------------------------------
+
+She was abused and molested, along with her mother, by her father. She
+is also schizophrenic because of her need to put the damage done on
+someone else, leaving her other personality harsh and angry. Though the
+game seems to point to Angela having killed her father, there is no
+concrete fact within the game, so I revert to criminal and sexual abuse
+studies, which point out that in this situation, it is much more likely
+that Angela's mother killed the father, not Angela herself. Then Angela
+took the knife, having seen her father dead, and holds onto it,
+thinking it is the last she will remember of her father, and also it
+represents safety to her from her father, as well as the last resort to
+life itself.
+
+She says at one point that her mother says she is bad, or wrong, or
+something to that nature. What her mother is saying is that she
+deserved what her father did to her. She is not saying that Angela
+killed her father. The mother too was afraid of the father, and thus
+she had to justify his violent tendencies, and she justified them by
+making Angela into a bad child in her own mind (the mother, this is).
+People often tell me that the gravestone in the second cemetery shows
+that Angela is guilty. I don't believe this. I think that it shows
+that similar to "The Matrix," Silent Hill allows the people in it to
+feel exactly how they want to, and if Angela FEELS guilty, then she
+gets to go to the darker Silent Hills, because she THINKS she has done
+something wrong. Sex crime victims often feel that they are to blame,
+not the offender, especially if the offender is a family member.
+
+Appearances:
+
+Cemetery:
+---------
+Angela is actually the first character we meet in the game.  She is in
+a cemetery on the outskirts of town, looking for the grave of her
+Father. She tells James however that she is looking for her father and
+mother and brother in the town, as if she did not know that her father
+at least was dead. Angela is still in denial at this point that her
+father is dead. She has the knife at this point, but it has not yet
+made its appearance, because this is the most sane Angela ever gets.
+She is looking for her father in the town because part of her wants to
+believe that he is not dead, but another part knows that he is dead,
+and is trying to prove the other part of her wrong by finding the
+gravestone.
+
+West Wing Apartment:
+--------------------
+Angela is in a passive state in this meeting. She is holding the knife,
+probably having remembered that her father is dead, and that she is
+safe as long as she has the knife. She is already seeing the fires
+around her now, but there are no monsters in the room, so she does not
+see her father in this room. The tEddie bear outside the door shows
+that Angela is thinking of her childhood. She is looking in the mirror
+to determine who she really is, because she honestly doesn't know.
+
+Room in the Labyrinth:
+----------------------
+At this point, Angela sees the thing James sees as a monster to be her
+father. She is practically catatonic with fear in a corner, and she
+sits still while James kills the creature. She says "No daddy,
+don't," which is a key clue to realizing that Angela was very young
+when her father abused her, and that he most likely sexually abused
+her, because telling someone who's angry "don't" will get you nowhere,
+but if he is acting friendly towards her, in order to violate her, her
+saying "don't" can be construed as a request of a friend, a plea if you
+will. After you kill the creature, she drops a TV on the creature,
+which symbolizes her hate of what her father did to her. However, she
+then falls to the floor and retches, which shows that just that act of
+hate is enough to make her queasy.  Then she addresses James, and
+becomes suddenly violent in attitude, in order to defend herself from
+anyone she sees as a danger, I.E. any male figure.  James has saved
+her, so she looks up to him, but the only other male that she looked up
+to was her father, so James reminds her of her father, and she gets
+very defensive.
+
+Hotel Burning Hallway:
+----------------------
+This is the final encounter with Angela, so it attempts to sum up her
+meaningfulness in the game. She knows that whether it was her, or her
+mother who killed her father, she will never live in peace again. She
+asks James if he thinks he could protect her, of if he would just force
+her, like "he" did. She then realizes that James cannot help her, and
+she walks off into the blaze, most likely to her death. If you zoom the
+camera and watch Angela walk up the stairs, the fire eventually engulfs
+her. She's murdered by her own insanity that is Hell.
+
+-----------------------------------------------------------------------
+Eddie
+-----------------------------------------------------------------------
+
+Eddie is not a victim. He is crazy, and more specifically, he is more
+or less a sociopath, a provoked sociopath, but a sociopath.  He killed
+a dog out of desire to see it die, and then his evil mentality led him
+to the darker realms of Silent Hill. After finding that killing made
+him feel strange (not guilty, because sociopaths do not feel guilt), he
+decided that he needed an excuse. He wanted to see the dog die, and
+after that he wanted to see people die. After that, he makes it clear
+that he is making people in Silent Hill, and then killing them. He
+finally attacks James off a single remark, because secretly he wanted
+to attack James too, and James kills him in self-defense.
+
+Appearances:
+
+Apartment Bathroom:
+------------------
+Eddie is found vomiting in a bathroom, in an apartment with a dead man.
+The man has been shot. We can assume that it was Ed who killed the man
+in 208 as well, and he who filled the room with the carriage in it with
+shell casings. He is sick because he feels strange about the killing,
+not bad. It is just quite a change for him. He is excited as well, at
+the fact that he has completed what he wanted to do: kill a person.
+Though they were not actually people, they were people in his mind, and
+he killed them in reality, because the town manifested the images in
+his mind into reality.
+
+Bowling Alley:
+--------------
+Eddie is here with Laura, eating Pizza, in whatever mysterious way he
+got it by. He feels good around others, because it makes him feel less
+strange, like he feels when he is alone. He feels different when he is
+around other living beings than he does when he is alone, which is why
+he feels the need to kill. He treats Laura well because he enjoys
+smaller children, especially their innocence.
+
+Prison Cafe:
+------------
+Eddie is here, having killed more people, but his glee is short lived
+when James falls into the room. He suddenly realizes that he is not
+supposed to be doing what he has done, and he makes up excuses. Here he
+is holding the gun, and we get to see his transition as he realizes
+that what he did is wrong. He then runs out, not wanting to have to
+face James's questions. It's also symbolic that Eddie is in a prison, a
+place for convicts, and he is in the cafeteria, which sums up his
+excuses, and maybe he even makes up the excuse here.
+
+James' Grave:
+-------------
+Eddie has finally overstepped himself, and has killed a lot of people
+without guilt.  He tells James another excuse when James seems unhappy
+with his explanation.  Then, of course, he realizes that he doesn't
+want to have to deal with James' probing questions, and his questions
+about his own morality, and he attempts to kill James.  Eddie, by some
+sixth sense, knows that James is in this town for his wife, which he
+killed. He then calls James a hypocrite, and he tells him that he's not
+guiltless either. However, more than being true, this is just more
+justification of what he is doing, hoping that James will think as he
+does. Eddie then dies after being shot to death by James, and James has
+to think to himself about what he has done.
+
+-----------------------------------------------------------------------
+Maria
+-----------------------------------------------------------------------
+
+Maria is a creation of James' imagination. He needs to feel less guilty
+About what he has done, and creates a fantasy women similar to Mary.
+She fawns over him, yet also asks biting questions. Every time he sees
+her, he pretends to want to see his wife more than her, to make his
+facade even greater (to himself), but he must see in the end that Maria
+is of his own making. He must let her go in the end, and realize that
+his wife is gone. Maria says, "I am, if you want me to be," which
+brings up the point that she will do whatever he thinks of.  She has
+the key to the strip club because that is as far as his fantasies go,
+whereas many males today would go much farther. It is important to
+remember that James created Maria, and she does what he subconsciously
+wills her to do, which is why she keeps coming back.
+
+(Note: I didn't feel up to analyzing Maria in her side quest, as the
+entire thing is on appearance. Basically it is her being turned from a
+normal shade of a person into an evil shade who is out to hurt James.
+Either way, you can check the Ernest analysis to see her dealings with
+him, or read on to see about what happens to her in the main game).
+Apparently, while James is running around the Apartment buildings,
+Maria is on her quest to find another person. Perhaps this shows that
+James doesn't exactly know he's creating and controlling Maria.
+
+Appearances:
+
+Heaven's Night (Born from a Wish):
+----------------------------------
+She has a gun in her hand, and seems to want to shoot herself. She
+knows that the town is becoming weirder and weirder with each passing
+moment. She sets off to find another person.
+
+Outside Ernest's door:
+----------------------
+She finds another person, but the guy won't flash his face. She decides
+to find something for Ernest.
+
+Outside Ernest's other door:
+----------------------------
+She gives Ernest the White Liquid. Then Ernest tells of a story, and
+she finds out Ernest was just a spirit, a hurt spirit due to the death
+of her daughter.
+
+Child drawing wall:
+-------------------
+She decides to kill herself, but suddenly she changes her mind,
+throwing the gun over the wall, walking away, to Rosewater Park.
+
+Rosewater Park:
+---------------
+This is her first appearance, because this is where James expected to
+meet his wife, but he knows that in reality she is dead, so he creates
+Maria here, to pretend he still does not know that his wife is dead. It
+should rather be that James WANTED her to be here, since Maria already
+exists at the beginning of the game. He pretends to think that Maria is
+Mary, then be unhappy when he finds her not to be. Silent Hill has
+turned James' desire to see a female in the park into reality, and she
+bears all the things James wants in a woman, which include Mary's
+looks, though the clothing is a bit more risk. She knows that James is
+going for the hotel, and she knows everything that Mary knew, because
+she is an incarnation of Mary, through James.
+
+Mental Hospital (S3):
+---------------------
+Here Maria waits, knowing what will happen to James when he goes
+downstairs.  She takes some pills, because she is almost the same as
+Mary in James' mind, so she too has a disease.
+
+Mental Hospital (C2):
+---------------------
+After James' battle with the feet, he is wheeled out into the outside
+area on a gurney. Maria is responsible for this, and she calls his
+name, in order to simulate him dying, and being wheeled to an emergency
+room. However, she is doing the opposite, leaving him outside, to show
+that he is getting the opposite of help, he's getting left behind. In
+James' mind, Maria has to fight the image of Mary, or else he will be
+regretful, and remember what he did. So Maria does this in order to
+show that if Mary were in his position, she would hate him too, so what
+he did was justified, and he deserves to have Maria instead of Mary.
+
+Mental Hospital (basement):
+---------------------------
+When James finally finds Maria here, in order to keep up his facade of
+looking for Mary, he has to pretend he is sad it is not her when he
+finds Maria. Maria however, has to fight for James affection, so she
+acts angry in order to get him to want her more than Maria. She then
+acts concerned for Laura, because Mary too would have acted concerned
+for a child.
+
+Mental Hospital (long hall):
+----------------------------
+When James is running, and Maria dies, one of the evils of the town, a
+Pyramid Head, kills Maria. This is done by Samael in order to make
+James feel even worse about killing his wife, because it is like it
+happening all over again, and he is a bystander this time and cannot do
+anything. He has to keep up the facade that he loved his wife, so this
+strikes a great emotional blow to him. He sees himself in the past as
+the Pyramid Head, and it is like watching himself kill Mary, so he
+agonizes over it.
+
+Labyrinth Cell:
+---------------
+Maria is alive again, because James once again has need to believe that
+he is actually searching for his wife, instead of just running around
+on a goose chase. Maria this time however almost becomes Mary, in order
+to get James to appreciate her more than Mary. James wants to like
+Maria more than Mary, so he has to have her image do this; act as
+though she is a continuation of Mary, but better. She also says a dead
+giveaway about her being created of James' imagination here "I am, if
+you want me to be. I'm here for you James, see? I'm real." This is the
+real clue that she is made by James, and that she is too good to be
+true, yet she is.
+
+Labyrinth Cell (2nd time):
+--------------------------
+Now Maria is dead. She has suffered severe trauma to the head, and
+there is blood on the bed suggesting internal bleeding. She has been
+killed by Samael in order to drag James back to the reality that HE
+killed his wife. James smothered his wife, and thus she suffocated. If
+a person suffocates, their lungs work harder to get air, until they
+burst, causing internal bleeding. Maria's face is also marred, which
+represents James holding the pillow over Mary's head. The blood would
+leak out of the mouth, causing a lot of the facial blood.
+
+Dark Hotel:
+-----------
+Here, Maria is on a rack, as if sentenced to destruction. James' mind
+has feebly conjured one last vision of Maria to prove his innocence,
+but Samael destroys it, showing him that he is not innocent at all. She
+will no longer be able to replace Mary in James' mind. He realizes this
+also however, and realizes that he must live without her*. She is then
+impaled, and she dies. This is not symbolic of James killing his wife,
+as Maria's last two deaths were, because now he has realized the truth.
+
+Final Room:
+-----------
+Depending upon your ending, you will find Maria here. She will either
+tell James that he will never get Mary back, and that he should be
+happy with her, or that she will not allow him to kill himself. At this
+point, Maria has ceased to be an incarnation from James' mind, and has
+become quite evil. When he kills her, and she keeps crying out his
+name, she is once again referring back to Mary calling to him from her
+sickbed.
+
+Rosewater Park (2nd time):
+--------------------------
+If you got the Maria ending, James has decided that Maria is worth more
+than Mary, and he decides to forget about Mary altogether and take
+Maria with him to live with. She will be the perfect wife, and he
+leaves the town with her. This is an ending showing that the evil of
+Silent Hill has gotten the better of him, and that it's not the last
+time he will visit hell.
+
+-----------------------------------------------------------------------
+Laura
+-----------------------------------------------------------------------
+
+Laura is innocence. She does not see monsters, and thus they cannot
+affect her, even though through her connection with Mary she is brought
+into both the foggy and dark worlds of Silent Hill.  Samael will not
+hurt her, because being innocent, Metatron has full protection over
+her, and she traipses around as she sees fit. She was a patient at the
+hospital with Mary, and Mary wished her a happy birthday right before
+she died. She has a letter from Mary for her birthday which she
+eventually gives to James. One may be lead to believe that she herself
+is dead, but I rather the idea that she is living happily in the real
+Silent Hill.
+
+Appearances:
+
+Apartment 3rd floor:
+--------------------
+James is reaching for a key when she kicks him and runs off.  Laura
+knew Mary, and (call it child's intuition) knows that James is
+responsible for Mary's death.  She knew Mary, and thus she was around
+when James would visit, and she would know that he was not really
+acting with affection. She thus is angry with James for acting coldly
+to Mary, and she kicks the key away, in order to slow his progress.
+However, she does not act in spite, but in childish play.  She knows
+nothing of real hate.
+
+Wall outside of apartment:
+--------------------------
+She is here singing, or humming. (She was singing "Ring around a Rosie"
+in the original game, but it was deleted due to content). It is
+commonly known that "Ring around a Rosie" refers to deaths due to the
+Black Plague. It is meant to make you think when she is singing about
+death, yet she knows nothing of it. This is the part that clearly shows
+you that she is innocent, and makes it clear that she sees no evil in
+Silent Hill. She also has the birthday letter, which she has taken from
+Mary. She asks James if he's blind, meaning that there is no reason for
+a little girl like her to be in a normal American town, but on a
+symbolic level she is also asking James why he is clouding the truth in
+his own mind. She then walks away, stating what James has only
+reinforced in her mind; that he does not love Mary.
+
+Bowling Alley:
+--------------
+Laura is here, talking to Eddie. She has to put forth that she is
+tough, and independent, so she asks Eddie if he has killed anyone.
+Eddie is in a calm state of mind, and he knows that he cannot tella
+little girl that he did. All children desire to be self dependent and
+tough. She has asked him if he has seen Mary, because she is looking
+for her, having not seen her since a week ago in the hospital. When she
+hears James coming, she runs, not wanting to be with someone who was
+not friendly to her friend.  This is common practice to children,
+running rather than deal with someone they dislike.
+
+Outside Hospital:
+-----------------
+She is once again playing around outside the hospital, but James sees
+her in the dark Silent Hill, while she is actually physically still in
+the light Silent Hill.
+
+Hotel Restaurant:
+-----------------
+She is here, once again playing around, trying to scare James, who to
+her seems always a little too on edge. (The fact that he his holding a
+weapon does not bother her however). She is beginning to accept James,
+seeing as he follows her through Silent Hill. She tells him that she
+got a card from Mary a week ago, for her 8th birthday. This is a clue
+to James, and he instantly knows that something is wrong.
+
+Hotel Rm. 302:
+--------------
+Laura has finally found what she is looking for, Mary's home in Silent
+Hill. Once here, she gives James the her letter, because he is now
+worthy of it, having accepted what he has done. She has no more
+problems with James, and he tells her that she will in all probability
+never see Mary again. As a child, she dismisses it with little thought
+to the matter, and leaves.
+
+Graveyard:
+----------
+Laura walks across the graveyard where James met Angela at the
+beginning of his adventure. She is leaving Silent Hill ahead of James
+because she knows now the truth about Mary, and about James, and
+decides to live her life with James.
+
+-----------------------------------------------------------------------
+Pyramid Head
+-----------------------------------------------------------------------
+
+Pyramid Head's are the evil minions of Samael, and they do his bidding
+and physical work. They are created of evil souls of the past that
+inhabited the town. They subjugate the weaker creatures, and they chase
+sinners through the town, harassing them and killing them if need be,
+for fun. They do however follow Samael, and are thus subject to
+Metatron's wrath. In this manner, when they have overstepped their
+bounds, Metatron controls them into their suicidal state. I would have
+to say that even though they seem the least likely for the job, Pyramid
+Heads seem to me to be the comic relief for the game. All the other
+characters that seem like they are, are actually underlying messages
+and unhappiness.
+
+Pyramid Head is just like one of those cartoon characters who runs up
+and pokes the sleeping dog, then runs away laughing hysterically,
+though a little more evil. The evil spirits that compose Pyramid Head
+are limited to lesser evils, because they have died. However, if they
+accidentally kill James in their fun, it matters not to them. However,
+Pyramid Heads are actual monsters not created by James mind, and they
+are the only such monsters in the town. There could be any number of
+them, so we could assume that it was the same Pyramid Head following
+James all the way until the end, when he was joined by a friend, or we
+can assume that each and every Pyramid Head James sees is a different
+one.  It doesn't really matter, because they are all the same. They
+have one of 2 weapons, the giant knife or the spear, and when you find
+a giant's knife in the labyrinth, it is because a Pyramid Head just
+switched to the spear.
+
+Appearances:
+
+Apartment Hallway:
+------------------
+Pyramid Head is standing out in the hallway, simply taunting James,
+attempting to throw him off.  The main reason Pyramid Heads are in
+Silent Hill is to taunt and hurt James, but not to kill him. They are
+evil, but a bit of a lesser evil, and they only accomplish larger
+evils, such as killing Maria, at the behest of Samael.
+
+3rd floor Apartment:
+--------------------
+Pyramid Head is here, amusing himself, and tormenting lesser demons. He
+then sees James, and wonders whether to continue with his current
+activity, or to bother James.  He does a little of both, gesturing
+wildly at James, but after James fires at him, he figures he's scared
+James enough, and leaves.
+
+Article about killings:
+-----------------------
+The killer of the 2 children says he was driven to it by a red demon.
+This is of course Pyramid Head, but all Pyramid Head did was draw him
+to what he already wanted to do. He was already an evil man, but
+Pyramid was there when he committed the evil deed, so he had something
+to blame it on.
+
+Hospital Roof:
+--------------
+Pyramid Head once again decides to pay James a visit, and sneaks up on
+him, and throws him from the roof, knowing that he has not killed him.
+Feeling quite satisfied, he leaves.
+
+Long Hall:
+----------
+Pyramid Head has been ordered to really remind James that he is in the
+town because he is looking for his wife, and that he killed her.
+Pyramid Head stabs Maria, and Samael holds the doors closed to the
+elevator, just allowing James to see the ensuing carnage.  This is
+showing James basically what he himself did, by killing a person.
+However, Samael wants James to feel that what he did is truly evil, so
+he causes Maria to cry out in pain, and the killing to be gruesome,
+rather than a mercy killing, as James would (depending upon your
+ending) have wished it.
+
+Prison Gallows Plaque/ Picture of "Justice":
+--------------------------------------------
+Here two/one Pyramid Head(s) are portrayed as executioner(s). Since
+they executioners were evil men, for killing possibly innocent people
+(as illustrated in the labyrinth puzzle) their souls stayed in the
+town, and compose some if the population of Pyramid Heads.
+
+Labyrinth:
+----------
+Pyramid Head appears 2 times in the labyrinth, and the first time he
+has just switched weapons, so you find his knife, the second time he is
+just messing around with the locals.  He attacks James both times, but
+only if he gets in the way.
+
+Dark Hotel:
+-----------
+Here 2 Pyramid Head's confront James, after being ordered to kill Maria
+by Samael. That was James' final attempt to create a vision of Mary,
+and Samael immediately eradicates it because James knows the truth, and
+cannot go back. Then, as James is getting near to leaving the town,
+Samael orders him killed. At this point, however, Metatron steps in.
+
+Side Quest Characters:
+----------------------
+
+-----------------------------------------------------------------------
+Ernest Baldwin
+-----------------------------------------------------------------------
+
+Ernest appears first, or is heard first from behind a door in a
+Victorian style mansion that Maria has entered. An important aspect to
+Ernest is to remember that the only person that interacts with him is
+Maria, and from above we know that she's not even a reality. Therefore
+my take on Ernest is that he is an incarnation of Samael, taking
+Ernest's soul/form to guide Maria to his bidding. Maria was created
+from James thoughts of his wife, but Samael wants Maria to follow him,
+and hurt him, and be hurt, so as to cause pain to James. To do this, he
+has to guide Maria somewhat as a newborn child to her cause. Hence
+throughout her entire side quest she is told James is evil, and she
+needs to trouble him.  However, a thread of Ernest hangs on, and
+desires his letter from his child. Therefore, Ernest gets what he
+wants, and so does Samael, a mutual gain relationship.
+
+Appearances:
+
+Top of Stairs behind Door
+-------------------------
+Here Ernest first greets Maria, and gives her the rundown on himself.
+He's a quite guy, who strangely enough doesn't want to be seen. This is
+because, being half Samael, he's not entirely corporeal. Basically he
+just shunts Maria off at this meeting.
+
+Study--Behind Door
+-----------------
+Here, Maria already has Ernest's daughter's card, and she brings it to
+him. Ernest's true self steps in and tells her how he is sad about his
+daughter, and that he's never forgotten her. Then Samael steps back in
+and prompts Maria to go get the first item of the ritual for rebirth,
+the White Chrism. Maria goes.
+
+Study--Behind Door (2)
+---------------------
+Maria has come with the liquid, and this time Samael really prompts her
+as to what she should be doing. James is evil. She needs to know that.
+Also he states that they are the same, noting that she and Samael are
+ethereal, and that both are against James. Both are also lost in this
+town for good, with no hope of escape. That statement alone clued me in
+as to Samael being in Ernest's form. Finally when Maria opens the door,
+Samael has vanished into shadow.
+
++++++++++
+D. Themes
++++++++++
+
+Silent Hill 2, and most likely all Silent Hill games are full of
+unsettling emotions and 'themes' that add to the game.  It isn't enough
+to shock the audience every so often in a horror game, to be truly
+frightening you have to play upon their own fears and dislikes.  With
+all the unhappiness going around in Silent Hill, one of these themes is
+sure to get most anyone who plays it.
+
+Guilt:
+------
+At least guilt shows that the person is showing some signs of sorrow
+and penitence though it also goes to show that something irrevocable
+has taken place.  Primarily, when James rediscovers the fact he killed
+Mary, he starts feeling guilty, and as he couldn't anything about it.
+Eddie, on the contrary, feels no guilt in the adventure, but that's
+what makes you wonder more and more about him until you find out what
+he's truly about. Besides that, Harry feels guilt when he kills Cybil,
+wishing there is something he could have done.  Often what's more
+unsettling than guilt is how the characters do not feel guilt.  Such as
+the man that killed the children (Walter Sullivan) saying he wasn't
+responsible.
+
+Suicide:
+--------
+Suicide is a constant possibility in Silent Hill, exemplified very well
+by Angela.  When James sees her with the knife the first time, he knows
+what's going on and does his best to get the knife from her.  Later,
+she asks for it back but James refuses.  In an ambiguous end, she walks
+into the fire.  At that point however she may or may not be walking
+into an illusion, and CVX even thinks she may have been walking into
+Hell itself. There are several other references to suicide, notably
+when Eddie puts his own gun to his head, and I thought at least one of
+the corpses had a note that said it was suicide.  Eddie clearly didn't
+intend to commit suicide, but he was getting across the idea once again
+that it did happen.  And any of the carcasses you found may have chosen
+suicide over what may have happened to them.
+
+Deception:
+----------
+Deception is a large issue in that everything Maria does is a
+deception.  She was sent upon her way by Ernest, and seems a lot like
+Mary to James.  She is trying to deceive him the entire game long into
+believing that she is just as good as Mary and that he should just
+stick with her.  Also the town itself is deceiving in how it changes.
+It will lure you into one place that looks safe and in the blink of an
+eye it's far worse then where you used to be.  Just about everything in
+Silent Hill is deception, but it may not be consciously so.  Such as
+Cybil saying it isn't safe outside, but not every telling Harry the
+extent of it not being safe.
+
+Mental Issues:
+----------
+Eddie and Angela both have clear issues caused by past experiences.
+They each killed someone or many people to find relief to their
+problems. Eddie, in particular, took it way too far, shooting and
+endlessly taking people's lives just for the fun of it, showing that
+he's lost his sanity. Angela, on the other hand, may have killed her
+father because she was abused, but she seems to be having muted and
+changing thoughts about it. James isn't crazy per se, but the way he's
+imagining Maria and the monsters might prove he's not quite right in
+the head.  I'd place Eddie more as a Sociopath, where as Angela has
+issues with Schizophrenia in that she is sometimes herself, and
+sometimes her mother.
+
+Denial:
+----------
+Just about everyone in Silent Hill 2 suffers issues of denial.  James
+clearly has forcefully forgotten 3 years of his life, which Silent Hill
+all too brutally makes him remember.  Eddie doesn't believe that he's
+killed the people he kills, until he completely flips and then he's
+just doing it for fun more or less.  Angela isn't quite sure about if
+she killed her father or not, but she denies that she did it sometimes,
+and she is in denial about her mother.
+
+Anger and Hate:
+---------------
+This is an easy one because everyone gets angry some time or another.
+But in Silent Hill it is often pulled to extremes.  Before I go on and
+explain how everyone in Silent Hill 2 was hateful, I'd like to note
+that Harry was always composed and I think this says a lot for him.
+James was angry at Mary for taking all his time while she lay sick.
+Depending upon the ending, he may have killed her because of this hate.
+When Angela embodies her mother, she has nothing to say but spiteful
+words, because she has grown so distrusting of men.  Eddie hated being
+called fat, to the point where he snapped and started killing people,
+even when only he envisioned them as insulting him.
+
+Abuse:
+------
+Eddie and Angela were abused.  However they are on almost opposite
+sides of the spectrum, because Eddie was just called fat too many times
+and he couldn't take it, whereas Angela was physically and most likely
+sexually abused and she only killed her father, if that.  Eddie used
+the abuse as an excuse, which many people condemn these days.  While
+the abuse is guaranteed to cause problems for a person, it is always up
+to them as to how to deal with it.  Eddie took a very violent path,
+whereas characteristic of a female Angela took the abuse for far
+longer, and when she finally did do something about it, she always
+considered it as her fault, and couldn't live with herself.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+E. Differences of Silent Hill 2 and Silent Hill 2: Restless Dreams
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+The main differences between Silent Hill 2 and Silent Hill 2: Restless
+Dreams lie in three aspects: the features, the new ending, and Maria's
+mini game. Silent Hill 2 only contains James' game, Letter from Silent
+Heaven, while Silent Hill 2: Restless Dreams contains James' scenario
+as well as Maria's scenario. Silent Hill 2 contains five endings,
+Leave, In Water, Rebirth, Maria and the DOG Ending. Silent Hill 2:
+Restless Dreams contains those 5 endings as well as a sixth ending, the
+UFO ending. In Silent Hill 2, you must beat the game once to gain the
+extra options. In Silent Hill 2: Restless Dreams, they are unlocked
+from the beginning.
+
+Silent Hill 2: Restless Dreams is available for the Xbox. Although they
+do not contain the subtitle "Restless Dreams," the Greatest Hits
+PlayStation 2 version and the PC version of Silent Hill 2 are the same
+as Silent Hill 2: Restless Dreams.
+
+Silent Hill 2: Restless Dreams goes by the following names in various
+countries, with the systems named afterward:
+
+Silent Hill 2: Restless Dreams (Xbox, North America, Europe)
+Silent Hill 2 GH (PlayStation 2, North America)
+Silent Hill 2 (PC, North America)
+Silent Hill 2: Director's Cut (PlayStation 2, PC, Europe)
+Silent Hill 2: Saigo no Uta (Xbox, PlayStation 2, Japan)
+Silent Hill 2: Inner Fears (Xbox, Australia/New Zealand)
+
+All the above names are names for the same game. The ONLY version that
+IS NOT Restless Dreams (i.e. does NOT contain Maria's scenario or the
+UFO ending) is the PlayStation 2, NON-GREATEST HITS version released
+for North America, Europe and Japan.
+
+///////////////////////////////////////////////////////////////////////
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+6. T H E   T O W N   I T S E L F
+   t h e   t o w n   i t s e l f
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+///////////////////////////////////////////////////////////////////////
+
+++++++++++++++++
+A. Cult Presence
+++++++++++++++++
+
+Silent Hill was and is a normal resort town, perfectly similar to any
+other town, except that it is home to a small cult that sells
+narcotics. There are 3 towns, normal Silent Hill, Dark Silent Hill, and
+Fog Silent Hill. In the original game, it is made clear that the cult,
+headed by Dahlia Gillespie is after raising a demon, one of the old
+Gods, Samael. He is an eagle-winged beast with winged ears and a dog's
+snout, legs of a goat and arms of a strong man.
+
+Members of the cult include Dahlia Gillespie, Dr. Kaufmann, and two
+others, one Asian doctor and another man (probably Norman, the owner of
+the Young Motel). Dahlia, in charge of the cult, learns that Samael can
+be raised in an unborn infant, and proceeds to do ancient rituals to
+get her baby, conceived with Kaufmann, to be that infant.  She fails
+however, and only gets half of the angel, resulting in Alessa. She then
+decides that she will try again, for the other half, and has Cheryl.
+Neither of these children is normal, and thus cannot be assumed normal.
+Alessa is burned alive, in an attempt to raise her power, so that the
+cult (Dahlia) can draw off of it. She never heals, and in order to tap
+the power, must be kept alive.
+
+Kaufmann does this, but he needs an assistant; enter Lisa. Lisa works
+for the cult for a little while, seven years, then decides that it is
+evil, and puts the new baby, Cheryl on the side of the road. Alessa,
+being angry, and imbued with great power, creates dark Silent Hill.
+She hides her soul in this world, from her mother, who cannot enter
+this realm. However, as her power comes from Samael, Samael is now in
+the town, and his presence will never be fully erased. Thus even after
+Alessa is killed, the town retains the power to be black and evil, or
+foggy, depending upon the person entering the town, and their
+character. Dahlia also gains her dark power from Samael, which she uses
+to create fog Silent Hill, where she hides from society to do her
+worships.
+
+She summons Cheryl to this town, along with Harry, so that she will
+reach Alessa, and get the other half of the god. She believes that
+Cheryl, the other half of the god, will be drawn to her sister's pain,
+and thus Dahlia will find Alessa, and make the dark god whole. After
+Dahlia dies, Samael retains this dimension as well. Harry eventually
+comes in contact with Dahlia in her foggy realm, and gets the Flauros,
+an item able to summon the light power of the Archangel Metratron.
+When Harry finally confronts Alessa, she is matured in her dark power
+more than Cheryl, and so she fights for what Harry sees as evil,
+whereas all Alessa is really trying to do is escape the pain she is
+inflicted with. Harry uses the Flauros, and Metatron comes to counter
+the evil effects of Samael.
+
+Now that Metatron has entered the town, his essence too will never be
+fully removed. Dahlia finds Alessa thus, and brings her together with
+Cheryl, whom she has taken. (Not truly by force either, because Cheryl
+is drawn to her sister). Then Harry finds Alessa and Dahlia, and he
+puts an end to Alessa/Samael. Samael is evil and thus Alessa is bent on
+destruction, due to the evil his power is used for. Once his form is
+destroyed, he is weakened, but his essence remains. Only evil people
+are allowed to enter this darker realm of Silent Hill. The town is
+somewhat of a smaller world in itself, because it is good and evil.
+Once Samael was summoned into the child, and Metatron was summoned to
+do battle, they both retained a special place in their hearts for
+Silent Hill, because it is somewhat of a battlefield for good and evil.
+In this manner, each person coming into the town is either allowed into
+the normal, almost saintly town of Silent Hill, or the darker realms.
+The normal town is a resort town, and it used to be a sacred area, says
+Mary.
+
+The normal town is still imbued with happiness and light, and this is
+why Mary wanted to go to the town again, and overall it is a wonderful
+place to be. It becomes even more so when the darker realms are
+separated from the light, leaving almost Heaven on earth. Neither good
+nor evil can outdo one another, but they can make sure that the other
+does not overstep their bounds. The history of the town also lends
+itself to a Jihad, because of the evil that had occurred in the past.
+Then James enters, having left only a week prior, but now he has a sin
+on his soul. James gets into Silent Hill, and is thus brought to Hell
+for his wrongdoings.
+
+++++++++++++++++++
+B. The Drug Market
+++++++++++++++++++
+
+Silent Hill had its own market of drugs which Cybil and the Silent Hill
+P.D. investigated. She never solved the case, but Silent Hill reveals
+that Kaufmann was behind the marketing to the drugs to the tourists.
+White Claudia was one of those drugs. Lisa was addicted to the drug.
+The drug also played a vital role to the Silent Hill cult. White
+Claudia is only grown in Silent Hill, according to a newspaper article.
+The drugs are thought to have killed Silent Hill's mayor as well as a
+police officer named Gucci.  It seems that the drug influence was a
+large part of what happened in the town, but was not fully responsible.
+The drugs were just a part of the cult, and while Kaufmann worked the
+marketing, Dahlia used the drugs to enhance her control over the cult
+and get what she wanted.  Where the real life issues with drugs and
+possible supernatural happenings in Silent Hill end and begin, I cannot
+say.  But it is good how they are tied together...
+
+The drugs bring out the guilty pleasures in people. People clearly know
+that drugs might not be the best choice in life, and an example is
+smoking, but people do it anyway because their minds are too weak to
+overcome it. Lisa fell under that mind or lack of it. Lisa had a chance
+to escape Silent Hill, but in the end she could only save the second
+
+baby the cult created by leaving it to be found by Harry and his wife.
+
+Clearly, the world in real life has demonstrated that abusing something
+will not be good for you. Too much time relaxing gets you lazy. Eating
+too much causes you to become overweight and can be rather unhealthy.
+Drugs are the same. Too much can eventually harm your ability to think,
+and create unhealthy needs. Had Lisa been able to control herself, she
+could have escaped Silent Hill.
+
+The drugs exemplify several of the major sins of mankind, and bring
+perspective to how this cult is working.  The Greed for money, and
+Gluttony on peoples parts to get the drug only aided the cult.  Because
+the drugs also weakened the peoples minds, it made them all the more
+malleable for Dahlia.
+
+++++++++++++++++++++++++
+C. Silent Hill's History
+++++++++++++++++++++++++
+
+Silent Hill has had some bad occurrences in the past. There was evil
+all the way back from the Civil War, where a garrison was formed, and
+the town turned into a prison. Prisoners were all executed, regardless
+of crime, by either hanging or piercing. The guards and inhabitants who
+allowed this inhuman treatment to go on were evil, and their souls
+still haunt Silent Hill, a sort of purgatory if you will. They now act
+as minions of Samael. There have been several accidents in the town as
+well. A boat on Toluca Lake disappeared, and it is assumed it sank,
+with no survivors. The lake used to be a swamp, and it is where the
+prisoner's bodies were dumped. The water would be murky red. There was
+also persecution even before the war, of a Christian woman, and there
+have been traitors and killers in the town off and on. There was a
+killing of two small children, and the perpetrator was sentenced to
+life, but committed suicide with a spoon, 2" deep in his jugular vein.
+
+Despite being a lakeside town, it evolved like most towns do.
+Technology evolved the town, obviously, since the town is up-to-date
+with radios, TVs and definitely has that modern look to it. Given the
+description above, one might think that the town will seem old-like,
+but it obviously isn't. (True, modernity is more evident in SH2 than
+SH, but SH exploration was more indoor based than outdoor based, and
+they were in elder territory, another minus. SH2 does the best job at
+it.)
+
+++++++++++++++++++
+D. Old Silent Hill
+++++++++++++++++++
+
+This is the northwestern-most area of Silent Hill we all know about so
+far (there could be territory to the west). As the name implies, this
+is mainly a residential area for people who lived in Silent Hill for
+quite awhile. The only non-elderly feature is the elementary school,
+but its location makes sense as it cannot be placed in the shopping
+district or the tourist area. Lakeside Silent Hill borders the southern
+area and across the river to the east in Central Silent Hill. This is
+the most traditional aspect you get when you think of Silent Hill.
+Small town houses on each side of the road, tilted mail boxes, and old
+hatchback cars. There are old shops here, and no apartments etc. This
+is a small town area.
+
+++++++++++++++++++++++
+E. Central Silent Hill
+++++++++++++++++++++++
+
+This is located across the river east of Old Silent Hill. This isn't
+too much of a residential area like Old Silent Hill. This is a shopping
+area. There are many shops here, a small police department and a local
+hospital. There are also many restaurants, and little boutiques. This
+is an area where vacationers want to go when they aren't out on the
+lake relaxing. The Alchemilla Hospital is located here. 
+
+++++++++++++++++++++++++++++++++++++
+F. Lakeside Silent Hill and Palevile
+++++++++++++++++++++++++++++++++++++
+
+Located south of Old Silent Hill is the lakeside resort, north of the
+Toluca Lake. This is a vacationing area. For lower-income people is the
+Young Motel, and the hotel bordering the amusement park is for the 
+higher-class folks. There is an old viewing lighthouse on the lake,
+as well as an island. The lake is also used as a dock, with warehouses
+on it. The amusement park and hotel are in a smaller sub-district
+called "Palevile."
+
+++++++++++++++++++++++++
+G. Southvale Silent Hill
+++++++++++++++++++++++++
+
+On the southern side of the lake is Southvale. There are 2 parts to
+Southvale: East Southvale and West Southvale, but just Southvale is
+fine in terms of generalizing. Southvale is a district of town still 
+in development, as evidenced by the amount of construction still being 
+done on the town.
+
+It is basically a combination of Old Silent Hill with a pinch of 
+Lakeside Silent Hill, topped with some Central Silent Hill. 
+There is a park to look at the lake, a fire department, and a lot of 
+restaurants. Apartment buildings provide cheap housing, and those who 
+cannot afford to stay at the big hotel by the Amusement Park can opt 
+for Jack's Inn. It's basically for the younger people to go to. 
+There is another hospital here, Brookhaven Hospital, but it is a 
+mental institution rather than a physical treatment hospital.
+
+++++++++++++++++++++++++
+H. Other Potential Areas
+++++++++++++++++++++++++
+
+While Silent Hill now seems quite large, there are still other 
+places that need to be covered, perhaps in future areas: there is no
+high school or middle school around, and there doesn't seem to be a
+city hall anywhere. 
+
++++++++++++
+I. The UFOs
++++++++++++
+
+In the universe as humans know it, there are 2 forces, good and evil.
+But this is a somewhat comic approach by Konami, but not entirely
+comic, to show a 3rd force. The aliens, strangely enough, are always
+summoned with a jewel, or amulet that looks quite valuable. This shows
+that they know human's well enough to put out an item that they know
+will be used. Since the opposite of following most religions is lust
+for money, the aliens have somewhat used this against humans. Any human
+who uses the "Mammon" will be captured by the aliens. (Mammon is a term
+used in old English to refer to money, the opposite of holiness). The
+aliens simply wish to learn of the human existence. Since this is a
+comedic side-quest to both Silent Hill games, it has little symbolism
+in the bigger picture. But the fact that the aliens used jewelry as
+bait is notable.
+
+///////////////////////////////////////////////////////////////////////
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+7. T H E   R A D I O   A N D   F L A S H L I G H T
+   t h e   r a d i o   a n d   f l a s h l i g h t
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+///////////////////////////////////////////////////////////////////////
+
+The Radio is the thing that keeps making noise when a monster is
+around. It makes a white noise full of static, but barely anything
+seems to come out of it that is understandable, except the messages
+from Mary, or that ominous contest message in the elevator at
+Brookhaven Hospital. Really, the radio is really meant to scare you,
+because it pretty much forces you to keep the volume up. It's really an
+ingenious trick by Konami. If you turn it off, you never know when
+Pyramid Head might come by, but if you turn it on, James or Harry will
+get a new sense of fear inside them, as well as you, the player.
+-CVX
+
+Now that we have our technical aspect from CVX, I'll add my thoughts on
+the Radio as to why it is in Silent Hill story-wise. First off, you get
+partial messages through it. These help you keep your goal in mind, and
+get you going on your journey. Secondly, it's a long shot, but it could
+be a Holy Artifact sent to protect you (yes, a long shot indeed). Other
+than that, I'm going to say that it keeps the user in touch with
+reality, and that when it goes static, it is like a normal radio going
+static, you are loosing contact with your music, your reality. This
+means a monster is near, and your character is venturing back into
+haziness, the unreality that is Silent Hill.
+
+The flashlight is also a symbolic element if you ask me. What does it
+do? It provides light in dark areas.  Again it seems as if the
+flashlight is just barely keeping you in touch with reality, it's light
+keeps you from fading into complete darkness.  Each character has had
+one, and if you notice they don't seem to ever run out of batteries
+(except James' conveniently timed light failure in the bug room).
+Again, I would say that this is more than a normal flashlight, and
+maybe it doesn't even exist, but the knowledge that the protagonist
+thinks that he/she has it is enough for them to see clearly what they
+want to, and to disregard what is in the dark. Also, though all other
+horror games have put the flashlight as an item that requires one hand
+to use, as an actual utility flashlight, Silent Hill characters have
+always kept it near their body, specifically their heart. Interpret
+that as you will. Seems kind of nice to me.
+-Orca
+
+///////////////////////////////////////////////////////////////////////
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+8. F R E Q U E N T L Y   A S K E D   Q U E S T I O N S
+   f r e q u e n t l y   a s k e d   q u e s t i o n s
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+///////////////////////////////////////////////////////////////////////
+
+Q. Where is Silent Hill?
+A. It is somewhere in America, but no specific detail and location is
+given. There are lots of towns with lakes within them, but any outside
+features noting them would be nice, like a forest zone, mountain,
+river, etc. America will just be fine, though the northern accent
+in America is more common, making it seem like it wouldn't be somewhere
+in the south.
+
+Q. Who where those two guys with Dahlia and Kaufmann during the
+flashback in Nowhere?
+A. I'm willing to bet money that one of them was Norman, the Young
+motel owner. Norman was working with Kaufmann and Dahlia in getting
+drugs around Silent Hill, and hiding them as well.  These people
+were there primarily to show that the cult was no two-bit operation; it
+was a large underground organization that had people such as doctors
+involved in it.
+
+Q. Can we explore Old, Central and Lakeside Silent Hill in SH2/SH3?
+A. No, unfortunately, we can only explore a little bit of Lakeside
+Silent Hill by exploring Paleville. The amusement park in Silent Hill 3
+is the closest we'll get to the SH1 areas. However, the upcoming 
+Silent Hill Origins for the PSP allows us to explore Old and Central
+Silent Hill once again. 
+
+Q. How do Cybil, Kaufmann, Laura, Eddie, Angela, Vincent, Douglas and
+Claudia get around town with all the blocked roads and chasms?
+A. Why ask, that's part of the fun of the game.  Anyway, as I've said
+before there are different Silent Hills, and getting around one of them
+is entirely different than getting around another version.  Laura more
+than likely was just walking around a very nice town having a good
+time.  As to the other characters, they probably either knew their way
+around, or (this is a reach) had teleporting devices (it was a magical
+mystical cult and all that).  Anyway, as I said this shouldn't be one
+of your concerns, all that matters is how you get around.  Dark and
+foggy Silent Hill are more illusions of reality than actual reality, so
+how people got places isn't an issue. As of Silent Hill 3, the
+roadblocks aren't really an issue in this game. Getting around isn't
+much of a problem.
+
+Q. Who is Ernest Hemingway?
+A. Ernest Hemingway, who Maria jokingly accused Ernest Baldwin of
+being, was an author of many stories with very discreet, but deep
+meanings. Ernest Hemingway married several times, and killed himself in 
+1961. He held many kinds of beliefs in the world, all of which can be 
+found here, where I got a bit of this information:
+
+http://www.ernest.hemingway.com/page9a.htm
+
+Q. Why does it snow in Silent Hill but not in Silent Hill 2/3?
+A. I do not know, really. Silent Hill 2 was essentially the foggy town
+itself while SH was fog and snow. It can be a lot of factors, from a
+different internal presence of the town to the limitations of the
+hardware the developers were using to develop SH2.  Also notice that
+though it snowed it never actually collected snow anywhere (due to the
+limits of the PSone).  So this may have been just to show that there
+was turmoil in the atmosphere of Silent Hill and that the snow was a
+result.
+
+Q. What is it about James that makes Samael want to torture him?
+A. It's never fully explained WHY Silent Hill wants to hurt James so
+badly. Harry is understandable, but not James. There could be a number
+of theories. Mary could have been addicted to White Claudia, causing
+her illness, she could have been part of the cult, or she could have
+been someone Samael just liked having around, but it's never explained.
+More than likely Samael wants to get at James for his denial of what
+he's done.  That's his dark little secret, and Samael loves prodding
+him about it. 
+
+Q. Which is the best version of SH2?
+A. Pretty much any versions that have the Maria minigame. They're all
+identical, though the PC version might lag behind in some aspects
+because of reported glitches. The Xbox game has a terrible framerate
+and blurrier CG. The PS2 version has less dynamic lighting. Pick and
+choose, people.
+
+Q. Where can I buy ALL the Silent Hill games?
+A. All videogame stores will carry Greatest Hits versions of Silent
+Hill and Silent Hill 2, and most will carry Platinum Hits versions of
+Silent Hill 2: Restless Dreams for Xbox. The Silent Hill: Play Novel is
+a rare item nowadays, even in Japan, so try Ebay. Silent Hill 3 and 4
+have become rare over the years, so check Ebay or your used game store.
+
+Q. What are film inspirations of the Silent Hill series?
+A. The games were really inspired by any films.  The game writer
+(Akihiro Immamura) said that he liked watching all sorts of horror
+films, but that he wanted his to be original.  If anything, Silent Hill
+resembles the style of the movie "EraserHead" by David Lynch.  Most any
+horror movie will resemble Silent Hill in one respect or another, but
+there are a few that look more like it, such as "Jacob's Ladder" or
+"The Ring," in a sense that "The Ring" just never ends unless you do
+something right. "Session 9" also held the atmosphere of the game for
+awhile.  And who knows, maybe "28 Days Later" with its post apocalyptic
+feel will be a bit like it.
+
+Q. Why was Silent Hill 3 released in PAL territories first?
+A. Silent Hill 2 sold very well in Europe, while sales fell slightly
+in Japan compared to the original game and were consistent in North
+America. Therefore, Konami placed top priority in the European version
+of the title. 
+
+Q. Why do you choose for Cybil to die in Silent Hill?
+A. In Silent Hill 3, Heather's pendant contains Aglophatis.  She 
+obviously received it from Harry, and Harry only acquires Aglophatis
+once in Silent Hill. If Harry saved Cybil with it, then Heather 
+couldn't end up with a sample (Harry discards the bottle after he uses
+it). So, Harry escaped with his scooped up sample because didn't know 
+to use it on Cybil. Him not knowing what to do with the bottle made 
+sense, because no one actually told him what the stuff was for. 
+However, he witnesses the power of Aglophatis when Kaufmann uses it. 
+His suspicions of the god still residing in Heather caused him to give 
+her the pendant with the Aglophatis in it. Also, Cybil is never 
+mentioned in Silent Hill 3. It's quite unfortunate because Cybil was a 
+good character. 
+
+Q. How does Silent Hill Origins fit into the plot?
+A. It's a prequel to the original Silent Hill, and features Alessa. 
+Alchemilla Hospital is one of the locations, providing a good tie-in
+to the original game (and to SH3). 
+
+Q. Will you cover Silent Hill Origins?
+A. Maybe, but no guarantees. 
+
+Q. Does the movie tie into the games?
+A. The Silent Hill movie was based on the original Silent Hill with
+elements from the other games, but didn't follow the plot exactly the
+same. Therefore it should not be considered in the universe of the 
+games. 
+
+///////////////////////////////////////////////////////////////////////
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+10. C O N C L U S I O N
+    c o n c l u s i o n
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+///////////////////////////////////////////////////////////////////////
+
+Thanks for reading this guide. We hope it was a useful resource for
+information on the first three Silent Hill games. 
+
+cvxfreak would like to thank:
+
+-Family and friends
+-Orca782 for letting me add to this document
+-President Evil (Dan Birlew) for a lot of inspiration and ideas
+-CJayC for accepting this at GameFAQs
+-Stephen, Jon and Hilary for putting this on IGN
+-Konami for making Silent Hill
+
+Thank you for reading this guide, I hope it helped you understand this
+tremendous game. I am always here for questioning about the plot guide
+section, whereas I'm sure CVX is far more up to date on the technical
+aspects and such of the game. I'd recommend emailing me for questions
+on plot, and email CVX with game questions, game version questions,
+etc. Thanks a lot. -Orca (Orca782@hotmail.com)
+
+Orca782 would like to thank:
+
+-Gustav Davidson: Dictionary of Angels
+-GameFAQs: Cool site
+-Konami: Very ambiguous game.
+-President Evil: Some material in my guide, and his idea of a plot
+guide.
+-cvxfreak: For lots great stuff in here, and his help/allowing of my
+help on other guides.
+
+End of document.
+---
+
