@@ -13,16 +13,15 @@
 
 import boto3
 import json
+from botocore.config import Config
 
-comprehend = boto3.client(service_name='comprehend', region_name='region')
-                
+comprehend = boto3.client(service_name='comprehend')
 text = "It is raining today in Seattle"
+# text = input("Please enter the text that should be parsed for sentiment analysis :")
 
-print('Calling DetectSentiment')
-print(json.dumps(comprehend.detect_sentiment(Text=text, LanguageCode='en'), sort_keys=True, indent=4))
-print('End of DetectSentiment\n')
-
-
-              
-  
-
+print('#=== Calling DetectSentiment ===#')
+response = comprehend.detect_sentiment(Text=text, LanguageCode='en')
+print(response)
+print()
+print('#=== End of DetectSentiment ===#')
+print("The sentence you provided has a sentiment of:", response['Sentiment'])
