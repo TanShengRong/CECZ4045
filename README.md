@@ -49,7 +49,7 @@ ___
 
 3.3 Application (10 marks)
 
-> ![q3_3](./question3_3/q_3_3.png)
+> ![q3_3](./question_3_3/q3_3.png)
 
 ___
 
