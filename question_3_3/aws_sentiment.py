@@ -22,6 +22,5 @@ text = "It is raining today in Seattle"
 print('#=== Calling DetectSentiment ===#')
 response = comprehend.detect_sentiment(Text=text, LanguageCode='en')
 print(response)
-print()
 print('#=== End of DetectSentiment ===#')
 print("The sentence you provided has a sentiment of:", response['Sentiment'])
