@@ -5,7 +5,8 @@ import json
 import requests
 import pandas as pd
 import os.path
-
+import multiprocessing as mp
+#import time
 
 class SentimentAnalysis:
 
@@ -16,7 +17,12 @@ class SentimentAnalysis:
         self.sentiments = None
 
     def query_sentiment(self):
-        self.sentiments = self.df["comment"].map(self.query_api)
+        # do multiprocessing when calling API
+        no_threads = mp.cpu_count()
+        api_pool = mp.Pool(processes=no_threads)
+        self.sentiments = api_pool.map(self.query_api, self.df["comment"])
+        self.sentiments = pd.Series(self.sentiments)
+        #self.sentiments = self.df["comment"].map(self.query_api)
 
     def query_api(self, comment: str):
         payload = {
@@ -45,8 +51,10 @@ if __name__ == "__main__":
     # filepath = "30_reviews.csv"
     if os.path.exists(filepath):
         print("Classifying using AWS Comprehend...")
+        #start_time = time.time()
         sa = SentimentAnalysis(pd.read_csv(filepath))
         sa.query_sentiment()
         sa._print()
+        #print(time.time() - start_time)
     else:
         print("Please check filename and location")
