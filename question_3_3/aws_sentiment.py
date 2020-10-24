@@ -19,7 +19,6 @@ class SentimentAnalysis:
         self.sentiments = self.df["comment"].map(self.query_api)
 
     def query_api(self, comment: str):
-        return True
         payload = {
             "text": comment
         }
