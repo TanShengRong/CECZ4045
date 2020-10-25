@@ -32,8 +32,33 @@ class SentimentAnalysis:
         r_dict = json.loads(r.text)
         return r_dict['Sentiment'] if r_dict['Sentiment'] != "MIXED" else "NEUTRAL"
 
+    def sentiment_match(self, stars: pd.Series):
+        return_list = []
+        for index, star in stars.items():
+            star_rating = star.split(" ", maxsplit=1)[0]
+            int_star_rating = int(float(star_rating))
+            review_sentiment = self.sentiments[index]
+            if review_sentiment == "POSITIVE":
+                if int_star_rating < 4:
+                    return_list.append(False)
+                else:
+                    return_list.append(True)
+            elif review_sentiment == "NEGATIVE":
+                if int_star_rating > 2:
+                    return_list.append(False)
+                else:
+                    return_list.append(True)
+            else:
+                if int_star_rating==1 or int_star_rating==5:
+                    return_list.append(False)
+                else:
+                    return_list.append(True)
+        
+        return pd.Series(return_list)
+    
     def _print(self):
-        _df = pd.concat([self.df['stars'], self.df['comment'], self.sentiments], axis=1, keys=['Rating', 'Review', 'Sentiment'])
+        correlated = self.sentiment_match(self.df['stars'])
+        _df = pd.concat([self.df['stars'], self.df['comment'], self.sentiments, correlated], axis=1, keys=['Rating', 'Review', 'Sentiment', 'Correlated'])
         print(_df)
 
 
