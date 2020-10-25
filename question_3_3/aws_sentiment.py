@@ -30,7 +30,7 @@ class SentimentAnalysis:
         }
         r = requests.post(self.url, json=payload)
         r_dict = json.loads(r.text)
-        return r_dict['Sentiment']
+        return r_dict['Sentiment'] if r_dict['Sentiment'] != "MIXED" else "NEUTRAL"
 
     def _print(self):
         _df = pd.concat([self.df['stars'], self.df['comment'], self.sentiments], axis=1, keys=['Rating', 'Review', 'Sentiment'])
