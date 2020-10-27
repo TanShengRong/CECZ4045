@@ -69,6 +69,7 @@ def length_distributor(token_list, report):
             else:
                 report.writelines(L)
                 report.write("\n")
+                L.clear()
                 counter = 0
 
 
