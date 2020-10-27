@@ -1,0 +1,1110 @@
+
+
+              .|'''.|  '||' '||'      '||''''|  '|.   '|' |''||''| 
+              ||..  '   ||   ||        ||  .     |'|   |     ||    
+               ''|||.   ||   ||        ||''|     | '|. |     ||    
+             .     '||  ||   ||        ||        |   |||     ||    
+             |'....|'  .||. .||.....| .||.....| .|.   '|    .||.   
+                                                                   
+                                                                   
+                      '||'  '||' '||' '||'      '||'      
+                       ||    ||   ||   ||        ||       
+                       ||''''||   ||   ||        ||       
+                       ||    ||   ||   ||        ||       
+                      .||.  .||. .||. .||.....| .||.....| 
+                                                          
+                                                          
+          ..|''||   '||''|.   '||'  ..|'''.|  '||' '|.   '|'  .|'''.|  
+         .|'    ||   ||   ||   ||  .|'     '   ||   |'|   |   ||..  '  
+         ||      ||  ||''|'    ||  ||    ....  ||   | '|. |    ''|||.  
+         '|.     ||  ||   |.   ||  '|.    ||   ||   |   |||  .     '|| 
+          ''|...|'  .||.  '|' .||.  ''|...'|  .||. .|.   '|  |'....|'  
+                                                                       
+                                                                             
+                                                                   
+             .--. .     .        .              .                  
+             |   )|    _|_      / \             |           o      
+             |--' | .-. |      /___\  .--. .-.  | .  ..--.  .  .--.
+             |    |(   )|     /     \ |  |(   ) | |  |`--.  |  `--.
+             '    `-`-' `-'  '       `'  `-`-'`-`-`--|`--'-' `-`--'
+                                                     ;             
+                                                  `-'              
+
+             +====================================================+
+                       Written by ChildofValhalla/TheSnake
+
+                      the_bloodredsky (at) yahoo (dot) com
+
+                With notes and additional writing by WanderingOne
+
+                    dragon_serenade (at) hotmail (dot) com
+
+                                  Version 3.0
+                              
+                                    10/07/08
+             +====================================================+            
+
+
+
+
+To start things off, I suppose I should state the following: THIS IS A
+PLOT ANALYSIS. IT CONTAINS SPOILERS. IN FACT, THIS WHOLE DOCUMENT IS ONE
+BIG SPOILER. IF YOU HAVEN'T COMPLETED THE GAME OR YOU DON'T WANT TO KNOW
+WHAT THE HELL THE SYMBOLISM AND STORYLINE MEAN, THEN DON'T READ THIS.
+
+Please note that this document assumes you have played and completed the
+game and know the main story.
+
+This is NOT the FINAL version. I will continue to update it as needed.
+
+This is a complete guide to the plot of Silent Hill Origins. Some people
+actually didn't pick up on all the background symbolism and surprises!
+This guide will bring forth all elements of the truth behind the game--
+in my words. Remember, none of this has been officially announced by the
+creators themselves, and it is all theory. However, it has been strongly
+implied, which I will show.
+
+Again! THIS IS WHAT I THINK. NOT WHAT I KNOW (however I am the smartest
+man alive, duh!)
+
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+       TABLE OF CONTENTS
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+1.) Travis' Mental State/Overview
+
+2.) Travis as the Butcher
+ 2.1) Pyramid Head/The Butcher
+ 2.2) Persona Documentation
+ 2.3) Travis Grady: Serial Killer (Second Ending)
+   2.31) Women/Mirrors
+   2.32) Evidence
+ 2.4) Travis Grady: Innocent (First Ending)
+   2.41) Women/Mirrors
+   2.42) Astral Projection: Reason to the Madness of Silent Hill
+   2.43) Evidence
+   2.44) The Good Ending
+3.) Travel Through Silent Hill
+  3.1) Hospital
+  3.2) Sanitarium
+  3.3) Theatre
+  3.4) Motel
+
+4.) Weaponry
+
+5.) Beastiary
+ 5.01) Straight-Jacket
+ 5.02) Nurse
+ 5.03) Remnant
+ 5.04) Carrion
+ 5.05) Caliban
+ 5.06) Ariel
+ 5.07) Twoback
+ 5.08) The Butcher
+ 5.09) Memory of Helen Grady
+ 5.10) Memory of Richard Grady
+
+6.) Conclusion
+
+7.) Contact
+
+8.) Version History
+
+9.) Afterword
+
+Press Ctrl+F and type in the section number to jump to that section!
+
+
+++++++++++++++++
+++++++++++++++++
+1.) TRAVIS' MENTAL STATE/OVERVIEW
+++++++++++++++++
+++++++++++++++++
+
+
+First, we will explore the fact that Travis Grady is mentally ill in
+some way:
+
+The game opens up with a dialogue between Travis and a fellow trucker.
+Note that the other trucker's first line is "Travis, you messed-up
+sonofabitch!" Here we can see the first third-party opinion of Travis.
+
+The next interesting bit comes once again from the trucker's dialogue.
+He mentions that Travis has "problems", and Travis gets offended.
+
+And our third clue is the descriptions of the game before it was released.
+Travis was introduced as a "mentally disturbed" trucker. 
+
+When Travis gets out of his truck to see if Alessa's alright, it is clear
+that he is actually a kind and caring person, seeing as he was concerned
+about her well-being. This (and the fact that he runs into a burning house
+to save a random person, who turns out to be Alessa) shows us that in
+order for Travis to be a serial killer, he does it involuntarily, with
+no memory of it whatsoever. It is established that he has split
+personalities, which will be touched on again in the "Butcher" section.
+
+*NOTE: Travis may very well be psychosomatic which would explain his
+suppression of memories and their being gradually released as 
+manifestations.
+
+*Updated Note: Given his behavioral patterns and personality coupled 
+with the trauma he sustained as a child, it is very likely Travis suffers 
+from a mild case of Complex Post Traumatic Stress Disorder (or, if one 
+wants to be generic, PTSD) in addition to being psychosomatic.
+
+C-PTSD can be caused by childhood abuse, and life threatening situations.
+
+ The symptoms of C-PTSD include:
+ 
+ 1) Variations in consciousness, such as forgetting traumatic events,
+ reliving traumatic events, or having episodes of dissociation (during
+ which one feels detached from one's mental processes or body 
+
+ 2) Varied changes in the perception of the perpetrator, such as
+ attributing total power to the perpetrator or becoming preoccupied
+ with the relationship to the perpetrator, including a preoccupation
+ with revenge  
+
+ 3)Alterations in relations with others, including isolation, distrust... 
+
+ 4)Changes in self-perception, such as a sense of helplessness, shame, 
+guilt, stigma, and a sense of being completely different from other 
+human beings" (~Wiki)
+
+ The above mentioned symptoms would coincide with the trauma Travis has 
+been through as well as his current behavior.
+
+As we can see he has suppressed his own memories (psychosomatic reaction), 
+but he has also begun to relive them over the course of the game (IE the 
+flashbacks before the Memories boss fights, in the theatre etc...). 
+"Varied changes in the perception of the perpetrator..."one can see as 
+being the way Travis sees his mother, still seeing her as his mother 
+despite what she tried to do, then being forced to fight her (owing to 
+his need for revenge as seen by his repressed self). In short, he sees 
+her in two lights: his mother, and his enemy. The same can be said about 
+his father (he remembers the caregiver who looked after him, then the 
+swinging corpse of the man who left him alone).
+
+Point 3 would owe to how his past has effected him in the present: an 
+isolated job, without any close relationships (to our knowledge, anyway). 
+As far as distrust may go, we don't know how trusting Travis is but, 
+given his past (nearly gassed, left alone in wake of father's suicide), 
+one could include the possibility of some issues with trust. 
+As for point 4,we can see the guilt and shame over his position in the 
+past as well as his helplessness as a child, however these seem to be 
+things he recovered from in the long term (note how he ran into the 
+burning Gillespie residence to save a perfect stranger? That is definitely 
+not a case of someone being helpless.).
+Also if one could attribute his guilt being suppressed with his memories, 
+one may make the connection between the Carrion's size increase (see 
+bestiary) and the memory release. 
+
+Also note, if you will, the posters on the walls of the Cedar Grove 
+Sanitarium...yes, the ones that read 'PTSD: Fact or Fiction?'
+
+
+++++++++++++++++
+++++++++++++++++
+2.) TRAVIS AS THE BUTCHER
+++++++++++++++++
+++++++++++++++++
+
+This section will explore the enigma that is the Butcher--being as it is
+representative of a darker side of Travis; a split personality. There are
+two possibilities here: Travis is (A) a serial killer or (B) he is an
+innocent man and the Butcher represents hate. Both possibilities hold 
+very plausible arguments.
+
+===
+2.1) PYRAMID HEAD/THE BUTCHER
+===
+
+From the very beginning of development, it was said by Oertel and the
+rest of the team that Silent Hill Origins would draw upon the same
+plot style of Silent Hill 2: the main character is a killer and doesn't
+know it, and, through representations of himself and his victim, he is
+tortured into realizing it. Well, they were right. Silent Hill Origins
+follows this formula entirely. Let's look at the similarities:
+In Silent Hill 2, Pyramid Head represents James, who has killed his wife.
+Pyramid Head is seen raping mannequin monsters and killing Mary's
+doppleganger, serving as a symbolic reflection of James' inner demon. 
+Many say that the Butcher of Silent Hill Origins is almost identical. 
+That is because, in essence, they are the same character.
+
+Whereas Pyramid Head's killing of Maria is meant to show James that he
+killed his wife, Travis' own inner demon, the Butcher, does almost
+exactly the same job. Shown dragging creatures around, hanging them
+upside down, and torturing them with a giant meat cleaver, the Butcher
+represents a darker side of Travis. Many clues lead to this conclusion,
+far beyond the fact that the development team promised the concept would
+be similar to that of Silent Hill 2.
+
+It has been suggested that the Butcher's appearance may be inspired by
+Travis' previous visits to Silent Hill; he may have been to the Historical
+Society and seen pictures of the "Executioner" (Pyramid Head). Also note 
+the painting of Pyramid Head in the burning house--Travis claims that he
+can't help but look at it. Perhaps it is then that the image of the
+Butcher is born?
+
+Another interesting thing to note is their headwear: Pyramid Head's
+triangular helmet was designed to "look painful" and may represent James'
+self-suffering, whereas the Butcher's half-mask thing may represent the
+split personality concept the entire game rides on.
+
+
+
+
+===
+2.2) PERSONA DOCUMENTATION
+===
+Two documents found in the theatre titled "An Id Torn in Two" and
+"Repression and Coercion" further strengthen Travis' dual personality.
+The first document mentions abused children developing seperate personas:
+
+"Throughout these case studies, we see the victims' brains struggling to
+cope with the conflict caused by abuse at the hands of a loved one. In
+many of the cases, the abused child's self appears to be split in two.
+
+One personality continues to love the abuser and seeks their approval.
+The other personality contains all the rage and anger of the abused and
+in many ways becomes a mirror of the abuser, seeking to inflict its pain
+on others. Sadly, it is often this self that becomes dominant."
+
+This file suggests that Travis becomes the enraged, crazy person his
+mother was when she tried to kill him. While this does not implicitly
+state that he becomes a killer, it certainly supports the theory. 
+Notice the use of the word "mirror."
+
+*NOTE: this may be more indicative of Alessa (bringing her family history 
+into question as well as what we know of her being divided spiritually 
+at the end of the game)
+
+"Repression and Coercion" states the following:
+
+"It is a fact well known to intelligence services and military agents:
+the more a mind censors itself, the easier it is for outside influences
+to take hold and piggyback such mental programming. This is why those
+agencies chose for their pawns those individuals most compromised by their
+own mental issues."
+
+This document suggests Travis' repression of his other self; he is not
+consciously aware of his other persona, i.e. the Butcher.
+
+When exploring the idea of Travis being the Butcher, it is interesting to
+note that the Butcher is not seen in the Otherworld--it is only seen in the
+"standard," foggy world. This supports the idea that Travis may "become one"
+with the Butcher when travelling to the Otherworld.
+
+
+
+
+===
+2.3) TRAVIS GRADY: SERIAL KILLER
+===
+
+This possibility states that the Butcher is a representative of Travis
+being a murderer, tying clues and evidence to the second ending
+achieved by killing at least 200 enemies within the game.
+
+--
+2.31) WOMEN/MIRRORS
+--
+
+Through the second ending, it shows that at least one of Travis' victims
+was a woman he claimed to be his "mama." It can be assumed that he did
+this to many women. It is my belief that he attacked women who reminded
+him of his mother.
+
+Another interesting concept is the fact that almost all of the women's
+bathrooms are the only ones you can go in, and a large amount of those
+will transport Travis to the Otherworld. The fact that he can transfer
+over to the Otherworld in these areas may symbolize his "transformation"
+into his other half, the Butcher. You must also think about the fact that
+the Otherworld is accessed by mirrors...
+
+Travis' mother also claimed to see the Otherworld in the mirrors while
+she was going insane. It is clear that Travis is having a similar
+experience. It is also possible that Helen told Travis about the "people"
+she saw in the Otherworld, in order to make him understand her purpose
+for trying to kill him.
+
+It has also been suggested that the people in the mirrors have led to
+the creation of the Butcher, serving as a further catalyst for Travis'
+delusions.
+
+**Note that it is most likely that Travis' mother couldn't actually
+travel through mirrors; she told this to him as a child and he believes
+it. And as long as he believes it deep down, it can become a reality in
+his Silent Hill experience.
+
+--
+2.32) EVIDENCE
+--
+
+A small clue can be found in the theatre. A note mentions that someone
+saw the Butcher in the motel. It has been shown that notes found within
+the game are real, and the letter could have been written about someone
+seeing a famous serial killer known as the Butcher, who is Travis. The
+most interesting part of the note is that it mentions he was seen at the
+motel.
+
+The Butcher is not only seen dominantly in the motel, but is also
+confronted there. There is a room here that has drawings and writings
+all over the walls of the Butcher, and, upon peeking through a hole into
+the room, he can be seen standing there. He is also a boss in the motel,
+where he is slowly killing a Twoback monster. The fight isn't
+particularly hard, but when the Butcher is defeated, Travis takes the
+Great Cleaver and forcefully slices it into him. This shows Travis'
+aggression as well as his nonwillingness to accept that he is in fact
+the Butcher.
+
+
+And of course, our final bit is the second ending. When the game is
+completed after having killed 200 or more enemies, an ending showing
+Travis strapped down is shown. While he is struggling, images of the
+Butcher flash on and off, and voices can be heard. One is of a woman
+saying "No, I'm not your mama," then clearly being killed. This shows
+that Travis killed people in a delusion, possibly thinking certain
+women were his mother or hating them for resembling her. He holds a
+dark place in his heart for his mother, since she tried to kill him
+when he was young. Another voice is of the motel manager, telling Travis
+that the motel is closed, then being killed. What this tells is that
+Travis would bring victims to the motel and kill them.
+
+When you complete the game with this ending you receive the "Butcher"
+Accolade, a "Butcher" costume, and the Great Cleaver. The description
+for the accolade reads "You have helped Travis realize a terrible truth."
+This strengthens the idea that this ending is in fact the true ending,
+aside the SH2 linkups and the fact that the other ending doesn't really
+match Silent Hill's feel.
+
+The costume bears the description "the clothes of a famous serial killer."
+This leads us to further believe that Travis is a serial killer, and has
+killed far more than one person. Imagine if you will, newspaper headlines
+bearing the text "BUTCHER STRIKES AGAIN!" Travis has possibly killed many
+people, gained notoriety, and is being punished by the town of Silent Hill
+itself.
+
+About the photos found in the motel: Did you notice in the opening that
+Travis' truck cab is filled with photographs? There are two very plausible
+conclusions about the photos found in the motel: (1) They were taken by
+Travis as a reminder of what crime's he committed (see the film 'Memento')
+or (2) they are manifestations of the "truth" becoming clear to Travis; his
+own personal self-revelation (per James' at the end of Silent Hill 2). Also
+consider the photo of his father. Does Alex perhaps believe he is responsible?
+
+
+===
+2.4) TRAVIS GRADY: INNOCENT MAN
+===
+
+by WanderingOne
+
+This possibility holds an argument against the serial killer theory,
+stating that Travis is not a murderer but is in fact innocent, and that
+the Butcher represents hate for his mother, father, and possibly the
+entire town of Silent Hill.
+
+As was stated, Travis' dark half is the Butcher
+(a monster that resembles Pyramid Head from SH2), a monster that 
+manifests itself in both the regular and otherworld of Silent Hill. 
+Travis as he is normally (the caring persona) is the mirror of the 
+homicidal Butcher (the dark persona) and is not aware of his dark half 
+as per the 'Repression and coercion' note in the Artaud Theater. The 
+split in persona happened after his family fell apart (mother trying to 
+kill him, father's suicide).
+
+What if the notes left in the theater were more of a foreshadowing to 
+Alessa's future situation (her soul split in twain, one half dark, the 
+other innocent?) instead of alluding to Travis' current situation? 
+
+If that were to be the case, then what of the Butcher? The Butcher still 
+represents Travis' dark self, feelings of anger felt towards his mother 
+for trying to kill him, and towards his father for killing himself. As 
+was the case with Pyramid Head of SH2 (the manifestation of James' inner 
+hate and his ability to kill), I'm skeptical that the same could be 
+said about The Butcher for the reason that we aren't given the concrete 
+fact that Travis has, indeed, killed anyone. Whereas James must state it
+in the game and thus removing any shadow of a doubt that he ended Mary's 
+life, we haven't the same information flow in Origins and can only 
+speculate with the audio of the second ending that he's done any wrong.  
+It may even be possible (if the notes refer to Alessa solely) that Travis 
+doesn't have a split personality at all and is simply repressing memories 
+from a traumatic time in his life.
+
+--
+2.41) WOMEN AND MIRRORS
+--
+
+ Our first introduction to the mirror world (other world) happens at the 
+very beginning of the game, in the opening cut scene where we see Alessa 
+beckoning to Travis in one of the truck's side mirrors. As we know, 
+Alessa is in fact not a figment of his imagination and is calling Travis 
+to rescue her through the power of the other world. This supports the 
+fact that Travis is not delusional about the mirrors being gateways. If 
+this is true, then what of his mother? When she was going mad, she talked 
+of there being another world beyond the mirrors. Given what we find out 
+as the game progresses, one can see that she was right; there is indeed a 
+mirror world (other world) which is a darker version of the regular 
+Silent Hill.
+
+As a rule, we know that the ground upon which the town of Silent Hill is 
+built is a sacred place (as Mary told us in SH2) though it was tainted 
+by the cults (the Order, the Holy Mother sect, etc etc...). We know that 
+there are monsters in the other world as there are in the regular Silent 
+Hill as well. Therefore it is plausible that Helen Grady wasn't going 
+insane when she talked with the 'people in the mirror', rather that she 
+was talking to the monsters on the other side. If that is to be the case, 
+what would be their reasoning is asking her to kill her son? Simple: being 
+demons of the Cult's making (or no?), they could foresee the arrival and 
+ritual Alessa would play a part in, her death to birth a new god. They 
+could also foresee, however, that years later Travis would return to 
+Silent Hill and save her, thus stopping the ritual and preventing the 
+birth of the dark god. If Travis had died at his mother's hands, then 
+Alessa's first ritual would've been a success as there would be no one 
+there to stop it.
+
+However, her attempt to kill her son and commit suicide failed when a 
+neighbor intervened, which started her downward spiral into insanity as 
+was documented at Cedar Grove Sanitarium (at which point she claimed she 
+could escape through mirrors but went nowhere at all).
+
+After his mother was locked away, young Travis didn't receive any real 
+maternal care (his father being the only caregiver) and had no mother 
+figure to look up to. This would've been when he began to harbor feelings 
+of hate and anger towards her for trying to kill him but we'll delve 
+into this later.
+
+As was noted in the Serial Killer argument above, the mirrors found are 
+predominantly in women's washrooms. This may tie into the idea of sexual 
+deprivation: guys generally don't go into women's washrooms for the 
+reason they may be labeled 'peeping Toms'. Though, more than likely, 
+the fact that Travis seems to make it a habit of using these rooms as 
+gateways could be more indicative of his mother; a room for just females 
+with a mirror, a place where men generally are not allowed (she drove 
+away her husband and tried to kill her son).
+
+**Note that it is most likely that Travis' mother couldn't actually
+travel through mirrors; she told this to him as a child and he believes
+it. And as long as he believes it deep down, it can become a reality in
+his Silent Hill experience.
+
+
+--
+2.42) ASTRAL PROJECTION: REASON TO THE MADNESS OF SILENT HILL
+--
+
+A conclusion we can reach for all this is that the Butcher is an astral
+projection of Travis' hate for his mother and father, not himself
+as a serial killer. As was mentioned in the 'Astral projection: the
+perfect assassin?” note:
+
+...amongst the tribes who have 
+developed the ability to control and
+focus their projections, there exists
+one that is feared throughout the
+whole community.
+
+Their shaman claims to have the
+ability to kill with thought alone,
+projecting his desire to kill into the
+body of the victim...
+
+It is possible that, contrary to the note found in the theater 
+concerning Id, Travis' darker personality wasn't the dominant personality 
+and was suppressed with his memories of Silent Hill by his good self, a 
+sort of mental defense that can be seen in a dozen plus cases of abuse 
+and trauma (IE person goes through trauma, mind suppresses memories, 
+person develops other memories to blot out the ones suppressed and 
+continues on- a psychosomatic reaction to extreme mental trauma). This 
+explains why he didn't recognize the town when he came to – his memories 
+were still under lock and key at that point.
+
+ Psychosomatics have their traumas hidden under mental layers which 
+eventually break down under stress, which explains the minor monsters 
+(Straight Jacket and Nurse) appearing first, followed by an appearance by 
+his dark Id (The Butcher) on the way to the sanitarium; slowly but surely, 
+his defensive layers were breaking down and the first things to surge 
+forth were his feelings/fears (in the forms of monsters) followed in the 
+sanitarium and motel by his memories (boss fight with The Memory of Helen 
+Grady and notes leading up to the fight with Richard Grady).As he remembers 
+more and more, Travis' dark persona (which has been completely freed) now 
+appears in the form of the Butcher and gets progressively violent in 
+accordance with the more he (Travis) learns. The Butcher seems to be a 
+projection of thought by Travis that, even though he isn't consciously
+thinking it, has enough power to manifest itself in the form of the monster
+(an astral projection) which goes around, slaughtering everything 
+indiscriminately; thus why when he's looking through the peep holes, he 
+sees the monster in the obsessive photo room then it's gone upon his next 
+glance. Partially the monster is real, partially it's in his head.
+
+This is the case until, finally, at the Motel, Travis confronts his dark 
+half and kills it once and for all, liberating himself from his murderous 
+hate and rage caused by his late parents.
+
+On a similar but different note, if Travis' mind is creating the monsters, 
+then we can also be sure that the increase in weaponry near the end of the
+game is also his doing; his mind has created monsters manifestations through
+the power of astral projection. In order to deal with those monsters, his 
+mind might've thought hard enough on survival that weapons began appearing. 
+Why? Because he needed them in order to survive the growing threat.
+
+--
+2.43) EVIDENCE
+--
+
+If  Travis isn't the Butcher physically speaking (aka going around killing 
+people at the motel of his own volition), then who did the 'Sketches' 
+theater note refer to?
+
+"Since what happened to Tony. I've
+dreamt about HIM more and more!
+THE BUTCHER!
+
+He looks just like that monster, the
+executioner!
+
+Now I've seen him when I'm
+awake. He's at my motel! It's HIM I
+swear it!"
+
+Again, this is answerable through the “Astral projection” note. Travis' 
+dark Id is being released slowly along with his memories that were 
+suppressed (as can be seen in the beginning when he starts remembering 
+his parent's funeral), it is completely possible that the strength of his 
+dark self is so strong it can be manifested while he's not even in town 
+in the place where it frequents (again, strength changes from this 
+person writing “I've dreamt about HIM more and more!” to “I've seen him 
+when I'm awake.” suggesting the dark Id has been growing stronger to the 
+point it is visible by others).
+
+ Due to the fact that Silent Hill was built on native American sacred 
+land (as was stated before), I have a tendency to believe that the power 
+of astral projection is the culprit (as well as the source for many of 
+the monsters).
+
+As for the sighting of the Butcher more and more at the motel, that can 
+be attributed to the complete release of the Butcher (split personality) 
+where it haunts the place where it was completely formed (with the 
+suicide of Travis' father being the final thread that helped the split in 
+persona).
+
+The fight between the Butcher and Travis is symbolic of Travis confronting 
+his inner demon and finally defeating it. This is also symbolic of his 
+finally conquering the rage and hate he felt for his parents after they 
+'left' him alone. The final swing of the great cleaver could be a final 
+blow asserting dominance over the fallen figure of hate and anger.
+
+Concerning the photographs used to support the serial killer hypothesis:
+
+The photographs of women and their causes of death serve as a foil to the 
+father's photograph and his cause of death: all the women died of obviously 
+fatal things that would be expected to cause death (overdose, shotgun 
+blast etc...). The fact that they all died with such widely recognized 
+causes of death can be considered a foil to the father's photograph and 
+cause of death. The father's cause of death photograph is different 
+because it is of the father and not another woman and the cause of 
+death isn't concrete as the other photographs; he died of a broken heart,
+(though we later learn he hung himself in the motel room). This series of 
+photographs may also just be seen as a prelude to Richard Grady's suicide 
+seeing as all the deaths listed are well known suicides (IE STABBING was 
+Juliet's end in 'Romeo and Juliet', an overdose killed Marilyn Monroe, a 
+snakebite killed Cleopatra etc...). 
+
+As for the second ending (after killing 200 plus enemies), it can be argued
+from the astral projection standpoint.
+
+One can't kill thought, and if Travis does start thinking of the
+anger and hate again without realizing it, he could allow unintentionally
+for another manifestation of The Butcher. In the case of the second ending, we
+see Travis strapped down and drugged while audio flashbacks(?) play (IE “No,
+I'm not your momma!” “Sorry, the motel's closed-”) and flashes of both the
+Butcher and Pyramid Head can be seen.
+
+The reason for the question mark is simple: we aren't 100% sure that these
+ audio clips aren't playing in real time or as true flashbacks.
+
+a) real time explanation: If the audio is being played in real time (IE
+the person is screaming it while Travis is tied down), then one can be
+sure that he's not responsible for their pain directly as he's 
+incapacitated. However, he is drugged, and his mind did call upon The 
+Butcher before without fully realizing it – feelings of panic and anger 
+arise from being restrained could easily conjure up the monster again 
+(especially in the state Travis is in at this point). It is also possible 
+that what he's hearing aren't actual people at all, but rather his mind 
+creating victims for his hate to kill while confined, thus leading to the 
+realization on Travis' part that he IS the Butcher--or, at least, in part 
+responsible for the monster's killing(? *you can't kill people if they 
+don't exist*)
+
+b) flashback explanation: If the audio clips are in fact flashbacks 
+(Travis reliving them as he struggles), then there might be a middle 
+ground instead of assuming he killed at least two people. After the 
+initial trauma of his childhood, Travis must've returned to Silent Hill 
+(or this could've been before he left) and lost it, mentally blacking 
+out and attacking the people heard in the flashbacks. Now let's assume he 
+was stopped in the attempt. In this case, he may have spent time in the 
+sanitarium (furthering his anxiety towards nurses resulting in the green 
+nurse monsters *green is a calming color found in a plethora of hospitals, 
+mainly mental*), largely unaware of his dark persona which remained 
+dormant. His memories now suppressed completely (maybe even out of denial), 
+Travis was his normal self as the shock of his position took hold. This 
+realization made his good self the dominant, pushing his anger and hate 
+to the back of his mind.   Flash forward back to the restraints, being 
+tied down might have sparked some anger reminiscent of his being locked 
+up while he recalls the voices of those he attacked due to his dark 
+personality... then coming to the realization that he is the monster 
+responsible for the attacks.
+
+That is, assuming that the second ending is canon (though, as this section
+is trying to prove, it is not).
+
+As for the accolade description ('You have helped Travis realize a terrible 
+truth') one can argue that you have made Travis realize that he had a 
+murderous split personality that harbored much resentment towards his 
+late parents, one that, had it been released while he was unaware of it, 
+might have actually caused harm to others.
+
+Unlocking the Butcher items (costume and Great Cleaver) is just another 
+reference to the Butcher being a part of his past; it is symbolic of the 
+monster being more than a suppressed memory, yet at the same time isn't 
+concrete enough to mean Travis is a killer. Even though the costume 
+description says 'clothes of an infamous serial killer,' this may only be 
+in reference to the Butcher monster, who ran around mercilessly killing 
+the monstrous citizens of the town.
+
+--
+2.44) THE FIRST ENDING
+--
+
+In the first ending we see that Travis finally makes it out of the town
+after defeating the demon the cultists summon and gets back into his 
+truck. Before he drives off, he sees Alessa in the side mirror holding 
+a bundle (her baby self) and resets the mile counter back to zero. As he 
+drives off we see that Alessa is actually physically there standing by 
+the roadside with her baby and no longer a ghost in the mirror as she 
+was in the beginning.
+
+The symbolism in this ending largely has to do with the mile counter being 
+set back. As we saw in the opening as soon as Travis neared Silent Hill, 
+the radio started to act up then, when he got even closer, and the mile 
+counter hit 365 (the number of days in a theoretical year), he started 
+getting flash backs. How the mile counter plays into this is that the 
+main tragedies he faced as a child were spread over the course of a year 
+as can be seen by dates of notes found within the game (1960-1961). At 
+the end of the game, we see that the mile counter has now moved on: 
+366, indicative of a new year. Travis resets the counter and, in doing 
+so, has come to grips with his past and drives off, leaving the town of 
+Silent Hill and all the pain associated with it behind in order to start 
+over. 
+
+
+++++++++++++++++
+++++++++++++++++
+3.) TRAVEL THROUGH SILENT HILL
+++++++++++++++++
+++++++++++++++++
+
+
+This section will walk through key areas in the game, explain their
+significance, etc. I won't cover small areas that don't have much to do
+with Travis' main psyche; i.e. I won't be covering the hospital part
+before the end that lasts for five minutes or less.
+
+===
+3.1) THE HOSPITAL
+===
+Although he went to the hospital to find Alessa, Travis' trip could be
+steeped in inner fear. The fact that it turns into the Otherworld and
+contains nurse monsters [see the section on nurse monsters for more on
+their possible place in symbolism] serves a possibility that Travis fears
+hospitals, or attributes them to the traumatizing time when he may have
+visited one shortly after being attacked by his mother.
+
+===
+3.2) THE SANITARIUM
+===
+Travis' trip to the sanitarium is certainly a return--he visited at times
+before as a child, and once broke into the female wing to find his mum.
+Here we find many documents about her and discover her condition. The
+most interesting things here are near the end. The female seclusion
+room, where Travis went through to meet his mother, is riddled with
+discturbing children's drawings, which were obviously done by he himself
+when he was younger. They depict such things as demons and characters
+with heads scribbled out. Upon inspection, Travis claims that they make
+him uncomfortable. It is made clear that Travis was deeply affected by
+his mother's attack, but why does he go to visit her even after this?
+It is because he has developed a second personality: a darker, more
+sinister personality, that will become the Butcher. He will switch
+between forgiving his mother and still loving her, to being aggressive
+and hateful towards her.
+
+*NOTE* The children's drawings may also indicate confusion onto his 
+emerging split personality and his attempt to keep it under control 
+(scribbling the heads out) *maybe as well as his own premature contact 
+with the mirror world (thus the demons), which would have been 
+suppressed?*
+
+*Updated not: The poster 'PTSD: Fact or Fiction' may be an indicator 
+onto what Travis suffers from (forementioned note)
+
+===
+3.3) THE THEATRE
+===
+Many flashbacks occur in the theatre, and may be tied to either Travis'
+supposed visits to the theatre or the possibility that his father and/or
+mother were actors there. Other than the possible symbolism with the
+Ariel [see the bestiary], I don't see much more here in the lines of
+Travis' backstory. However, a lot of the theatre's significance lies in
+its history with Alessa. It is mentioned here that a girl had visited the
+theatre and was scared of the Caliban costume, worn by an actor named 
+Tony. Tony shortly thereafter suffered a nosebleed, which was most likely
+caused by Alessa's powers.
+
+Notice the door puzzle that is based on the concept of light and dark...
+furthering the theme of duality within the game.
+
+===
+3.4) THE MOTEL
+===
+The motel is the final area (well, pretty much), and serves as the 
+climax of Travis' storyline. Travis once stayed here with his father,
+presumably when they went to visit his mother. The Butcher is seen
+here primarily, and it is revealed here that he is in fact the persona
+of Travis. For more info on this, see the next section. It is interesting
+to see that the Twoback monster is seen here dominantly, seeing as motels
+are usually places where people get funky, and presumably because Travis
+possibly raped his victims here. Note that I said "possibly."
+
+The ability to play voyeur and look through the holes into different
+rooms may suggest that Travis watched his victims in the same fashion.
+This may have no connection, but I think the fact that the photograph of
+his father has a strong bearing on this. Plus, why else would the holes
+be there?
+
+*NOTE* the peep holes are more than likely symbolic of a classic 
+'peepshow' more than a killer watching his prey and is just another 
+indicator of sexual deprivation. 
+
+
+++++++++++++++++
+++++++++++++++++
+4.) WEAPONRY
+++++++++++++++++
+++++++++++++++++
+
+
+The biggest innovation in Silent Hill Origins is the fact that many
+random non-weapon items in the environment can be used lethally. This
+supports Travis' sadist side, as well as his deadly aggression. The
+fact that you can actually pick up a television or a meat hook and
+violently beat down on a monster shows Travis' potential as a killer.
+Since gameplay has always been affected by the character's personal
+strengths (and weaknesses), and the fact that combat in the game is more
+in-depth, violent and aggressive, show that Travis is a sadistic killer.
+
+It is also interesting that, near the end of the game, out-of-place
+weapons can be found, such as spears. Why would a spear be lying around
+in a toilet, or in a hotel room? Because Travis wants them to be there.
+Also note that many hotel rooms have beds with knives stabbed into them.
+
+*NOTE* Firstly, the fact that you can pick up a TV and use it as a 
+weapon may just prove that in order to survive, one must be resourceful 
+and use what's on hand at the time. As it does show his lethal potential, 
+one must also take into account the situation Travis is in; he is trapped 
+in a nightmarish town full of twisted creatures, each with the potential 
+to kill him if he's not careful. Given this and other factors (amount of 
+adrenaline due to situation), we can be sure that he'd be willing to use 
+anything as a weapon. 
+
+If Travis is a psychosomatic and his fears and anxieties are being
+released slowly and surely as manifestations, then his mind may have 
+mental defenses. In short, his mind creates the danger through the release 
+of memory, and basic animal thought in response creates defense as to 
+those memories. The fact that the monsters become larger and more menacing 
+as the story progressesleads us to believe that Travis might want more weapons 
+in order to deal with the growing threat. There are more weapons based on his 
+own need for self preservation.
+
+
+++++++++++++++++
+++++++++++++++++
+5.) BESTIARY
+++++++++++++++++
+++++++++++++++++
+
+
+===
+5.01) Straight-Jacket
+===
+Almost exactly like the monster "Lying Body" found in Silent Hill 2,
+they represent restraint. This may be the restraint of Travis' mother
+in the sanitarium, Travis himself as he's thrown in the looney bin for
+being a psycho killer, or something more aphysical, like the restraint
+in his mind keeping him from realizing he's a killer.
+
+*NOTE: Possibly represents self containment as well, unable to really 
+open up to anyone due to his being on the road so often
+
+===
+5.02) Nurse
+===
+Nurse monsters exist in every Silent Hill game (well, SH4 had something
+similar anyway), and personally I think this is their best appearance.
+As to why they appeared was anyone's guess, but I think that they
+appear because of Travis' hate for them. Why does he hate them? He
+probably thinks of them as the ones who are keeping his mother away from
+him. As he longs for his mum, he probably thinks of the hospital staff
+as evil people. It may also connect to the time when he broke into the
+sanitarium to see his mother, and nurses probably tore him away from her.
+
+*NOTE: perhaps lack of faith in the healing process, fear of the medical 
+staff after they rescued him from his mother in Cedar Grove, ((or perhaps 
+from his own stay in Cedar Grove(?)))
+
+===
+5.03) Remnant
+===
+The Remnant is the strangest enemy in the game. It is a silhouette of
+a female body with a head brace. These head braces were used to contain
+sanitarium patients, and it is obvious that the feminine form is inspired
+by Travis' mother. I believe its shadowy form symbolizes the darker side
+of her, and not necessarily Travis' "good" memories of her.
+
+*NOTE: Head brace worn by a shadow is symbolic of how his mother was seen 
+by him as a child; trapped, a shadow of herself and violent.
+
+===
+5.04) Carrion
+===
+Carrion is the large creature that looks like an amalgamation of
+numerous different animals put together, skinned. It is told on the
+official website that it represents Travis' sympathy for roadkill. Other
+than this, not much else is symbolic, besides the fact that it is shown
+in the game that Travis feels compassion towards animals. This is shown
+when you inspect the mounted heads in the motel.
+
+*NOTE: Carrion may also represent feelings of guilt over his situation 
+(parents' deaths. perhaps?). They start out small, but as the game 
+progresses, they get larger. A reason for this is that as he begins to 
+remember more of his suppressed memories, his guilt begins to build up
+thus the size increase in the monsters. 
+
+===
+5.05) Caliban
+===
+Caliban is a twisted version of the classic Shakespearian character.
+This monster seems to harbor mostly Alessa's fears, as it is stated in
+a note that a girl came to the theatre, and that she was afraid of the
+Caliban costume. After the boss version of it is defeated, she also kicks
+it in anger.
+
+*NOTE: It may represent Travis as an adult; a mental monstrosity (due to 
+childhood trauma), but (like Caliban of 'The Tempest') can be considered 
+the only true human in the town (as Caliban was the only true human on 
+the island in the play).
+
+===
+5.06) Ariel
+===
+Ariel is the childlike mannequin creature found in the theatre. Hanging
+upside-down or walking on their hands, they will grab at Travis and try
+to choke him. The creature is summoned here by Alessa; it was her
+favorite character in the play. Why is it so demonic?
+
+*NOTE: The choking is reminiscent of the mother trying to kill Travis
+ (asphyxiation, mind you through gas not strangulation)
+
+===
+5.07) Twoback
+===
+The Twoback represents two things: intercourse, and Travis' parents. 
+As a truck driver, Travis never really gets the chance to lie with a woman, 
+so deep in the recesses of his mind he has a similar sexual anxiety that James 
+of SH2 had.
+
+In the concept of the monster symbolizing his parents, consider its structure.
+The bottom half of the creature seems to be larger and male; the back appears
+to be feminine. This is most likely symbolic of Travis' father carrying the
+weight of his wife's actions. The two figures are bound together both by
+an undying love, marriage, and the fact that they will never forget what
+one another has done. This has perhaps caused Travis to see relationships in
+a negative light; creating the image of Twoback and ultimately driving Travis
+away from closeness with females, as suggested in his behavior when seeing
+Lisa in the theatre.
+
+===
+5.08) The Butcher
+===
+Travis' inner demon and the representation of who he really is. For a
+really, really in-depth look at the Butcher's role, see the section
+"Travis as the Butcher."
+
+*NOTE: The split personality suppressed by Travis until its release upon 
+entry into the town of Silent Hill.
+
+===
+5.09) Memory of Helen Grady
+===
+At the end of the sanitarium, Travis confronts a demon representing his
+mother. She is depicted as a sinister demon that is braced in a cage and
+hanging from the cieling. Simply, it draws on his fear of his mother when
+she tried to kill him.
+
+*NOTE: suspended in a cage or, more accurately, a "gibbet" which was used 
+centuries ago to suspend convicted criminals at the crossroads where 
+their souls would be doomed to remain (a superstitious belief that the 
+criminal's soul wouldn't return to town and exact its revenge for their 
+execution) 
+
+===
+5.10) Memory of Richard Grady
+===
+Travis' problems with his father are confronted at the end of the motel.
+When his father hanged himself, Travis stood there talking to him,
+trying to wake him up. This was obviously traumatizing for the young
+Travis. The monster form of his father resembles a leech or maggot
+hanging from the cieling, accompanied by a hanging set of legs and a
+hanging torso. Travis may harbor negative feelings towards his father
+for "leaving" him.
+
+*NOTE: the reason for his parasitic appearance is due to his living only
+ for his wife, not his son. 
+
+*NOTE: Memories of the Grady couple: both were suspended from the ceiling
+(Helen Grady by a gibbet, Richard Grady by a rope) which can be interpreted 
+as their both being guilty of serious crimes (Helen's attempted murder 
+of her son, Richard's child endangerment through his suicide) resulting 
+in their demonic representations being hung like criminals.
+
+++++++++++++++++
+++++++++++++++++
+6.) CONCLUSION
+++++++++++++++++
+++++++++++++++++
+
+CONCLUSION ONE: Travis the Killer
+-In this conclusion, as led to in the second ending, the Butcher is a 
+(symbolically) physical embodiment of Travis as a serial killer. Travis'
+mind has been negatively warped, causing him to destroy innocent people,
+many of which are supposedly females.
+
+CONCLUSION TWO: Travis (Innocent)
+-In this conclusion, as supported by the first ending, Travis is seen
+as an innocent man and the Butcher is nothing more than an embodiment of
+his hate--hate for his mother, father, and possibly the town of Silent
+Hill itself. Travis has a fresh start at the end of the game, after coming
+to terms with his bent psyche.
+
+OVERALL
+-Both conclusions can be seen as canon, but not in tandem, it seems. Thus,
+Silent Hill Origins joins the ranks of previous games in which there are
+multiple possiblities as for a canon ending, yet none of them are concrete,
+leaving the player to decide what the protagonist's fate is.
+
+However, it is interesting to note that most symbolism within monsters,
+etc. Is not concrete. Well, not yet...
+
+
+++++++++++++++++
+++++++++++++++++
+7.) CONTACT
+++++++++++++++++
+++++++++++++++++
+
+ChildofValhalla/TheSnake
+ may be contacted by email at: the_bloodredsky (at) yahoo (dot) com.
+ I will always reply. Please allow at least one or two days for a response.
+
+WanderingOne
+ may be contacted by email at dragon_serenade (at) hotmail (dot) com.
+ 
+
+++++++++++++++++
+++++++++++++++++
+8.) VERSION HISTORY
+++++++++++++++++
+++++++++++++++++
+
+-: 10/07/08 (3.0) Yeah, yeah. I'm on it.
+
+-: 03/10/08 (2.5) Lots of stuff. It's been a while!
+
+-: 12/22/07 (2.2) Changed a few things. Added a new host.
+
+-: 12/20/07 (2.0) Overhaul! Rearranged everything and added new sections;
+also gained a talented cowriter. Let's make this thing awesome!
+
+-: 11/28/07 (1.5) More emails come in and more offers from sites to use
+the plot analysis. Added more theories and support!
+
+-: 11/27/07 (1.3) After a plethora of emails, added other conclusions, 
+more sections 
+
+-: 11/24/07 (1.0) First edition
+
+++++++++++++++++
+++++++++++++++++
+9.) AFTERWORD
+++++++++++++++++
+++++++++++++++++
+
+I'd like to thank:
+
+Konami and Climax for another EXCELLENT Silent Hill
+game. Keep 'em coming guys!
+
+And you! For reading it. Thanks.
+
+Also, I'd like to thank the following people for contributing their own
+theories for the game:
+
+-Sailorhell
+-Fallen Evil
+-vampiredude35
+-Mrcaliche
+-bavolis
+-imxspartacus
+-TheLyron
+-afmagana
+-Cavemanta
+-roque
+-M. Dunne
+-Cetra2001
+-Talio
+-grails8827
+-dukenukem155313
+-draco28
+-M. Roehrs
+
+Special thanks go out to WanderingOne and Seta for their incredible
+contributions.
+
+
+
+This document is copyright (c) 2007, 2008 by ChildofValhalla/TheSnake and 
+WanderingOne
+
+This plot analysis has been approved to be shown on the following sites:
+
+-GameFAQs
+-GameSpot
+-Neoseeker
+-Super Cheats
+-PwnGuide
+-GamesRadar
+-CheatPlanet
+-bbs.tgbus.com (Chinese)
+-gamer.com.tw (Taiwanese)
+-Some Brazilian site (forgot the name--Haha!)
+
+If you would like to use this plot analysis on your site, please email me
+for permission (you will most likely be approved). If I find this file
+on a site other than those listed above, I will be willing to take action.
+
+So nyeh.
+
+Contact: the_bloodredsky (at) yahoo (dot) com.
+
+=+=End of Document.=+=
+

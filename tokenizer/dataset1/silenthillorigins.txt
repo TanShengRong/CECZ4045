@@ -1,0 +1,2779 @@
+
+
+===============================================================================
+Silent Hill Ørigins
+
+Platform: Playstation Portable, Playstation 2
+Developer: Konami, Climax (2007)
+Genre: Survival/Psychological Horror
+Rating: M (Blood and Gore, Language, Suggestive Themes, Violence)
+
+Author: Georgi Samaras
+E-mail: SophiaLee04@yahoo.com
+Version: 1.51
+Last Updated: February 20, 2011
+
+
+===============================================================================
+Contents
+
+   Introduction ...................................................... [int]
+   Controls .......................................................... [con]
+   Surviving in Silent Hill .......................................... [sur]
+   Monsters .......................................................... [mon]
+   Walkthrough
+      The Fire ....................................................... [fir]
+      Alchemilla Hospital ............................................ [alh]
+      Silent Hill Streets: To the Sanitarium.......................... [ss1]
+      Cedar Grove Sanitarium ......................................... [cgs]
+      Silent Hill Streets: To the Theatre ............................ [ss2]
+      Artaud Theatre ................................................. [ath]
+      Silent Hill Streets: To the Motel .............................. [ss3]
+      Riverside Motel ................................................ [rsm]
+      Nowhere ........................................................ [now]
+   Extras
+      Endings ........................................................ [end]
+      Accolades ...................................................... [acc]
+      Extra Options .................................................. [exo]
+   Sprinter Run ...................................................... [spr]
+   Trivia ............................................................ [tri]
+   Miscellaneous ..................................................... [mis]
+
+
+To make getting around the guide easier, I've implemented a keyword search
+feature.  Just copy and paste the three-letter keyword (complete with the
+brackets) of the section you want into your browser's Find feature (Ctrl+F)
+and it should take you where you want to go.
+
+
+===============================================================================
+Introduction                                                              [int]
+
+Silent Hill Ørigins is the series' first foray into the world of handheld
+gaming, but it still upholds the tradition of giving gamers a terrifying
+experience.  Definitely heed the title screen's advice of playing in the dark
+with your headphones plugged in!  This game is a prequel to the original Silent
+Hill, so it should be a good place for beginning fans of the series to start
+while giving veterans a taste of something new.  The story follows Travis
+Grady, a trucker taking a shortcut through Silent Hill to Brahms that, through
+a series of bizarre incidents and intense psychology lessons, finds the
+supposed source of the evil that has come to engulf the town of Silent Hill.
+
+This guide was written as I went through my second playthrough, and I'm one of
+those Silent Hill-ers that checks every single door and room every single time.
+In other words, this walkthrough outlines the exploration process, which you
+should get into the habit of since that's at the core of every Silent Hill
+game.  I've tried not to spoil anything, but please be aware that certain boss
+monster names may ruin a bit of the fun if you read ahead.  Also, I am a huge
+fan of Silent Hill analysis, but I realize that a walkthrough is no place for
+theory, so I've tried to cut back.  If something slips through, I apologize.
+However, I've compiled a pretty fair-sized trivia section (with help from many
+contributors) to help you get the most out of a replay game and to maybe give
+your analytical thinking a nudge.
+
+This game has since been ported to the PS2, which is great since it gives
+Silent Hill fans without a PSP a chance to play it.  I have access to both
+versions and can safely say that this walkthrough will work for both of them,
+though there are some slight differences.  Puzzle solutions, boss strategy, and
+the controls (in other words, the major bits) are the same.
+
+
+===============================================================================
+Controls                                                                  [con]
+
+analog stick: controls movement in a 2-D control scheme, meaning that Travis
+              will move forward in whichever direction you tilt the stick
+
+select: open inventory
+
+start: pause
+
+triangle: view the map
+
+X: interact with the environment (pick up things or examine), perform a
+   finishing blow on an enemy, attack (when right trigger is held), charge
+   attack (hold down X with right trigger held)
+
+square: run
+
+circle: toggle flashlight switch, skip cutscenes (when paused)
+
+left trigger: center camera behind Travis (camera cannot be turned), cycle
+              through menus in inventory, toggle between targets when right
+              trigger is pressed
+
+right trigger: enter combat stance, cycle through menus in inventory
+
+left and right directional buttons: cycle through items in inventory
+
+up directional button: instant access to weapon inventory (once to view melee
+                       weapons, twice to view firearms)
+
+down directional button: auto-equip item in front of Travis, reload firearm
+                         (when right trigger is held)
+
+
+===============================================================================
+Surviving in Silent Hill                                                  [sur]
+
+There are plenty of things you need to know to make your way through the cursed
+town of Silent Hill.  This section will briefly go over the most important, so
+it's not that comprehensive.  First-timers will probably find this section
+lacking, but what fun would a Silent Hill game be without a little uncertainty,
+experimentation, and exploration?
+
+   ==================
+   Health and Stamina
+   ==================
+   Travis' health is marked by a small screen in the lower left of your
+   inventory.  When it is green, he's in excellent health.  When he takes
+   damage, static appears on the screen.  When he's about to die, the static
+   intensifies and the screen turns red.  The edge of the in-game screen pulses
+   red as well, and the sound of a beating heart can be heard.  Heal with
+   health drinks to restore a small portion of health, first aid kits to
+   restore about half your health, or ampoules for complete restoration.
+
+   Stamina cannot be seen by a meter of any kind.  As Travis runs, fights, and
+   grapples, his stamina depletes.  Whenever it is gone, he moves slower and
+   must catch his breath.  This makes him a sitting duck.  Energy drinks bring
+   his stamina back up to max and are important when planning a mad dash
+   through monster-infested streets.
+
+   =======
+   The Map
+   =======
+   Get friendly with the triangle button and make a habit of looking for a map
+   every time you enter a new area.  This walkthrough is going to be using the
+   map a lot and assumes that you will too.  Important items and things of
+   interest like save points and mirrors are marked on the map when
+   encountered.  Travis will also mark doors that are jammed, locked, and open
+   with squiggly lines, solid red lines, and arrows, respectively.  Maps even
+   have legends that will help you get around easier.  For example, the town
+   map of Silent Hill denotes buildings you can enter with a shade of pink
+   while all other buildings are blue; alleys are gray and streets are white.
+
+   Travis apparently has multiple copies of his maps because, as you traverse
+   the Otherworld, you will see that its map is dirtier looking and can be
+   viewed side-by-side with the real world map by hitting the left or right
+   directional arrows.  This makes it a lot easier to know which pathways are
+   accessible in which world.
+
+   ==================================
+   Using the Flashlight and the Radio
+   ==================================
+   Travis starts the game with a flashlight and a pocket radio.   Both are
+   instrumental in your survival.  Well, maybe not both.  While the flashlight
+   is a staple in the series, it's actually best that you not use it that
+   often.  Sure, it lets you see in the dark, but it also lets monsters see you
+   easier.  With the flashlight off, you can stand side-by-side with a monster,
+   and it will not be able to find you!  In past Silent Hill games, characters
+   were helpless without the flashlight: they wouldn't be able to see items or
+   even use keys.  This is not so with Travis.  In the dark, he will turn his
+   head to look at monsters, memos, items, and even certain doors so watch him
+   closely.  (However, he has a knack for staring through things and at items
+   that aren't even of interest.)  He can also read his map without a light.
+
+   The radio emits static whenever a monster is nearby.  The monsters cannot
+   hear the radio, so it's safe to keep it on and foolish to turn it off.  The
+   screen will also turn grainy whenever a monster is close but only if you
+   have the extra noise filter option on.
+
+   ==================
+   Weapons and Combat
+   ==================
+   This game makes sure you are never without a weapon.  Melee weapons can be
+   found absolutely everywhere and can range from a piece of jagged wood to a
+   katana.  Travis can even use his fists if need be.  Because there are so
+   many melee weapons, listing and analyzing them would be quite an exercise
+   for this poor writer.  They do all share one thing in common: durability.
+   In the inventory screen, the "+" marker next to a weapon is its durability.
+   Green is good, orange is okay, and red means it's about to break.  Each one
+   also has a charge attack that is done by holding X in combat stance.  The
+   screen will shake and Travis will unleash his attack when X is released.
+   Some weapons are one-time uses.  These are marked with a yellow symbol and
+   deal more damage than ordinary weapons.  However, they are slow and can be
+   knocked out of your hands by enemy attacks, which breaks them.  These
+   weapons' charge attacks turn them into powerful projectiles.
+
+   There are quite a fair number of firearms to be had in this game, and it
+   should go without saying that you should conserve every box of ammo you
+   find.  Firearms make short work of boss monsters and can be extremely useful
+   in tight quarters.  It might also be wise to carry one around on the streets
+   of Silent Hill, since enemies will chase you down once they see you and
+   won't stop until you deliver a kick to their carcass.
+
+   Silent Hill Ørigins also introduces the grappling system: whenever an enemy
+   gets too close to Travis, a button-pressing scene will occur in which he
+   tries to defend himself.  Fail the sequence and Travis takes damage or could
+   even be instantly killed; succeed and he hurls the monster away.  Different
+   enemies grapple differently; some don't grapple at all.  In any case,
+   whenever you finish an enemy, it is important that you deliver a finishing
+   blow by releasing the right trigger and hitting X over the squirming
+   monster.  If you don't do this, it will get right back up and continue
+   attacking.  Note that even after delivering a finishing blow, monsters can
+   respawn, sometimes while you're still in the vicinity.  This only applies to
+   when you are on the streets of Silent Hill.
+
+   =======
+   Mirrors
+   =======
+   An entirely new concept in Silent Hill Ørigins is using mirrors to switch
+   between the real world and the Otherworld.  To clarify, the "real world"
+   is the brighter one covered in mist.  The Otherworld is much darker and
+   usually has a bloody red tint to it.  Mirrors can be used an unlimited
+   number of times because certain areas can only be reached in the Otherworld,
+   and plenty of backtracking is to be had.  Real world items appear in the
+   Otherworld in the exact same places you saw them in the real world because
+   the Otherworld is a mirror image of the real one, just a little more
+   nightmarish and with more blood and rust.
+
+
+===============================================================================
+Monsters                                                                  [mon]
+
+Silent Hill is a town where the mind takes over control.  Personal demons turn
+to flesh and bone, and it is your job to repress them, even if it is with a
+firearm.  Below is a list of all the monsters encountered on the streets of
+Silent Hill.  Boss monsters are not covered here but are attended to when they
+are encountered in the game.
+
+All monsters are sensitive to light and, to a lesser extent, sound.  Outside
+where it is bright, they'll be able to see you better than when in a building.
+When inside, keep your flashlight off at all times to avoid catching their
+attention.  Once they spot you, they will chase you relentlessly, so it is
+worth it to keep out of their sight.  If they should spot you, remember that
+most of the time it is easier just to run.
+
+   =====
+   Nurse
+   =====
+   Nurses are standard in Silent Hill and only appear in Alchemilla Hospital
+   and Cedar Grove Sanitarium for obvious reasons.  They carry syringes with
+   them that they use as weapons.  If they get too close to you, they will try
+   to bury that weapon right in your neck.  Mash X to deny them that chance and
+   counterattack.  Melee weapons or your fists should be enough to finish them.
+   Don't bother wasting ammo on them since they are generally weak.
+
+   ===============
+   Straight-jacket
+   ===============
+   Straight-jackets stalk Travis all over the game and are a symbol of
+   personal confinement: they are restrained by their own skin.  Their only
+   method of attack is to spit an acidic substance at you.  If you get too
+   close, they will attempt to choke the life out of you with a two-button
+   grapple move.  Melee weapons are enough to take care of these monsters.
+   Wait for them to attack or fend them off in a grapple to throw them off,
+   then smack them unconscious.
+
+   =======
+   Carrion
+   =======
+   Being a trucker, Travis has undoubtedly run over plenty of animals in his
+   day.  He must have a conscience though, since these monsters haunt him.
+   They look like a hoofed animal whose neck and front legs are broken.  It is
+   surprisingly capable of a chase, however.  Once it sees Travis, it will turn
+   on a dime and follow him.  They attack by ramming, which can be done from a
+   great distance.  For this reason, you should take these monsters out with a
+   firearm or with a one-hit melee weapon's charge attack.  In later portions
+   of the game, these beasts will grow to immense size.  They don't lunge but
+   instead lift up their upper body and slam it down.  This hurts and stuns
+   Travis even if he is remotely close.  Fighting these larger Carrions is not
+   advised but is arguably easier than dealing with the smaller ones.
+
+   =======
+   Remnant
+   =======
+   These monsters are not listed on Konami's official site and are never seen
+   outside of Cedar Grove Sanitarium.  They are basically haunted medical halos
+   that wander the halls of the building.  Turn your flashlight on around them
+   to see their full shadow.  Their only attack is a long-range lunge, which
+   they execute while wailing at you in a high-pitched, almost feminine tone.
+   They are some of the more resilient monsters.  They don't have much of a
+   body, so firearms seem to miss or do little damage.  Like the Carrions,
+   getting close for a melee attack is hard unless you sneak up to them and
+   attack hard and fast.
+
+   =====
+   Ariel
+   =====
+   A twisted version of a character from William Shakespeare's The Tempest,
+   Ariels are basically walking puppets.  They can either hang from the ceiling
+   or walk on their hands on the ground.  Above your head, they will try to
+   grab you.  Mash the X button to escape.  On the ground, they will simply
+   bash you with their feet.  Melee weapons are good for knocking them to the
+   ground; while they get up, just keep swinging or stabbing away to put them
+   down for good.
+
+   =======
+   Caliban
+   =======
+   Another Shakespeare monstrosity, Caliban is a lumbering beast that will
+   roam the streets and some of the corridors of the Riverside Motel.  He will
+   put all his weight on his front legs, lifting his back legs high to slam
+   them down on Travis.  This also creates a small shockwave that will stun
+   him if he's close.  When Caliban roars and trembles, he is going to do a
+   forward lunge.  Due to his size, it takes him a while to recuperate after an
+   attack.  You can take him out with close-range attacks, but a long-range
+   firearm like a rifle will do.  However, it's really not worth fighting this
+   monster at all.  Run past him every time.
+
+   =======
+   Twoback
+   =======
+   One of the more disturbing monsters in the game, the Twoback looks exactly
+   like what you think it does: two body masses merged as one.  The name comes
+   from the saying that when people have sex, they are making the beast with
+   two backs.  What can one say, except that truckers get lonely on the road?
+   However, as the opening conversation on the CB tells you, Travis does not
+   indulge, resulting in anxiety that manifests itself as this hideous beast.
+   It stalks the Riverside Motel (which makes sense when you think about it)
+   and is a Straight-jacket on steroids: it will spit acid at you and can
+   tackle you as well.  If it pins you, a disturbing one-button grapple
+   sequence commences.  Take these things out from a distance with a firearm or
+   blast them with the shotgun when you encounter them in close quarters, which
+   will happen quite a bit.
+
+
+===============================================================================
+Walkthrough
+
+There are no difficulty settings in Silent Hill Ørigins.  The puzzles and
+combat are not overly easy and not too hard, so it should be a happy medium.
+Those looking for a real challenge will find it in achieving accolades, which
+are discussed later on.
+
+This game uses an item system like Silent Hill 3; that is, it may give you
+healing items in certain areas if you are lacking.  I've gotten confirmation
+from Stevo99801 that the game will even upgrade healing items (e.g. - a health
+drink will turn into an ampoule) if you really need it.  Because of this, it's
+difficult to get an accurate items listing.  If I reference things you can't
+see, it's likely that the game figured that you didn't need them.  Likewise, if
+you see things I missed, I must have either been doing well while playing or a
+bad job exploring.
+
+Note to PS2 version players: you guys got the short end of the stick when it
+comes to visibility.  This walkthrough was written with the PSP, which lets you
+actually see your surroundings.  Therefore, if something is referenced here
+that you can't find, keep mashing X and you will eventually find it.  I promise
+I didn't imagine any items I picked up or list here!
+
+========================================
+The Fire                           [fir]
+========================================
+
+After the intro, Travis will find himself on the road, looking for the girl he
+avoided with his truck.  The opening credits will continue to roll while Mary
+Elizabeth McGlynn sings you through.  You'll be in control the entire time;
+just keep going down the road.  Now would also be a good time to check your
+inventory.  Travis comes fully prepared with a radio and a flashlight, as well
+as a keepsake from his past which will undoubtedly come in handy later.  Past
+the city limits sign, Travis will see a house on fire and rush in to save the
+girl screaming inside.
+
+The path inside the house is linear, and the fire deals no damage to Travis
+whatsoever, only slows him down.  Head upstairs first and then through the door
+right ahead of you at the top.  Make your way around the next room to a freaky
+cultish set-up on the floor.  With your charge in hand, make your way back the
+way you came, and Travis will fall through the floor.  Here, whenever the path
+is blocked by flame, it will magically disappear, so simply continue your
+linear trek back to the front door.  Outside, Travis faints among the sounds of
+sirens, one of which should sound familiar to Silent Hill veterans.
+
+
+========================================
+Alchemilla Hospital                [alh]
+========================================
+
+In the foggy city, Travis will automatically pick up a town map and mark his
+destination.  Go ahead and make your way straight there; you'll be back outside
+to explore more soon enough.  However, if you want two HEALTH DRINKS, check the
+area with the benches west of the post office and the alley by the blocked
+stairs north of the hospital.
+
+In the hospital, take the PUBLIC NOTICE memo and the HOSPITAL MAP.  By the
+information desk is your first save point, the red triangle on the wall.  Every
+side room in this hall and the next are locked.  In the next hall, a scene
+occurs by the elevator.  Travis won't leave without answers, so chase the
+doctor to the second floor.
+
+In the next room, you'll get your first blast of white noise.  A monster called
+a Nurse will then attack you.  You can either pick up the nearby HAMMER or
+pound it with your fists.  In any case, the Nurse will most likely grapple with
+you.  If this happens, mash the X button repeatedly to avoid getting a syringe
+in your chest.  Generally, Nurses are easy to take down with a few whacks of a
+melee weapon.  The blows stop them in their tracks and you can continue to
+whale on them while they recoil.  If you must fight them, it's an easy win.
+However, there's always the chance that they'll lunge with their weapons first.
+You don't get as many healing items as you do weapons, so choose your fights
+wisely.  Enter Room 205 when it's dead.  Grab the DOCTOR'S DIAGNOSIS memo and
+examine the mirror.  Attempt to leave and then touch the mirror.
+
+Welcome to the "Otherworld".  Grab the SCALPEL from the gurney, the PLASTIC
+LUNGS behind you, and the HEALTH DRINK from the cabinet.  Turn your flashlight
+off and then go out to the hall.  A Nurse is walking around, but you should be
+safe if your light is off and you walk instead of run.  Through the door near
+the Nurse's Center, enter Room 202 to get the HURRIED NOTE and the GOLDEN EGG.
+A Nurse will be out in the hall now but is nowhere near you.  In Room 204,
+you'll find a DRIP STAND next to a locked box with the BLOODY NOTE on it.  This
+will be marked on your map; remember it since we'll be coming back to it.  Out
+in the hall, you can grab a PORTABLE TV opposite the door.  Head downstairs.
+
+There's a HAMMER in the stairwell right next to the second floor door and a
+HEALTH DRINK on the top of the stairs.  On the first floor is a Nurse, an
+ALCOHOL BOTTLE melee weapon, and two locked doors.  One of the locked doors
+leads to the ladies' restroom.  If you examine the golden egg in your
+inventory, you'll see it fits the depression here, not to mention it's the only
+thing we have that even comes close to a "key".  The egg is warm to the touch
+and larger than a hen's: it's a phoenix egg.  Phoenix birds rise from ashes;
+we have a match.
+
+Inside, grab the STUDENT'S MNEMONIC by the sink, and then go to the stalls.
+One of the toilets has a loose back to it.  Open the cistern for the PLASTIC
+LIVER.  Why Travis would think these are important enough to carry is beyond
+me.  Touch the mirror to get transported back to the "real world".  Get the
+ENERGY DRINK behind you and check out the stalls.  Make note of the "Amy, 31"
+written on the door and get the STAFF LOUNGE KEY in the next stall over.
+
+The staff lounge is through the door to your right and straight ahead.  There's
+an ENERGY DRINK on the couch, a TOASTER on the counter underneath the EXAM ROOM
+KEY, a STAFF NOTICE to your left, and the cryptic "Lucy, 23" written on the
+wall by the door.  Go back to the entrance hall to open the exam room.  There's
+an ALCOHOL BOTTLE to your right.  Ignore the operating dummy for now and grab
+the PLASTIC STOMACH and PLASTIC INTESTINE from the two sinks.  Turn on the
+light of the X-ray box to see "Sarah, 19" written.  The STAFF MEMO and a
+TYPEWRITER are on the nearby desk.
+
+Now, as to that anatomy doll, you might have guessed that all these plastic
+organs are supposed to fit in there.  You're right, but what good is an anatomy
+doll that's missing pieces?  If you put all your current pieces in, you'd
+notice a hole where the heart should go.  Remember the locked box on the second
+floor?  We need to open that for our heart.  Use the mirror in the ladies' room
+to backtrack through the Otherworld to Room 204.
+
+     ====================
+     The Heart Box Puzzle
+     ====================
+     Read the Bloody Note to get the jist here.  We need the "three beauties"
+     for the key.  Beauties means ladies in this sense, so our three beauties
+     are Amy, Lucy, and Sarah (the names scattered around the hospital).  The
+     note also says "age before beauty".  Each name came with a number.  We can
+     presume that those are the ladies' ages since we've no other clues.
+
+     Amy, being 31, is the oldest.  After her is Lucy at 23 and then Sarah at
+     19.  All you have to do to unlock the box is input those numbers from
+     greatest to least.  Therefore, the code is 312319.  Your prize is the
+     PLASTIC HEART.
+
+A Nurse will be right outside the door.  Prepare to grapple, then either fight
+or run.  Backtrack to the ladies' room, watching for at least one more Nurse.
+Go back to the exam room to confront our dummy again.
+
+     =======================
+     The Anatomy Doll Puzzle
+     =======================
+     This doll is pretty accurate, so placing the organs in the dummy in any
+     order will not work.  To figure the order, you need to read the Student's
+     Mnemonic: "INside, STevie, LIttle HEnry LUrks."  The letters highlighted
+     in red (or capitalized in this walkthrough's case) are the clues for the
+     order.
+
+        IN = intestine
+        ST = stomach
+        LI = liver
+        HE = heart
+        LU = lungs
+
+     Put the intestine at the leftmost (lower) portion of the doll.  The
+     stomach (the pinkish one) goes along the bottom part of the intestine
+     (from our point of view).  The liver (the darker piece) goes above the
+     stomach.  The heart goes in the middle of the right portion of the doll,
+     and the lungs go on top of that.  Eerily enough, the doll's GLASS EYES
+     open, ready for plucking.
+
+These eyes act as another twisted key of sorts.  The only other locked door is
+on the first floor of the Otherworld hospital.  Backtrack through the ladies'
+room mirror and get ready to grapple as you go through the door.  Check the
+other locked door in this passage to see a message about needing eyes to gaze
+into the future, the perfect place to use our new pair.
+
+Two Nurses stalk this new hall.  Take out the closer one if you can without
+alerting the other down the way.  Try to use one of your one-hit weapons by
+charging it and tossing it.  A PORTABLE TV, HEALTH DRINK, and ENERGY DRINK are
+out in the twisted "lobby" that they were guarding.  In the exam room, you'll
+find another, more realistic version of the anatomy dummy we played with
+earlier.  (Her eyes are missing.  Could that be our fault?)  Behind her is a
+SCALPEL.  Enter the doctor's office only after equipping a melee weapon of your
+choice.
+
+     ===============
+     Straight-jacket
+     ===============
+     The first thing this monster is going to do is rush you.  You're fighting
+     in a pretty small space so don't bother running to get distance between
+     you two, as this thing is pretty fast.  Its only real attack is to spit
+     acid at you.  You should drop everything and run if you see it start to
+     spit up.  It can also harm you if it engages you in a grapple.  This is
+     different than the one with the Nurses.  The Straight-jacket will jump up
+     on you and hang on for dear life.  Don't button mash.  Instead, wait for a
+     face button to appear on the screen.  Hit it and then wait for another.
+     Missing either one means you take damage.
+
+     To fight this monster, stay in its face.  If you have a durable melee
+     weapon equipped, go to town.  Odds are high that it will break and you'll
+     be left with your fists.  This is fine.  As long as you keep punching, the
+     monster won't get an attack in edgewise.  You can also equip another
+     weapon as long as you do it through your inventory.  If you opt for a one-
+     hit weapon like the alcohol bottle or the TV, it'll deal greater damage
+     but be harder to use.  Since this monster is so fast and it takes a while
+     to lug a TV up to attack, you will take more damage than deal.  Fighting
+     with your fists may make the fight longer, but as long as you keep
+     punching, you can win this without a scratch.
+
+Grab the FUTURE PIECE after the fight and prepare to black out.  In the scene
+afterwards, we meet Lisa Garland and learn that the girl we tried to save,
+Alessa Gillespie, died in the fire.  Everything in the hospital is locked up;
+that's our cue to leave.  The exit is through the door past the ladies' room
+and to Travis' right.
+
+Outside, if you check your map, Travis will have marked Cedar Grove Sanitarium
+as the next destination.  It seems he still wants answers, and Lisa might have
+them.
+
+
+========================================
+To the Sanitarium                  [ss1]
+========================================
+
+You'll be on the opposite side of the hospital outside.  Check the upper right
+corner of this area (according to your map) to find a HEALTH DRINK.  On the
+street, you'll hear white noise and a Straight-jacket will attack.  It's worth
+it to fight this one since it's already seen you, but keep in mind that
+fighting every single monster you meet is not wise unless you want breathing
+room to explore.  It's tough to sneak around them when it's bright out, and
+they will relentlessly chase you until you either kill them or enter a
+building.  You'd think that this would be a great reason to fend them off, but
+the monsters in this game respawn like crazy.  You may kill off one beast only
+to explore, come back, and find that the same one you just killed is coming
+back for more.  Running really is the best option when it comes to fights in
+the street.  When Travis tires and you've got monsters on your heels, use an
+energy drink to bring his stamina back up to full so he can continue running
+away.
+
+There's a piece of JAGGED WOOD at the northern end of Canyon Street.  Going
+south, you should find an ENERGY DRINK, HEALTH DRINK, and BATON next to the cop
+car.  There's a TOASTER in a trash can behind town hall.  Both sides of Midway
+Avenue are caved in, but if you go to the east and up past the locked lumber
+yard, you'll find a HEALTH DRINK.  South on Borden Street, you'll find an
+ENERGY DRINK in front of a house on your left and another even further south,
+on the lower left corner of Cielo and Borden.  The upper left corner of Cielo
+and Borden hides a HAMMER behind a fence.
+
+East on Cielo Avenue, you'll find an ENERGY DRINK on the steps of city hall and
+a piece of JAGGED WOOD on the left side of the building.  You'll find a MEAT
+HOOK by a dumpster south and to the right of here.  The little grassy spot with
+the trees south of city hall houses more JAGGED WOOD.
+
+From Cielo, go to Low Street.  You need to go through the butcher shop to reach
+Toluca Avenue.  Inside is a save point and a HEALTH DRINK as well as a MEAT
+HOOK sticking out of a slab on the wall.  Going through the back door reveals a
+gruesome sight.  Grab the FIRST AID KIT on the wall and the nearby ENERGY
+DRINK.  There's also a MEAT CLEAVER for you to take.
+
+Back outside in the ambience, go out on the main street and make a left to nab
+an ENERGY DRINK and TARGET PISTOL AMMO.  Further down the street (still on the
+left side), you'll find a PARKING TICKET on the car.  At the intersection of
+Toluca and Borden Street, you'll see a new enemy.  The Carrion is a remembrance
+of all the poor animals Travis has made road kill of with his truck.  Even
+though its front legs and neck appear to be broken, it will still chase you
+with great speed and can turn on a dime.  Its one attack is to ram you; it can
+do this from great distance and for good damage.  Try to catch them when
+they're unaware, circle them and attack, or just avoid them altogether.  One-
+use melee weapons should take them down; use their charge attack if possible to
+avoid fighting close range.
+
+Keep going down the left hand side of Toluca Avenue for a red CRATE and
+(further down) more JAGGED WOOD.  On the left hand side of Acadia Road, you'll
+find a WRENCH and a HEALTH DRINK on the hood of the car in the garage.  Now
+head for the sanitarium.  You should just run past all the Straight-jackets and
+Carrions to make it to the front door.  If you want TARGET PISTOL AMMO, there's
+some hidden as the base of the fourth tree to Travis' left.  There's also an
+ALCOHOL BOTTLE to the left of the entrance if you feel so inclined.
+
+
+========================================
+Cedar Grove Sanitarium             [cgs]
+========================================
+
+Inside, get ready for quite an excursion.  In the central foyer, look for a
+BATON on one of the couches to your right and head north to get the "MAGPIE"
+NOTE under the doctor's office door.  Turn around and head right to the door
+marked "west solarium".  By the wheelchair in the middle of the room is the
+TARGET PISTOL and two boxes of TARGET PISTOL AMMO.  You really should save all
+the ammo you can for this.  You shouldn't have to lift a finger to fight in
+this place until much later.  And you will need that ammo later.  On the nearby
+desk is a FILING CABINET and an ENERGY DRINK on another.
+
+Exit and go straight across the foyer to the east solarium.  Inside is the
+SANITARIUM MAP.  Further back in this room is an ENERGY DRINK and the STATUS
+REPORT 3/12/1960.  Through the other door, you'll meet Alessa's mother.  In the
+first storage room you see further down the hall, you'll net a TIRE IRON,
+TARGET PISTOL AMMO x2, a SCREWDRIVER, and an ENERGY DRINK.  In the hall,
+there's a DRIP STAND by the laundry room.  Enter the stairwell for a save
+point.
+
+Head up to the second floor.  Here, you'll encounter what appears to be a
+haunted medical halo, actually a monster called a Remnant.  These enemies are
+tougher than most and should be avoided completely.  Bullets don't seem to do
+much damage; if you want to fight, try a melee weapon, though their attacks
+have an incredible range and are just plain freaky.  Enter the storage room to
+fight a Nurse for SHOTGUN AMMO x2, a FIRST AID KIT, and two ALCOHOL BOTTLES.
+The door across from storage is jammed, but there's a WRENCH and ENERGY DRINK
+here.
+
+Past the staff lounge in the main foyer, you'll find Nurses.  Your goal is the
+TB ward, as per the Magpie note.  There's an iron lung with a key inside and an
+ENERGY DRINK on the chair on the opposite side of the room.  Take the IRON LUNG
+WARNING and check the controls.
+
+     ================
+     Iron Lung Puzzle
+     ================
+     The goal here is to overload the machine so it malfunctions and opens.  In
+     messing with the button controls on the iron lung, you should notice that
+     each button affects not only the meter above it but also any meters next
+     to it.  For example, the second switch from the left activates meters one
+     and three as well as two.  You need to get all the needles in the red
+     without going over.  To do this, (assuming the buttons are labeled 1-5
+     from left to right) hit button one twice, button three twice, and button
+     five twice.  You should find the BASEMENT KEY at the head of the machine.
+
+Backtrack to the stairwell; you'll find a WRENCH and TARGET PISTOL AMMO by the
+chair outside the basement door.  Use your new key.  There's a DRIP STAND and
+TARGET PISTOL AMMO in the storage room in the next hall over.  Don't bother
+going any farther than this.  There's JAGGED WOOD by the boiler room, but three
+Remnants patrol the hall.  If you really need TARGET PISTOL AMMO, you'll find a
+box at the western end of the hall.
+
+Sneak past the Carrion in the first hall you were in to get familiar with the
+east pipe room.  Make note of the drain.  Now go down the long diagonal hall
+marked "stairs".  There's a MEAT HOOK on the right hand side of the wall if you
+want it.  In the new stairwell, a RAZOR sits on the floor.  Up on the second
+floor, two Nurses patrol.  Go to the hydrotherapy room, our second Magpie stop.
+Activate the drainage control by the working tub to drain the water and the
+key.  Don't even think about going to the pipe room downstairs to get it; it
+won't be there.  Instead, go to the treatment room nearby to find a mirror you
+can use.
+
+The doll here guards TARGET PISTOL AMMO.  Remnants guard the hall.  There's an
+ALCOHOL BOTTLE on one of the desks out here.  In the stairwell, there's TARGET
+PISTOL AMMO to your right.  On the first floor is a save point.  Check out the
+weird goings-on at female seclusion and check both doors of the nearby dorm for
+some audio.  There's TARGET PISTOL AMMO in dorm 3.  Straight-jackets are now
+out in the hall; sneak past them to the ladies' restroom.  The shower room
+holds a KITCHEN KNIFE.  Examine the mirror to switch worlds.  Check the only
+toilet stall open and choose to flush it.  That ringing noise Travis heard was
+that key.  Resist the urge to go down to the basement because you still won't
+be able to reach it; it'll have fallen through the grate.  Check the shower
+room before you leave...
+
+Sneak past the Remnants to dorm 5.  In here is a BATON, the DUTY LOG, FEMALE
+SECLUSION memo, TARGET PISTOL AMMO, a TABLE LAMP, and the PATIENT BELONGINGS
+KEY.  A TYPEWRITER and a TIRE IRON wait opposite the door in the hall.  Unlock
+the stairs for future use but make your way out of the female wing and into the
+main foyer on this floor.  We need to go to the patient belongings room, so
+sneak past all the Nurses and Remnants.  In the property room, grab the SHOTGUN
+AMMO x2, STATUS REPORT 2/7/1961, and the TYPEWRITER to Travis' right.  Back in
+the room is a mirror.  You know what to do.
+
+Grab the SHOTGUN barring your exit, as well as the SHOTGUN AMMO on the floor.
+Two Carrions guard this foyer.  In the dayroom, you'll find SHOTGUN AMMO, a
+FIRST AID KIT, and a POKER in a chair.  Head for the eastern hall.  Dodge the
+Remnant in the east solarium for a box of SHOTGUN AMMO and a FILING CABINET.
+There's a HEALTH DRINK, SHOTGUN AMMO, and the POLICE REPORT in the laundry
+room.  Go to the stairwell; it's finally time to get that key we flushed.
+Outside the basement door is TARGET PISTOL AMMO towards the back.
+
+Slink past the two Remnants and go to the pipe room.  You should find the
+INTERVIEW ARCHIVES KEY where the real world drain was.  Go back and slink some
+more to the diagonal hall.  Here, you'll find a MEAT HOOK, a HEALTH DRINK and a
+promise of goodies on the other side.  Return to the Remnant's hall and enter
+storage for a mirror, a HAMMER, and an AMPOULE.  Make use of the mirror.
+
+The archives room is on the second floor.  Simply use the nearby basement
+stairs to jog up there and creep around the monsters to use your key.  Another
+audio flashback kicks in upon entering.  Grab the SHOTGUN AMMO and PORTABLE TV
+before stepping through the mirror.  On the other side, there's a KATANA
+waiting by a shelf.  Sneak past the Straight-jackets outside to enter the
+western corridor.  Enter the stairs since the hallway is ruined.
+
+In the basement, a Carrion stands watch.  Go up the diagonal hall to the other
+set of basement stairs.  There's a HAMMER between the first and second floors.
+Your destination is the first floor male wing.
+
+In male seclusion, there are five cells, a BATON, and the CLIPBOARD.  Pay
+attention to each cell.  Number 1 has a RAZOR and a huge mess.  Number 2 is
+scorched shut.  Number 3 has a POKER sticking out of a well-dressed mannequin.
+Number 4 is barred shut, and number 5 is full of uneaten food and a scale.  Go
+to the infirmary now, watching out for Nurses.  There's a SCALPEL and a save
+point, as well as a freaky doll set.
+
+     ====================
+     The Doll/Pill Puzzle
+     ====================
+     There are five dolls lined up here to correspond with the five patients in
+     seclusion.  The clipboard you got tells you who gets what medication.
+     Here's a reminder:
+
+        cell 1: red pills
+        cell 2: blue pills
+        cell 3: yellow pills
+        cell 4: green pills
+        cell 5: blue pills
+
+     Who is in which room?  Room 1 was the one with the razor and the bloody
+     mess.  Kitchen knives could make that kind of mess, but the doll with the
+     razor blade is the likelier bet since it's a perfect match with the razors
+     in the room.  The second doll from the right gets the red pill.
+
+     Room 2 was set on fire.  The charred doll seems a likely tenant, so he
+     gets a blue pill.
+
+     Room 3 had dresses and perfumes in it; the rightmost doll is wearing a
+     dress, so he gets the yellow pill.
+
+     Room 4 was barred shut like a prison cell.  Considering what dolls are
+     left, I'd say the homicidal-looking one with the kitchen knives is a good
+     guess for number 4.  He gets a green pill.
+
+     Room 5 had the uneaten food and the scale.  The middle doll is emaciated,
+     most likely from an eating disorder like anorexia; he gets the other blue
+     pill.
+
+     To recap (if the dolls are ordered 1-5 from left to right):
+
+        doll 1: green pill
+        doll 2: blue pill
+        doll 3: blue pill
+        doll 4: red pill
+        doll 5: yellow pill
+
+     They'll give up DR. HARRIS' KEY.
+
+Go back to the stairwell and down to basement storage.  Through the mirror,
+you'll find the AMBER INCIDENT REPORT and a WRENCH in the stairwell.  Go up to
+the first floor.  Unlock the door to the foyer and head for the doctor's
+office.  Inside is a DRIP STAND, the JOCASTA ARTIFACT, and some shocking
+PATIENT NOTES.  Be sure to pick up the CHILD'S DRAWING on the floor outside
+too.  From here, make your way east on this floor to female seclusion.
+
+Go to the Otherworld through the women's restroom.  If you want to make a short
+detour for supplies, go down the stairs near female seclusion to the basement.
+Down the diagonal hallway is SHOTGUN AMMO and TARGET PISTOL AMMO x2.  Back at
+female seclusion, use the Jocasta artifact to open the door.  After Lisa runs
+off, check the room for a BATON, a save point, and a host of drawings that get
+progressively more alarming around cell 5.  Equip a firearm before heading in.
+
+     =========================
+     The Memory of Helen Grady
+     =========================
+     This monster should be fought from a distance.  Spikes line the cage-like
+     apparatus surrounding it, and these can be projected to great lengths to
+     pull you in and stab you repeatedly.  The spikes usually only come out
+     after she comes down from the ceiling.  She can also spit a cloud of
+     poison gas, but she stays stationary while spewing.  Both of these attacks
+     are well avoided by staying away.
+
+     She'll somewhat slowly pull herself along by her chains on the ceiling,
+     trying to get close enough to strike.  Stick to one corner of the room and
+     pull off 3-4 shots.  Then, run around to the opposite corner and fire some
+     more.  And that's basically it.  Stick to the outer wall of the cell.  The
+     poison gas shouldn't reach you here, and it gives you enough time to
+     squeeze off some shots before the monster catches up.  She's slow, but not
+     slow enough for you to write her off as an easy kill.
+
+     The target pistol should be your weapon of choice, but the shotgun also
+     works if you let the monster get a little close.  Count your shots as you
+     fire (6 for the pistol, 2 for the shotgun) and reload in the menu so
+     you're not a sitting duck.  If you didn't bring a firearm into this fight,
+     equip a fast melee weapon, wait for her to do an attack so you can get
+     close, hit the monster a few times and then run.  This will make the fight
+     much harder than it should be; there's no reason why you shouldn't have
+     enough ammo to fight here unless you went all Rambo in the sanitarium and
+     shot everything in sight.  And even then you still should have some ammo
+     if you took that last detour mentioned.
+
+Pick up the PAST PIECE when done.  In the lobby, check the table opposite
+reception for a THEATRE TICKET.  In the trunk of the car outside is the LUMBER
+YARD KEY.  Unfortunately, Travis will not try to steal the car to make getting
+around town easier.  Instead, we have to hoof it to the lumber yard on Midway
+Avenue.
+
+
+========================================
+To the Theatre                     [ss2]
+========================================
+
+Backtrack from Acadia to Toluca, through the butcher shop to Low Street, from
+Cielo to Midway, up to the lumber yard.  You might have noticed some grotesque
+changes in the butcher shop as well as a BLOODY CAP with a message for help.
+Unfortunately, it's too late to do anything.  (Why is a monster asking for help
+anyway?  And why would Travis be concerned for a monster's well-being?)  Chug
+your energy drinks to make sure you stay a step ahead of the monsters on the
+streets.
+
+After a short jaunt in the lumber yard, you'll find a HEALTH DRINK and a
+NEWSPAPER.  A HAMMER lies further ahead.  Out on the street, check the alley by
+the tavern for TARGET PISTOL AMMO.  If you're itching for supplies, go south
+and head over to Ash Road.  The yard on Travis' left will yield an ENERGY DRINK
+and a MEAT HOOK.  There's more TARGET PISTOL AMMO between the southern houses
+on Ash, as far south as you can go.  Go north on Industry Drive.  When it
+curves to the right, head up to the left for TARGET PISTOL AMMO x2 and a CRATE.
+In another alley in this corner lies more TARGET PISTOL AMMO.  If you go south
+on Acadia just a little bit, you should see a house on your right that has
+JAGGED WOOD and a HEALTH DRINK on the porch.
+
+Your real destination here is the Greenfield Apartments past the church.
+There's 2 ENERGY DRINKS, a HAMMER, and a BATON in the courtyard around the
+stairs.  Upstairs is a TOASTER and a SCREWDRIVER on the counter and two boxes
+of TARGET PISTOL AMMO on the couch, as well as a TABLE LAMP on the table.  In
+the bedroom is a NAPKIN, a RAZOR, and a huge mess.  Grab the FIRST AID KIT in
+the bathroom and jump through the hole.  Nothing is down here, but make note
+of mailbox 213 as you head out.
+
+Go across the street and into the fenced-in area to find SERVICE PISTOL AMMO,
+RIFLE AMMO, and a HEALTH DRINK.  To the right of the theatre, in an alley, is
+more SERVICE PISTOL AMMO, a HEALTH DRINK, and a MEAT HOOK.  Travis won't go any
+farther until he's gone to the theatre, so use your ticket at the booth and
+enter.
+
+
+========================================
+Artaud Theatre                     [ath]
+========================================
+
+Grab the THEATRE MAP from the bench.  There's a WRENCH and a HEALTH DRINK on
+the west side of the lobby.  A locked door is up the nearby stairs, along with
+some TARGET PISTOL AMMO.  Downstairs, take the THEATRE PROGRAM PAGE by the
+auditorium for the message, "Caliban has it in his cave."  Enter the auditorium
+for a disturbing meeting with Lisa.  There's a HEALTH DRINK to the right of the
+stage in front of curtain control.  Enter storage on the left to get a
+TYPEWRITER.  Exit to the right.  (Any other Silent Hill 2 fans instantly think
+that puppet at the back was a mannequin?)
+
+On the stage, an audio flashback will play.  A piece of JAGGED WOOD lies
+outside of Curtain Control.  The TECHNICIAN'S WARNING is taped to the switch,
+and IRON WEIGHTS are on the nearby desk.  SERVICE PISTOL AMMO lies next to the
+save point and a KITCHEN KNIFE.  A HAMMER is in the southern part of the next
+hall.  Through the northern door, one of those puppets, Ariels, will come to
+life.  They grapple the same way the Nurses do, so mash X and counterattack.
+Check the shelf it was guarding for a HEALTH DRINK.
+
+A PORTABLE TV is between the dressing rooms.  The SUN TOTEM is in the
+director's office along with the SERVICE PISTOL, SERVICE PISTOL AMMO and a
+HANDWRITTEN DIARY PAGE.  The service pistol replaces the target pistol in terms
+of power.  You won't find much, if any, target pistol ammo anymore, so feel
+free to shoot it all you want to get the most out of it.  Grab the HEALTH
+DRINK on the shelf behind you and exit to find an Ariel guarding an ENERGY
+DRINK and SHOTGUN AMMO.  Everything else is locked or jammed, except for the
+men's dressing room, which houses a mirror, a KATANA, and PRODUCTION NOTES.
+Use the mirror.
+
+Ariels guard the narrow halls, and it's difficult to sneak past them.  Luckily,
+you've got quite a bit in the way of strong melee weapons (katana, anyone?) so
+they shouldn't be a problem.  Otherwise, use your target pistol.  This is one
+of the few places where it's a better idea to fight.  The BALCONY CORRIDOR
+KEY and some SERVICE PISTOL AMMO are in the director's office.
+
+A Carrion patrols the next hallway south of the dressing room.  Sneak past to
+find a new, bloodier Straight-jacket in the next room.  In the stairwell, check
+the railing on the landing for SERVICE PISTOL AMMO.  An Ariel is on the second
+floor.  Go to the door behind it to see two square depressions.  Light and
+darkness.  The Sun Totem we picked up fits the bill for the right hand slot.
+There's nothing more to do here, so backtrack to the mirror on the first floor.
+
+The balcony corridor was that one locked door upstairs, so backtrack through
+Curtain Control, storage, and the auditorium to the lobby stairs.  Up here,
+you'll see an Ariel on the floor.  They're still basically the same except they
+
+don't grapple.  In the lighting box is a FIRST AID KIT and four bulbs of 750W,
+125W, 250W, and 500W.  Grab the SHOTGUN AMMO, SCREWDRIVER, and WIRING NOTES as
+well.  Crap, I smell a number puzzle coming up.
+
+Exit through the other side of the corridor and head south.  A HEALTH DRINK
+waits on a box on the landing.  Kill the Straight-jacket in the next room for
+the MOON TOTEM.  Unlock the north door and sneak your way back to the mirror in
+the men's dressing room.  Head south and upstairs to the door where we already
+placed our Sun Totem.  Three Ariels now stand guard.  You should try and take
+them out with a firearm since attacking one will alert the others and sneaking
+by them is pretty hard.  Don't stay in one place or they will corner you.
+Either escape back out the door or run to the other side of the room.  Put the
+Moon Totem on the left and enter.
+
+Take out the Carrion and the two Ariels further down through the last door on
+the left to claim a KITCHEN KNIFE and the awesome HUNTING RIFLE with RIFLE
+AMMO.  Use the mirror in costume storage to switch realities.  A KATANA lies on
+a shelf.  Check the desk for the SKETCHES (and a horrible sound from behind
+you) and a HEALTH DRINK.
+
+An AMPOULE lies at the end of the hall outside past the Ariels.  IRON WEIGHTS
+and a save point wait in the orchestra storage room.  In the eastern hall,
+RIFLE AMMO sits in front of a catwalk door.  On the only available catwalk,
+you'll find our next brain teaser.
+
+     ==================
+     Stage Light Puzzle
+     ==================
+     For this puzzle, you need four bulbs and the Wiring Notes.  There are four
+     lights here: A, B, C, and D.  The four bulbs are 750 watts, 125 watts, 250
+     watts, and 500 watts.  The Wiring Notes hint at which ones go where.
+     
+        B is half the wattage of D.
+        A + B must not exceed the wattage of C.
+        D must not exceed the wattage of A.
+
+     Let's start with B first.  There's two options: 250 (half of 500) or 125
+     (half of 250).  If B is 250, then D is 500.  This means A must be 750
+     (since D can't exceed A), but this won't work since 750 + 250 is
+     definitely more than 125, the only choice left for C.
+
+     Therefore, B must be 125, and D is 250.  A could be either 500 or 750, but
+     remember than A + B can't go over C, so A must be 500 with C being 750.
+     500 + 125 is less than 750, so we're in the clear.
+
+     To recap:
+        A = 500W
+        B = 125W
+        C = 750W
+        D = 250W
+
+     When they're in place, go to the end of the catwalk and flip the fuse
+     switch.  The lights will be on.
+
+Go south down the stairs to the first floor.  Go to Curtain Control and flip
+the switch. Since the curtain's connected to the lights and they now have
+power, the curtain can be lifted.
+
+A large mirror is on the stage.  SHOTGUN AMMO is hiding at the left hand side
+of the stage.  There's nothing of interest through this mirror, surprisingly
+enough.  Go to set control on the right hand side of the stage and mess around
+with the switches to see different pieces of scenery and props.  If you match
+the scene with its correct prop, the mirror and the Otherworld are affected.
+Flip the first scenery switch for the forest, and then flip the second prop
+switch for the tree.
+
+Through the mirror lies Forest World.  Head up the red-lit path to the right
+and grab the STAGE OFFICE KEY from the creepy tree. An audio clip will then
+chime in for a good, cheap scare.
+
+Back through the mirror, flip the third scenery switch and the first prop
+switch for Old Dusty Library World.  Read the three memos on the table,
+"REPRESSION AND COERCION", "ASTRAL PROJECTION: THE PERFECT ASSASSIN?", and "AN
+ID TORN IN TWO".  An AMPOULE, RIFLE AMMO x2, and the "MANIFESTATIONS OF
+DELUSIONS" memo are on a stand towards the back of the room.
+
+Your next destination is the stage office room on the first floor.  Watch out
+for the Carrion and multiple Ariel monsters on the way.  Might as well blast
+them in such close quarters.  Fight another Ariel in the office and take the
+PROP CONTROL LEVER as your prize.  Yes, now you have to go back to the stage.
+Either run like hell or stand and clear a path through all the new monsters.
+Use your lever at the prop panel and flip it along with the second scenery
+switch.  Caliban's Cave is now available.  Equip your hunting rifle and head on
+in.
+
+     =======
+     Caliban
+     =======
+     Caliban is an absolute hulk, and it hurts my back just to watch him move.
+     He's so slow that he should pose no real threat.  His only attacks take a
+     while for him to execute.  One is when he raises his back legs and slams
+     them to the ground, creating a shockwave that stuns Travis and sets him up
+     for another blow.  The other is when he shudders, roars, and charges.
+     Both are easily detected, easily avoided.
+
+     The area you're fighting in isn't exactly roomy, but it is long, and that
+     will do.  Use the same strategy you did in the sanitarium.  Fire off 3 or
+     4 rifle shots and wait for him to get close.  He'll try to attack you, but
+     you should already be running around to get behind him.  If you don't wait
+     for him to get close, there's a good chance that he'll try to follow you
+     around the room instead, giving you less room with which to work.
+
+     Firearms are the way to go.  The shotgun might not be such a good one to
+     use since Caliban must be close to you to attack.  Stick with the rifle or
+     your service pistol.  The rifle is slow, but so is Caliban.  If you time
+     your runs right, the rifle's excellent range and power will make short
+     work of him.  Melee weapons could actually work here too.  Wait for
+     Caliban to get close and attack, then run up and smack him a bit from the
+     side or behind him, and then run away when he attempts an attack.
+
+     AfroMike has sent in a melee weapon strategy for those of you who want a
+     thrill or are out of ammo:
+     "For the boss Caliban I found the best way to take him out was to taunt
+     him into attacking.  As he winds up to attack thats when you run around.
+     When he attacks, he doesn't move his position so you can get to his back
+     very easily. Then when you get to his back you take out the Katana (Unless
+     it was already out) and go to town. It only takes one Katana (Maybe a
+     half) to kill him. It's a major ammo saver and it's pretty safe if you run
+     at the right time and not too late."
+
+Grab the FALSEHOOD PIECE and prepare to black out yet again.  In the lobby,
+grab the MOTEL KEY from the mutilated Ariel and prepare to head out.
+
+
+========================================
+To the Motel                       [ss3]
+========================================
+
+Head west down Koontz Street and check the first alley on the north side for
+SHOTGUN AMMO and a HEALTH DRINK.  Stop in the public records office and check
+the back of the room for two boxes of SERVICE PISTOL AMMO and an ALTERED POLICE
+REPORT.  A TYPEWRITER is on the other side of the room with RIFLE AMMO x2 and
+the CLOSED CASE memo.  A FILING CABINET can be found behind you near a window.
+
+On Wein Street, there's a BATON and an ENERGY DRINK by the cop car.  Further
+down the street, you'll see the Carrion monsters have grown immense.  They
+fight like Caliban, rearing up and crashing down, and there is absolutely no
+reason to fight them because they will more than likely just respawn.  Don't
+think they're slow because of their size either; this one will likely chase
+you for the rest of your stay on the street.  Put it down with a firearm if you
+must.
+
+A HAMMER lies past the Taco Shack on Canyon Street.  In the alley past Green
+Pharmacy is SHOTGUN AMMO and a CRATE.  In front of the pharmacy is SERVICE
+PISTOL AMMO, and down Simmons Street is a HEALTH DRINK on a car and a SHOVEL
+behind that.  Grab the HEALTH DRINK on a table at the café and the SERVICE
+PISTOL AMMO in the corner and then run to Wilson Street.  At the end of the
+street is SERVICE PISTOL AMMO and an ENERGY DRINK.  Head for the bookstore.
+
+Inside, grab the ASSAULT RIFLE and ASSAULT RIFLE AMMO x2.  (Who uses a real
+rifle on a promotional cut-out?!  Only in Silent Hill...)  Get the SHOP NOTE at
+the cash register and then think back to your stay in the apartments.  The one
+apartment number we encountered was 213, the one with the overflowing mailbox.
+Punch that in the register and take the BOOKSTORE KEY.  Exit out the back.
+
+Outside, go into the hospital area to find SHOTGUN AMMO x2 and a HEALTH DRINK
+on a dumpster.  There's also a TOOLBOX by the locked doors.  Check the alley by
+the post office for a HEALTH DRINK and a TIRE IRON.  The benches west of the
+post office hold ASSAULT RIFLE AMMO x2.  Your next stop is the general store.
+There's Carrions roaming, but there's also goodies down the left side of the
+street, so stick to the sidewalk.  Check where you got your town map to find a
+KITCHEN KNIFE.  Go down a little farther to the gate that's across from the
+general store.  Here are two boxes of RIFLE AMMO in a trash can and a MEAT GAFF
+on the gate.
+
+Inside the shop, an AMPOULE is on the floor ahead of you.  Check the second
+aisle for ASSAULT RIFLE AMMO and SERVICE PISTOL AMMO x2.  A SCREWDRIVER and a
+TOOLBOX lie by the freezers.  A HEALTH DRINK and a save point are by the
+counter with the TILL RECEIPT.  Get the BROKEN POLE off the floor if you want.
+
+Out in the fog again, grab the ENERGY DRINK across from you on a crate.  Go
+down Midway but watch for all the Carrions.  Just run since there's no items
+to pick up.  Cut south from Midway to Cielo and grab the HEALTH DRINK by the
+trash can on the way.  On Cielo, you'll see Caliban.  Don't even bother
+fighting; just keep going west.  Behind Allen Storage is a TIRE IRON, RIFLE
+AMMO, and a HEALTH DRINK.
+
+The rest here is a bit of a detour; if you'd rather get on with things, go to
+the circled area on your map and skip to the next section.  As soon as you're
+on Toluca Avenue, check the southern side of the building behind Allen Storage
+for an ENERGY DRINK, HEALTH DRINK, and ASSAULT RIFLE AMMO.  Go as far south as
+you can to the Blue Catfish Diner.  Around the west side of the diner, in an
+area off your map, is TARGET PISTOL AMMO and a CRATE.  Past the Carrion to the
+west of the diner is SHOTGUN AMMO x2.  RIFLE AMMO and a HAMMER are in the scrap
+yard.  Caliban guards the scrap yard proper.  In there, you'll find a SHOVEL,
+ASSAULT RIFLE AMMO, TARGET PISTOL AMMO, an ENERGY DRINK, and a hard-to-see
+PITCHFORK.  At the front of Allen Storage is ASSAULT RIFLE AMMO.  Now head to
+the motel any way you can.
+
+
+
+========================================
+Riverside Motel                    [rsm]
+========================================
+
+The motel is a pretty awesome area; just wait until it really gets going.
+Ahead of you is a save point.  To your right is Reception.  Get the MOTEL MAP
+behind you after the scene.  Read the GUEST REGISTER and go behind the desk to
+pick up the ROOM 306 KEY.  Scope out the rotary calendar behind the desk; you
+won't be touching this for a while, but keep it in the back of your mind.  Go
+through the nearby door.
+
+Go through the gate next to the stairs.  A Straight-jacket guards RIFLE AMMO in
+Room 209.  A CRATE lies in front of the nearby dumpster back outside.  Room
+302 holds shoes and a LIGHT STAND.  Go back to the previous area and up the
+stairs.  In Room 316 is a LIGHT STAND and a pretty sorry-looking wedding set-
+up.  Ignore the passage that Carrion is guarding; it leads to a locked door.
+In Room 308 is a new monster called a Twoback.  It's basically a Straight-
+jacket on steroids.  It has a disturbing one-button grapple and can spit acid
+at you as well as tackle.  Yes, it looks like what you think it does.  Yes, it
+totally propagates the "lonely trucker" stereotype.  In close quarters like
+this, just blast it with the shotgun and take the SHOTGUN AMMO it was guarding.
+Unlock Room 306 and go through the mirror.
+
+The note "TO MY BELOVED WIFE" is on the wall by the door.  There's a SPEAR in
+Room 309 and a HEALTH DRINK in the toilet by the Straight-jacket.  To move on,
+enter the door north of Room 305.  SHOTGUN AMMO x2 can be found in the upper
+left corner of this area.  The only other open door in this area is to the
+south, leading to the 200/300-block of rooms.
+
+Room 209 has a SPEAR in the toilet.  Across from this room, towards the middle
+of the area, is a PITCHFORK.  Room 301 has a FIRST AID KIT on the toilet that
+you must kill a Straight-jacket to claim.  The 500-block is guarded by a
+Twoback.  Room 503 has a mirror for you.  Real world 503 is the home of an
+obsessive; the pictures are all of the Butcher, that demon that has been
+chopping everything up.  The NOTE ON THE RITUAL is on the desk.  Caliban is
+patrolling outside.  He's no threat.  A SHOVEL is outside the maintenance room.
+
+Inside maintenance, a TOOLBOX is on the floor in front of you.  Go to your left
+to see a hole in the wall guarded by a Straight-jacket.  Check every peephole
+in this hall for some interesting sights.  Pay attention to the calendar on the
+wall in Room 500.  The date circled is the 12th and must be important for it to
+be marked.  Someone is keeping a TV near the bath tub in the Pink Moon Suite.
+There's a familiar red jacket and voices in the Rose Suite.  (Are those
+syringes in the bathroom?  Is Lisa on drugs?)  Grab the BROKEN POLE nearby, the
+"SHOTGUN" PHOTO, and the MANAGER'S OFFICE KEY at the end of the hall.  Check
+out Room 503's peephole to see ... holy hell!  He's following us!  He will have
+disappeared when you take a second look.
+
+Back in the maintenance room, the JANITOR'S NOTE is further back with a HEALTH
+DRINK and REDEEMER AMMO.  There's also a vice back here; remember it for later.
+We need to get to the manager's office, and it's gonna take the long way.  On
+your map, you should see a narrow passage behind the staff accommodation room.
+Head that way but equip your rifle.  Two Twobacks are in this narrow corridor,
+and you should kill them from a distance to make it through okay.
+
+Consult your map to make it to the manager's office.  Grab the nearby FILING
+CABINET and shoot the Twoback in the room.  Pick up the ASSAULT RIFLE AMMO and
+DUTY LOG.  Exit out the back.
+
+Unlock the nearby gate for easy access.  To your right, Caliban waits by a TIRE
+IRON.  In Room 108, a Twoback guards a HEALTH DRINK, ASSAULT RIFLE AMMO, and a
+CRATE.  You'll also find the REDEEMER by the Confederate flag with a box of
+REDEEMER AMMO.  This is your strongest firearm yet, so save your ammo for a big
+fight.  Room 106 has a Twoback, a KITCHEN KNIFE, and RIFLE AMMO x2 by the
+window sill.  Grab the ammo and run.  Ignore the white noise past the Laundro
+Mat since it's only a Straight-jacket guarding a piece of JAGGED WOOD.  Check
+out the sight outside the kitchen, equip a firearm (the assault rifle is good)
+and enter.
+
+     ===========
+     The Butcher
+     ===========
+     The Butcher is fairly slow, but it's still vitally important to keep your
+     distance.  His only attack seems to be to swing his big knife.  Since the
+     blade isn't that long, he has to be pretty close to cut you, and you
+     should be able to survive a couple of swings before healing.  He will
+     initiate a two-button grapple with you if you are close enough.  Failing
+     this one means being impaled and is, I think, one of the most brutal in-
+     game character deaths in a Silent Hill game.  (Not overly gory but painful
+     to watch nonetheless.)
+
+     Use the island in the middle of the kitchen to give yourself breathing
+     room.  Stay in a corner and shoot him as he follows.  When he's too close,
+     run away to the next corner, manually reload, and continue shooting.
+     Follow this merry-go-round cycle until he falls.  With the assault rifle,
+     it shouldn't take too long.  You might not want to use the hunting rifle
+     since it is too slow.  Although, Aya has e-mailed in to say that you can
+     usually squeeze in 3-4 shots as long as you reload manually through the
+     menu and not let Travis do it.  The Redeemer is also a good choice for
+     this match.  Fighting with a melee weapon is obviously not advised since
+     nothing you have will slow the Butcher down long enough to keep you safe
+     from his knife.  If you want, charge attacks may work, but they'll
+     probably just put you right in the Butcher's clutches.  Fight from a
+     distance.
+
+     When it's fallen, Travis will deliver the finishing blow in his own
+     special way.
+
+There's a MEAT CLEAVER and MEAT GAFF in this room if you want them.  The note,
+"TO MY ABSENT WIFE" is by the jukebox.  Save and exit.
+
+In the pool area, enter the Game Room and approach the pinging pin ball
+machine at the back.  There are also 5 POOL CUES here if you need them.  Grab
+the TOKEN and leave for an audio flashback.  Elsewhere outside, Room 201 has a
+Straight-jacket in.  Room 102 has a Twoback guarding RIFLE AMMO x2 and a LIGHT
+STAND.  You've no doubt noticed the shiny object on the bottom of the pool in
+this area.  Travis doesn't feel like a swim, so put that on hold for now.
+
+In the Laundro Mat, a HEALTH DRINK rests on a nearby chair and the WASHING
+MACHINE MANUAL is in the middle of the room.  Check the washer with the red
+light.
+
+     ======================
+     Washing Machine Puzzle
+     ======================
+     Reread the Janitor's Note and the Washing Machine Manual.  The former
+     tells you how to reset the machine: set it to low spin, 60 degree wash,
+     drain, and pre-rinse.  The manual tells you which symbols do what.
+
+     Put your token in the machine and examine it.  Because it is hard for me
+     to accurately describe symbols, I'll also refer to them on a clock-face
+     basis.  For example, the symbol at 1 o'clock (the box with the arrow) is
+     pre-rinse.
+
+     Press X and use the arrow buttons to turn the dial on the washer to these
+     symbols in this order; be sure to hit X after turning the dial to each
+     symbol to get the washer to go through that cycle:
+
+        8 o'clock (low spin, circle with a dot in it)
+        4 o'clock (60 degree wash, water with two dots in it)
+        10 o'clock (drain, square with squiggly lines and down arrow)
+        1 o'clock (pre-rinse, square with arrow and dot)
+
+     Your reward is the CLEOPATRA KEY.
+
+Go upstairs now.  Room 111 holds nothing.  The only other thing of interest
+here is the Cleopatra room.  RIFLE AMMO sits on the table, and a PORTABLE TV
+is on the shelf.  The "SNAKEBITE" PHOTO is on the bed.  Jump through the hole
+in the bath tub for a scene.  SHOTGUN AMMO, a TELEGRAM, and a TYPEWRITER are in
+the main room.  That bastard, Kaufmann, has locked us in, so go back to the
+bathroom to find a mirror.
+
+A Twoback will meet you on the way out.  The "OVERDOSE" PHOTO is on the wall
+here, and a MEAT HOOK is by the door.  Outside, you'll notice that the pool has
+been drained.  Go and pick up the JEWELED HEART.  Up near Room 104, you'll find
+RIFLE AMMO x2.  Room 102 holds nothing of interest.  An ORNAMENTAL DAGGER is
+stuck in the diner.  Take it.
+
+Up on the second floor, Room 112 is another fluke, as is 212.  The Nero room
+has a slit in the door.  Just the right size for a dagger, don't you think?
+Try it out.  Inside, SHOTGUN AMMO is in the first room.  The "STABBING" PHOTO
+is in the next, with a MEAT CLEAVER and a hole in the bathroom.  What's a
+Silent Hill game without jumping in a hole or two?  Or three or four?
+
+Take the FIRST AID KIT to Travis' right before entering the other hole.  Look
+through the peepholes and grab the SPEAR and the "BROKEN HEART" PHOTO at the
+end.  (Isn't that Travis' father?)  The "TO A GHOST" letter is in the
+maintenance room.  Out the door, enter Room 503 and warp through the mirror.
+All these letters from Travis' father speak of great grief; his heart is
+broken, just like what the photo said.  In his last letter, he spoke of a gift
+that his wife smashed.  Since we're at an impasse, check your inventory to spy
+the jeweled heart, our last major item left.  Examine it to see that something
+is rattling around inside.  How are we going to break this heart (since using
+one of the many sledgehammers in our possession doesn't seem to be an option)?
+Remember the vice in the maintenance room?  Go there and use the heart by it to
+smash it open for the WEDDING RING.  Examine it to see that the month June is
+important.
+
+We're at another impasse.  All we have left is a day and a month.  This should
+remind you that we have a rotary calendar puzzle yet to solve.  Make your way
+to Reception to get to it.
+
+     ==========================
+     The Rotary Calendar Puzzle
+     ==========================
+     This puzzle is already two-thirds solved.  We have the day, the 12th, and
+     the month, June, but we don't have the year.  The Grady family fell on
+     hard times after Helen was committed for attacking Travis.  All Richard's
+     lamentations spring from that event.  If you remember the patient memos
+     from the sanitarium, they're dated 1960 and 1961.
+
+     Trying both years and figuring out which one is right is easy.  However,
+     if you want definite proof that the answer is 1961, check Travis' lucky
+     quarter.  It has the number 61 etched into it and is a keepsake he's had
+     from when his parents died (we'll see why it's a quarter here shortly).
+     It's not clear when Helen died, and we don't know what Richard did to
+     himself (yet), but it's clear that both his parents "died" in some form or
+     another in the year 1961.
+
+     The full date on the rotary calendar is 06/12/1961.  A small depression
+     opens.  The wedding ring fits there nicely.  This reveals the ROOM 500
+     KEY behind you.
+
+You can only enter Room 500 from the Otherworld, so make your way back to the
+mirror in Room 503, watching out for the second Caliban now roaming about.  A
+cutscene will take you to the door, which leads to a long staircase.  Equip a
+firearm before entering the door below.
+
+     ===========================
+     The Memory of Richard Grady
+     ===========================
+     This room you're fighting in is the smallest boss fight area yet!  Richard
+     is probably the physically toughest boss in the game; even when using
+     overpowered weapons like the Moon Gauntlets in a repeat game, he'll take
+     more punishment than anyone else.  This monster has two tendrils that will
+     attempt to strangle you periodically.  Mash the X button to come out of
+     this grapple unscathed or else you will be strangled to death.  The
+     central head will also lash out and try to bite, as well as spew a gas at
+     you.  The biting attack looks vicious but doesn't seem to connect if you
+     stay back against the wall.  The gas attack is the most harmful because it
+     is insanely hard to avoid; this is when the head's mouth closes and
+     instantly pours gas in your direction.  If you're quick, you can avoid the
+     linear blast, but it's tough.
+
+     You don't have much room in which to work.  Running back and forth to the
+     left and right is all you can do.  Choose a gun like the assault rifle or
+     Redeemer that is fast and powerful.  The rifle is out.  Stay back against
+     the wall to avoid the bites, and prepare to heal if the gas attack hits
+     you multiple times.  When the tendrils appear, run back and forth to avoid
+     them.  The head does not attack at all while the tendrils are out.  Stand
+     to the far left or right and fire off a couple of shots/rounds.  Run to
+     the other side when the tendrils catch up to you.  If you're lucky, you'll
+     avoid them completely and will be able to pump enough rounds into the
+     beast before you take much damage.
+
+     Another strategy is to continue to stick to the two corners available to
+     you.  Stand in one and fire a couple of shots, but then instantly run to
+     the other corner without waiting for the tendrils or the head to attack.
+     If you fire and run quickly, the head should attack where you were, and
+     you'll be free to fire a few more rounds before it recuperates.  If you
+     want, Luke has confirmed that the hunting rifle can be a good choice as
+     long as you play it safe.  Only squeeze off a few shots at a time.
+
+     Aya has e-mailed in an alternate strategy:
+     "As soon as you enter the room and the battle starts, don't move and start
+     unloading the assault rifle on Richard. Immediately as soon as it runs out
+     of ammo, enter the inv and reload (don't let Travis reload on screen) and
+     keep shooting and repeat til he's down. During that time, if the tentacles
+     come down just do the x mashing thing and go back to shooting. His head
+     doesn't reach to bite. Finally, if he spews gas (looks more like blood to
+     me) at you, don't try to avoid it, just take it and when you go to inv to
+     reload, use a health drink to go back up to green. He can never make 2
+     spews between reloading, and most of the times not even 1. Even if you
+     have no health items, as long as you enter with green health, you can take
+     up to 2 spews, and you would have to be extremely unlucky for him to get a
+     3rd one in (usually i take only 1)."
+
+The TRUTH PIECE lies on the floor.  Travis gives Alessa a piece of his mind
+and blacks out as usual.  He'll wake up in front of a FIRST AID KIT and
+REDEEMER AMMO.  Make your way through the rooms, making sure to examine the
+gurney Travis has his eye on.  It's the one used to transport Alessa to her
+special room.  Get the AMPOULE, ASSAULT RIFLE AMMO, and WRENCH opposite the
+door before nabbing the PRESENT PIECE on the floor.  (Thanks to Tee Kay Vin and
+Kristoffer for pointing this out.)
+
+     ==================
+     The Flauros Puzzle
+     ==================
+     This puzzle is not overly hard, but it can be frustrating because you're
+     not really given any hints.  You're putting together the Flauros using the
+     pieces you've collected.  The present piece is the base and all others are
+     the ends.  Twist the present piece around to get a look at all the symbols
+     on it.  The end pieces have similar symbols on them (not exact, but
+     similar).  The idea is to get all the similar symbols matching on each
+     side of the pyramid.
+
+     This is mainly done through trial and error.  Pick a side and pick a
+     piece.  Stick it on and rotate it so like symbols on all sides of the
+     piece match the base.  Make sure they match on all sides.  All the symbols
+     with lines and Xs should be on one side, all the circles with intersecting
+     semi-circles on another, etc.  It's like a cult version of a Rubix Cube
+     except that this one is solvable.
+
+     I have been notified via e-mail that the solution to the construction is
+     not random.  Since I realize people read walkthroughs for help, and it's
+     no help if I just say "Keep trying!" when they want a definite answer,
+     here it is, thoughtfully sent it in by Carla:
+     "The pieces are numbered 1 to 4 from left to right:
+     "use piece 3, press square twice, press R1; use piece 1, press square
+     twice,press R1; use piece 2, press square twice, press R1; use piece 4,
+     press square once!"
+
+Once it's complete, follow Alessa up the stairs, into the hospital area we
+traversed earlier.  Head straight for the exit for an amazing cutscene.
+
+
+========================================
+Nowhere                            [now]
+========================================
+
+I know that this place isn't technically Nowhere (from the first Silent Hill),
+but it was the first thing that came to mind when naming and playing this
+section.  Also, "Nowhere" sounds cooler than "Alternate Silent Hill".  Writer's
+rants aside, this place is pure, nightmarish Silent Hill, which means it's very
+dark.  This can work to your advantage though, since the plethora of monsters
+walking around can't see you that well because of it.  Get the SHOVEL and
+AMPOULE to Travis' right.  Follow the linear path and make sure to grab the
+CHILD'S MAP on the wall.  Alessa has your route planned (if you're on the PSP);
+there's no special areas to visit here, no key items to pick up.  It's
+basically a chance to refill your inventory before the big fight, so if you'd
+rather not waste time with dark areas and respawning monsters, feel free to
+just follow the path on your map by running like hell.
+
+Go as far left on Koonts Street as you can to grab REDEEMER AMMO x2, a MEAT
+GAFF, and a FIRST AID KIT by the Twoback.  Go back and head right on Koonts for
+ASSAULT RIFLE AMMO x2.  Head north on Simons and you should see a PITCHFORK in
+a tree stump.  Go left on Sagan.  ASSAULT RIFLE AMMO x2 is past the Carrion.
+There's also a BROKEN POLE in the baby carriage.  Follow your blue path right
+on Sagan to some ASSAULT RIFLE AMMO and an ENERGY DRINK.  Follow the blue path
+the rest of the way north until you spy a HEALTH DRINK and TIRE IRON ahead of
+you on a wall.  Turn right and enter the Green Lion Antique Shop.
+
+Read the YELLOWED PAGE memo on the table and then enter the hole in the wall.
+You'll have to guide Travis through; just tilt the analog stick to the left and
+watch the scenery change.
+
+On the other end, you'll see an altar and six save points on the wall.  This is
+a Silent Hill game's way of telling you that you're in the home stretch and had
+better save.  Follow the red ... thing to another awesome scene.
+
+     ==============
+     Alessa's Dream
+     ==============
+     To alleviate confusion, I'm referring to this monster by the name the
+     official strategy guide uses.  It has three primary attacks.  One is a
+     close range arm swipe, easily avoided by staying far away.  The second is
+     when its hands glow orange and it summons fireballs to the area.  You can
+     tell where the fire's going to hit by looking for orange spots on the
+     floor, but it's still hard to avoid getting hit at least once.  One hit
+     makes Travis reel, most likely getting him hit by another fireball.  The
+     third attack is when the beast rears back, screeches, and seems to tear
+     apart its chest to shoot a linear beam of light.  Run away from in front
+     of it to avoid this.  By far, the fire is the biggest annoyance in this
+     fight, while the arm swipe does the most damage.
+
+     Pick a firearm you like and go to town.  Keep your distance but remember
+     to drop everything and run when it screeches.  The rifle is a good choice
+     here, either the hunting or assault variety.  It will take more bullets
+     than average to take this monster down.  Just repeat the major strategy of
+     "stay in place, fire shots, run when confronted, rinse, repeat".  If you
+     want to fight man-to-demon with a melee weapon, wait for it to do one of
+     its two long range attacks.  The monster does not move during these, and
+     it is safe to get close as long as you don't swing more times than you
+     should.  Take a few swats and then back off before it swipes at you.
+
+Travis will trap the beast in the Flauros after it's succumbed.  If this is
+your first playthrough, you're guaranteed the good ending, which leads right
+into the original Silent Hill game.  However, veterans of the series know that
+not everything ends up smelling like roses in this town...
+
+
+===============================================================================
+Extras
+
+What's a Silent Hill game without extras?  This title, surprisingly, has quite
+a few things to unlock.
+
+========================================
+Endings                            [end]
+========================================
+
+There are three endings to Silent Hill Ørigins.
+
+   ===============
+   The Good Ending
+   ===============
+   This is the default ending for all first-time playthroughs.  In subsequent
+   games, the only way to get it is simply to avoid the criteria for the other
+   two, which involves not killing so many enemies and avoiding a certain key
+   at the post office.  This ending leads right up to the first Silent Hill
+   game.
+
+   ==============
+   The Bad Ending
+   ==============
+   This ending is for those that want to know the truth about Travis as only
+   Silent Hill could reveal it.  To get this ending, you must kill a certain
+   amount of enemies.  The total is supposedly at least 200 and up, but this is
+   debatable (it could actually only be 150).  Just kill everything in sight
+   and you're good to go.  You can only get this ending after you've beaten the
+   game at least once.  Shedding so much blood over the course of the game
+   awakens some repressed memories for our poor protagonist.
+
+   ==============
+   The UFO Ending
+   ==============
+   Yes, it's back, and it's amazing!  To get this ending, you must have
+   completed the game at least once.  Check the stairs next to the post office
+   that were blocked before to get the ROOM 502 KEY.  You have two different
+   chances to get the key: before the hospital and after the theatre.  Use this
+   key in the Riverside Motel in the real world to get your ending.
+
+
+========================================
+Accolades                          [acc]
+========================================
+
+New in Silent Hill Ørigins is the accolades system.  Instead of being ranked at
+the end of a game, you gain accolades for certain criteria met while you
+played.  Below is a full list, courtesy of the GameSpot forums, as well as tips
+to get each one.  Completing an accolade usually nets you an item and always
+gets you a bonus costume for your next game.  All weapons unlocked through
+accolades have either infinite durability or ammo.
+
+   Savior: Beat the game the first time.
+     This unlocks the Moon Gauntlets (melee).
+     Tips: The whole point of this guide is to get you this accolade, so
+           consult the walkthrough to finish if you need help.
+
+   Butcher: Get the bad ending.
+     This unlocks the Great Cleaver (melee).
+     Tips: Getting the bad ending is not hard.  The Moon Gauntlets you got from
+           completing Savoir are powerful enough to mow every enemy down.  Kill
+           upwards of 150-200 enemies to get the ending.
+
+   Ambassador: Get the UFO ending.
+     This unlocks the Tesla Rifle (firearm).
+     Tips: There are multiple chances to grab the Room 502 key by the post
+           office; one is right before the first visit to the hospital and the
+           second is after the theatre.  Just make sure you get it and use it
+           at the real world motel.
+
+   Stalker: Have your flashlight on for less than 3 hours.
+     This unlocks the Night Vision Goggles (item).
+     Tips: This one is easy since it is 10x safer to play this game without
+           your flashlight on at all.  If you can't see something onscreen, try
+           turning the brightness up or quickly turn the flashlight on and then
+           off when you're done.  PS2 players may have a more difficult time
+           here since their version is darker.  You need to jack up the
+           brightness on your TV to see well.  Etienne has also proven that you
+           can get this accolade in conjunction with a Sprinter Run even if you
+           leave your flashlight on all the time.  The Night Vision goggles
+           that you get for this accolade are recognized by the game as a
+           flashlight and will up your flashlight time should you wear them.
+           (Thanks for Goku the Silver Sayain for this tidbit.)
+
+   Collector: Collect more than 300 items.
+     Tips: The walkthrough will guide you to the locations of all the items
+           I've found, and I get this accolade every single time.
+
+   Sprinter: Beat the game in less than 2 hours.
+     This costume makes it so Travis never tires while running.
+     Tips: See the Sprinter Run section for tips on how to achieve this
+           frustrating accolade.
+
+   Sharpshooter: Kill 75% of enemies with firearms.
+     Tips: Get the UFO ending, and the Tesla Rifle will help you get this with
+           no problem.  The gun isn't the most powerful thing out there, but
+           you can't beat infinite ammo.
+
+   Weaponsmith: Kill 75% of enemies with melee weapons.
+     Tips: Use the Moon Gauntlets since they are over-powered and lay waste to
+           everything.  If not, there are so many melee weapons lying around
+           that you should never be without one.  Make sure not to stomp an
+           enemy to kill them since that's a "fist kill".
+
+   Brawler: Kill 50% of enemies with only your fists.
+     Tips: Focus on monsters like Nurses, Straight-jackets, and Ariels.  Since
+           you only need a percentage of kills with your fists, kill these
+           monsters and run from all the others.  Stomping an enemy to kill
+           them off counts as a "fist kill" since you're not using a weapon of
+           any kind.
+
+   Cartographer: Look at your map less than 25 times.
+     Tips: This is one of the hardest to get, in my opinion, and my walkthrough
+           might not help here since I reference the map a lot.  Pay attention
+           to Travis on this one: he turns his head to look at all open doors,
+           so you shouldn't have to consult the map to find a path.
+
+   Explorer: Distance traveled must be greater than 22,500 m (22.5 km).
+     Tips: Getting this with the Collector accolade is a sure thing.  Getting
+           completely lost will also most likely net you this one.
+
+   Daredevil: Beat the game without saving.
+     Tips: Due to the game's length, this one is actually not too difficult.
+           Try it in conjunction with a speed run.  PSP players can also cheat
+           and take advantage of the system's stand-by feature: while playing
+           the game, simply turn the PSP off and then back on when you're ready
+           to continue, and your game should resume where you stopped.
+
+   Fireman: Rescue Alessa in the beginning in less than 80 seconds (?).
+     This unlocks the Fire Axe (melee).
+     Tips: The exact specifics for this are confusing.  I have gotten many
+           e-mails about this accolade and heard several discrepancies
+           concerning what we think is right.  Apparently, the timer starts
+           only after you pick Alessa up.  AfroMike says that you only have
+           enough time to touch the flames and stumble twice.
+           Mike D. shared how he earned it: "Basically as soon as you start
+           head up the stairs and enter the door straight ahead. Then just
+           zigzag around the burning furniture and pick up the girl. As soon as
+           you do, turn back and run back out the same way you came until you
+           crash through the floor. Then just keep following the path until
+           Alessa clears 2 fires and head out the door. Quickly follow around
+           the stairs and take a left out into the yard. Just remember to push
+           START and O to skip the video and L to make the camera view in front
+           of you so you don't constantly run into furniture you can't see."
+           Time yourself and restart the game if you're not sure you made it.
+           James has e-mailed in to say that he timed himself and completed the
+           run in 71 seconds and still did not get the accolade.
+           I have gotten it just by memorizing where to go, skipping all
+           cutscenes, and just flat out running.  I didn't time myself though,
+           so I can't comment on the time discrepancy.
+
+   Codebreaker: Input the Konami Code anytime in the game.
+     The code is up, up, down, down, left, right, left, right, X, O.  You'll
+     hear a chime if done correctly.
+     Tips: Just enter the code on the in-game screen.  You don't have to open
+           your menu or anything.
+
+
+========================================
+Extra Options                      [exo]
+========================================
+
+When you beat the game once, you get more in the way of customizable options.
+Most of these were standard on previous Silent Hill titles; you must earn them
+for this game.
+
+   ========
+   Walk/Run
+   ========
+   Setting this to "Run" will automatically make Travis run everywhere, giving
+   your thumb a rest from holding down square all the time.  Holding square on
+   "Run" will make him walk instead.
+
+
+   ===========
+   Extra Blood
+   ===========
+   For the Butcher in us all; fights are gorier and more blood is spilled.
+
+
+   ============
+   Noise Filter
+   ============
+   Turn this off if you want crisper graphics.  The constant noise filter is a
+   Silent Hill staple but turning this off makes seeing the incredible details
+   easier.  Also, if you turn the noise filter off, the screen will not turn
+   grainy if a monster is near, so you need to rely on your radio more.
+
+
+   =================
+   Bloody Footprints
+   =================
+   Before, Travis would leave bloody footprints in his wake only after stepping
+   in blood.  Turn this on to make it so he always tracks blood.  This also
+   adds a sickening squelch to his step.
+
+
+   ================
+   Torch Projection
+   ================
+   Put a filter over your flashlight to make it project an image.  Nothing
+   beats staring down a monstrous version of your insane mother while shining a
+   smiley face at her through your flashlight.
+
+
+===============================================================================
+Sprinter Run                                                              [spr]
+
+This speed run is designed to help you achieve the Sprinter accolade.  It's
+also a condensed walkthrough for those of you that want a no-nonsense guide
+without my text bogging you down.  In the past, speed runs were necessary to
+get a 10-star ranking; now, its purpose is to net you a track suit costume that
+will make it so Travis never gets tired while running.  (Many thanks to Mózsi
+Kiss for help revising this run!)
+
+A few starting hints:
+   - Don't try this unless you've gone through the game at least two or three
+     times.
+   - Do not go out of your way to pick up any items you don't need.  There are
+     enough healing items placed directly in your path to ensure you can
+     minimize side trips.
+   - If I recall correctly, the game's clock stops when you pause (press start)
+     but continues to run at all other times (e.g. - in the menu), so use this
+     if you need a break or to consult the walkthrough below.
+   - Use the energy drinks you have while running through the Silent Hill
+     streets.
+   - Don't worry about picking up memos.  You are not graded on how many you
+     collect, and all the puzzle solutions are below.
+   - Use one of the bonus weapons when you have to fight (preferably the Moon
+     Gauntlets); that way, you don't have to worry about durability or ammo,
+     and boss fights will be over quickly.
+   - Pick up all the maps unless you REALLY know your way around town.  Looking
+     at the map doesn't take up too much time; plus, it's better to know for
+     sure you are going the right way rather than wandering around.
+   - Set the Walk/Run extra option to Run.
+   - Go for the UFO ending to cut the game short.
+   - Skip all cutscenes.
+
+Good luck.
+
+   The Fire:
+     - Play through this section normally.  If you're lucky, you'll get the
+       Fireman accolade here as well if you haven't already.
+
+   Alchemilla Hospital:
+     - Go north on Crichton and turn right on Koontz.
+     - Go up the stairs north of the hospital to get the ROOM 502 KEY.  Go
+       south to enter the hospital.
+     - Get the HOSPITAL MAP from the lobby, and ride the elevator to the second
+       floor.
+     - Run past the nurse to 205, enter the mirror, and grab the PLASTIC LUNGS.
+     - Get the GOLDEN EGG in 202.
+     - Go to 204 and enter 312319 to get the PLASTIC HEART.
+     - Go downstairs and use the golden egg on the door to the ladies' room.
+     - Get the PLASTIC LIVER from the toilet and use the mirror.
+     - Get the STAFF LOUNGE KEY in the real world.
+     - Go to the lounge to get the EXAM ROOM key.
+     - Get the PLASTIC STOMACH and PLASTIC INTESTINE from the sinks.  Put all
+       the organs in the anatomy doll: intestine first to the left, stomach to
+       the lower left, liver on top of that, heart in the middle right, and
+       lungs on top of that.  Grab the GLASS EYES.
+     - Go back through the women's restroom mirror.
+     - Use the glass eyes on the other locked door in this hall.
+     - Enter the exam room and then the doctor's office to battle for the
+       FUTURE PIECE.  Use the exit in the hall with the elevator.
+
+   Cedar Grove Sanitarium:
+     - Go south on Canyon, west on Midway, cut south by town hall, west on
+       Cielo, south on Low to enter the butcher shop.
+     - Through the butcher shop, go east on Toluca and then north on Acadia.
+     - Run due east through the sanitarium yard.
+     - Inside, go through the east solarium, grab the SANITARIUM MAP on the
+       table between the doors, and head to the stairwell.  Go to the second
+       floor.
+     - Head west to the TB ward.  At the iron lung, press button 1 twice,
+       button 3 twice, and button 5 twice for the BASEMENT KEY.
+     - Downstairs, go up the diagonal hall and climb the stairs here to the
+       second floor to the hydrotherapy room.  Drain the tub.
+     - Use the mirror in the Female Treatment Room on this floor.
+     - Go down to the first floor and use the mirror in the women's restroom.
+     - Flush the only open real world toilet.
+     - Go to Female Dorm 5 to get the PATIENT BELONGINGS KEY; use it in the
+       main foyer on this floor.
+     - Use the mirror, take the SHOTGUN barring the door, then make your way to
+       the eastern stairwell and the basement.
+     - In the east pipe room, grab the INTERVIEW ARCHIVES KEY.  Return through
+       the mirror in the storage room down here.
+     - Go up the nearby stairs to the second floor to the archives room.  Use
+       the mirror here.
+     - Make your way downstairs by way of the western stairwell to the basement
+       and up the diagonal hall.  Go up to the first floor male wing.
+     - Go straight to the infirmary and give the first doll the green pill, the
+       second and third blue pills, the fourth a red pill, and the fifth a
+       yellow pill.  Take DR. HARRIS' KEY.
+     - Go back downstairs through the diagonal hall to and through the basement
+       mirror in the storage room by the southwestern stairwell.  Go up the
+       southwestern stairwell to the first floor to Dr. Harris' office for the
+       JOCASTA ARTIFACT.
+     - Head east to the women's room on this floor and use the mirror.
+     - Open female seclusion with the Jocasta artifact and enter cell 5 to
+       fight for the PAST PIECE.
+     - Afterwards, get the THEATRE TICKET from the lobby table and the LUMBER
+       YARD KEY outside.
+
+   Artaud Theatre:
+     - Go south on Acadia, west on Toluca, through the butcher shop, north on
+       Low, east on Cielo, north on Borden, and across Midway to the lumber
+       yard.
+     - On the other side, go north on Industry as it curves and keep going
+       straight across the street to the Greenfield Apartments.
+     - Jump through the hole in the bathroom.
+     - Run to Travis' right to use your ticket at the theatre.
+     - Grab the THEATRE MAP by the box office, then go through the auditorium
+       and curtain control to the east wing.
+     - Grab the SUN TOTEM in the director's office.
+     - Use the mirror in the men's dressing room, grab the BALCONY CORRIDOR KEY
+       in the director's office, and go back through the mirror.
+     - Backtrack to the lobby and go up the stairs to the west to the balcony.
+     - Get the four bulbs (750W, 125W, 250W, 500W) and exit the other side of
+       the corridor.
+     - Go south and get the MOON TOTEM.
+     - Go back through the mirror in the men's dressing room by unlocking the
+       north door in the room with the moon totem.  Go all the way south and up
+       the stairs.  Place the moon totem on the left and the sun totem on the
+       right.
+     - Use the mirror in costume storage.
+     - Go to the second catwalk down.  Light A gets the 500W bulb, B gets 125W,
+       C gets 750W, and D gets 250W.
+     - Go south down the stairs here (without going to the Otherworld) to make
+       it back to curtain control on the first floor.  Flip the switch.
+     - Flip scenery switch 1 and prop switch 2 for the forest.
+     - In the forest, grab the STAGE OFFICE KEY and leave.
+     - Go through curtain control up to the stage office to get the PROP
+       CONTROL LEVER.
+     - Return to the stage and flip scenery switch 2 and prop switch 3 to fight
+       for the FALSEHOOD PIECE.
+     - Grab the MOTEL KEY afterwards and leave.
+
+   Riverside Motel:
+     - Go west on Koontz and enter Andy's Books.
+     - Punch 213 into the register to get the key to unlock the back door.
+     - Head over to Crichton and go south to enter the general store.
+     - Go east on Midway, take the first right down an alley, go west on Cielo,
+       and follow it as it curves to reach the employee entrance to Riverside
+       Motel.
+     - Go to reception, look behind you for the MOTEL MAP, and grab the ROOM
+       306 KEY.  Exit out the back.
+     - Go up the stairs in this area, around, and down the other side.
+     - Unlock 306 and use the mirror.
+     - Enter the 200/300-block (go north, enter the second door on your left,
+       then the next door on your left) and go south to the 500-block.  Enter
+       503 and use the mirror.
+     - Go next door to 502 and sit back and enjoy.
+
+
+===============================================================================
+Trivia                                                                    [tri]
+
+Silent Hill titles are known for sneaking in a lot of extra content with the
+gameplay and plot.  This section will be ever-growing to try and list as many
+things as I find, though contributions are always welcome.  It's probably best
+
+to read all these after having played the game at least once, since these will
+hopefully give you a reason to play it again.  Plus, THAR BE SPOILERISH CONTENT
+PAST THIS POINT!
+
+While the walkthrough was written for the PSP, this section was written while
+playing both the PSP and the PS2 versions.  Because of the different platforms'
+limitations, there are actually places where the graphics are different.  I
+don't know if this is the only reason some of them are changed, but the fact
+remains that both versions offer up different easter eggs and tidbits because
+of this.  I'll try and note when something is version specific.
+
+   ======================
+   Silent Hill References
+   ======================
+   Ørigins shares an obvious connection to the first game, what with being a
+   prequel and all.  However, there are little scattered easter eggs that are
+   meant for those who've been through Harry's traumatic experience already.
+
+   For starters, one of the original game's easter eggs returns.  On Harry's
+   map, you could plainly see an eatery called "Konami Burger", a reference to
+   the ones that made Silent Hill possible: Konami, of course.  In Ørigins, it
+   is somewhat hidden.  It's the last (northernmost) building in the blue block
+   of establishments on your map west of the post office.  Stand towards the
+   southern end of the park area here to get the camera to shift, and you
+   should see a sign on the building that says something like "Kon ... Burge".
+
+   The streets of Silent Hill are named for famous authors.  Jess pointed out
+   that Koontz street is a reference to writer Dean Koontz:
+   "Dean Koontz is a prolific horror/thriller writer who has delt with themes
+   similar to those of the game (repressed memories, the supernatural, innocent
+   characters being involved in serious/life threatening events, the past
+   coming back to haunt a person)."
+   Crichton street (named for Michael Crichton) is also visible, as well as
+   Wilson (Colin Wilson) and Simmons (San Simmons).  (The last two are courtesy
+   of Silent Hill Genesis: http://genesis.silenthillfever.com/)  The names of
+   the streets on Travis' map range from cities to foreign bottled water, so no
+   continuity there.  Jason has pointed out that the name Cielo is used in
+   Shin Megami Tensei: Digital Devil Saga.  The Shin Megami Tensei series uses
+   a lot of cultural/mythological/religious icons: both Flauros and Samael make
+   multiple appearances.  Thomas sent in another explanation for the name
+   Cielo: it was the name of the street where Charles Manson and his "family"
+   butchered Sharon Tate and others.
+   Jake sent in a suggestion for Borden street: Lizzie Borden was accused of
+   chopping up her mother and then her father with an axe.  (Get used to the
+   theme of serial killers and murderers running throughout Ørigins; it's
+   relevant.)
+
+   When you go to pick up the Room 502 key at the nearby post office, Travis
+   will note that there are moths on the building.  This should conjure up
+   memories of giant moths attacking Harry on the roof of the building across
+   from the hospital.  Looks like they still have some growing to do.
+
+   Travis runs around the same general area of town that Harry did (the
+   business district).  Ørigins' town map covers the southern area of this
+   district, out of range of the first game.  Alessa's map actually covers the
+   area where Harry ran around, taking you right up to the Green Lion Antique
+   Shop, which, as Harry found out, is the real center of the cult's religion.
+   The Ørigins version of that building is very nearly a direct facsimile of
+   the first game's set up.
+
+   Bloody Miss B clued me in to a very important reference I forgot to mention
+   as well.  The drugs that can be found in the Rose Suite may very well be
+   White Claudia.  In the original Silent Hill, it is known that Lisa Garland
+   has an addiction to a certain drug, and completing a certain sidequest lets
+   players in on the fact that Kaufmann deals in drugs, specifically White
+   Claudia.  This substance is a hallucinogen and is actually what causes Lisa
+   to slip into the Otherworld.  Throughout Ørigins, Lisa is alive but not
+   necessarily well: she is deteriorating through the use of White Claudia and
+   will die sometime between when Travis last sees her and when Harry will meet
+   her in the hospital.
+
+   ========================
+   Silent Hill 2 References
+   ========================
+   According to an interview with the producers (courtesy of
+   evilunleashed.com), this title has strong ties to Silent Hill 2, and it
+   shows.
+
+   Silent Hill 2 is undoubtedly a game with strong psychological aspects.  The
+   producers wanted to mirror that with Travis.  Even though the story revolves
+   around Alessa and the cult, the events during the game are all related to
+   Travis.  Travis and James are very much alike most likely because they share
+   the same kind of psychological trauma.  Take a look at the similarities:
+     - both see demons that spit acid and are bound by their own skin
+       (Patients and Straight-jackets)
+     - both are plagued by a representation of their troubled psyche that
+       chases them and tries to get them to realize the truth (Pyramid Head
+       and the Butcher); not to mention that both wield impressive knives,
+       attack humans and monsters indiscriminately, and hide their faces
+     - both are plagued by the death of loved ones (Mary, Richard and Helen
+       Grady)
+     - both have a location in Silent Hill that is connected to their past
+       that the town openly advertises to them in the form of a gigantic,
+       dilapidated billboard; James has the Lake View Hotel with the sign along
+       Nathan Avenue, and Travis has the Riverside Motel with a sign at the
+       very start of the game
+
+   You may think you're playing Silent Hill Ørigins to learn more about the
+   cult's goings-on, but you're really digging into Travis' head.
+
+   The games also get eerily similar when Travis gets to (and past) the
+   Riverside Motel:
+     - there are several instances when Travis must walk down long flights of
+       stairs, reminiscent of James' long hike in the Silent Hill Historical
+       Society, though Travis' stairs are nowhere near as long
+     - Travis also has to jump down several holes; again, James has him beat
+       in this category (hell, even Henry from Silent Hill 4 rivals James here)
+     - after the motel and Nowhere, Travis sees six save points on a wall
+       before fighting the big fight; James had nine
+     - for the UFO ending, the dog that controlled the world of Silent Hill 2
+       comes back (or first arrives?)
+
+   There's also one of the coolest easter eggs ever: Dahlia has a painting of
+   Pyramid Head on her wall.  In fact, it is very much like "Misty day, remains
+   of the Judgment" from the Historical Society (in composition, anyway).  The
+   painting is on the second floor of her house, to the left of the door in
+   front of the stairs.  If you examine it, Travis says that there's something
+   about it that makes him want to stare at it, but then he snaps back to
+   reality and says he hasn't got time and that it will just burn with all the
+   others.
+
+   ==============================
+   Silent Hill 3 and 4 References
+   ==============================
+   The same interview mentioned above said that Silent Hill 3 and 4 had an
+   effect on Ørigins as well.  Silent Hill 4 was the first game to introduce
+   the idea of breakable melee weapons with the various golf clubs Henry finds,
+   as well as the large amount of weapons lying around.  Ørigins also uses the
+   same grainy filter that number 4 used when Henry encountered a ghost.  It's
+   also been noted that the Remnant monsters are related to the wheelchairs (or
+   at least one in particular) in Silent Hill 4.  When rescuing Eileen in the
+   randomized hospital rooms, Henry comes across a harmless wheelchair with the
+   shadow of its former owner, only visible because of the nearby light.  The
+   Remnants in Ørigins only show their full form in the light as well.  (Credit
+   to Aoi for pointing this out.)
+
+   Silent Hill 3 has the ties to the Alessa/cult plot, but the only blatant
+   reference I can find in Ørigins involves the Konami Code.  Silent Hill 3 was
+   the only one in the series that accepted the code and gave you a reward for
+   using it: Douglas in nothing but boxers, his coat, and a tie (if you call
+   that a reward).  For using the code in Ørigins, you get an accolade which
+   gives you a costume that looks like Vincent from Silent Hill 3.  Also,
+   Ørigins' UFO ending is done in a cartoony style much like 3's Revenge
+   ending, and the child's map used towards the end of this game is just like
+   the kid's map in the church.
+
+   A two-fer reference occurs in the theatre.  The Valtiel sect of the Silent
+   Hill cult is mentioned in the theatre's program.  The Valtiel sect is (or
+   was) headed by Jimmy Stone (as seen in Silent Hill 4) and worshipped the
+   "angel" Valtiel (as seen in Silent Hill 3) whose job it was to act as a
+   "valet" to God and the Holy Mother who birthed her, watching over them and
+   keeping the cycle of reincarnation (turning the valve) intact.
+
+   ============================
+   Silent Hill Movie References
+   ============================
+   It was rumored that this game referenced the movie in some way, and it looks
+   like we've found how.  ("We" being the numerous people who e-mailed me with
+   the following info.  Thanks!)  If you look at the post office across from
+   the hospital, you'll see that the windows have the zip code 98941 and the
+   words "Roslyn, Wash" on them.  (Unfortunately, the name and postal code seem
+   to have been removed for the PS2 port; the windows just say "US Postal
+   Service".)  According to Wikipedia, Roslyn was a coal mining town in
+   Washington situated on top of a mine.  In 1892, an explosion occurred in
+   said mine, and the entire town was hit with an earthquake-like shockwave.
+   Burning timbers shot out of the ground and rained down ash and soot, causing
+   numerous roof fires.  This type of city-wide destruction is very Silent
+   Hill-ish and the raining ash carries a resemblance to the events in the
+   movie.
+
+   To avoid spoiling anything, I won't go into details, but if you compare the
+   end of the movie and Ørigins, they seem very similar.  The formula is thus:
+   our hero confronts the cult under Alessa's influence, then is incapacitated,
+   then revives shortly after to see the cult get theirs in some form or other,
+   and then [possibly?] escapes.
+
+   Another tie between the movie and Ørigins is in the effects used to
+   transition to the Otherworld.  Because of the mirrors, we only get to see
+   one real shift in the game, and it's in the cutscene after the motel when
+   Travis exits from the hospital a second time.  When Alessa makes her
+   impressive entrance, she causes the scenery to flake up and off to make way
+   for the Otherworld.  This "flaking" effect was used in the movie frequently.
+   (Thanks to Scott for this reference.)
+
+   Seta has sent in another possible tie to the movie: the Caliban enemy that
+   looks somewhat like the only original monster in the film, the janitor.
+   Konami actually asked the movie people if they could use the janitor design
+   in future projects, and this may have been a product of their saying yes:
+   "The legs bend over backwards up to the head, the head trying to stay above
+   the ground, and using the arms to move. Also note that both the janitor and
+   Caliban have no (visible) eyes. The barbed wire is missing, and there are
+   buffalo elements instead. But he still looks and moves very similar."
+   I wholeheartedly agree.
+
+   Going back to the subject of the ending, Kelsey has sent in her thoughts
+   about the Good ending and its ties to the movie: "the first time Travis
+   turns the key, his engine doesn't quite roll over, and he turns it again.
+   This suggests to me that (even if his battery was quite dead as leaving his
+   lights on would do) perhaps Alessa threw him a bone - which in this case
+   would be a nod to the movie, where Rose's car doesn't start until Sharon
+   opens her eyes and seems to give her the go-ahead."
+
+   ==================================
+   The Tempest and the Artaud Theatre
+   ==================================
+   Two monsters in this game find their source in The Tempest by William
+   Shakespeare, supposedly the last play written solely by himself and the last
+   play to be put on in the Artaud Theatre.  Ariel, the "airy spirit", is named
+   for the magician Prospero's familiar.  Caliban is the deformed slave of
+   Prospero.  The monsters from the play are the concoction of a child that
+   snuck into the theatre one day and watched the production.  Some of the
+   major themes in the play are justice and the lack thereof, the problem with
+   distinguishing men from monsters, and magic.  All of these are easily
+   applicable to Silent Hill Ørigins.
+
+   It is very likely that the child who snuck into the theatre is Alessa.  Both
+   Travis and Alessa fit into the themes of The Tempest quite well but more so
+   for Alessa.  Mike has e-mailed me with a number of reasons:
+     "- The note says the child is female.
+     "- The actor playing Prospero is brought down with a hellish nosebleed
+     during the rehearsal the child witnessed. We know that the child ' Seemed
+     to dislike Prospero intensely' and also that Alessa's telekinetic powers
+     were something of a bane to those who upset her.
+     "- Alessa was terrified of dogs, hence the dog monsters in SH1 (dog
+     monsters weren't seen again until SH3, and then only by Alessa in
+     different form), and the Caliban costume is a very doggy costume,
+     requiring the actor to go on all fours.
+     "- Act 1, Scene 2 of the Tempest (which was the act and scene being
+     rehearsed when [Tony] got his nosebleed) has Prospero talking to his
+     daughter Miranda about his sourcery and telling her that ' I have done
+     nothing but in care of thee, Of thee, my dear one, thee, my daughter, who
+     Art ignorant of what thou art'. I don't know about you, but a girl being
+     told she is ignorant of her true self sounds very familiar to me."
+
+   I had thought that the theatre was not directly related to Travis, but Sean
+   has sent in info to prove me wrong:
+   "When you go to examine the corpse after fighting Caliban, there are brief
+   flashes of a flashback where you see Travis as a kid within the theatre.
+   This seems to suggest that he was there.
+   "To support that theory, I refer you to the motel registry detailing Travis
+   and Richard's sign in. it states they are there for business/ pleasure. the
+   business aspect of it I believe is them visiting Travis's mother in the
+   Sanitarium. The pleasure aspect being that they may have gone to see a play
+   while in town. Hence Travis's connection to the theatre.
+   "Yet even more theories involving their visit to the Sanitarium, is a letter
+   Richard had written that you find in the Motel. he refers to Helen as his
+   'June Bride' and in the flashback while peeping in on room 500 you see a
+   date circled on the calendar that Richard is looking at. combined with june,
+   and the year Helen Grady spoke with Dr. Harris, suggests that their reason
+   for their visit was it was Richard and Helen's anniversary. the fact that
+   Richard had brought her a present seems to reinforce this."
+
+   The two audio clips that play in the theatre are centered on Caliban.  The
+   first audio flashback on the stage is from the very beginning of the play.
+   Miranda, Prospero's daughter, is pleading for Ferdinand, the son of the one
+   who unseated Prospero.  Tony gets too sick to continue the lines, which go
+   on to mention Caliban.  The audio that chimes in when you take the stage
+   office key is Caliban's speech from Act 3, scene 2.  According to
+   SparkNotes, its purpose is to show Caliban's humanity even though he's been
+   portrayed as nothing but a monster up until then.
+
+   A note on the theatre itself: the Artaud Theatre is named for Antonin
+   Artaud, who came up with the idea of the Theatre of Cruelty.  According to
+   Wikipedia, "he meant not exclusively sadism or causing pain [in the idea of
+   cruelty], but just as often a violent, physical determination to shatter the
+   false reality".  The idea of false realities is HUGE in Silent Hill, so this
+   theatre is aptly named.  In fact, the philosophy behind the Theatre of
+   Cruelty matches the idea behind Silent Hill (both the town and the games) so
+   well.  This goes especially for the third tenet: "cruelty as theatrical
+   presentation", which "aimed to hurl the spectator into the centre of the
+   action, forcing them to engage with the performance on an instinctive
+   level".  As survival/psychological horror gamers, is that not what has
+   happened to you?  (Credit goes to an anonymous e-mailer for picking up on
+   this reference.)
+
+   ==========
+   Twin Peaks
+   ==========
+   Twin Peaks, directed by David Lynch, was a show that aired between 1990 and
+   1991.  The small-town setting and atmosphere could be called Silent Hill-ish
+   from what we know of "regular" life in town, but Twin Peaks also has its own
+   "Otherwordly" aspects.
+
+   Steve Sheppard has e-mailed me with two references:
+   "At the motel stage near the end the decor is modeled a lot after the Great
+   Northern Hotel in Twin Peaks.  Mainly the totem poles everywhere.
+   "You have to configure the stage to look like an Owl in a cave to fight the
+   boss of the theater stage.  Owl Cave held the gateway to the White/Black
+   Lodge in Twin Peaks.  The lodge (the red room) was twin peaks version of
+   Nowhere."
+
+   Jérôme has also sent one in:
+   "Here's another Twin Peaks reference: at the motel, in room 302, you can
+   find a suitcase filled with shoes, it could be a reference to the bearded
+   one-armed man. A very important character in the TP mythology, he's a friend
+   of the red little man ( the little-man-from-another-planet ). In the show,
+   Dale Cooper finally manages to corner the one-armed man in a motel room.
+   When Cooper interrogates him, he pretends to be a salesman on the road. On
+   the bed of the room, the man opens a suitcase filled with shoe samples..."
+
+   =========
+   Session 9
+   =========
+   Thanks to trivia posts on the GameFAQs message boards, it was pointed out
+   that Cedar Grove Sanitarium carries some resemblance to Danvers Hospital in
+   the movie Session 9.  Session 9, directed by Brad Anderson in 2001, has been
+   referenced before in Silent Hill 3.  Its themes of memory repression and
+   its freaky hospital setting are enough to make a connection to Silent Hill.
+   In the movie, the hospital had what the security guard called a "bat" motif,
+   with the main offices in the middle and male and female wings branching off
+   from the "bat body".  This set-up is exactly like the one in Cedar Grove.
+
+   Wheelchairs are also prominent in Session 9.  The popular image is a lone
+   chair sitting in a hall, calling to whomever looks at it with a troubled
+   past and stirring up haunting memories.  Ørigins features a number of
+   solitary wheelchairs in the large day rooms.  Travis notes that he's been
+   lucky enough to have never had to use one.
+
+   One last reference is in the stairwells.  Session 9 featured a chase of
+   sorts up and down the stairwells of the patient wings.  Players of Ørigins
+   know that they have to climb up and down their fair share of stairs.
+
+   ================================
+   The Rooms of the Riverside Motel
+   ================================
+   At the Riverside Motel, Travis encounters the truth about what happened to
+   his father: he committed suicide.  A stunned, young Travis would block this
+   out of his mind, but the Riverside Motel would rather he remember.  Either
+   that, or the motel has a history of people checking in to kill themselves.
+   A number of suicide clues are found in the names of the suites and the
+   scattered photos.
+
+   Huajun Chen sent in some great detective work for a number of these rooms:
+   "The ever-so-famous Cleopatra allowed an asp to bite her arm with intention
+   of suicide; thus the 'SNAKEBITE PHOTO'.
+   "Nero was the last Roman Emperor of the Julio-Claudian dynasty and committed
+   suicide by stabbing himself with the help of his secretary; thus the
+   'STABBING PHOTO'.
+   "Now here's where the ancient history references end. Concerning the Pink
+   Moon Suite...I got to say that the creators of Silent Hill are subtle. 'Pink
+   Moon' was the title of the last album produced by a famous British singer
+   named Nick Drake. He committed suicide from an overdose of amitriptyline, an
+   antidepressant; thus the 'OVERDOSE PHOTO'.
+   "And of course, the last photo the 'BROKEN HEART PHOTO' is a reference to
+   Travis' father. Something that should be noted is that all four photos
+   depict, not just methods of killing, but of suicide."
+
+   There's also a suite named "Lucretia", next to the Nero Suite.  Lucretia
+   was a Roman noblewoman who was raped by the son of the last king of Rome,
+   Sextus Tarquinius.  After telling her family what happened, she killed
+   herself.  Paintings depicting her in the act show her with a knife in one
+   hand, so she is also a candidate for the "STABBING" photo.
+
+   There's a couple of pictures of Marilyn Monroe in the Rose Suite.  Lori
+   wrote in saying, "Marliyn was [Elton John's] 'rose' in his original song
+   that he remade for princess Di (Englands rose)."  There are also drugs in
+   the room, a nod towards how she died, which may or may not have been a
+   suicide.
+
+   The "SHOTGUN" photo seems to be missing a reference in the motel, but if you
+   paid attention at the beginning of the game, you would have noticed a
+   billboard mentioning the name Hemingway (see the tidbits below for more on
+   its relevance).  Hemingway committed suicide with a shotgun blast to the
+   head, and the billboard with his name on it is right next to one for the
+   Riverside Motel.
+
+   The King Suite is also a subtle suicide hint.  Justin sent in info detailing
+   how the King of Hearts in a deck of playing cards is often referred to as
+   the "suicide king" because of how he holds his sword: perpendicular to his
+   head with everything but the hilt hidden behind his head, making it look
+   like he is stabbing himself.  Justin also noted how this fits with the heart
+   theme: "This is perfectly in keeping with the heart imagery and symbolism
+   prevalent throughout the motel (the swimming pool is shaped like a heart, in
+   it you find the jeweled heart which must be broken, Travis’ dad’s death
+   photo is labeled 'Broken Heart', and so on)."
+
+   ==============
+   Random Tidbits
+   ==============
+   Just scattered facts and observations:
+     The heavy downpour stops as soon as Travis leaves his cab and sees Alessa
+     and the fog.
+
+     Alessa calls Travis' name as he walks down the road during the opening
+     credits and song.
+
+     Travis passes two billboards on the road.  One is for the Riverside Motel
+     and the other is for cigarettes that says "You're never alone with a
+     Hemingway."  We'll find out later that Travis does smoke on occasion, but
+     what is more relevant is the brand name: Hemingway was a famous American
+     author whose works were, according to Wikipedia, characterized by "stoic
+     men who exhibit an ideal described as 'grace under pressure'".  The idea
+     of stoicism could definitely be applied to Travis.
+
+     Walking along the road in the PS2 version, you can see a truck that's
+     broken down/crashed.  This is a clever bit of foreshadowing: Harry will be
+     in the exact same situation at the start of the first Silent Hill.  (On
+     the PSP, there's a pile of boxes instead of a truck.)
+
+     Travis passes a sign that says "Welcome to Silent Hill".  The sign should
+     say something like "You are now leaving Silent Hill" on the back, but it
+     only says "Silent Hill".  Why?  Because everyone knows there is no leaving
+     Silent Hill!  (This appears to be just for the PSP.)
+
+     The Gillespie house has appeared before in the intro video to the first
+     Silent Hill, and its interior was part of the Nowhere level.  This is the
+     first time we actually see it in a game and get to enter it for real.
+
+     Check out the picture of Dahlia and Alessa together in front of their home
+     on the wall to the right of where you find Alessa on the floor.  (This is
+     just for the PSP.)
+
+     If you examine the floor where Alessa was after picking her up, Travis
+     will note the Halo of the Sun and say that it makes his head hurt, not
+     unlike the effects it has on Heather in Silent Hill 3.
+
+     After dropping through the floor, Travis turns his head to look at all the
+     bookshelves around the house.  However, when you interact with one, he
+     says he doesn't have time for it now.  (Thanks to Louchavelli for pointing
+     this out.)
+
+     In the streets, if you go near a trash can, you can sometimes hear the
+     sounds of it moving, toppling over, etc.  If you go near where a road is
+     caved in, you can hear the sounds of gravel and buildings collapsing.
+
+     There is a tower of boxes labeled "MSG" piled outside of Konami Burger.
+     For those of you who don't know, MSG is monosodium glutamate: a flavor
+     enhancer and preservative that has a bad reputation because most people
+     either react allergically to it or just don't like it.  Whether it's from
+     the oriental eatery next door that changes depending on your version of
+     the game or the burger joint is unclear.  Either way, someone's putting a
+     lot of unneeded chemicals in their food.  (Credit to Jace for this find.)
+
+     There are posters in the hospital that say "Don't play with matches" and
+     have what appears to be a disfigured child on them.
+
+     In the hospital hallway with the restrooms and the alternate exit, you can
+     hear a noise that sounds like a muffled telephone ringing or the hum of
+     some old office equipment.  To my knowledge, this is not part of the
+     background music even though it loops like it, so this is yet another
+     ambient/creepy sound effect.  (Credit to Scott for this.)
+
+     There's a notice about a fundraising event in the hospital that Travis
+     won't take his eyes off of, yet won't pick up.
+
+     Travis turns his head to stare at all the stretchers in the hospital that
+     were used to carry Alessa.
+
+     There are some posters in the hospital that say "Hospitals are good."
+     Those who've played Silent Hill 3 know how Alessa feels about hospitals
+     (plus, let's not forget the fact that she's wasting away in the basement
+     when Travis arrives).  Some of these posters are actually reversed,
+     perhaps to show Alessa's feelings.
+
+     When Travis touches the mirror in the hospital for his first trip to the
+     Otherworld, his reflection twitches madly.  This is a reference to Adrian
+     Lyne's film Jacob's Ladder, one of the first major influences for the
+     Silent Hill series.
+
+     The cigarettes in the ash tray in the staff lounge are still smoking.
+
+     There's a mutilated corpse in the Otherworld where the anatomy doll was,
+     and Travis wonders what kind of monster would pluck out its eyes, when he
+     did just that not two minutes ago.
+
+     After finishing the first hospital level, Travis mutters, "This can't be
+     happening!" as the world goes dark around him and he reenters the real
+     world.  Amanda has pointed out that this could be a coincidental nod to
+     when the sanity meter runs out in Eternal Darkness: Sanity's Requiem,
+     which is an awesome game when it comes to freaky scares.  When they go
+     crazy, characters in that title usually scream out, freak out, and then
+     snap back to the real world.
+
+     The actual name of the butcher shop is "The Family Butcher".
+
+     Travis shows genuine sympathy for all the monsters killed by the Butcher.
+
+     When your health is in the red, Travis' breathing becomes raspy and he
+     clutches his side.
+
+     You can hear muffled speech from inside the locked doctor's office in the
+     sanitarium.
+
+     Amanda has pointed out an interesting painting that can be seen in
+     several places, the first being in the west solarium.  The painting is of
+     a man with a huge grin on his face; it almost looks like a real photo
+     turned into a graphic for the game.  It can be seen again in the Public
+     Records Office and nowhere else that we've noticed, so this isn't a case
+     of recurring graphic-itis.  Thomas e-mailed me to say that the picture
+     reminded him of Ronald Reagan:
+     "the painting/photo in question is very reminiscent of Ronald Reagan, who
+     was (along with being a former president of the United States) widely
+     criticized for cutting funding to social programs that helped the mentally
+     ill, resulting in the closing of many mental health facilities and the
+     vagrancy of many mentally-ill people (this was all in the mid-late
+     1980s)."
+     To compare, here's some pictures he found: http://img.photobucket.com/
+     albums/v460/sophialee/Silent%20Hill%20Origins/reagan.jpg  After looking at
+     pictures of Reagan and then the painting, you can tell that they're not
+     identical except in the way the two men are dressed and the eerie smile.
+     However, the connection to insane asylums was too good to pass up.
+
+     On the first floor of the female wing, there are cabinets along the hall
+     that Travis stares at but can't find anything interesting about.
+
+     A lot of the background ambience that plays when wandering around the
+     corridors of the real world sanitarium sounds like music from Silent
+     Hill 2.
+
+     On the iron lung in the TB Ward you can read its directions for operation,
+     and someone scribbled in a fourth one: "Have fun!"  (Sent in by David.)
+
+     There are plenty of medical posters on the walls of the sanitarium, but
+     one of the more prominent ones reads "PTSD: Fact or fiction?"  PTSD is
+     posttraumatic stress disorder.  According to Wikipedia, it "is an anxiety
+     disorder that can develop after exposure to a terrifying event or ordeal
+     in which grave physical harm occurred or was threatened.  It is a severe
+     and ongoing emotional reaction to an extreme psychological trauma.  This
+     stressor may involve someone's actual death or a threat to the patient's
+     or someone else's life, serious physical injury, or threat to physical
+     and/or psychological integrity, to a degree that usual psychological
+     defenses are incapable of coping."  If you need help linking this to
+     Travis, you haven't been paying attention!
+
+     Other posters in the sanitarium read "Hypno-Therapy: Unlock Your
+     Potential!" and "Cognytolyn... ...the solution to a Global problem".  (For
+     the record, "cognytolyn" is not a real word.)
+
+     Kris has noted that Travis stares at a shelf in the sanitarium laundry
+     room even after picking up all the items.  Travis apparently has a staring
+     problem.
+
+     The shotgun in the sanitarium is held up on the wall in a similar fashion
+     to a certain shotgun in the first Resident Evil game.  Trap ceiling not
+     included.  The shotgun is a required pick up because Travis is holding it
+     in the cinematic before the final boss fight.
+
+     Jaff has noted what looks like a smiley face visible in one of the
+     sanitarium mirrors.  For a picture, go here: http://img.photobucket.com/
+     albums/v460/sophialee/Silent%20Hill%20Origins/smile.jpg
+
+     Jaff has also found pages of Konami's "Lost Memories" scattered around the
+     sanitarium.  For an example, look here (found in the room with the Doll/
+     Pill Puzzle): http://img.photobucket.com/albums/v460/sophialee/
+     Silent%20Hill%20Origins/lm.jpg  The text is insanely small; if you want to
+     read the real deal, go here: http://www.translatedmemories.com/
+
+     The Jocasta artifact in the sanitarium is named for Oedipus' mother, the
+     queen of Thebes, in the story bearing his name (Oedipus the King).  When
+     an oracle tells her husband, Laius, that his own son will kill him,
+     Jocasta orders the baby to be left for dead in a forest after injuring his
+     foot so he cannot make it back.
+
+     Iris has written in with a find in the sanitarium:
+     "In the sanitorium, after the pill puzzle to receive dr. Harris' key,
+     Travis has to go to the basement again. There, on the wall to his right on
+     the way between the door he came from and the one to take him trough the
+     diagonal hallway, I have seen something that looked like a child's drawing
+     of a woman and two children."
+     There are many ways to interpret the drawings found around the sanitarium;
+     this one makes me think of Alessa: the woman being Dahlia and the two
+     girls as Alessa and Cheryl.  However, this hasn't technically happened yet
+     so it could just be some foreshadowing.  The drawings scattered around can
+     also be interpreted as a link between Alessa and Travis.  They both shared
+     a childhood penchant for drawing, and you can see Travis' scribbles later
+     in the sanitarium.
+
+     The theatre ticket we pick up in the sanitarium has a city name on it:
+     Jaffrey, N. H.  This is a real town in the state of New Hampshire, and
+     Jim has dug up some history that may serve as a connection:
+     "The town is where a famous, unsolved mystery of Dr. William Dean took
+     place in 1918.  Apparently, it spread paranoia about the town and is one
+     of it's darkest moments."
+     Details of the Dean murder can be found here:
+     http://pages.cthome.net/rspiess/HTML/DeanMurder.htm
+     "I wonder if the fact that his being bound and his head covered with a
+     burlap bag is also part of the reason [the town is referenced].  I'm sure
+     there's more to it than that but Strait-jackets come to mind."
+
+     Other plays advertised in the Artaud Theatre include Julius Caesar and
+     Romeo and Juliet.  Harrison has also spotted posters for Hamlet in the
+     stairwell just off the lobby.
+
+     In the theatre, if you enter the mirror on the stage without setting the
+     scene, Travis will find nothing but will intently stare at the spotlights
+     to his left, even after noting that they don't work.
+
+     If you examine the shovel melee weapon, Travis will note that it is "good
+     for maiming bodies and then for burying them".
+
+     The cardboard cut-out in Andy's Books holding the assault rifle looks an
+     awful lot like Travis.  In fact, Goku the Silver Sayain has correctly
+     pointed out that Travis and the cut-out are identical when he is wearing
+     the Sharpshooter outfit.
+
+     Travis only laughs at his own jokes.
+
+     The till receipt in the general store contains a reference to a line from
+     George Orwell's novel 1984; the exact line: "Here comes a candle to light
+     you to bed, here comes a chopper to chop off your head!"  (Thanks to
+     Huajun Chen for this tidbit.)  An anonymous e-mailer sent in even more
+     info on the original nursery rhyme, titled "Oranges and Lemons":
+     "Speculation about the versions of 'Oranges and Lemons' which *do* contain
+     those lines include the notion that the ringing of the church bells in
+     London and its environs were to mark a public execution in London."
+     Keeping in mind the nature of the Butcher, these lines have even more
+     meaning.
+
+     On the second floor of the 300-block of Riverside Motel rooms, you can
+     hear someone running.
+
+     Jérôme has a possible explanation for the wedding party in the motel:
+     "About the suit and the wedding dress in room 316, it could be a reference
+     to Michael Cimino's The Deer Hunter. I've seen it 6 years ago, so I don't
+     remember it accurately but I think something went wrong with the marriage.
+     I can't remember if the groom survived at the end of the movie."
+
+     In Room 309, Travis takes a health drink straight out of a toilet.  Ever
+     since Silent Hill 2, there has been a long-running line of "reaching into
+     toilet" gags.  Travis is apparently the first man in Silent Hill brave
+     enough to reach into a toilet for something, though the one in the motel
+     wasn't full of gross blockage like the one in the Blue Creek Apartments.
+
+     Travis breathes really heavily every time he looks in a room through a
+     peephole, except when looking through peepholes in the Otherworld.
+
+     Taxidermy makes Travis feel bad.
+
+     In the game room at the motel, Travis says he only smokes when he's happy.
+     Examining one of the cigarette machines will make him say that he doesn't
+     want a smoke right now.
+
+     The pinball machine with the token on it, fittingly enough, has a big rig
+     theme to it.  In the PS2 version, it also features a horizontally flipped
+     version of this picture of Farrah Fawcett: http://img.photobucket.com/
+     albums/v460/sophialee/Silent%20Hill%20Origins/farrahfawcett.jpg.  (Credit
+     to eagle eye Brian for this find.)
+
+     Luke has pointed out that the third pinball machine on the right features
+     the band KISS.  (This is also just for the PS2.)
+
+     The lights are on and flickering in room 213 at the motel, but the door is
+     closed.  Bronson has e-mailed a possible reference concerning this room,
+     saying 213 was the number of Jeffrey Dahmer's apartment.  Dahmer was a
+     serial killer who murdered 17 men and boys and apparently stored corpses
+     and other unspeakable things in his room, which is not unlike all the
+     hanging corpses you can see in the Otherworld motel.
+
+     Travis describes the snake key chain on the Cleopatra key as "cute".  This
+     is probably the only time outside of Silent Hill 3 that anyone has called
+     something cute.
+
+     Leonardo da Vinci's famous "Vitruvian Man" drawing can be found on the
+     walls of some of the motel rooms.
+
+     Dzulk9 has pointed out that, if you examine the Redeemer in the PS2
+     version, you can clearly see the image of a woman on the handle.
+
+     Before you jump down through the hole in the Cleopatra Suite, you should
+     be able to hear a woman laughing, among other sounds.  (You know, just in
+     case you were unsure about what Lisa and Kaufmann were doing downstairs.)
+     Sammy has also noted that those sounds can be heard through the suite's
+     peephole, underneath Travis' breathing.
+
+     In the Green Lion, you can see a picture of what could be the Almighty Dog
+     (from the UFO ending) by the hole in the wall.  (Thanks to alys D for
+     pointing this out.)
+
+     Tommy has pointed out an interesting oversight/tidbit: Travis left the
+     lights on in his truck, but it starts up with no problems when he goes to
+     leave (well, it actually needs to turn over once or twice; see the movie
+     references for a possible explanation for that).  This could either be a
+     mistake on the developers' part or a hint for those of you looking to
+     analyze time in the Otherworld in relation to time in the real world.
+     Maybe his lights weren't on that long after all?
+
+     Paul has pointed out that the last name Grady has a history of crazy
+     attached to it, specifically in a loose reference to The Shining by
+     Stephen King.  The caretaker who murdered his family was named Delbert
+     Grady, and his spirit haunts the Overlook Hotel.  Though Travis' father
+     was more suicidal than homicidal, his spirit also haunts a hotel-like
+     establishment.
+
+     As for the first name of "Travis", absolutturka noted some similarities to
+     the Travis in the movie Taxi Driver.  Both character exhibit violence and
+     have trouble sleeping.  hustonwatts also added more to this topic: "I
+     think this is accurate because both Travis's enjoy driving, and have a
+     interest in guns, I came up with this b/c S.H.O. has more guns than any of
+     the others, and Taxi Driver's climax involves gun violence."
+
+     Scott has sent in an interesting note about the Good ending:
+     "In the final cutscene of the game, we see that the trucking company
+     Travis works for is based in Owl Creek, Alabama.  Now, I might be reading
+     a bit too much into it, but this could be a reference to Ambrose Bierce's
+     short story, 'An Occurrence at Owl Creek Bridge.'"
+     A few more facts about what we can see on the truck: Travis is hauling for
+     Ambrose Trucking & Haulage, and the date written on the side of the
+     trailer is 1891.  Ambrose is, of course, from the author's name, and the
+     date is when the story was first anthologized.  "An Occurrence at Owl
+     Creek Bridge" is about a false reality that a man conjures up in order to
+     escape his death.  He is slated to be executed by hanging and believes he
+     gets away by a twist of fate but, in fact, is killed on the spot, and
+     readers realize his elaborate escape was all in his head.  To me, this
+     instantly brings up memories of the first Silent Hill's Bad ending, but it
+     also works for Ørigins (see the note above about the truck's headlights).
+
+     A possible game glitch has been sent in by Javier Munoz:
+     "An interesting thing I've discovered while playing is that if you equip a
+     melee weapon the very second the last one breaks during a fight, both you
+     and the monster(s) you're fighting will move in slow motion. This is an
+     awesome effect for the rest of the fight because you can see in detail how
+     a monster takes a hit from Travis, how he takes a hit, and how a finishing
+     blow looks like. Other than that, it's freaking annoying because Travis
+     stays in slow mo after he kills the monster(s). There are two ways I've
+     found to get out of slow mo mode: one is to leave the area (Travis will
+     move at normal speed) and the other is to break another weapon during the
+     same fight."
+
+     The Sprinter outfit sports a stylized "TG" logo on the back.  (Submitted
+     by Goku the Silver Sayain.)
+
+
+===============================================================================
+Miscellaneous                                                             [mis]
+
+If anything in this document is inaccurate, you have comments and critiques or
+you have a question about the game, feel free to let me know at SophiaLee04 at
+yahoo dot com.  Be sure to mention "Silent Hill Ørigins" in the title.
+
+   =============
+   Credit/Thanks
+   =============
+   Thanks all around to:
+     Konami for an excellent series and Climax for a wonderful game.
+
+     ninjarza over at GameSpot for the accolades list.  I could not for the
+     life of me find the criteria for each accolade until Google led me to your
+     post.
+
+     Konami's official Silent Hill Ørigins site for the names of most of the
+     monsters, and BradyGAMES' official guide for the monster names Konami
+     didn't supply.  (Although I did make up the names for the Richard and
+     Helen bosses.)
+
+     evilunleashed.com for the interview with the game's producers.
+
+     Steve Sheppard and Jérôme for the Twin Peaks trivia.
+
+     Michael Preston for a spelling correction.
+
+     AfroMike (GummySnakes) for alternate Caliban strategy and help with the
+     tips for the accolades, Mike D. and James for help with the Fireman
+     accolade specifically, and Etienne for a note on the Stalker accolade.
+
+     lov kai for pointing out that stomps count as fist kills.
+
+     sam hill for a trivia suggestion.
+
+     everyone that e-mailed me with Roslyn info.
+
+     Bronson for room 213/Dahmer info.
+
+     SparkNotes for information on The Tempest.  In all my English courses,
+     I've never had to read that one.  I love Silent Hill, but I hate
+     Shakespeare more, so I used SparkNotes to get the jist of the plot and
+     the major themes so I wouldn't have to read it.
+
+     Mike for more theories on how The Tempest fits into Silent Hill, and Sean
+     for relating Travis to the theatre.
+
+     Mózsi Kiss for tremendous help with my Sprinter Run.
+
+     the trivia posts at GameFAQs for the hints at Session 9 references.
+
+     Aoi for the Silent Hill 4 wheelchair note.
+
+     anonymous e-mailers for all-around good info.
+
+     Huajun Chen for the 1984 trivia bit as well as detailed info on the
+     special rooms in Riverside Motel.
+
+     Jess for the info on Dean Koontz and Silent Hill Genesis (http://genesis.
+     silenthillfever.com/) for other author references.
+
+     Jason for digging up the names Cielo, Flauros, and Samael in relation to
+     SMT:DDS, and Thomas for more info on Cielo.
+
+     Jake for relating Borden street to Lizzie Borden.
+
+     Jaff for screen caps and extras found in the Sanitarium.
+
+     alys D for showing me the dog in the antique shop.
+
+     Stevo99801 for help with figuring the game's item system.
+
+     Louchavelli for noting the bookcases in the Gillespie house.
+
+     Kris for pointing out another of Travis' staring problems.
+
+     Tommy for a trivia bit about the truck's lights.
+
+     Paul for linking the name Grady to The Shining, and absolutturka and
+     hustonwatts for linking the name Travis to Taxi Driver and mental illness.
+
+     Lori for the note about Marilyn Monroe.
+
+     Brian and Luke for more pinball trivia, and again to Luke for the bit
+     about fighting Richard.
+
+     Scott for the Owl Creek information and noting the muffled phone(?) in the
+     hospital.
+
+     Amanda for the Eternal Darkness line.
+
+     Jace for uncovering the truth about Konami Burger's flavorful menu.
+
+     Amanda for the lead on the creepy painting in the sanitarium, and Thomas
+     for a possible reference concerning said painting.
+
+     Scott, Seta, and Kelsey for Silent Hill movie refs.
+
+     Aya for e-mailing strategies for the Butcher and Memory of Richard fights.
+
+     Harrison for spotting another Shakespeare poster.
+
+     Iris for the kind e-mails and the bit about the drawings in the
+     sanitarium.
+
+     Carla for a definite Flauros puzzle solution.
+
+     Sammy for an extra tidbit on the goings on in the Cleopatra Suite.
+
+     Bloody Miss B for so much helpful info and insight into White Claudia.
+
+     Dzulk9 for pointing out a neat tidbit about the Redeemer on the PS2.
+
+     David for a bit about the iron lung in the sanitarium.
+
+     Tee Kay Vin and Kristoffer for pointing out an item I missed.
+
+     Jim for info on Jaffrey.
+
+     Javier Munoz for a game glitch.
+
+     Goku the Silver Sayain for trivia related to Travis' costumes.
+
+     Justin for sending in info about the King Suite.
+
+     my friend Lara for taking me out to eat at 1 in the morning so I'd have
+     enough energy to keep writing.
+
+     GameFAQs writer Conquerer for showing us all what a Silent Hill guide
+     should be like.  The time and effort put into this guide's trivia section
+     and puzzle solutions was inspired by his work.
+
+     imdb.com for help with trivia that involved a movie.  I love that site.
+
+     Wikipedia for being an all-in-one source.  Nothing beats it.
+
+     all the gaming sites that host my guides.
+
+   ===============
+   Version History
+   ===============
+   1.51 - 02/20/11: Added another suicide hint found in the motel.  So, so
+                    sorry to the submitter for taking so long to add it.
+
+   1.50 - 06/07/10: Added info on a "slow mo" game glitch at the very end of
+                    the random trivia section.
+
+   1.49 - 01/12/10: Some formatting, also added a bit relating Travis to the
+                    theatre under the random trivia section.
+
+   1.48 - 07/12/09: Got an update on the Jaffrey, NH connection and added two
+                    new hosts.
+
+   1.47 - 02/22/09: Amended the Taxi Driver reference.
+
+   1.46 - 01/05/09: Added one last trivia bit about the iron lung I missed: the
+                    "Have fun" message, to be precise, as well as an update on
+                    the Stalker accolade someone pointed out to me.
+
+   1.45 - 08/18/08: Added a reminder to PS2 players about their lack of
+                    brightness controls; if you can't see something referenced
+                    in the FAQ and you're playing the PS2, keep mashing X and
+                    you should find it eventually; I also added a definitive
+                    solution to the Flauros puzzle e-mailed in to me.
+
+   1.44 - 06/21/08: Along with some trivia, I've gotten some boss fight ad-ons
+                    for the Butcher and Richard.
+
+   1.43 - 04/29/08: You got it, more trivia, but not much more; from now on,
+                    we'll just assume that whenever this document is updated,
+                    it is trivia related.
+
+   1.42 - 04/21/08: More trivia, all in the tidbits section.
+
+   1.41 - 04/06/08: The trivia section is now up-to-date with all the things
+                    people sent in; sorry it took so long.
+
+   1.40 - 03/11/08: I have the PS2 port and am happy to say that it plays the
+                    same as the PSP version so far (although I prefer the
+                    latter); I've been scouting for new trivia as well as
+                    looking into some that people have sent in; most of the new
+                    stuff is in the tidbits section.
+
+   1.39 - 02/20/08: Shuffled some trivia around and added a note about the item
+                    system before the walkthrough.
+
+   1.38 - 02/03/08: Added more hints for getting the Fireman accolade.
+
+   1.37 - 01/31/08: Two new trivia finds added under the tidbits; just look for
+                    the long URLs to find them.
+
+   1.36 - 01/21/08: Added a section under trivia concerning the motel and its
+                    suicide-themed rooms and made an addition to the Brawler
+                    accolade's tips.
+
+   1.35 - 01/16/08: More trivia added, mostly under tidbits and the first
+                    Silent Hill.
+
+   1.34 - 01/06/08: Went through and did proofreading and added trivia; there
+                    isn't much more I can add that has to do with the actual
+                    game.
+
+   1.33 - 12/16/07: Thanks to a friendly e-mail, I have revamped the Sprinter
+                    Run; where I had oversimplified, not been clear, and been
+                    downright wrong has now [hopefully] been fixed; more trivia
+                    has also been added.
+
+   1.32 - 11/25/07: Added tips on how to achieve all the accolades as well as
+                    more trivia bits here and there.
+
+   1.31 - 11/18/07: Sprinter Run added, but I have yet to test it so I
+                    apologize if anything's missing; I also fine-tuned the
+                    walkthrough to include more items and more info on bosses;
+                    the trivia section is growing bigger.
+
+   1.20 - 11/13/07: Added the monsters and trivia section; the latter still
+                    needs lots of work; I'm also considering making a
+                    condensed, bulleted walkthrough for the Sprinter run.
+
+   1.00 - 11/11/07: Walkthrough finished and submitted at 6 in the morning; all
+                    for the love of the game, baby.
+
+   0.00 - 11/09/07: Walkthrough started with a case of Coca-Cola by the
+                    keyboard.
+
+   =====
+   Hosts
+   =====
+   Below are the sites that have permission to host this guide.  They should
+   all have the same version, but it's not a guarantee.  Check the sites at the
+   top of the list first for the latest.
+
+      GameFAQs, http://www.gamefaqs.com
+      Neoseeker, http://www.neoseeker.com
+      HonestGamers, http://www.honestgamers.com
+      Super Cheats, http://www.supercheats.com
+      Cheat Code Central, http://www.cheatcc.com
+      Game Revolution, http://www.gamerevolution.com
+      GamesRadar, http://www.gamesradar.com
+      Gamer Database, http://www.gamerdatabase.com
+      The Hill Is Silent, http://www.freewebs.com/thehillissilent
+      http://thenumber35.webs.com/
+      MyPSP, http://mypsp.com.au/
+
+   ==========
+   Legal Info
+   ==========
+   This walkthrough was typed up solely for personal and private uses.  Please
+   do not redistribute, alter, or do anything remotely suspicious or illegal
+   with it.  Ask if you're not sure.  Copyright infringement is not cool; it's
+   the kind of thing people are called to Silent Hill for.
+
+   Copyright (©) 2007, 2008, 2009, 2010, 2011 Georgi Samaras
+

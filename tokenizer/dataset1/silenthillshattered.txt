@@ -1,0 +1,3141 @@
+
+
+o+--=====================================================================--+o
+ +                                                                         +
+ |      _____                                   _    _                     |
+ |     / ____| ___  _     _____  _   _  _____  | |  | | ___  _     _       |
+ |    | (___  |_ _|| |   | ____|| \ | ||_   _| | |__| ||_ _|| |   | |      |
+ |     \___ \  | | | |   |  _|  |  \| |  | |   |  __  | | | | |   | |      |
+ |     ____) | | | | |__ | |___ | |\  |  | |   | |  | | | | | |__ | |__    |
+ |    |_____/ |___||____||_____||_| \_|  |_|   |_|  |_||___||____||____|   |
+ |                                                                         |
+ |                   S H A T T E R E D   M E M O R I E S                   |
+ |                                                                         |
+ +                                                                         +
+o+--=====================================================================--+o
+
+Silent Hill: Shattered Memories
+
+Platform: Wii, PSP, PS2
+Developer: Climax - http://www.climax.co.uk
+Genre: Psychological Horror
+ESRB Rating: Mature
+
+Author: Kellexx
+E-mail: mister_cyrus@hotmail.com
+FAQ Version: 1.2
+
+o+--=====================================================================--+o
+ +                             Table of Contents                           +
+o+--=====================================================================--+o
+
+I   - Introduction . . . . . . . . . . . . . [I.1]
+
+II  - Basics . . . . . . . . . . . . . . . .[II.1]
+
+III - Walkthrough
+	1. Town Streets                    [III.1]
+	2. Nightmare - Town Streets. . . . [III.2]
+	3. Forest                          [III.3}
+	4. Nightmare - Forest. . . . . . . [III.4]
+	5. Midwich High School             [III.5]
+	
+	6. Nightmare - School              [III.6]
+	7. How You Want To Die . . . . . . [III.7]
+	8. Toluca Mall                     [III.8]
+	9. Nightmare - Mall. . . . . . . . [III.9]
+	10. Nightmare - Nowhere           [III.10]
+	
+	11. Silent Hill Lakeside . . . . .[III.11]
+	12. Lakeside Amusement Park       [III.12]
+	
+
+IV  - Therapy Sessions
+	1. The Test. . . . . . . . . . . . .[IV.1]
+	2. Happy Family                     [IV.2]
+	3. Halcyon Days of High School . . .[IV.3]
+	4. How You Want To Die              [IV.4]
+	5. Guilty Conscience . . . . . . . .[IV.5]
+	6. Marriage                         [IV.6]
+	7. Sex Evaluation  . . . . . . . . .[IV.7]
+
+V   - The Endings
+	1. Encounter Ending. . . . . . . . . [V.1]
+	2. Videotape Ending                  [V.2]
+	3. UFO Ending. . . . . . . . . . . . [V.3]
+
+VI  - Puzzles
+	1. Music Box . . . . . . . . . . . .[VI.1]
+	2. Shadows                          [VI.2]
+	3. Planetarium . . . . . . . . . . .[VI.3]
+	4. Gym Keycode                      [VI.4]
+	5. PC Password . . . . . . . . . . .[VI.5]
+	6. Bridge Control                   [VI.6]
+	7. Radio Request . . . . . . . . . .[VI.7]
+	8. Gumball Machine                  [VI.8]
+
+VII - Mementos . . . . . . . . . . . . . . . [VII]
+
+VIII- Ghosts . . . . . . . . . . . . . . . .[VIII]
+
+VIV - Echo Messages. . . . . . . . . . . . . [VIV]
+
+VV  - Phone Numbers. . . . . . . . . . . . . .[VV]
+
+VVI - Legal  . . . . . . . . . . . . . . . . [VVI]
+
+
+o+--=====================================================================--+o
+ +                                Introduction                             +
+o+--===============================-----------===========================--+o
+                                   \  [I.1]  /
+                                    ---------
+
+  To start, I'd like to mention that this game surpassed my expectations by
+far. After being very unsatisfied with Silent Hill: Origins, I had very low 
+expectations for this game, knowing that it was under development by the 
+same people, Climax. I've been a fan of the series since the first and own 
+all the games, movie, as well as soundtracks. 
+
+  When Team Silent was no longer going to be continuing the series, I became
+skeptical about the series' future. Silent Hill: Origins was rather 
+disastrous. Silent Hill: Homecoming was alright, but ultimately felt like it
+had too many things thrown in just to classify the game as Silent Hill (IE: 
+Pyramid Head, otherworld transition, nurses) and not enough to stand on its 
+own.
+
+  Nevertheless, Climax has redeemed themselves both for Silent Hill: Origins
+as well as the series' future. It will stand as an idol amongst the 
+psychological horror genre of video games and has restored the reputation of
+the series.
+
+
+
+o+--=====================================================================--+o
+ +                                   Basics                                +
+o+--===============================-----------===========================--+o
+                                  \  [II.1]  /
+                                   ----------
+
+Controls
+(nunchuk required)
+
+A :	Interact (use/talk/open/etc)
+B :	Zoom/look
+- :	View phone menu
++ :	Toggle flashlight; Drop flare
+1 :	Pause menu
+2 :	Delete save (main menu only)
+
+Analog:	Walk/strafe
+Z :	Run
+C :	Use flare (only used in nightmare sequences)
+
+D-Pad Up:	Dial Number
+D-Pad Down:	Look Back
+D-Pad Left:	Map/GPS
+D-Pad Right:	Camera
+
+
+Analog Down & Z: Quick Turn
+
+---
+"Fighting" - Nightmare Tips
+
+  Throughout the game there is no combat. During nightmare sequences, you 
+will be pursued by monsters, but you can't fight them. When they grab onto
+you, you have to throw the Wiimote and nunchuk in the manner displayed. 
+Generally, you can get away with just violently shaking the wiimote, but
+this doesn't always work as effectively as you would like.
+
+  Commonly throughout nightmare sequences, there will be lights to generally
+guide you where to go. Outside, they're in the distance. Indoors, there is
+sometimes a light or lamp above the door to the correct path.
+
+  During nightmare sequences, you'll also come across movable objects. These
+objects can be cast down to delay pursuing enemies. To do this, swing the
+nunchuk as you approach the object. You'll know if you can knock it down if
+the swing animation is shown as you approach it. It will also have a faint
+arrow above it.
+
+  Hiding is never useful. Perhaps it's my own experience, but I have never
+found a use for hiding throughout the game. The monsters will just wander
+around for a bit before they find you anyway; they will never leave
+permanently.
+
+  Turning your flashlight off can help sometimes. In each nightmare 
+sequence you can skip the first few enemies by simply turning off your 
+flashlight. The doors and ledges you need to go to are lit up anyway, so 
+it's not crucial to have the light on.
+
+
+---
+Personality Inventory (PI)
+
+  Throughout this document, you'll notice several references to PI. PI, an
+acronym for Personality Inventory, is what controls various aspects of
+the game. Conversations, attitudes, outfits, and the ending are all impacted
+by your PI. There are five main types of PI throughout the game, they are:
+
+ - Sexual - The most common; primarily influences appearances
+ - Friendliness - Primarily influences interactions with people
+ - Family - Primarily affects the ending cutscenes
+ - Alcoholic - Primarily influences Dahlia and the ending cutscenes
+ - Fake - Only influences the ending
+
+  Each of these are fairly obvious, except for the fake PI. The fake PI only
+impacts the ending cutscenes and suggests that you aren't interested in the
+doctor's therapy. Basically, to build this PI, take every opportunity to
+appear as though you aren't answering the questions truthfully. (See the
+endings for more info).
+
+  Each type of PI is evaluated when you come to a part of the game that includes
+something that changes according to your current PI. Whichever PI you have been
+building the most of will take precedence.
+
+  However, it is rare that a single object with PI will change anything. What I
+mean is: you can't expect something to change based on a single event. The
+whole idea is to evaluate your trends and create a psychological profile. This
+is collected by a multitude of actions/responses. That said, there are some
+events that are much more influential than others.
+
+
+
+o+--=====================================================================--+o
+ +                                 Walkthrough                             +
+o+--===============================-----------===========================--+o
+                                   \  [III]  /
+                                    ---------
+
+***NOTE: THIS WALKTHROUGH IS SPOILER-FREE***
+
+o+- Therapy - The Test -+o
+
+  This form is the initial psycho-profiling that happens in this game. The 
+profiling influences various aspects of the game. Some affect the ending, 
+while others only influence a scene or two.
+
+  Even if you're hunting for a specific ending, they all take
+influences from multiple events; don't worry about getting everytying that
+contributes to a specific ending.
+
+  Particularly for first-time players, don't worry about repercussions of
+your choices, they're all minor. Just choose whatever you like.
+
+
+Question			Primary Influence
+
+1. I make friends easily	Friendliness PI; Access to Bar
+
+2. Having a drink helps me	Alcoholic PI; Good Old Days Bar
+   relax
+
+3, I always listen to other	Friendliness PI
+   people's feelings
+
+4. I prefer abstract ideas	Fake PI
+
+5. I have enjoyed role-play	Sexual PI
+   during sex			
+
+6. Working to a plan or 	Family PI; Fake PI
+   schedule is best
+
+7. I have never cheated on a	Sexual PI
+   partner
+
+
+
+
+
+
++--------------+---------+
+| Town Streets | [III.1] |
++--------------+---------+
+
+---
+III.1 Junkyard 
+
+  There's a binder on the ground here. It must be inspected if you intend to
+enter the Good Old Days bar. Don't step on it or inspect the bear. If you do,
+Harry won't comment on the binder and you won't be able to enter the bar.
+
+  Not much lse here, just go to the wooden fence and climb over it. There'll
+be a door you can enter right in front of you
+
+---
+III.1 Car Garage
+
+  Very straight forward. The door is to your right from when you enter. 
+At the end of the hall are some bathrooms, one of which with sexual PI. 
+Follow the door to a shop. Go through the employee door. Unlock the door 
+(useless "puzzle") and head outside.
+
+*** Significant Objects: Sexual PI, Alcoholic PI; Family PI ***
+
+---
+III.1 Streets
+
+  Turn left and head down the street. There's nothing significant on the 
+street. From here, you can go through either of two stores. If you plan on
+going through the Good Old Days bar, then you have to go through Theresa's.
+
+
++--BRANCH--+
+
+1. Clear Picture - TV Shop
+
+	  Go down the steps and through the door. Play the recorder on the
+	counter if you like. Go through the "Staff Only" door. Use the
+	monitor, switch the knob to 3, and hit the release button. Look at
+	the TV with the married couple for family PI.
+	
+	*** Significant Objects: Sexual PI (3), Family PI ***
+
+	  Head back and go through the door behind the counter. Turn right
+	and climb the fence that ironically has a "DO NOT CLIMB" sign on it.
+	Go through the door ahead of you.
+
+2. Theresa's - Dress Store
+
+	  Play the recorder on the counter if you like. Go through the door
+	behind the counter. Head up the stairs and into the room with three
+	mannequins. The first mannequin you undress will have the key to the
+	door. Head out that door and through the alley.
+	
+	*** Significant Objects: Sexual PI ***
+
+---
+III.1 Playground
+
+  Climb the wooden fence. Turn left and go to the other side of the
+wagon. Interact with the cans. These cans will be red, unless you've
+made indication that you like alcohol; then they'll be green.
+
+  Shake the cans to find one with a key inside. Just rotate the wiimote
+to turn it over. Grab the key and head for the door. From here, you can
+enter either the "Good 'Ol Days" bar or "52 Diner." Which one you choose
+may be restricted. In most cases, you're forced to go into the diner. Don't
+worry, this doesn't significantly impact anything later.
+
+  Here is a list of factors that change the Good Old Days Bar:
+  
+ - Appearance: Irish Pub - True to drinks relaxing you
+ - Appearance: Sports Bar - False to drinks relaxing you
+ 
+  Entrance Criteria: 
+  
+ - True to making friends easily - All other questions irrelevant
+ - Inspect binder in junkyard - DO NOT step on it or inspect the bear
+ - Go through Theresa's - Dress choice irrelevant
+ 
+  The conversation with the woman in the bar doesn't change. If it's a sports
+bar (drinks don't relax you) she'll be wiping the counter. Otherwise, she'll be
+stacking cups. That's the only difference.
+
+  Your choices so far will affect Cybil (regardless of whether or not this is
+when you first meet her. These are the general indications from the diner/Cybil.
+
+PI Variations: 
+ - Cybil Attitude - Friendliness PI
+ - Cybil Outfit:- Coat & Tie - Family PI
+ - Cybil Outfit - Black Fatigues - Unfriendly PI
+ - Cybil Outfit - Cleavage-fest - Sexual PI
+ - Sign by Door: Erotic Woman - Sexual PI
+ - Sign by Door: Male - Non-sexual PI
+
+  Go behind the counter and find the cabinet. Open the left side to find 
+the first memento. Exit the building now. If you went through the bar, the
+memento is in a dart board in the corner near the door.
+
+*** Significant Objects: Memento (A Winter Beacon) ***
+
+---
+III.1 Streets
+
+  You can now use your phone. This is where you'll find your map (D-Pad 
+Left) as well as many other functions.
+
+  If this is your second play through, you can now call the phone number to
+start the UFO ending. The phone number to call is 555-3825
+
+  Head back the way you came. Once you go through the door, turn left and 
+photograph the swingset.
+
+*** Significant Objects: Ghost (Swingset) ***
+
+  Continue back the way you came. In the alley here, you'll find the first
+UFO if you called the number. It's near a street light. Trust me, if you're
+looking for it, you can't miss it. Snap a photo of that. Head into the store 
+you came through (Theresa's or Clear Picture). There will be an echo message 
+in the store.
+
+** UFO **
+
+  Once on the street in front of Theresa's/Clear Picture, you'll get a call
+from Cheryl. If you don't answer it, you can't progress the game. So... 
+answer it.
+
+  This will begin the first nightmare sequence. Watch as everything in sight
+is swallowed by a frozen hell.
+
+
+
+
+
+
++--------------------------+---------+
+| Nightmare - Town Streets | [III.2] |
++--------------------------+---------+
+
+  There's a car with it's alarm going off and lights flashing. The lights
+are shining right on the door you need to go through.
+
+  Watch the cutscene, then turn off your flashlight (+ button). This will 
+let you avoid the first few enemies.
+
+  The path in this nightmare is fairly straightforward. Just keep looking
+for the bright blue borders and run for them. Take a look at your map and draw
+a line to generally reflect these directions:
+ 
+ - West (straight) all the way to the west side of the dark red block
+ - South to cross into main dark red block
+ - East to curved hallway
+
+  When you get to the part where you're looking at a building with an alley
+on either side. Aim at each alley, one will cause less static, go for that
+one. The other will have an enemy right behind it.
+
+  Don't bother hiding in the cabinet.
+
+  In the hall with the movable objects, head for the crawlspace. The path
+through the door has more enemies in it.
+
+  At one point you'll find yourself in a locker room. This is where the
+separate paths collide. The door you want has a nicely placed exit sign
+above it. In each case, it will be to your left as you enter the room.
+
+  Drop down into the pool to grab the flare, then head for the double-doors
+with the exit sign. If you get confused, it's the one near the part of the
+pool that looks broken.
+
+  Continue along the straightforward path. It's not much further before you're 
+done.
+
+  If you made the best choices, you won't have a problem with the enemies
+and won't even need the flare.
+
+
+
+
+
+
+o+- Therapy - Happy Family -+o
+
+Question				Primary Influence
+
+1. Would you consider yourself		Friendliness PI
+a private person?
+
+2. Would you say it takes a while	Fake PI
+for people to get to know you?
+
+3. Would you prefer to spend time 	Family PI
+with friends over family?
+
+
+  Coloring Time! The colors you use will be reflected on the house you see
+in the following cutscene. This has no bearing on anything else. Coloring
+the trees does nothing. The doctor doesn't change his comment no matter
+what you do. Leaving the page blank results in the same as coloring
+everything in solid black.
+
+  Once you're finished this therapy session, you'll watch a cutscene. In 
+this cutscene, the couple's attitude is influenced by your previous actions.
+The more friendly you are, the more hostile they are and vice versa.
+
+  Following this, Cybil will show up and take you poor confused Harry away.
+Cybil's conversation will similarly reflect your hostility.
+
+---
+III.1 Car Ride
+
+  In the car, if you bounce around and play with the doors, Cybil will
+comment that you seem restless. Otherwise, she'll mention you seem quiet. You
+might also notice that Cybil's not wearing her seatbelt!!
+
+  After driving for a bit, Cybil will stop the car due to the bad road
+conditions. Hop on up to the front seat. In the glove compartment is a 
+memento. Snag that, unlock the door and pull the handle. Yes, it's that
+sophisticated just to open a door.
+
+*** Significant Objects: Memento (Hidden Fire) ***
+
+
+
+
+
+
+
++--------+---------+
+| Forest | [III.3] |
++--------+---------+
+
+  Once you get out of the car, there's a phone number on the hood you can
+call if you'd like. Head down the road, avoiding any reindeer crossing
+and hop over the fence to your left. 
+
+  As you approach the cabin, you'll get static from the box next to the 
+window. Approach to get the echo message. There's also a number in the
+box you can call if you're interested.
+
+---
+III.3 Cabin
+
+  Once you enter the cabin, there's a first aid box to your immediate
+right. Inside it is a key. Looking at the map, you can get an idea of
+what's around. Though you can see the same thing on your phone (D-Pad Left).
+
+---
+III.3 Forest Path
+
+  Follow the path until you notice a water tower off to your left. Run up
+to the water tower. There's a box on one side of it with a memento in it.
+
+  Follow the static until you find the echo message. It's associated with
+a wreath pinned to a tree. Nearby is a barrel in the snow.
+
+*** Significant Objects: Memento (Frozen Waters); Echo ***
+
+  Approach the fence nearby and follow it south-east towards another fence
+that you can climb over. Don't climb it, just continue following the wall.
+
+  You'll find yourself at a fishing lodge. Go through the door and look at the
+roof near the door. If you're on the UFO mission, there will be one here through
+a hole in the roof.
+
+** UFO **
+
+  Continue through the door. Climb out the window to your right and out the
+door on the other side of the dock.
+
+  Follow the path for a little bit until you come to the wall short enough for
+you to climb. Climb up it. You'll start getting static from a sleeping bag
+that's on the ground just ahead.
+
+*** Significant Objects: Echo ***
+
+  Continue down this path and you'll come to a ladder that goes down into the
+ground. Down the ladder, you can find a ghost, but there's nothing else down
+there. For the ghost, just climb down, hop over the pipe and walk to the end
+of the path. The ghost is behind the bars here. If you go through the tunnel
+you'll end up back near the beginning.
+
+*** Significant Objects: Ghost (Drowning Boy) ***
+  
+  From the ladder, head for the path beside the river and go left (east) 
+along it. The other direction will lead back to where you came from and only 
+be counter-productive.
+
+   After a short run, you'll come to another cabin. This one's bigger 
+than the last and has two doors. Which you go through doesn't really 
+matter, since you can still go back and through the other.
+
+---
+III.3 Hunter's Cabin
+
+  Going through the front door will lead you to a room with stuffed
+animals. One of the rooms here may change according to your PI. You may 
+encounter a stuffed bear standing as normal, or you may encounter a slaughtered
+bear on a table. Then next room will have a cupboard with a memento inside as
+well as a collection of condoms around the trash can.
+
+*** Significant Objects: Memento (A Moveable Feast); Sexual PI ***
+
+  Going through the back/side door will lead you to a butcher's room. Take
+a photo of the ghost hanging over the table. There's also a sexual poster on
+the wall and a cupboard, but it bears nothing significant. In the next room is
+a small desk with a drawer you can open to find a memento.
+
+*** Significant Objects: Memento (A Broken Ward); Ghost (Deer); Sexual PI ***
+
+  Once you go through the cabin via either direction, you will come out
+the back where you can enter the other door and collect what you missed.
+
+
+  As soon as you come out the back, look along the wall of the cabin. There is
+a canoe and a few barrels. On top of one of the barrels is a UFO. Turning off
+your light makes it more noticeable.
+
+** UFO **
+
+---
+III.3 Forest Path; continued pt.2
+
+  As you walk away from the hunter's cabin, Cybil will call you to
+reprimand you for fleeing the vehicle. Pz.
+
+  You'll also get some static as you approach the footbridge. It's coming
+from a skull pinned to a tree, which will be to your left as you approach
+the footbridge.
+
+*** Significant Objects: Echo ***
+
+  Cross the river/footbridge and head left along the path. You'll come to
+yet another cabin with a truck outside of it. There's a "How's my driving?"
+phone number on the truck. Go to the left side of the cabin to find a 
+coat on the ground with blood around it and a pink handbook on the table. 
+Inside the pink handbook is a key to the cabin.
+
+  Once inside this cabin, you'll quickly notice a shade at the end of it. 
+As soon as you approach this shade, the next nightmare sequence will begin.
+
+
+
+
+
+
++--------------------+---------+
+| Nightmare - Forest | [III.4] |
++--------------------+---------+
+
+  Turn around and head out the door. If you get to it before it freezes, 
+you won't be able to open it. Just wait for it to freeze and try again.
+
+  Throughout this nightmare sequence, there's always a light in the distance
+point you in the right direction.
+
+  Once outside, run forward and follow the barriers/trees/etc to your right.
+You'll end up back at the hunter's cabin and only one door is accessible.
+
+  As soon as you go through this door, an enemy will spawn outside the
+cabin, so start running. If you hide under the bed, it'll wander around
+and eventually pull you out.
+
+  Don't bother shutting off your light here, it won't help. As you run, 
+stay a bit to the left, even if it means running into an enemy.
+
+  You'll shortly notice a ledge you can climb. Climb it. There's a flare
+up there.
+
+  When you get to the area where you're running amongst trees, look for 
+the movable objects. They look like some kind of mummy or wicker man.
+These are the only movable objects in this nightmare sequence.
+
+  When you come to a spot where you can go left through a door, or straight
+through a set of double-doors, go through the double-doors and keep 
+running forward, knocking over the movable objects as you go.
+
+  After a little bit of leaping over gaps, you'll be forced to turn right. 
+Drop down the ledge and look to your left. There's a cabin there.
+
+  Once you're in the cabin's living room, you'll get lots of static from 
+an echo. You have to approach this echo in order to get the message
+related to the puzzle here.
+
+
+o+- Puzzle - Music Box -+o
+
+  The message you receive from the echo in the same room is your hint to
+solving the puzzle. The solution has always been the same for me, so I 
+guess it's not actually critical to listen to the message or even get the
+echo, but the static is annoying anyway.
+
+  When you listen to the message, there will be a part that plays the tune.
+The tune also has animal sounds associated with it, and the keyboard has
+colors associated with it. So any of these instructions should help you:
+
+Green - Pink - Yellow - Yellow - Blue
+Duck - Owl - Parrot - Parrot - Chicken
+Quack - Hoot - Squawk - Squawk - Cluck
+A# - G - A - A - D (for those who are musically inclined)
+
+  Once you play the right tune, the door will thaw and you can proceed.
+
+
+  For this next area, stay towards the left again. You'll notice an
+airplane. No clue how it would end up stuck like that, but this is
+Silent Hill...
+
+  A little past the airplane, you'll see a flare. Run towards it and 
+keep going down the path that way. Throw down the movable object and run 
+through the door.
+
+  You'll go through another door, and then you'll be in a large hall. The
+door you want to go out is around the corner to your left. It has a bench
+in front of it that you can hop over. This is likely the area you'll get 
+grabbed by the creatures. Just light your flare and carry on.
+
+  Once you come back out into the forest, stay to the right side. Knock
+over the movable object for good measure. You'll come to a slope in the 
+ground that has a door in it. Burst through the door, climb up the ledge
+and follow the one-way path.
+
+  You'll end up outside again. To your forward-left are some some stairs
+leading to a cabin. Head on up there and through the door. From here
+there is only one last door before you are abruptly returned to the normal
+world.
+
+
+---
+III.4 Post-Nightmare
+
+  If you turn around, the door will be locked and there's a latin phrase
+on a banner above it. It reads: "QUIS EST ISTE QUI VENIT."  There are a few
+things this may be in reference to. The translation is: "Who is this that
+cometh?" This phrase appears in:
+
+ - The Bible - Isaiah 63:1
+ 	- Kudos to Byakuya Truelight
+ 	
+ - Oh, Whistle, and I'll Come to You - Ghost story
+ 	- http://ghost.new-age-spirituality.com/mrjames9a.html
+ 	- Kudos to Steve P. and Wolfgar L.
+
+
+  Follow the road until you come across a red car. In the trunk is a 
+memento and in the open passenger's seat is a ghost. 
+
+*** Significant Objects: Memento (Pinned Beauty); Ghost (Hot and Bothered) ***
+
+  Continue along the road to a small cabin. Hop the counter and go through
+the door.
+
+  Continue as obvious; under the barbed-wire fence and over the next fence. 
+then turn to your right and start towards those bleachers.
+
+  Cybil will call you (you can't ignore it). Once the conversation's done, 
+you'll be returned to therapy.
+
+
+
+
+
+
+
+o+- Therapy - Halcyon Days of High School -+o
+
+  The doctor will say a list of titles. Your answer, combined with your
+class choices afterwards will primarily influence your clothes later on.
+
+
+Title		Influence
+
+Jock. . . . . . Jock outfit
+Slut		Sexual PI
+Drunk . . . . . Alcoholic PI
+Virgin		Fake PI
+Bully . . . . . Greaser outfit; Unfriendly PI
+Slacker		None
+
+
+Class		Influence
+
+Religion . . . .None
+Creative Writ	None
+Geography. . . .None
+Literature	None
+Theater. . . . .Michelle's outfit
+
+Football	Jock outfit
+Backetball . . .Jock outfit
+Sex Ed		Sexual PI
+Math . . . . . .None
+Science		None
+
+  Basically, if you want the jock outfit, say "yes" to jock and make sure
+to include both sports in your classes. For the greaser outfit (leather
+jacket) be sure to say "yes" to bully.
+
+
+
+
+
+
+
++---------------------+---------+
+| Midwich High School | [III.5] |
++---------------------+---------+
+
+
+---
+III.5 Football Field
+
+  Turn to your left and look at the goal posts. There's a big UFO between
+them for you to take a picture.
+
+** UFO **
+
+  Run in the direction you're facing. You'll find a door that's locked. To
+get the key, follow the path around the corner to a windows. All you have
+to do is open the window and grab the keys. Keys in hand, head back to the
+door and go inside.
+
+
+---
+III.5 Tammy's Hallway
+
+  There's a cupboard here with a "Dangerous Chemicals" label. I just
+wanted to point out this cupboard, because it's useless and serves no
+purpose, save for the comic relief of a dead rat inside. You might
+think this influences to suggest that you're a tidy/messy character, but
+I haven't noticed significant change at all from this cupboard.
+
+*** Insignificant Objects: Chemicals Cupboard ***
+
+  There's also a bong on one of the shelves. Harry might comment on it.
+
+  In the next hallway, you'll find a poster of the cheerleaders, each with
+a designated number and their faces scratched off. There's also a number
+on the wall that you can call for sexual PI..The number is 555-7588.
+
+*** Significant Objects: Sexual PI ***
+
+---
+III.5 Outside School
+
+  Once you come through the door, you'll start getting static immediately.
+It's coming from the poster on the wall warning about a choking game. 
+There's also a map with a path drawn on it to show where to go.
+
+  Continue forward, you'll come to an alleyway and a "Wonderland" burger
+joint. The alleyway leads to a burlesque house of some kind. Skip to
+the "Wonderland" section below if you choose not to go that way. You can go
+through both, which I recommend if you want all the ghosts/mementos.
+
+
+---
+III.5 Cathouse
+
+  The name of this place will vary. I've seen The Honey Trap; The Cathouse; 
+and Oriental Lotus  Anyway, once you climb over the wall next to Wonderland, 
+just walk forward and you'll find the entrance to your left. There's nothing
+else in this area, besides a sexual poster on the wall and a phone 
+number for the club's booking line.
+
+
+*** Significant Objects: Sexual PI ***
+  
+
+  Once inside, you'll notice plenty of sexual posters. If you're aiming for
+a sexual profile, then take your time getting a nice look at each one. 
+They all bear a girl in leather with butterfly wings.
+
+  Head through the door and you'll be in the bar/lobby area. There's more
+sexual posters and plenty of booze, although I've never had Harry comment
+on any of it to know for sure which ones are significant.
+
+*** Significant Objects: Sexual PI (8); Alcoholic PI
+
+  Before you head upstairs, you would do well to notice and photograph
+the ghost sitting on the couch.
+
+*** Significant Objects: Ghost (Almost Had It); Sexual PI (2); ***
+*** Memento (Suffocated Forever) ***
+
+  After you grab the memento, head through the door next to it. On the roof
+to your right is the fifth UFO. Snap a photo of it if it's there and jump 
+across the gap. The door here leads to the second floor of the Wonderland
+Burger Joint
+
+
+---
+III.5 Wonderland
+
+  In the dining room is an echo from one of the tables. In the kitchen area
+there's another one, coming from a coat and hat hanging up. If you're after 
+the UFOs, go upstairs and out the door. The UFO is on the roof to your left 
+as you exit. Also be sure to open the fridge and grab the memento there.
+
+** UFO **
+
+*** Significant Objects: Echo (2); Memento (My Plastic Perfect Girl) ***
+
+  Once you grab the memento, head out the back door. You'll hop over a 
+barrier and start hearing static. The echo is associated with the car.
+To the left, you'll find a windows. Normally you'd think you just open it,
+but you have to pull out the four nails first.
+
+*** Significant Objects: Echo ***
+
+
+---
+III.5 School Pt.1
+
+  Once through the nailed window, go through the door. In this next area is 
+a memento in a cupboard, as well as a ghost hanging from the coat rack.
+
+*** Significant Objects: Memento (Heavenly Protection); Ghost (Choker)
+
+  As soon as you step through the next door, your phone will start to get
+static from a shade/echo to your right. In this direction is also a 
+trophy case. If you're aiming for the jock outfit, be sure to have a gander
+at the trophy case. From here you can either go right out into the 
+courtyard or down the hall to "Room 4D."
+
+*** Significant Objects: Echo; Jock Outfit Influence ***
+
+  There's nothing significant in the classroom. In most cases, there will
+be a projection of a warning about mosquitoes. In other cases, it will
+show a picture of Samael from SH1 or info about gonorrhea.
+
+  Anyway, once your done in the hall/classroom, head out to the courtyard.
+
+
+---
+III.5 Courtyard
+
+  In the middle of this area is a statue with a UFO above it. From the right
+angle/distance, it kind of looks like a hat.
+
+** UFO **
+
+  There's an echo in this area. It's on a table near the south wall. 
+Looking at the map, it's just above the word "School" in "Midwich School
+Gym." After getting this, head to the door to the part on the side of the 
+'D' block on the map. You can see the door as a black dot on the map.
+
+*** Significant Objects: Echo ***
+
+
+---
+III.5 School Pt.2
+
+  Once inside, you'll be in a cloakroom. Go through the next door to
+enter the classroom. Walking straight, a shade will crawl out in front
+of you and run off. If you're aiming for the jock or bully outfit, don't
+look closely at anything in here.
+
+  Go through the double-doors to enter a different classrom. This one's
+obviously for biology. One of the front desks will have an interactive
+object on it. It's a frog you can cut open and get the memento.
+
+*** Significant Objects: Memento (A Frigid Jewel) ***
+
+  Head further into the school (into the D block) through the door at 
+the front of the class. The other door leads back outside. Up the stairs
+you'll find yourself in front of a sign pointing to an Art Studio and a
+Planetarium. Neither choice will significantly impact anything later,
+so choose whichever interests you
+
+
++--BRANCH--+
+
+1. Art Studio
+
+	  Walk up to the shelf with all the sculptures on it. Other 
+	than this, there's nothing else significant in the room.
+
+	o+- Puzzle - Shadows -+o
+	
+	Quick Solution: Call 555-8465
+	
+	  The idea is to arrange the objects to create a phone number.
+	Although the solution is always the same, to solve it, you
+	want to pick up the two sculptures on the left and place them
+	so their shadows vaguely form an 8. The next sculpture doesn't 
+	need to be moved, it's a 4. The next two swan sculptures, when
+	placed together resemble a 6. Finally, turn the pipe and clamp
+	as far as they go to the right. This forms a 5.
+	
+	  So the number is 555-8465. Get out your phone and go to the
+	dialer (D-pad Up). Call the number and you'll get a message
+	that the door's open now. The voice will change, I'm not sure
+	what influences the voice.
+	
+	  Head behind the curtain and through the door.
+	
+
+2. Planetarium
+
+	o+- Puzzle - Planetarium -+o
+	
+	Quick Solution: Call 555-2327
+
+	  Walk down the aisle to the right from the door. There's an 
+	echo coming from one of the seats. Listen to the message, 
+	it's an instructor who mentions the Little Bear (Ursa Minor)
+	constellation. This is your hint that you need to look at
+	this constellation.
+	
+	  Go to the desk and hit the lower button to turn on the 
+	machine. Then go to the projector and rotate it until you 
+	find the right constellation. If you're not familiar with it,
+	there's	a picture on the wall you can check. The Ursa Minor
+	constellation will also have the brightest star.
+	
+	  Once you have Ursa Minor in your view, go back to the desk
+	and press the upper button. It'll light up the constellations
+	and also a message. The message says to call 555-2327. Once 
+	you do, the door to proceed will unlock.
+	
+---
+III.5 Hall to Gym
+
+  Once you come out from the planetarium or art studio, go around the 
+corner and down the steps (you can't enter the other room). At the 
+a shade will run across and you'll get a text message from Dahlia. 
+This is an indicator of your current PI.
+
+PI Variations:
+ - Mini skirt and pink top - Sexual PI
+ - Green vest - Alcoholic PI
+ - Black/purple outfit - Family PI
+ 
+ 
+o+- Puzzle - Gym Keycode -+o
+
+Quick Solution: The keycode is: 1031
+
+  Head to the door at the end of the hall to your right. There's a 
+keypad next to it with a number scratched into it. This number is
+the locker number that has the key code inside of it. It'll always
+be 1053.
+
+  Turn around and go to the end of the hall to get the echo from the
+poster on the corkboard. The locker with the code is near this poster
+on the left side (as you face the poster). In the locker, you might
+be confused at first, then you'll notice the photo of two football
+players. One has the number 10 and the other is 31. Thus, you 
+would do well to figure that as the keycode.
+
+  Across the hall from this locker is a locker with a memento 
+inside. Be sure to grab that, then head to the keypad. Put in the
+code (1031) and go through the door.
+
+*** Significant Objects: Echo, Memento (An Eternal Rose) ***
+
+  You'll be outside again. If you're after UFOs, there's one here in a tree
+near the wall to your right. It's kinda small and blends in a little with 
+the branches, but you should be able to find it ok. Just outside the gym doors
+is an echo coming from balloons to your right. Get it, then go into the gym.
+
+** UFO **
+
+*** Significant Objects: Echo ***
+
+  Walk through the tables towards the stage and a series of 
+cutscenes will begin.
+
+PI Variations:
+ - Michelle in pink dress - Family PI
+ - Michelle in red dress, hair down - Sexual PI
+ - Michelle in brown dress - Uncertain
+ - Michelle hops down into your arms - Sexual PI
+ - Comments about secretary - Friendliness PI
+
+
+o+- Puzzle - PC Password -+o
+
+  Once the cutscene ends, you'll be attempting to crack the
+principal's computer. Even if you know the answer, you have to use 
+the forgotten password tool. Click on the "forgotten password" link. 
+This will prompt you with three random questions of the following. 
+The answers are all found somewhere in the office.
+
+**Note: The "-" button is a hotkey for backspace here.
+
+Wasted three years of my life in order major in?
+ - "Geology"
+ - Diploma on wall behind computer desk
+ 
+I said goodbye to bachelorhood, freedom and happiness, where?
+ - "Hawaii"
+ - Framed photo on shelf behind the computer desk
+ 
+The greatest baseball team, without question?
+ - "Shiners"
+ - Hat on chair in front of desk
+ 
+My only true (four-legged) friend?
+ - "Nicky"
+ - Collar hanging on the coat-hanger across from the computer
+ 
+My star sign even though I don't believe any of that?
+ - "Scorpio"
+ - Astrology poster behind secretary's desk
+ - Birthday posted on calendar near secretary's desk
+ 
+The king of sports, a man's game of squash?
+ - "Racquetball"
+ - Trophy mounted on wall
+ 
+My bitch of an ex-wife's name?
+ - "Valerie"
+ - Call number from post-it on secretary's computer (555-9433)
+ 
+What is the name of my wayward, waste-of-space son?
+ - "Otto"
+ - Signed drawing on floor near computer desk
+ 
+Probably the best Shakespeare comedy?
+ - "Twelfth Night"
+ - Book found in bookcase in corner of office, across from computer
+ 
+ 
+  After you answer the questions, the password will be set to "sunday45" 
+which you can now use to unlock the computer. Once unlocked, a cutscene
+will start, leading to a nightmare sequence. If you pay attention, you might
+also have noticed on the computer screen the name "Cheryl Heather Mason." hmm..
+
++--------------------+---------+
+| Nightmare - School | [III.5] |
++--------------------+---------+
+
+  Turn off your flashlight and get your map out. The path I'd
+recommend taking goes like this:
+ - C block
+ - Parking
+ - D block
+ - Small block on east side of D block
+ - Hall next to "Adm"
+
+
+---
+III.5 Paparazzi Game
+
+  Once you approach the ice statues, you'll get a message. Rest
+here for a moment if you're hurt. As you leave, you'll get a text
+message about prime paparazzi spots. Each of the locations are lit
+with a flashing red light.
+
+  Take a look at your map. The path I recommend goes like this:
+ - Grab flare
+ - Snap photo 
+ - Small block on east side of D block
+ - D block
+ - Parking lot - Near 'a' in "Parking"
+ - Snap photo
+ - South towards F block
+ - Snap photo
+ - Gym
+ - Out north Gym door
+ - Head east, back to the hall next to "Adm"
+ 
+  If you're ever about to take a picture, but your flare is lit or the
+creatures are too close, you can drop your flare with + which will keep them
+away while you take the photo.
+
+  Once you come out the door, any of the creatures that had been following 
+you will be gone. You'll also find the flare and the flashing red light. 
+You wanna photograph the ice statues you can see through the wall in 
+the red light.
+
+  The next location you wanna head for is the parking lot. There's a car 
+there with a flashing red light. On the map, it's right by the 'a' in 
+"Parking."
+
+  The third photo spot is next to the door to the F block on the map. 
+This one is another ice statue through a hole in the wall.
+
+  Once you've returned to the blocked door, the ice statues blocking it will 
+shatter and you'll get a text message for each.
+
+  When you come out the door, a cutscene will take place.
+  
+---
+III.5 Post-Nightmare
+
+  Just follow Michelle as normal. If you're aiming for sexual PI, stare 
+at her ass and admire the sway of her hips.
+
+  You'll eventaully come to the Balkan Club. Its color scheme will vary between
+red, purple/blue, and hardwood. You are free to wander around, but there's 
+nothing interesting anywhere here.
+
+  Go through the door and head up the stairs. You'll find yourself in front of 
+a door with stars, and a door with lips. They both lead to the same room. As 
+you'd expect, the lips door has sexual PI associated with it.
+
+*** Significant Objects: Sexual PI ***
+
+  You'll also get a text message from Dahlia. This message is an indicator of 
+your current PI.
+
+Indicator Variations:
+ - Thirsty - Alcoholic PI
+ - Horny - Sexual PI
+ - Bored - Family PI
+
+  In the room, you'll find several objects you can search. Michelle will yell
+something based on the first object you touch. The funniest one is if you open
+the cupboard in the corner first; she'll tell you not to steal her cookies :-p
+
+  The keys will appear in the third object you search. Keys in hand, head back 
+to Michelle (the door you didn't open will be locked).
+
+  Once you get back, you'll have a series of cutscenes. If you're aiming to 
+come off as alcoholic, stare at the booze.
+
+---
+III.5 Traveling With Dahlia
+
+  When the cutscene finishes, jump the railing and climb the ladder. Inside, 
+you'll find a cabinet and the bridge controls. In the cabinet is a phone 
+number (555-3411) you can call for instructions on what to do. Or you can 
+just continue reading :-)
+
+
+o+- Puzzle - Bridge Control -+o
+
+  Use the controls and read the following before hitting the red button. A 
+light will come on and you need to pull the associated lever. The lights are 
+as follows:
+
+ - Green: Nothing; just wait a moment
+ - Blue: Middle lever
+ - Red: Left lever
+ - Yellow: Right lever
+ 
+  Once you've followed four correct sequences, the bridge will start to move. 
+Head back to the car to continue.
+
+---
+III.5 Drowning
+
+*** WARNING *** WARNING *** WARNING *** WARNING *** WARNING *** WARNING ***
+
+  If you touch the radio before it starts flashing, you may cause a glitch to 
+occur that will trap you in the car, forcing you to drown.
+
+*** WARNING *** WARNING *** WARNING *** WARNING *** WARNING *** WARNING ***
+
+
+  This is my favorite part of the game besides the ending. It effectively 
+conveys how it feels to drown; helpless. You don't have to do anything for a 
+while; just wait.
+
+  Once you hit the bottom your flashlight will float up in front of one of 
+the seats. Move over to it and grab it.
+
+  Move to the front seat once you have the flashlight and look out the window.
+
+  After a moment, the radio will start flashing. Turn it on and the ice will 
+go away. Now, you'll be able to escape. Unlock and open the door or open the 
+window. Either will let you get out.
+
+  Of course, you can also let yourself drown. It doesn't end the game. It takes 
+about 60 seconds.
+
+*** Significant Objects: Fake PI ***
+
+
+
+
+
+
++---------------------+---------+--------+
+| How You Want To Die | [III.7] | [IV.4] |
++---------------------+---------+--------+
+
+  You'll be in therapy again. The doctor will comment about how he figures 
+you'd like to die. This is an obvious indicator of your PI.
+
+PI Variations:
+ - "Surrounded by family" - Family PI
+ - "Having sex" - Sexual PI
+ - "In your sleep" - Fake PI
+ - "Drink yourself to death" - Alcoholic PI
+ 
+  For the task of dividing the pictures, I have yet to notice any significant 
+influence from any of the different distributions.
+
+  If you put all the pictures on one side, he'll comment that he figured you'd
+catch it as a trick question. If you divide the photos, whichever side you
+put fewer on, he'll say they all are (If you put mostly dead, he'll say they're 
+all sleeping and vice versa).
+
+
+---
+III.7 Wheelchair Escape
+
+  You'll be in a new outfit that reflects your previous choices. This is
+generally gives you an idea what you're heading for so far. The only
+significant one is the hooded tan coat. If you don't have it, then you likely
+won't be getting the Wicked and Weak ending.
+
+PI Variations:
+ - Pink shirt / brown coat - No particular indication
+ - Black leather jacket - You said yes to bully
+ - Hooded tan coat - Wicked and Weak Ending indication
+ - Green letterman coat - You've suggested that you are a jock
+
+  If you just sit here, nothing happens, so you don't actually need to rush. 
+Nonetheless, just flick the wiimote and nunchuk together to move the quickest.
+
+  Once you fall out of the wheelchair, get your map out. You'll notice a
+yellow line to the east of your current location. Just above that yellow 
+line is a gray block with two doors. That is where you want to head.
+
+  I get there by going across the train field, then going straight east, 
+grabbing the flare. When you come out of the train cars into the yard 
+again,  duck underneath the car to your left.and climb the ledge to go through 
+the door on your right.
+
+  Follow this one-way path until you jump over the second fence. Once you jump 
+over it, you'll be facing a set of double-doors. DON'T go in those. Doors, 
+they loop backwards. Turn right and you should see the doors you want to go 
+through.
+
+
+o+- Puzzle - Radio Request -+o
+
+Quick Solution: 555-8814 for "Daddy's Girl"
+
+  After a little more running, you'll end up in a hospital room and get a 
+voicemail. Turn on the radio.
+
+  Zoom in on the radio (B) and grab the knob (B+A) and turn it to about 102. 
+The DJ will loop, talking about calling in to request a song. The song you 
+want to request is Daddy's Girl (4). So dial 555-8814.
+
+  After calling, you just wait a moment for the song to come on and then the
+ice on the door will melt away. You can han gup the phone as soon as your call
+gets connected; you don't have to listen to the DJ recording on your phone.
+
+  Head through the door. The ice will fade away before your eyes as you follow
+the hallway. This will lead to a cutscene.
+
+
+
+
+
+
+
++-------------+---------+
+| Toluca Mall | [III.8] |
++-------------+---------+
+
+
+---
+III.8 Time With Lisa
+
+  Follow Lisa. If you want more sexual PI, stare at her ass while walking. When 
+you get to the apartment, you can choose to sit and watch TV or check out Lisa
+while she's changing.
+
+  She'll ask you to get her some pills. Head into the bathroom and check the
+vanity for a memento inside a music box. Then open the cupboard and get the
+pill. If you want unfriendly PI, then purposely grab the wrong color
+of pill. Otherwise, just grab the color she asked for.
+
+*** Significant Objects: Sexual PI (2); Friendliness PI; ***
+*** Memento (Infinit Jest) ***
+
+**Note: Giving Lisa the wrong pill is the most significant unfriendly PI in 
+the game
+
+
+
+o+- Therapy - Guilty Conscience -+o
+
+  The doctor will talk about guilt and how it stresses people out. He'll then
+tell you a short story about four characters and ask you to align the
+characters according to how guilty they are.
+
+  Basically the story goes like this:
+ - Some guy wants to marry a princess
+ - He asks permission from the King
+ - Princess doesn't want to marry him, but King agrees; following protocol
+ - Buddy tries to seduce her
+ - She runs away into a field that's dangerous
+ - Bull tramples princess to death (Owned)
+ 
+  Typically, I just leave the characters where they are. I have yet to
+determine a specific link this has with future events.
+
+  Here is what the doctor will comment according to who you declare as the
+most culpable.
+  
+ - Bull - "You couldn't ignore the facts. He was the one who killed her."
+ - Princess - "She didn't have to run away, did she?"
+ - King - "You think he should've ignored protocol."
+ - Wilhelm - "You think if he really loved her, he wouldn't have forced the
+ marriage."
+ 
+
+---
+III.8 After Meeting Lisa
+
+  Head out of Lisa's apartment. There's a metal grate that you have to manually
+open, then you'll be able to get outside.
+
+  From here, there are two paths you can take. The one is to your left and goes
+straight into the mall. The other is up ahead and goes in through the
+receiving and warehouse area. The receiving/warehouse area has a memento, so
+I usually take that way. If you want, you can even go in one way, and then
+leave through the other.
+
++--BRANCH--+
+
+1. Warehouse
+
+	  Head up the street from Lisa's apartment building. There's a fence
+	you can climb over on the left side of the street. Once you climb over,
+	you'll notice a collection of cargo containers. There's nothing around
+	them, so turn to your left and climb the one in the corner. It's the
+	only container that'sby itself.
+	
+	  Go through the window and into the next room. In here are two
+	photocopiers. One of them has a memento in it, the other has nothing.
+	
+	*** Significant Objects: Memento (Synthetic Femur) ***
+	
+	  You'll also get a text message from Michelle about how she's still
+
+	waiting for her boyfriend to show up. From this, you can either take
+	friendly or unfriendly PI. For friendly, call her. For unfriendly, do 
+	nothing; just carry on as normal.
+	
+	*** Significant Objects: Friendliness PI ***
+	
+	  After coming through the door into the warehouse, you'll hear the
+	sound of something falling. Nothing's around though. Head down the
+	stairs and up the other set of stairs to doorwith a green sign above it.
+	
+	  Make your way up the stairwell and out the door.
+	  
+2. Mall Entrance
+
+	  Head to your left as you come out of Lisa's apartment, and around
+	the corner. Here you'll find a door to the mall's car park entrance.
+	Head inside, up the escalator and through the door. After crawling
+	under the shutters, head to the corner up ahead. There's a funny sign
+	hanging off the security camera in the corner.
+	
+	  You'll also get a text message from Michelle about how she's still
+	waiting for her boyfriend to show up. From this, you can either take
+	friendly or unfriendly PI. For friendly, call her. For unfriendly, do 
+	nothing; just carry on as normal.
+		
+	*** Significant Objects: Friendliness PI ***
+	
+	  Head out the door when you're done; nothing else here.
+
+---
+III.8 Nurse In Distress
+	  
+  From this area, you can go through the other branch if you wish. There's also
+a UFO you can see from the bridge to the north. Just stand at the railing and 
+look down at the road. Once you approach the mall entrance, Lisa will call you 
+for help. You can't continue into the mall (the door will be locked). So head 
+back to Lisa's.
+
+** UFO **
+
+  Once you get back to Lisa's apartment, a cutscene will begin. It will be
+slightly different depending on whether or not you gave her the right pill. The
+end result is the same.
+
+  As the cutscene ends, the next nightmare sequence will begin.
+  
+
++------------------+---------+
+| Nightmare - Mall | [III.9] |
++------------------+---------+
+
+  Head outside and get out your map. The path I recommend goes like this:
+ - Warehouse door (not towards the Offices)
+ - East out to the gray area
+ - Grab flare and head up the stairs
+ - Follow obvious path until you reach the statue of the bird
+ - Go into the store that the bird is facing; mannequins in display window
+ - On the roof, go left and knock over the tower as you pass it
+ - Enter the stairwell at the corner of the roof and continue as normal
+ 
+  You'll find yourself in a room with a gumball machine.
+  
+  
+o+- Puzzle - Gumball Machine -+o
+
+Quick Solution: Purple, pink, red, yellow
+
+  As the voicemail vaguely suggests, the colors the girl likes are the colors
+of the cartoon bird's beak. To change the color of the current gumball, grab
+the sphere and shake it. You don't have to get the colors in any order, just
+as long as you get each of them.
+
+  The colors you want are: purple, pink, red, and yellow. Try not to mistake the
+black for purple.
+
+
+---
+III.9 Toluca Mall
+
+  After solving the puzzle, you'll get another voicemail. Head through the door.
+There will be a partly open shutter in front of you. As you approach it, a
+message will appear.
+ 
+  Crawl under the shutter and look across the way. There's a store there called
+"Pageturners." Near it is a garbage can. This garbage can has an echo on it.
+
+*** Significant Objects: Echo ***
+
+  After getting the echo, head for the store titled: "Family Pet."
+  
+
+---
+III.9 Family Pet
+
+  If you've been building unfriendly PI, this place will be trashed. In here is 
+both a memento and echo. The echo is in a dog cage in the corner. The memento 
+is inside a hamster cage on display near the register. You have to turn the 
+two screws to open it
+
+*** Significant Objects: Memento (Memories Undeveloped); Echo ***
+
+  There's also a UFO in one of the fish tanks. If you can't find it, turn off 
+your light. That should make it easier to see. When done, jump over the 
+counter and into the back area. 
+
+** UFO **
+
+  You'll be in a back hall. Just walk through. A shade will come out from
+behind some garbage and run away. You'll get a text message about mystery
+shoppers being employed to ensure the mall's values are upheld (which will vary
+based on your PI). Head through the door at the end of the hall.
+
+---
+III.9 Toy Store
+
+  There's a safe you'll notice right away. Thankfully, you don't have to crack
+more than one number. Just turn it to around 70 and you should here it click
+open. Then pull the handle and grab the memento.
+
+*** Significant Objects: Memento (My Flying Lizard) ***
+
+  Walk over to the train set and turn it on. It'll start going round and round
+until you change the track (which you can't change back). Then it'll crash. A
+key falls out when it crashes. Grab it and head out of the store.
+
+  Go up the escalators to your left and through the exit door. You'll be in a
+back hall, with a mannequin in it.
+
+*** Significant Objects: Sexual PI ***
+
+  When you come out through the door, there will be some tropical music playing,
+coming from the giant bird in the middle. Walk around for a bit and Michelle
+will call you. There's also an echo down one of the corridors.
+
+*** Significant Objects: Echo ***
+
+  From here, you can choose to go in either the "Celebration Time Gift Shop" or
+the "New Looks" hair salon. Neither holds anything significantly different.
+
++--BRANCH--+
+
+1. New Looks Hair Salon
+
+	  Walk up to the sinks and turn them on, also turn the temperature of
+	the water to as hot as possible. This will fog the mirror and reveal
+	a message there. I laughed at the one message. The code is always the
+	same, which is 1789. Enter that in the keypad and head out the back.
+	
+2. Celebration Time Gift Shop
+
+	  There's an echo coming from the keypad here. It gives you the hint
+	for figuring out the code.
+	
+	o+- Celebration Time Code -+o
+	
+	Quick Solution: The code is 2050
+	
+	  Listen to the message. There will be two sound clips played. What
+	you have to do is find the cards in the store that play those sounds. 
+	
+	  The first card is for a 20th anniversary. The second card is for a
+	50th birthday. Note the numbers: 20 and 50. Punch those in the keypad
+	and head through the door.
+	
+	
+  Once you leave the store, you'll be in another back hallway. In this hallway
+is an echo from on top of a garbage can and a locker with a confiscated knife
+inside. Get the echo, head through the proceeding door and up the stairs.
+
+*** Significant Objects: Echo ***
+
+
+---
+III.9 Photographic Memory
+
+  You'll be in the employee area of a photo development store. Jump over the
+counter and you'll start getting static for the echo in the corner. There's also
+a corkboard with some nice pictures on it.
+
+*** Significant Objects: Echo; Friendly PI ***
+
+---
+III.9 Cinereal Movie Theater
+
+  Right about now you'll probably think to yourself: "It's been a long time
+since I saw any of those ghosts. Did I miss them?" Nope, but there's one here.
+You should notice a bench with some cleaning items and cones around it. There's
+a ghost sitting there for you to take a photo.
+
+*** Significant Objects: Ghost (Not Her Fault) ***
+
+  You'll notice the title of the movie playing on the sign outside the doors.
+The movie title is reflective of your current PI.
+
+PI Variations:
+ - "Dearest Mother" - Unfriendly PI
+ " "The Dancer" - Sexual PI
+ - "Together Forever" - Family PI
+ - "Good Poison" - Alcoholic PI
+ 
+  As soon as you enter the theater, stop what you're doing and admire the
+arcades to your right. That's right... CONTRA. Harry will even comment "some 
+real classics." Wait... it's broken?!?! Blasphemy!! It is now your personal 
+mission to find who destroyed this machine!!
+
+  Anyway... there's a toy machine against  The wall across the lobby. Inside is
+a memento. All you have to do is press the two buttons and you'll get it.
+
+*** Significant Objects: Memento (The Modern Prometheus); Contra ***
+
+  Head down the hall to the auditorium. Once in the auditorium, your phone will
+start going off with static. As you walk towards the screen, some images of
+Harry and Cheryl will appear.
+
+  Walk up to the screen and they'll go away. You can unplug your ears from the
+loud static now. If you had your flashlight off, once the static ends, Harry
+would've turned it on. Glitch? Whatever. Go out the door with an exit sign.
+
+  Follow the hallway, you'll get a text message from Dahlia. Head out the door
+and you'll be on the streets of Silent Hill, once again.
+
+
+---
+III.9 Streets Outside Toluca Mall
+
+  Scale the fence and turn to your right. Head down the street to the corner and
+stop. There's a car across the street and behind it is a ghost on the ground.
+Snap a photo of it before you continue.
+
+*** Significant Objects: Ghost (Dead Dog) ***
+
+  There's a graphical glitch here too. It's in the window of the TV store. As
+you walk in front of the display case, you'll notice a TV and section of the
+wall behind it vanish.
+
+  Continue down the street and you'll come to a the "Green Lion" pawn shop.
+  
+
+---
+III.9 Green Lion Pawn Shop
+
+  This building will reflect your current PI as follows:
+  
+PI Variations:
+ - Green with dragon on sign - Alcoholic PI
+ - Red with mannequins in window - Sexual PI
+ - Purple with lion on sign - Family PI
+ 
+  As you enter, there's a UFO on a shelf to your left. Snap a photo of it.
+  
+** UFO **
+ 
+  Approach the counter and interact with it. To get the key you have to turn
+the screw thing on the left side and then pull the turn-table. With the key,
+head through the door and turn right to go behind the register, where there's
+a memento in a box.
+
+*** Significant Objects: Memento (We, Ouroboros) ***
+
+  Head to the back and up the stairs to start a cutscene, which ends with a
+nightmare sequences.
+
+
++---------------------+----------+
+| Nightmare - Nowhere | [III.10] |
++---------------------+----------+
+
+  Turn around and walk out the door. Follow the path down the steps and you'll
+eventually come to a dead end where you have to jump down.
+
+  As you fall, you'll notice some images of Harry and Cheryl on the wall.
+  
+  You'll land in an empty area with a chair. turn around until you see some
+boards on the ground. Walk over to those boards and you should start to get
+some static from your left. Point yourself in the direction where it's the
+loudest and follow the static to a hanging lamp. Believe me, I've scoured
+this area; there's nothing.
+
+  You'll be in a hall with two doors. They both lead to the same place, so pick
+whichever you feel like. Then you'll be in a room with a couch, TV, and doors
+on each wall. Again, which door you choose doesn't matter.
+
+  Pick a door and go down the stairs. At the bottom, you'll get static coming
+from a mirror on the wall. As you approach it you'll transition again.
+
+---
+III.10 Confusing Halls
+
+  This next sequence of hallways is easy to get lost in, but it's very easy if
+you know where to go. Once you're through the very first door, you'll be in a
+corridor with several doors/halls. The door to your right, with the lamp above 
+it is where you want to go. Once through that, you should be in an open room
+with a few doors. Only one of them has a lamp over it. It's the second on the
+right as you enter. This is the exit.
+ 
+  This is the shortest path possible. If you get lost, the second-last door is 
+a bit difficult to find, but it has some unique characteristics. It has a lamp
+above it. It's in the long halls; not one of the rooms with multiple exits. The
+walls around it look different; they seem more jagged and broken than the rest.
+
+  You'll find yourself in an empty area with only a door. The door you came
+through vanishes. Just run over to the door and go through it.
+
+  Make your way through the rooms as they change in a really neat way. You'll
+eventually find yourself at another dead end to jump off.
+
+---
+III.10 Hall of Glass
+
+  You'll land in an area that appears to be completely open, with an obvious
+destination. However, the walls are invisible. Use your flashlight to look at
+the shadows and keep track of where the walls are and make your way around to
+the bed.
+
+  As soon as you approach it, you'll find yourself in another series of halls
+filled with creatures. This is the most difficult nightmare sequence. All the
+halls and rooms look the same and you get looped around very easily. Be sure
+to knock over all the cabinets as you pass them to keep track of where you've
+been.
+
+  The path you need to take is always different, so I'm afraid I can't give
+specific directions.
+ 
+  The most identifiable exit has lots of ice around it, but it isn't thick like
+some of the others. It's in a + shaped hall and the walls around it are frozen
+about half way to the middle. Most of the doors with ice around them, the ice 
+only goes a couple feet from the door.
+
+  Here's a diagram of the final corridor:
+  
+           **EXIT**
+           *      *
+           *      *
+           |      |
+           |      |
+     ______|      |_____
+    |                X  |
+    o                   o
+    o                   o
+    |__X___       ______|
+           |      |
+           |      |
+           |      |
+           |      |
+           |__oo__|
+
+|  Normal Wall     * Frozen Wall
+X  Movable Object  oo Door
+           
+  
+  It's easy to tell if you've hit a loop door, because if you don't, the
+rooms will alternate between square and + shapes.
+ 
+  There's more than one exit, which is nice, but they're still hard to find.
+The ones I've been able to find have all had thick ice around them, but don't
+be fooled, there are many doors with thick ice around them. The diagram above
+is the most identifiable chamber with an exit. I have always entered it from
+the bottom, and it's tempting to take the other paths, because you can track
+your path that way with the movable objects, but you'll learn that the final
+door never has a movable object in front of it.
+
+
+*** SAVE *** SAVE *** SAVE *** SAVE *** SAVE *** SAVE *** SAVE *** SAVE ***
+*** SAVE *** SAVE *** SAVE *** SAVE *** SAVE *** SAVE *** SAVE *** SAVE ***
+*** SAVE *** SAVE *** SAVE *** SAVE *** SAVE *** SAVE *** SAVE *** SAVE ***
+
+  SAVE YOUR GAME HERE. Yes, here in the empty room with nothing but a single
+door, right after the difficult nightmare sequence. This is the last place you
+can save and still critically impact your ending.
+
+  From this point, I've been able to get three different endings.
+
+  After you SAVE your game, go through the door and you'll get a cutscene
+  
+  
+o+- Therapy - Marriage -+o
+
+*** THIS SECTION CONTAINS MILD SPOILERS ***
+
+  The good doctor will ask you a few questions about marriage. These are the
+questions he asks:
+
+1. You think marriage can really last?
+
+2. Should a couple stay together for the kids?
+
+3. Do you think it's a bad idea to marry young?
+
+4. Do you think sex becomes stale after marriage?
+
+  Your answers here will affect the following cutscene with Michelle and John.
+Basically, If you approve of marriage, John will leave Michelle. If you come off
+as disapproving of marriage, Michelle will make John stop the car and run off.
+
+  John's mood when you first meet id reflective of the opposite of your
+friendliness PI. If you're particularly unfriendly, John will be happy to meet
+you. Otherwise, he won't be very interested.
+
+  This is also where you can gain some Fake PI. The best way to do this is 
+simply answer "no" to each question.
+
+  The doctor will then ask you to arrange 6 photos into married couples. You can
+pair them as follows:
+
+ - Same color clothes
+ - Same background
+ - Same expression
+ 
+  Or you can just scramble them. I've never noticed any changes that I could
+specifically link to these photos.
+
+  For Fake PI, I usually make two of the couples gay, even though I don't really
+think it matters.
+
+
+
+
+
+
+
+
+
++----------------------+----------+
+| Silent Hill Lakeside | [III.11] |
++----------------------+----------+
+
+---
+III.11 Car Ride
+
+  You'll wake to the lovely voice of Michelle. After the cutscene, you'll be in
+a car with John and Michelle. If you have enough Unfriendly PI, then John will
+thank you. Otherwise, he'll seem upset.
+
+  The conversation that happens will change based on your answer from the last
+therapy session.
+
+  Once the car stops, move up front and open the glove box to grab the memento.
+Exit the car and head for the storm drain access, callously disregarding the
+"KEEP OUT" signs all around it.
+
+*** Significant Objects: Memento (Poetry as Precise as Geometry) ***
+
+---
+III.11 Sewer Access
+
+  Make your way down into the underground tunnels. When you climb down the
+ladder, you'll get a text message from Dahlia.
+
+  Turn in to the first branch you come to. Down this way is a pipe you can
+interact with. There'll be a fish there with a giant hook in its mouth. Pull
+on the hook and the fish will squirm around, then vomit. In its vomit is a
+memento. Kinda gross...
+
+*** Significant Objects: Memento (A Happy Bond) ***
+
+  As you continue through the tunnels, you'll get a call. This call is very
+indicative of the ending as your PI won't change from this point on.
+
+PI Variations:
+ - "Go away!" - Unfriendly PI / Alcoholic PI
+ - "Not Safe" - Family PI
+ - "Need you" - Fake PI
+ 
+  Before climbing the ladder to the exit, step back from the ladder. To the
+right are some bars. Through these bars is another UFO. Photograph it.
+
+** UFO **
+ 
+  Climb the ladder. Spin the wheel on the door to open it. Go through the door
+and up the ladder to return to the streets again.
+
+
+---
+III.11 Lighthouse Cove
+
+  As you come around the corner, stay near the wall and you should notice a
+weird statue. It's a statue of an indian or something and he's holding a box
+of cigars. Also in the box is a memento.
+
+*** Significant Objects: Memento (Memories Untaken) ***
+
+  Head through the square and you'll find a red car. On the hood of the car is
+a map, which is an echo.
+
+*** Significant Objects: Echo ***
+
+  There's a "Lakefront Souvenirs" store with a red door that you can enter to
+continue. It's very easy to identify on the map.
+
+  Inside the souvenir store you'll find a memento inside a display case. Grab
+it and head for the curtain at the back of the store. Open the curtain to
+reveal a door.
+
+*** Significant Objects: Memento (A Beacon, a Key) ***
+
+  You'll be outside again. Jump the fence and turn right. Don't go into the
+bar yet. Up ahead you'll find a telescope. Turn it to face the lighthouse and 
+a small compartment will open up with a memento inside. Snag that, then head
+for Annie's Bar. A cutscene will ensue.
+
+*** Significant Objects: Memento (Your Diamond Heart) ***
+
+
+
+
+
+
+
+
+o+- Therapy - Sex Evaluation -+o
+
+  The good doctor will task you to classify a group of abstract images as 
+sexual or non-sexual. All of the images are abstract paintings of something
+that represents death. Going from top to bottom here's what the images are
+intended to represent.
+
+ - Hand holding pistol
+ - Dagger / knife
+ - Noose
+ - Rotten apple
+ - Deer skull
+ - Human skull
+ - Totalled car
+ 
+  If you put them all on the non-sexual side, you'll get Fake PI. All of them
+on the sexual side gets you sexual PI. Otherwise, nothing really changes.
+
+
++-------------------------+----------+
+| Lakeside Amusement Park | [III.12] |
++-------------------------+----------+
+
+---
+III.12 Outside Entrance
+
+
+  You'll find yourself in a short hall. On the wall is a sexual poster. Head
+out the door.
+
+  Follow the road to the end. You'll find a bench with a box on it. Inside the
+box is a memento. Grab that, then turn and head for the amusement park.
+
+*** Significant Objects: Sexual PI; Memento (The Dragon) ***
+
+  Looking at the entrance, there's a sign to your right that will change based
+on your PI. Jump over the counter. Open the yellow jacket. Pull the key out
+of the pocket and head through the door.
+
+---
+III.12 Park Entrance
+
+  When you come outside on the inside of the park, you might recognize the
+area from the videotape recording played at the start. To your left is the thing
+where you stand behind a picture and put your face through a hole. There's a
+ghost here for you to photo.
+
+*** Significant Objects: Ghost (Dragon Slayer) ***
+
+  Head the other way and you'll find some slot machines. Play it. Once you
+pull the lever a few times, you'll win a memento.
+
+*** Significant Objects: Memento (Eve) ***
+
+  From the slot machine, turn around and climb the wall up ahead. You'll crawl
+through a hole into the "tunnel of love." Once inside, there's a shade that'll
+move around and you just follow it.
+
+  First, the shade will be on the middle swan. Then it'll be back up the ladder.
+Then it'll be on the foremost swan. Then it'll run towards a door and the ice
+on it will thaw.
+
+
+---
+III.12 Docks
+
+  You'll find yourself outside again. Climb the fence and you'll be at the
+docks. There are two docks. The one on the left is empty, unless your collecting
+photos of UFOs, in which case, go to the end of it and you'll notice a UFO
+trying to blend in with the light. Can't fool us! We have walkthroughs!
+
+** UFO **
+
+  Walk down the dock and board The Opheus. As you approach the door, a cutsene 
+will begin.
+  
+
+---
+III.12 Into The Light
+
+  When the cutscene ends, head down the ladder and start running for the light.
+You can run all over the place here, but there's nothing out there. Trust me :)
+
+  Dahlia will call you. Ignore her request and press onwards. After a little
+bit, you'll get a text message from Cybil. Keep running. Creatures will start 
+to pursue you. You don't actua;;y have to fight them if you don't want to.
+
+  Eventually, you'll be overwhelmed, but then the ice breaks and you'll start
+swimming.
+
+  Start swimming! Look down into the water by pressing B. There's a collection
+of interesting statues at the bottom of the lake. If you're feeling lazy, or
+want a little more Fake PI, just stop and let Harry drown.
+
+
+---
+III.12 The Lighthouse
+
+  After the cutscene, if you're UFO hunting, turn to your right and go as far 
+as you can. The final UFO is in the water just off the shore from here
+
+** UFO **
+
+. Once you walk up to the lighthouse. You'll see a familiar name
+on the board if you've played SH1.
+
+  Inside, turn right and you'll find a statue on a pedstal that you can open.
+Inside the statue's head is a memento.
+
+*** Significant Objects: Memento (Adam) ***
+
+  Walk to the end of the hall and the final cutscenes will begin. Congrats,
+you've beaten the game! Hope you like the ending. I know I did.
+
+
+
+
+
+o+--=====================================================================--+o
+ +                              Therapy Sessions                           +
+o+--===============================-----------===========================--+o
+                                   \  [IV]  /
+                                    --------
+
+  These therapy sessions have a large impact on events throughout the game.
+Some only affect minor details, while others affect the ending cutscenes.
+
+
++----------+--------+
+| The Test | [IV.1] |
++----------+--------+
+
+  This form is the initial psycho-profiling that happens in this game. The 
+profiling influences various aspects of the game. Some affect the ending, 
+while others only influence a scene or two.
+
+  Even if you're hunting for a specific ending, they all take
+influences from multiple events; don't worry about getting everytying that
+contributes to a specific ending.
+
+  Particularly for first-time players, don't worry about repercussions of
+your choices, they're all minor. Just choose whatever you like.
+
+
+Question			Primary Influence
+
+1. I make friends easily	Friendliness PI
+
+2. Having a drink helps me	Alcoholic PI; Good Ol' Days Bar
+   relax
+
+3, I always listen to other	Friendliness PI
+   people's feelings
+
+4. I prefer abstract ideas	Fake PI
+
+5. I have enjoyed role-play	Sexual PI
+   during sex			
+
+6. Working to a plan or 	Family PI; Fake PI
+   schedule is best
+
+7. I have never cheated on a	Sexual PI
+   partner
+
+
+
+
++--------------+--------+
+| Happy Family | [IV.2] |
++--------------+--------+
+
+Question				Primary Influence
+
+1. Would you consider yourself		Friendliness PI
+a private person?
+
+2. Would you say it takes a while	Fake PI
+for people to get to know you?
+
+3. Would you prefer to spend time 	Family PI
+with friends over family?
+
+
+  Coloring Time! The colors you use will be reflected on the house you see
+in the following cutscene. This has no bearing on anything else. Coloring
+the trees does nothing. The doctor doesn't change his comment no matter
+what you do. Leaving the page blank results in the same as coloring
+everything in solid black.
+
+
+
++-----------------------------+--------+
+| Halcyon Days of High School | [IV.3] |
++-----------------------------+--------+
+
+  The doctor will say a list of titles. Your answer, combined with your
+class choices afterwards will primarily influence your clothes later on.
+
+
+Title		Influence
+
+Jock. . . . . . Jock outfit
+Slut		Sexual PI
+Drunk . . . . . Alcoholic PI
+Virgin		Fake PI
+Bully . . . . . Greaser outfit; Unfriendly PI
+Slacker		None
+
+
+Class		Influence
+
+Religion . . . .None
+Creative Writ	None
+Geography. . . .None
+Literature	None
+Theater. . . . .Michelle's outfit
+
+Football	Jock outfit
+Backetball . . .Jock outfit
+Sex Ed		Sexual PI
+Math . . . . . .None
+Science		None
+
+  Basically, if you want the jock outfit, say "yes" to jock and make sure
+to include both sports in your classes. For the greaser outfit (leather
+jacket) be sure to say "yes" to bully.
+
+
+
++---------------------+--------+
+| How You Want To Die | [IV.4] |
++---------------------+--------+
+
+  You'll be in therapy again. The doctor will comment about how he figures 
+you'd like to die. This is an obvious indicator of your PI.
+
+PI Variations:
+ - "Surrounded by family" - Family PI
+ - "Having sex" - Sexual PI
+ - "Drink yourself to death" - Alcoholic PI
+ 
+  For the task of dividing the pictures, I have yet to notice any significant 
+influence from any of the different distributions.
+
+  If you put all the pictures on one side, he'll comment that he figured you'd
+catch it as a trick question. If you divide the photos, whichever side you
+put fewer on, he'll say they all are (If you put mostly dead, he'll say they're 
+all sleeping and vice versa).
+
+
++-------------------+--------+
+| Guilty Conscience | [IV.5] |
++-------------------+--------+
+
+  The doctor will talk about guilt and how it stresses people out. He'll then
+tell you a short story about four characters and ask you to align the
+characters according to how guilty they are.
+
+  Basically the story goes like this:
+ - Some guy wants to marry a princess
+ - He asks permission from the King
+ - Princess doesn't want to marry him, but King agrees; following protocol
+ - Buddy tries to seduce her
+ - She runs away into a field that's dangerous
+ - Bull tramples princess to death (Owned)
+ 
+  Typically, I just leave the characters where they are. I have yet to
+determine a specific link this has with future events.
+
+  Here is what the doctor will comment according to who you declare as the
+most culpable.
+  
+ - Bull - "You couldn't ignore the facts. He was the one who killed her."
+ - Princess - "She didn't have to run away, did she?"
+ - King - "You think he should've ignored protocol."
+ - Wilhelm - "You think if he really loved her, he wouldn't have forced the
+ marriage."
+ 
+ 
+ +----------+--------+
+ | Marriage | [IV.6] |
+ +----------+--------+
+ 
+ *** THIS SECTION CONTAINS MILD SPOILERS ***
+ 
+   The good doctor will ask you a few questions about marriage. These are the
+ questions he asks:
+ 
+ 1. You think marriage can really last?
+ 
+ 2. Should a couple stay together for the kids?
+ 
+ 3. Do you think it's a bad idea to marry young?
+ 
+ 4. Do you think sex becomes stale after marriage?
+ 
+   Your answers here will affect the following cutscene with Michelle and John.
+ Basically, If you approve of marriage, John will leave Michelle. If you come 
+ off as disapproving of marriage, Michaelle will make John stop the car and 
+ run off.
+ 
+   This is also where you can gain some Fake PI. The best way to do this is 
+ simply answer "no" to each question.
+ 
+   The doctor will then ask you to arrange 6 photos into married couples. You 
+ can pair them as follows:
+ 
+  - Same color clothes
+  - Same background
+  - Same expression
+  
+   Or you can just scramble them. I've never noticed any changes that I could
+ specifically link to these photos.
+ 
+   For Fake PI, I usually make two of the couples gay, even though I don't 
+ really think it matters.
+ 
+ 
+ +----------------+--------+
+ | Sex Evaluation | [IV.7] |
+ +----------------+--------+
+ 
+   The good doctor will task you to classify a group of abstract images as 
+ sexual or non-sexual. All of the images are abstract paintings of something
+ that represents death. Going from top to bottom here's what the images are
+ intended to represent.
+ 
+  - Hand holding pistol
+  - Dagger / knife
+  - Noose
+  - Rotten apple
+  - Bison skull
+  - Human skull
+  - Totalled car
+  
+   If you put them all on the non-sexual side, you'll get Fake PI. All of them
+on the sexual side gets you sexual PI. Otherwise, nothing really changes.
+
+
+
+
+o+--=====================================================================--+o
+ +                                   Endings                               +
+o+--===============================-----------===========================--+o
+                                    \  [V]  /
+                                     -------
+
+*** THIS SECTION CONTAINS SPOILERS ***
+                                     
+  The ending you get has two parts. The first, I refer to as the Encounter
+Ending, and the other is the Videotape Ending. The Encounter Ending refers to
+the cutscene that takes place in the therapy room, where Harry and Cheryl
+finally meet. The Videotape Ending refers to the part after this.
+
+  The reason I divide it this way, is because your PI can impact either in a
+particular manner. For example, the "Drunk Dad" ending is only related to the
+Videotape, and is not reflected in the Encounter. Likewise, the Hero Forever
+ending is only reflected in the Encounter; not the Videotape.
+
+
++------------------+-------+
+| Encounter Ending | [V.1] |
++------------------+-------+
+
+  This is the cutscene that takes place in the therapy room. There are three
+different versions you can get. As these cutscenes do not have official titles
+anywhere, I've titled them as follows:
+
+ - Broken
+ - Bearer of Guilt
+ - Hero Forever
+ 
+
+o+- Broken -+o
+
+How To Get It:
+
+  Build up as much Family and Friendly PI as possible. Concentrate on finding 
+Cheryl, ignoring distractions like sex and alcohol. Answer questions as an 
+honest family man would.
+
+
+Major PI:
+
+ - "True" to questions: 1, 3, 6, and 7
+ - "False" to questions: 2 and 5
+ - "No" to spending time with friends, over family
+ - "Yes" to marriage can last
+ - "No" to sex becoming stale
+ - Avoid sexual and alcoholic PI
+
+
+Description:
+
+  Harry kneels before Cheryl. They gaze at each other, unsure of how to say 
+goodbye. "You've been with me for so long..." she professes.
+
+  Harry forces a smile and replies "I always will be."
+  
+  Cheryl closes her eyes and shakes her head in a final goodbye. The ice creeps
+up over Harry, sealing him in her memories forever.
+
+
+
+
+o+- Bearer of Guilt -+o
+
+How To Get It:
+
+  Build up as much Unfriendly PI as possible. Don't make attempts to be
+friendly with anyone.
+
+
+Major PI:
+
+ - "False" to questions: 1 and 3
+ - "Yes" to being a private person
+ - "Yes" for taking a while to be understood
+ - DO NOT have the bull as the most guilty
+ - "No" to staying together for kids
+
+
+Description:
+
+  Harry stands before his daughter. He knows she can't forgive him. Nor does
+he want to be forgiven.
+
+  Cheryl stands up and confronts her guilt. "Why did you have to die?" she asks,
+withholding her tears. "It wasn't my fault," she cries, "someone has to take the
+blame." Harry approaches her with open arms to try and comfort her. 
+
+  She stops him, holding his hand away from her. They both feel cold to each 
+other.
+
+  "Forget me." Harry whispers as he retracts away from his daughter. His body
+freezes as he steps back. His eyes frozen upon Cheryl, he crumbles to the
+floor...
+
+
+
+
+o+- Hero Forever -+o
+
+How To Get It:
+
+  Build up any Fake PI that you can. Basically, you want to play off like you're
+not interested in the doctor's help, just saying whatever you need to in order
+to get through the therapy. Whenever you can, try to contradict yourself.
+  
+  
+Major PI:
+
+ - Look away from the doctor while he's talking; stare at the lamp
+ - Answer "False" or "No" to every question asked except to confirm completion
+ - Put all the sleeping/dead photos on one side (doesn't matter which)
+ - Don't adjust the guilt line
+ - Pair two gay couples
+ - Put all the abstract images on the non-sexual side
+ - Let Harry drown in the car, as well as on the way to the lighthouse
+ 
+Description:
+
+  "Dad..." Cheryl whispers. Harry kneels down before her. "You are a hero." She
+smiles, happier with a father she loves than the truth. "The man who died ...
+that wasn't my father." She pauses, taking a breath. Her eyes begin to water. 
+"That isn't who I remember. Those memories are all I have. You're all I have."
+
+  He turns from her. "I'm not even a ghost..." he whispers.
+
+  Cheryl shakes her head, unable to bear losing him. She wraps her arms around
+him tightly, tears streaming down her face. They hold each other closely. For
+once, Cheryl feels warm...
+
+
+
+
++------------------+-------+
+| Videotape Ending | [V.2] |
++------------------+-------+
+
+  This is the series of clips shown immediately after the Encounter Ending.
+They're all presented as part of a home-made videotape. There are four
+variations, which are titled as follows:
+
+ - Love Lost
+ - Sleaze and Sirens
+ - Wicked and Weak
+ - Drunk Dad
+ 
+ 
+o+- Love Lost -+o
+
+How To Get It:
+
+  Same criteria as Broken. Build up as much Family and Friendly PI as 
+possible. Act as a genuine family man; focused on what's important.
+  
+  
+Major PI:
+
+ - "True" to questions: 1, 3, 6, and 7
+ - "False" to questions: 2 and 5
+ - "No" to spending time with friends, over family
+ - "Yes" to marriage can last
+ - "No" to sex becoming stale
+ - Avoid sexual and alcoholic PI
+ 
+
+Description:
+
+  Harry places his suitcase on the ground and turns to his wife. So many words
+come to mind, but he says nothing. He just stares at the woman standing before
+him.
+
+  "You be careful?" Dahlia softly requests.
+  
+  "Sure." Harry nods lightly, not concerned about safety for the moment.
+  
+  "Harry..." Dahlia tries to explain. Harry holds up his hand.
+  
+  "We've said enough. Let's just..." he turns and notices Cheryl recording the
+farewell. "Sweetie, don't film this." This is not a memory he wishes to keep. He
+approaches Cheryl and kneels before her. "You know this has nothing to do with
+you, right?" Dahlia crosses her arms and listens from the background.
+
+  "Even though mom and dad don't love each other anymore, we both love you. And
+we always will." He places his hand on top of the camera, "now come on." 
+
+  Cheryl lowers the camera and turns it off.
+  
+  
+  
+  
+  
+  
+o+- Sleaze and Sirens -+o
+
+How To Get It:
+
+  Gain as much Sexual PI as possible. This is easy, since all you have to do is
+stare at every sexual thing you come across.
+  
+  
+Major PI:
+
+ - Get a good look at every sexual poster you find
+ - Stare at women's chests/behinds while around them
+ - "True" to question 5
+ - "False" to questions: 3 and 7
+ - "Yes" to preferring friends over family
+ - "Yes" to being a slut
+ - "No" to being a virgin
+ - Include Sex Ed in classes of choice
+ - Watch Lisa change
+ - "No" to marriage really lasting
+ - All abstract images classed as sexual
+ 
+
+Description:
+
+  "Action," Harry calls from the bed, "come on in girls. Introduce yourselves!"
+  
+  Michelle bows before the camera. "I'm Michelle and I'm Midwich High's prom 
+queen." She turns and sits at Harry's side, wrapping her arm behind him.
+  
+  "And our next star..." Harry summons.
+  
+  Lisa giggles as she enter's the camera's view. "I'm Lisa; I'm a nurse."
+  
+  Lisa hurries over to Harry's other side. "And I'm Harry Mason; famous author
+and seducer of prom queens and nurses."
+
+  "Can we be in your next book?" Michelle innocently requests.
+  
+  "Sure." He complies.
+  
+  "Can you dedicate it to us?" Lisa asks, placing her hand on his chest.
+  
+  "Nope," Harry declines, "dedications are always to my wife and daughter. It's
+only fair." They join each other in laughter before falling back on the bed.
+  
+  
+  
+  
+  
+  
+o+- Wicked and Weak -+o
+
+How To Get It:
+
+  Gain lots of Unfriendly PI and act like you hate everything. Having the tan
+coat outfit is a good indicator that you're on your way to this ending.
+  
+  
+Major PI:
+
+ - "False" to questions: 1 and 3
+ - "Yes" to being a private person, and taking a while to be understood
+ - "No" to preferring friends over family
+ - "Yes" to being a bully and slacker
+ - All sleeping photos on "Dead" side
+ - Watch Lisa change - She'll be angry
+ - Give Lisa the wrong pills
+ - Place Celestine, the princess, as most guilty
+ - All abstract images non-sexual
+ 
+
+Description:
+
+  Cheryl walks down the dark hall, playing with her video camera. She heads
+towards her parents' bedroom to show them, when she realizes that they're
+fighting. Again...
+
+  "You piece of shit!" Dahlia screams at Harry, "When're you gonna bring in some
+real money?" She slaps him.
+
+  Harry raises his hand to his face. He says nothing. Nothing will satisfy this
+demon of rage.
+
+  "You think your crap is Shakespeare? Your piece of shit novels... no one even
+reads them!" She strikes him again in fury. Harry collapses to the floor. He yet
+remains silent.
+
+  "Be a man!" Dahlia screams "Come on! Fight back!" Harry does nothing. Dahlia
+towers over him, glaring down at the weak man before her. "You're pathetic... 
+to think that I used to hang off your every word.... to this waste of space!" 
+She strikes him again.
+
+  Harry's glasses clack against the wooden floor. He bends over and picks them 
+up, slowly returning them to his face. He notices Cheryl with her camera. For
+a moment he looks at her, ashamed of himself. He remains silent.
+  
+  
+  
+  
+  
+  
+o+- Drunk Dad -+o
+
+How To Get It:
+
+  Easy, just stare at any alcohol you find and answer the questions that
+obviously are attributed to being an alcoholic. It doesn't take much 
+Alcoholic PI to get this.
+
+  By the time you get to the first encounter with Michelle, you've likely
+already built enough Alcoholic PI to get the ending.
+
+Major PI:
+
+ - "True" to question 2
+ - Stare at all the Alcoholic PI you find (there isn't much anyway)
+ - "Yes" to being a drunk
+ - Stare at the doctor's collection of booze
+ 
+
+Description:
+
+  It's late at night. Harry approaches the front porch, beer bottle in hand. 
+    
+  "The hell you filmin' me for? Am I supposed to dance for ya?" In a mockery, 
+Harry waves his arms around and pretends to dance, before collapsing to the
+porch floor in a drunken stupor. His beer spills on the ground.
+  
+  "Be a good girl for daddy and go get him another drink will ya?" Cheryl stares
+at her fallen father. "Now! Get me a damn beer!" He demands. He sits up and
+looks at the bottle in his hand. "No wonder I drink with a family like this."
+    
+
+
++------------+-------+
+| UFO Ending | [V.3] |
++------------+-------+
+
+  This is the usual joke ending. In this case, you have to call a number
+advertised on a billboard and then take photographs of UFOs all over the town.
+If you miss even one, you forfeit the ending.
+
+  This ending is only available on a New Game+, which is the same for the others
+in the series, except for Homecoming and SH4 (which doesn't have a UFO ending
+at all. As soon as you are able to use the phone (just after meeting Cybil) you
+can call the phone number to get started. The number you need to call is
+555-3825.
+
+  Throughout the walkthrough section, I've noted each of the UFOs' location, but
+here's a list of them anyway.
+
+  
+1 - III.1 Streets - Under a street light in the alley near the playground. It's 
+big and obvious enough that you can't miss it.
+
+2 - III.3 Forest Path - Through a hole in the fishing lodge roof
+
+3 - III.3 Hunter's Cabin - On top of a barrel out back of the hunter's cabin
+
+4 - III.5 Football Field - Between goal posts. Big. Can't miss it
+
+5 - III.5 Cathouse - On roof, where you jump between the Cathouse and Wonderland
+
+6 - III.5 Courtyard - In courtyard, above statue in the middle
+
+7 - III.5 Hall to Gym - In a tree on the west side of the path; near the wall
+
+8 - III.8 Nurse In Distress - On the road; look down on from the mall entrance
+
+9 - III.9 family Pet - Inside a fish tank. Easy to spot with your light off
+
+10 - III.9 Green Lion Pawn Shop - On top of a shelf in the pawn shop
+
+11 - III.11 Sewer Access - Through some bars in the sewer. Just before the exit
+
+12 - III.12 Docks - At the end of the dock to your left as you jump the fence.
+
+13 - III.12 The Lighthouse - In the water off the northern coast from the
+pier that the lighthouse is on.
+
+
+
+o+--=====================================================================--+o
+ +                                   Puzzles                               +
+o+--===============================-----------===========================--+o
+                                   \  [VI]  /
+                                    --------
+
++-----------+--------+
+| Music Box | [VI.1] |
++-----------+--------+
+
+  The message you receive from the echo in the same room is your hint to
+solving the puzzle. The solution has always been the same for me, so I 
+guess it's not actually critical to listen to the message or even get the
+echo, but the static is annoying anyway.
+
+  When you listen to the message, there will be a part that plays the tune.
+The tune also has animal sounds associated with it, and the keyboard has
+colors associated with it. So any of these instructions should help you:
+
+Green - Pink - Yellow - Yellow - Blue
+Duck - Owl - Parrot - Parrot - Chicken
+Quack - Hoot - Squawk - Squawk - Cluck
+A# - G - A - A - D (for those who are musically inclined)
+
+
++---------+--------+
+| Shadows | [VI.2] |
++---------+--------+
+
+Quick Solution: Call 555-8465
+
+  The idea is to arrange the objects to create a phone number. Although 
+the solution is always the same, to solve it, you want to pick up the 
+two sculptures on the left and place them so their shadows vaguely form 
+an 8. The next sculpture doesn't need to be moved, it's a 4. The next 
+two swan sculptures, when placed together resemble a 6. Finally, turn 
+the pipe and clamp as far as they go to the right. This forms a 5. This
+forms the 7-digit phone number to call.
+  
+  
++-------------+--------+
+| Planetarium | [VI.3] |
++-------------+--------+
+
+Quick Solution: Call 555-2327
+
+  Walk down the aisle to the right from the door. There's an echo coming 
+from one of the seats. Listen to the message, it's an instructor who 
+mentions the Little Bear (Ursa Minor) constellation. This is your hint 
+that you need to look at this constellation.
+
+  Go to the desk and hit the lower button to turn on the machine. Then go 
+to the projector and rotate it until you find the right constellation. If 
+you're not familiar with it, there's a picture on the wall you can check. 
+The Ursa Minor constellation will also have the brightest star.
+
+  Once you have Ursa Minor in your view, go back to the desk and press 
+the upper button. It'll light up the constellations and also a message. 
+The message says to call 555-2327. Once you do, the door to proceed 
+will unlock.
+  
++-------------+--------+
+| Gym Keycode | [VI.4] |
++-------------+--------+
+
+Quick Solution: The keycode is: 1031
+
+  On the keypad next to the door is a number, 1053. Inside locker 1053
+is a photo with the keycode on the backs of two football players. One
+is 10 and the other is 31. This is the keycode.
+
+
++-------------+--------+
+| PC Password | [VI.5] |
++-------------+--------+
+
+  Even if you know the answer, you have to use the forgotten 
+password tool. Click on the "forgotten password" link. This will
+prompt you with three random questions of the following. The answers
+are all found somewhere in the office.
+
+**Note: The "-" button is a hotkey for backspace here.
+
+Wasted three years of my life in order major in?
+ - "Geology"
+ - Diploma on wall behind computer desk
+ 
+I said goodbye to bachelorhood, freedom and happiness, where?
+ - "Hawaii"
+ - Framed photo on shelf behind the computer desk
+ 
+The greatest baseball team, without question?
+ - "Shiners"
+ - Hat on chair in front of desk
+ 
+My only true (four-legged) friend?
+ - "Nicky"
+ - Collar hanging on the coat-hanger across from the computer
+ 
+My star sign even though I don't believe any of that?
+ - "Scorpio"
+ - Astrology poster behind secretary's desk
+ - Birthday posted on calendar near secretary's desk
+ 
+The king of sports, a man's game of squash?
+ - "Racquetball"
+ - Trophy mounted on wall
+ 
+My bitch of an ex-wife's name?
+ - "Valerie"
+ - Call number from post-it on secretary's computer (555-9433)
+ 
+What is the name of my wayward, waste-of-space son?
+ - "Otto"
+ - Signed drawing on floor near computer desk
+ 
+Probably the best Shakespeare comedy?
+ - "Twelfth Night"
+ - Book found in bookcase in corner of office, across from computer
+ 
+ 
+ After you answer the questions, the password will be set to "sunday45" 
+which you can now use to unlock the computer.
+
+
++----------------+--------+
+| Bridge Control | [VI.6] |
++----------------+--------+
+
+  Use the controls and read the following before hitting the red button. A 
+light will come on and you need to pull the associated lever. The lights are 
+as follows:
+
+ - Green: Nothing; just wait a moment
+ - Blue: Middle lever
+ - Red: Left lever
+ - Yellow: Right lever
+ 
+  Once you've followed four correct sequences, the bridge will start to move.
+  
++---------------+--------+
+| Radio Request | [VI.7] |
++---------------+--------+
+
+Quick Solution: 555-8814 for "Daddy's Girl"
+
+  Zoom in on the radio (B) and grab the knob (B+A) and turn it to about 102. 
+The DJ will loop, talking about calling in to request a song. The song you 
+want to request is Daddy's Girl (4). So dial 555-8814.
+
+  After calling, you just wait a moment for the song to come on and then the
+ice on the door will melt away. You can han gup the phone as soon as your call
+gets connected; you don't have to listen to the DJ recording on your phone.
+
++-----------------+--------+
+| Gumball Machine | [VI.8] |
++-----------------+--------+
+
+Quick Solution: Purple, pink, red, yellow
+
+  As the voicemail vaguely suggests, the colors the girl likes are the colors
+of the cartoon bird's beak. To change the color of the current gumball, grab
+the sphere and shake it. You don't have to get the colors in any order, just
+as long as you get each of them.
+
+  The colors you want are: purple, pink, red, and yellow. Try not to mistake the
+black for purple. This puzzle confuses everybody their first time, so don't
+feel bad if you didn't catch on right away.
+
+
++------------------+--------+
+| Celebration Time | [VI.9] |
++------------------+--------+
+
+Quick Solution: The code is 2050
+
+  Listen to the message. There will be two sound clips played. What
+you have to do is find the cards in the store that play those sounds. 
+
+  The first card is for a 20th anniversary. The second card is for a
+50th birthday. Note the numbers: 20 and 50. Punch those in the keypad
+and head through the door.
+
+
+
+o+--=====================================================================--+o
+ +                                  Mementos                               +
+o+--===============================-----------===========================--+o
+                                   \  [VII]  /
+                                    ---------
+
+A Winter Beacon - From III.1 Playground
+ - Snow globe containing lighthouse and girl
+ - Found in a cupboard behind the counter in Diner 52
+ - Alternatively, found in a dartboard in the Good Old Days bar
+ - Psalm on bottom
+ - $9.93
+
+
+Hidden Fire - From III.2 Car Ride
+ - In the glove compartment of Cybil's cruiser
+ - Pack of cigarettes
+ - This isn't Metal Gear Solid; no smoking allowed
+
+
+Frozen Waters - From III.3 Forest Path
+ - In a box by the water tower in the forest
+ - It's a marble?
+ - When you're coming out of the first cabin, follow the path until you
+   see the water tower to your left
+***EASY TO MISS***
+
+
+A Moveable Feast - From III.3 Hunter's Cabin
+ - In a cupboard in the bedroom of the hunter's cabin
+ - Knife
+ - "All stories end in Death" imprinted in the handle
+ - Examining it will not influence an In Water ending
+ 
+ 
+A Broken Ward - From III.3 Hunter's Cabin
+ - A broken flshlight
+ - Found in a drawer in the second room of the cabin from entering through the
+   side door
+ 
+
+Pinned Beauty - From III.4 Post-Nightmare
+ - In the trunk of the car by the outlook
+
+ - Xerces Blue; an extinct species of butterfly
+
+
+Suffocated Forever - From III.5 Cathouse
+ - In the heart-shaped jewelry box
+ - On the table in the second-floor hall of the burlesque house
+ - It's one of those insect-in-a-stone things
+
+
+My Plastic Perfect Girl - From III.5 Wonderland
+ - In the fridge, in the kitchen of the Wonderland burger joint
+ - A barbie doll
+ - "Teenie" written on back
+ - Reminds me of Dexter...
+ 
+
+Heavenly Protection - From III.5 School Pt.1
+ - In a locked cupboard in the "B" section of the school
+ - Token with Saint Christopher imprint
+ - Found shortly after the nailed window
+ 
+
+A Frigid Jewel - From III.5 School Pt.2
+ - Inside a frog that you cut open
+ - Emerald ring
+ - Found in the classroom just before planetarium/art studio
+***EASY TO MISS***
+
+
+An Eternal Rose - From III.5 Hall to Gym
+ - A glass orb with a rose inside
+ - Found inside a locker in the hall just before the gym
+ - "Eternal Love" printed in gold
+ 
+ 
+Infinite Jest - From III.8 Time With Lisa
+ - Inside a music box on the vanity in Lisa's bathroom
+ - Ugly green ring with skull and crossbones
+ - "Ophelia" written on inside of band
+ 
+ 
+Synthetic Femur - From III.8 Warehouse
+ - Inside a photocopier in the warehouse office
+ - Dog toy
+ - "Not real bone"
+ 
+ 
+Memories Undeveloped - From III.9 Family Pet
+ - Inside a hamster cage in the "Family Pet" store
+ - Film canister for color prints
+ - Symbolism for memories that never happened...
+ 
+ 
+My Flyind lizard - From III.9 Toy Store
+ - Found inside the safe
+ - Stuffed dinosaur
+ - "Lost World Terry" on tag
+ 
+ 
+The Modern Prometheus - From III.9 Cinereal Movie Theater
+ - Collected from a toy machine
+ - Frankenstein doll
+ 
+ 
+We Ouroboros - From III.9 Green Lion Pawnshop
+ - Ring resembling a pair of snakes eating themselves
+ - Found in a box behind the register
+ - "Love is a hungry drug" written on inside of band
+ 
+ 
+Poetry as Precise as Geometry - From III.11 Car Ride
+ - A fancy pen
+ - In the glove compartment of John's car
+ - "Everything one invents is true"
+ 
+ 
+A Happy Bond - From III.11 Sewer Access
+ - Homemade bracelet
+ - Found by making a dying fish vomit
+ - "Sweetie"
+ 
+Memories Untaken - From III.11 Lighthouse Cove
+ - Pink camera
+ - In box of cigars held by indian statue
+ - "Capture the Fun! Memories to keep forever!"
+ 
+A Beacon, a Key - From III.11 Lighthouse Cove
+ - Key ring?
+ - Found in a display case in the souvenir store
+ - You practically can't miss this one
+ 
+Your Diamond Heart - From III.11 Lighthouse Cove
+ - Green engagement ring
+ - Outside Annie's Bar, aim the telescope at the lighthouse
+ - "Journeys end in lovers meeting"
+***EASY TO MISS***
+ 
+The Dragon - From III.12 Outside Entrance
+ - A stuffed dragon toy
+ - Found inside a box just outside the amusement park entrance
+ - "Myths & Legends at Lakeside"
+ 
+Eve - From III.12 Park Entrance
+ - Pendant with picture of Dahlie
+ - Won from slot machine
+ - "True Happiness"
+ 
+Adam - From II.12 The Lighthouse
+ - Other side of the pendant, with a picture of Harry
+ - Found in the head of a statue in the lobby of the lighthouse
+ - "Never Forget"
+ 
+ 
+o+--=====================================================================--+o
+ +                                   Ghosts                                +
+o+--==============================------------===========================--+o
+                                  \  [VIII]  /
+                                   ----------
+
+Swingset - From III.1 Playground
+ - Found in the playground with the key cans "puzzle"
+ - Having tutorials on will notify you of this
+ - Appears to be Cheryl on a swing
+
+
+Drowning Boy - From III.3 Forest Path
+ - Found in the tunnel access in the forest
+ - In the same area as the ladder, look for a pipe you can climb over
+ - At the end of the tunnel behind the pipe, the ghost is behind the bars
+
+
+Hanging Deer - From III.3 Hunter's Cabin
+ - In one of the rooms of the hunter's cabin
+ - It's hanging over a table near the door, and an interactive cupboard
+***EASY TO MISS***
+
+
+Hot and Bothered - From III.4 Post-Nightmare
+ - Sitting in the open passenger's seat of the car at the outlook
+ - Pretty hard to miss
+
+Almost Had It - From III.5 Cathouse
+ - Sitting on the couch next to the stairs in the lobby of the burlesque
+house - Cathouse AKA Honey Trap
+
+
+Choker - From III.5 School Pt.1
+ - Hanging from the coat rack in the "B" section of the school
+ - Found shortly after the nailed window
+ 
+
+Not Her Fault - From III.9 Cinereal Movie Theater
+ - Sitting on bench just outside the theater
+ - Bench has mop/cones/etc around it
+ ***EASY TO MISS***
+
+ 
+Dead Dog - From III.9 Streets Outside toluca Mall
+ - On the ground behind a car near the intersection
+ - Found shortly after exiting the movie theater
+ 
+ 
+Dragon Slayer - From III.12 Park Entrance
+ - It's the big board thing where you stand behind it and put your face
+   through the hole
+ - Once inside the park, it's to your left
+
+
+
+o+--=====================================================================--+o
+ +                               Echo Messages                             +
+o+--==============================-----------============================--+o
+                                  \  [VIV]  /
+                                   ---------
+
+  For your convenience, these are organized to refer to the walkthrough 
+portion of this document. The search code is the same of the walkthrough
+section containing the listed echo messages.
+
+  Echo messages not in this list are essential to progressing the game.
+
+III.1
+ - TV in "Clear Picture"
+ - Dress display in "Theresa's"
+
+III.3
+ - Phone box on outside of cabin
+ - Wreath pinned to a tree near the water tower in the forest
+ - Sleeping bag near the ladder to the tunnel access in the forest
+ - Skull pinned to a tree near the bridge where Cybil calls, in the forest
+
+III.5
+ - Trash on table in the Wonderland dining room
+ - Apron and hat in Wonderland kitchen
+ - Car behind Wonderland burger joint; near the nailed window
+ - In the first hall with lockers you find in the school
+ - On a table in the courtyard (just above "School" on the map)
+ - On a seat in the planetarium
+ - Poster in hall before gym (keypad locked)
+ - Balloons just outside gym doors
+ 
+III.9
+ - On garbage can near "Pageturners" in mall
+ - Dog cage in "Family Pet" store
+ - Ball on a bench near the Tookie statue
+ - On top of a garbage can in the back hallway with the evidence locker
+
+III.11
+ - Map on hood of car; area just after exiting the sewer access
+ 
+ 
+ 
+ 
+o+--=====================================================================--+o
+ +                               Phone Numbers                             +
+o+--==============================-----------============================--+o
+                                  \  [VV]  /
+                                   --------
+                    
+
+SH Customer Service Center	311
+Information			411
+Emergency Services		911
+Alchemilla Hospital		555-9400
+Alchemilla Radio		555-881* (* = 0-9)
+Bedrock Security		555-0207
+Bodkin Insurance		555-3800
+Brodie Insurance		555-3900
+Brookhaven Hospital		555-9300
+Cathouse/Honey Trap/Lotus	555-5477
+Cine-Fone			555-3663
+Conservation Police		555-5253
+
+County Weather Service		555-7659
+Cybil 				555-2925
+Dahlia 				555-7399
+Dahlia / Simmons Street Home	555-8632
+Dept. of Natural Resources 	555-3474
+Dixon Bridge Maintenance	555-3411
+Home / Cheryl			555-4663
+How Am I Driving		555-7243
+Join Tookie			555-8665
+Konami Customer Support Line	220-8330
+
+Lakeside Amusement Park		555-3253
+Lakeview Hotel 			555-2502
+Lisa 				555-3323
+Lost Children			555-5678
+Michelle 			555-3587
+Midwich High Info		555-5122
+Mr. Gordon 			555-5464
+Nightingale Apts.	 	555-4139
+Police Department		555-6358
+Riverside Motel 		555-4340
+
+School Magazine 		555-7857
+Southside Salvage		555-2212
+State Forestry Dept		555-8733
+State Water and Sewer Authority	555-7669
+TALK (Suicide Line)		555-8255
+Tammy				555-7588
+Toluca Mall			555-6255
+Towing Service			555-0719
+Toy Car Recall 			555-7325
+United Fruitcake Outlet (UFO)	555-3825
+
+Valerie (Principal's Ex)	555-9433
+Waitress Wanted 		555-6649
+Water Tours			555-2628
+Wonderland Burger Joint		555-6328
+
+
+
+o+--=====================================================================--+o
+ +                                   Legal                                 +
+o+--==============================-----------============================--+o
+                                  \  [VIV]  /
+                                   ---------
+
+  The only websites at this time with permission to use or refernce  this 
+walkthrough are as follows:
+
+ - Gamefaqs.com
+ - Neoseeker.com
+ - Supercheats.com
+ - Silenthillmemories.net
+ 
+  The following users have been permitted to translate this walkthrough:
+  
+ - Metal Riffs
+ - Sergey
+ - Ruf_Gekko
+
+Copyright 2011 (Kellexx)
+
+
+Silent Hill: Shattered Memories
+Copyright 2009 Konami Digital Entertainment
+

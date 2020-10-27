@@ -1,0 +1,1159 @@
+
+OPTIMIZAnON WITH ARTIFICIAL NEURAL NETWORK SYSTEMS:
+A MAPPING PRINCIPLE
+AND
+A COMPARISON TO GRADIENT BASED METHODS t
+Harrison MonFook Leong
+Research Institute for Advanced Computer Science
+NASA Ames Research Center 230-5
+Moffett Field, CA, 94035
+
+ABSTRACT
+General formulae for mapping optimization problems into systems of ordinary differential
+equations associated with artificial neural networks are presented. A comparison is made to optimization using gradient-search methods. The perfonnance measure is the settling time from an initial
+state to a target state. A simple analytical example illustrates a situation where dynamical systems
+representing artificial neural network methods would settle faster than those representing gradientsearch. Settling time was investigated for a more complicated optimization problem using computer simulations. The problem was a simplified version of a problem in medical imaging: determining loci of cerebral activity from electromagnetic measurements at the scalp. The simulations
+showed that gradient based systems typically settled 50 to 100 times faster than systems based on
+current neural network optimization methods.
+INTRODUCTION
+Solving optimization problems with systems of equations based on neurobiological principles
+has recently received a great deal of attention. Much of this interest began when an artificial
+neural network was devised to find near-optimal solutions to an np-complete problem 13. Since
+then, a number of problems have been mapped into the same artificial neural network and variations of it 10.13,14,17.18,19.21,23.24. In this paper, a unifying principle underlying these mappings is
+derived for systems of first to nth -order ordinary differential equations. This mapping principle
+bears similarity to the mathematical tools used to generate optimization methods based on the gradient. In view of this, it seemed important to compare the optimization efficiency of dynamical
+systems constructed by the neural network mapping principle with dynamical systems constructed
+from the gradient.
+.
+THE PRINCIPLE
+This paper concerns itself with networks of computational units having a state variable V, a
+function! that describes how a unit is driven by inputs, a linear ordinary differential operator with
+constant coefficients D (v) that describes the dynamical response of each unit, and a function g that
+describes how the output of a computational unit is detennined from its state v. In particular, the
+paper explores how outputs of the computational units evolve with time in tenns of a scalar function E, a single state variable for the whole network. Fig. I summarizes the relationships between
+variables, functions, and operators associated with each computational unit. Eq. (1) summarizes the
+equations of motion for a network composed of such units:
+D"-+(M)(v)
+
+=1(g 1(v I)' . . . ? gN (VN ) )
+
+(I)
+
+where the i th element of jJ(M) is D(M)(Vj), superscript (M) denotes that operator D is Mth order,
+the i th element of
+is !i(gl(VI) ? ...? gN(VN?, and the network is comprised of N computational units. The network of Hopfield 12 has M=I, functions
+are weighted linear sums, and functions 1 (where the ith element of 1 is gj(Vj) ) are all the same sigmoid function. We will examine two ways of defining functions
+given a function F. Along with these definitions will be
+
+1
+
+1
+
+1
+
+t Work supported by NASA Cooperative Agreement No. NCC 2-408
+
+? American Institute of Physics 1988
+
+475
+
+defined corresponding functions E that will be used to describe the dynamics of Eq. (1).
+The first method corresponds to optimization methods introduced by artificial neural network
+research. It will be referred to as method V y ("dell gil):
+
+!
+
+== VyF
+
+(2a)
+
+with associated E function
+
+tN[
+dv '(S)jdg .(S)
+E"j = F("g)-JL D(M)(v ?(S?- - ''
+ds.
+i
+
+dt
+
+'
+
+dt
+
+(2b)
+
+Here, V xR denotes the gradient of H, where partials are taken with respect to variables of X, and
+E7 denotes the E function associated with gradient operator V7' With appropriate operator D and
+and g,
+is simply the "energy function" of Hopfield 12. Note that Eq. (2a) makes
+functions
+that can be derived from scalar potential functions.
+explicit that we will only be concerned with
+For example, this restriction excludes artificial neural networks that have connections between excitatory and inhibitory units such as that of Freeman 8. The second method corresponds to optimization methods based on the gradient. It will be referred to as method V if ("dell v"):
+
+1
+
+Er
+
+1
+
+1 == VyoF
+
+(3a)
+
+with associated E function
+Ev>
+
+N [
+dv ? (s) 1
+dv ? (s )
+= FCg) -JL
+D(M)(v .(s?--' '
+i
+dt
+dt
+t
+
+ds
+
+(3b)
+
+I
+
+where notation is analogous to that for Eqs. (2).
+computational unit i :
+~_
+??
+The critical result
+that allows us to map
+\\
+optimization problems into
+transform that detennines unit i's
+networks described by Eq.
+output from state variable Vi
+(1) is that conditions on the
+constituents of the equation
+differential operator specifying the
+can be chosen so that along
+dynamical characteristics of unit i
+any solution trajectory, the
+E function corresponding
+function governing how inputs to
+to the system will be a
+unit i are combined to drive it
+monotonic function of time.
+For method V"j' here are
+/
+the conditions: all functions g are 1) differentiable
+/gl(V 1) 'Tg2 (v:z)
+I'
+and 2) monotonic in the
+same sense. Only the first
+Figure 1: Schematic of a computational unit i from which netcondition is needed to
+works considered in this paper are constructed. Triangles suggest
+make a similar assertion for
+connections between computational units.
+method Vv- When these conditions are met and when solutions of Eq. (1) exist, the dynamical systems can be used for optimization. The appendix contains proofs for the monotonicity of function
+E along solution trajectories and references necessary existence theorems. In conclusion, mapping
+optimization problems onto dynamical systems summarized by Eq. (l) can be reduced to a matter
+of differentiation if a scalar function representation of the problem can be found and the integrals
+of Eqs. (2b) and (3b) are ignorable. This last assumption is certainly upheld for the case where
+operator D has no derivatives less than M'h order. In simulations below, it will be observed to
+hold for the case M =1 with a nonzero O'h order derivative in D . (Also see Lapedes and Falber 19.)
+PERSPECTIVES OF RECENT WORK
+
+476
+
+The fonnulations above can be used to classify the neural network optimization techniques
+used in several recent studies. In these studies, the functions 1 were all identical. For the most
+part, following Hopfield's fonnulation, researchers 10.13.14.17.23.24 have used method Vy to derive
+with Ey quadratic in functions 1 and
+fonns of Eq. (1) that exhibit the ability to find extrema of
+all functions 1 describable by sigmoid functions such as tanh (x ). However, several researchers
+have written about artificial neural networks associated with non-quadratic E functions. Method
+Vy has been used to derive systems capable of finding extrema of non-quadrntic Ey 19. Method
+Vv has been used to derive systems capable of optimizing Ev where Ev were not necessarily quadratic in variables V 21. A sort of hybrid of the two methods was used by Jeffery and Rosner 18 to
+find extrema of functions that were not quadratic. The important distinction is that their functions j
+were derived from a given function Fusing Eq. (3a) where, in addition, a sign definite diagonal
+matrix was introduced; the left side of Eq. (3a) was left multiplied by this matrix. A perspective
+on the relationship between all three methods to construct dynamical systems for optimization is
+summarized by Eq. (4) which describes the relationship between methods Vyand Vyo:
+
+E-t
+
+V?
+
+= <liag [a~~;ll-l V,J'
+
+(4)
+
+where diag [ Xi] is a diagonal matrix with Xi as the diagonal element of row i. (A similar equation
+has been derived for quadratic F s.) The relationship between the method of Jeffery and Rosner
+and Vv is simply Eq. (4) with the time dependent diagonal matrix replaced by a constant diagonal
+matrix of free parameters. It is noted that Jeffery and Rosner presented timing results that compared
+simulated annealing. conjugate-gradient, and artificial neural network methods for optimization.
+Their results are not comparable to the results reported below since they used computation time as
+a perfonnance measure, not settling times of analog systems. The perspective provided by Eq. (4)
+will be useful for anticipating the relative performance of methods V~ and Vv in the analytical
+example below and will aid in understanding the results of computer simulations.
+COMPARISON OF METHODS Vt AND Vv
+When M =1 and operator D has no Ofh order derivatives, method Vv is the basis of gradientsearch methods of optimization. Given the long history of of such methods. it is important to know
+what possible benefits could be achieved by the relatively ne,w optimization scheme. method Vy .
+In the following. the optimization efficiency of methods Vt and Vv is compared by comparing settling times. the time required for dynamical systems described by Eq. (1) to traverse a continuous
+path to local optima. To qualify this perfonnance measure. this study anticipates application to the
+creation of analog devices that would instantiate Eq. (1); hence, we are not interested in estimating
+the number of discrete steps that would be required to find local optima, an appropriate performance measure if the point was to develop new numerical methods. An analytical example will
+serve to illustrate the possibility of improvements in settling time by using method Vt instead of
+method VV' Computer simulations will be reported for more complicated problems following this
+example.
+For the analytical example, we will examine the case where all functions 1 are identical and
+g(v)
+
+= tanhG(v -Th)
+
+(5)
+
+where G > 0 is the gain and Th is the threshold. Transforms similar to this are widely used in
+artificial neural network research. Suppose we wish to use such computational units to search a
+multi-dimensional binary solution space. We note that
+
+!li..
+= G sech 2G(v -Th)
+dv
+
+(6)
+
+is near 0 at valid solution states (comers of a hypercube for the case of binary solution spaces). We
+see from Eq. (4) that near a valid solution state. a network based on method Vy will allow computational units to recede from incorrect states and approach correct states comparatively faster. Does
+
+477
+
+this imply faster settling time for method V"t?
+To obtain an analytical comparison of settling times, consider the case where M =1 and
+operator D has no Om order derivatives and
+
+F
+
+1
+= -2~'J
+~('.?(tanhGv?)(tanhGv ? )
+?
+J
+
+(7)
+
+'oJ
+
+where matrix S is symmetric. Method Vy gives network equations
+
+dV =StanhGv
+
+(8)
+
+~ =diag [G sech 2Gvj 1S tanhGV
+
+(9)
+
+dt
+
+and method Vv gives network equations
+
+where tanhGY denotes a vector with i'" component tanhGv;. For method Vr there is one stable
+point, i.e. where '::
+
+= 0, at V = O .
+
+For method Vv the stable points are
+
+V = 0 and V ? V where
+
+V is the set of vectors with component values that are either +- or - . Further trivialization
+allows for comparing estimates of settling times: Suppose S is diagonal. For this case, if Vj = 0 is
+on the trajectory of any computational unit i for one method, Vj
+0 is on the trajectory of that unit
+for the other method; hence, a comparison of settling times can be obtained by comparing time
+estimates for a computational unit to evolve from near 0 to near an extremum or, equivalently, the
+converse. Specifically, let the interval be [Bo, I-a] where 0< Bo<l-a and o<a<1. For method V..,
+integrating velocity over time gives the estimate
+
+=
+
+1[1'2 [1
+1 1+ [1-a
+5(2-5) - l-aJ
+"5(2-a) ~
+00 lJ
+
+T Vi = G
+
+In
+
+(10)
+
+and for method V y the estimate is
+
+T,,;=
+
+~ln [~~~) ~l
+
+(11)
+
+From these estimates, method Vv will always take longer to satisfy the criterion for convergence:
+Note that only with the largest value for Bo, Bo =1-5, is the first term of Eq. (10) zero; for any
+smaller Bo, this term is positive. Unfortunately, this simple analysis cannot be generalized to nondiagonal S. With diagonal S, all computational units operate independently. Hence, the derivation
+of ':: is irrelevant with respect to convergence rates; convergence rate depends only on the diagonal element of S having the smallest magnitude. In this sense, the problem is one dimensional.
+But for non-diagonal S, the problem would be, in general, multi-dimensional and, hence, the direction of ':: becomes relevant To compare settling times for non-diagonal S, computer simulations
+were done. 'These are described below.
+
+COMPUTER SIMULAnONS
+Methods
+The problem chosen for study was a much simplified version of a problem in medical imaging: Given electromagnetic field measurements taken from the human scalp, identify the location
+and magnitude of cerebral activity giving rise to the fields. This problem has received much attention in the last 20 years 3,6.7. The problem, sufficient for our purposes here, was reduced to the
+following problem: given a few samples of the electric potential field at the surface of a spherical
+conductor within which reside several static electric dipoles, identify the dipole locations and
+moments. For this situation, there is a closed form solution for electric potential fields at the
+
+478
+
+spherical surface:
+(12)
+where ~ is the electric potential at the spherical conductor surface, 'Xsamp/~ is the location of the
+sample point ( x denotes a vector, i the corresponding unit vector, and x the corresponding vector
+magnitude), j1; is the dipole moment of dipole i, and d; is the vector from dipole i to X:ampl~ (This
+equation can be derived from one derived by Brody, Terry, and Ideker 4 ). Fig. 2 facilitates picturing these relationships.
+With this analytical solution, the problem was formulated as a least squares minimization problem where
+the variables were dipole moments. In short, the following process was used: A dipole model was chosen.
+This model was used with Eq. (12) to calculate potentials at points on a sphere which covered about 60% of
+the surface. A cluster of internal locations that encompassed the locations of the model was specified. The
+two optimization techniques were then required to determine dipole moment values at cluster locations such
+that the collection of dipoles at cluster locations accuFigure 2: Vectors of Eq. (12).
+rately reflected the dipole distribution specified by the
+model.
+This was to be done given only the potential values at the sample points and an initial guess of
+dipole moments at cluster locations. The optimization systems were to accomplish the task by
+minimizing the sum of squared differences between potentials calculated using the dipole model
+and potentials calculated using a guess of dipole moments at cluster locations where the sum is
+taken over all sample points. Further simplifications of the problem included
+1)
+choosing the dipole model locations to correspond exactly to various locations of the cluster,
+2)
+requiring dipole model moments to.be I, 0, or -I, and
+3)
+representing dipole moments at cluster locations with two bit binary numbers.
+To describe the dynamical systems used, it suffices to specify operator D and functions '( of
+Eq. (1) and function F used in Eqs. (2a) and (3a). Operator D was
+D
+
+=
+
+d
+
+dt + 1.
+
+(13)
+
+Eq. (5) with a multiplicative factor of 112 was used for all functions '(. Hence, regarding
+simplification 3) above, each cluster location was associated with two computational units. Considering simplification 2) above, dipole moment magnitude 1 would be represented by both computational units being in the high state, for -I, both in the low state, and for 0, one in the high state and
+one in the low state. Regarding function F ,
+F
+
+= ~
+
+all samp/~
+poims s
+
+[~lMaSlll'~d(X:) -
+
+<Ilcillomr ('Xs)
+
+r-
+
+c
+
+~
+
+g (v)2
+
+(14)
+
+all compu,ariOflal
+u"irs j
+
+where ~_as""~d is calculated from the dipole model and Eq. (12) (The subscript measured is used
+because the role of the dipole model is to simulate electric potentials that would be measured in a
+real world situation. In real world situations, we do not know the source distribution underlying
+~_asar~d .), C is an experimentally detennined constant (.002 was used), and ~clJIS'~r is Eq. (12)
+where the sum of Eq. (12) is taken over all cluster locations and the k,h coordinate of the i,h cluster location dipole moment is
+? Pi#:
+
+=
+
+~
+all bits b
+
+g (Vil:b)'
+
+(15)
+
+479
+
+Index j of Eq. (14) corresponds to one combination of indices ikb.
+Sample points, 100 of them, were scattered semi-uniformly over the spherical surface
+emphasized by horizontal shading in Fig. 3. Ouster locations, 11, and model dipoles, 5, were scattered within the subset of the sphere emphasized by vertical shading. For the dipole model used,
+10 dipole moment components were non-zero; hence, optimization techniques needed to hold 56
+dipole moment components at zero and set 10 components to correct non-zero values in order to
+correctly identify the dipole model underlying ~_Qs"'~d'
+The dynamical systems corresponding to
+0.8
+methods V,. and Vv' were integrated using the
+relative radii
+forward Euler method (e.g. Press, Flannery,
+I I
+Teukolsky, and Vetterling 22). Numerical
+,'
+I I
+methods were observed to be convergent experI
+imentally: settling time and path length were
+I ,
+observed to asymtotically approach stable
+I I
+values as step size of the numerical integrator
+I I
+was decreased over two orders of magnitude.
+Settling times, path lengths, and relative
+directions of travel were calculated for the two
+optimization methods using several different
+initial bit patterns at the cluster locations. In
+Figure 3: illustration of the distribution of
+other
+words. the search was started at different
+sample points on the surface of the sphericorners
+of the hypercube comprising the space
+cll conductor (horizontal shading) and the
+of acceptable solutions. One corner of the
+distribution of model dipole locations and
+hypercube was chosen to be the target solution.
+cluster locations within the conductor
+(Note
+that a zero dipole moment has a degen(verticll shading).
+erate two bit representation in the dynamical
+systems explored; the target corner was arbitrarily chosen to be one of the degenerate solutions.)
+Note from Eq. (5) that for the network to reach a hypercube corner, all elements of would have
+to be singular. For this reason, settling time and other measures were studied as a function of the
+proximity of the computational units to their extremum states.
+Computations were done on a Sequent Balance.
+I
+
+,
+
+I
+
+I
+
+,
+
+I
+
+v
+
+5
+Results
+Graph 1 shows results for exploring settling
+time as a function of extremum depth, the minimum of
+the deviations of variables
+from the threshold of
+functions g. Extremum depth is reported in multiples
+of the width of functions g. The term transition, used
+in the caption of Graph 1 and below, refers to the
+movement of a computational unit from one extremum
+state to the other. The calculations were done for two
+initial states, one where the output of 1 computational
+unit was set to zero and one where outputs of 13 computational units were set to zero; bence, 1 and 13,
+respectively, half transitions were required to reach
+the target hypercube comer. It can be observed that
+settling time increases faster for method V v' than that
+for method Vy just as we would expect from considering Eqs. (4) and (5). However, it can be observed
+that method Vv is still an order of magnitude faster
+even wben extremum depth is 3 widths of functions
+g. For the purpose of unambiguously identifying
+what hypercube corner the dynamical system settles
+
+v
+
++,1
+
+4
+3
+
+I
+
+-
+
+~
+
+I
+
+I
+
+~
+
+~
+
+#
+
+...
+
+t---.
+
+o
+o
+
+"
+-
+
+2
+extremum depth
+
+1
+
+'"-
+
+=-
+
+-
+
+4
+
+3
+
+Graph 1: settling time as a function of
+extremum depth. #: method Vr- 1 half
+transition required. .: method V 13
+half transitions required. +: method
+V.... 1 half transition required. -: V....
+13 half transitions required.
+
+r
+
+480
+
+to, this extremum depth is more than adequate.
+Table 1 displays results for various initial conditions. Angles are reported in degrees. These
+measures refer to the angle between directions of travel in v-space as specified by the two optimization methods. The average angle reported is taken over all trajectory points visited by the numerical integrator. Initial angle is the angle at the beginning of the path. Parasite cost percentage is a
+measure that compares parasite cost, the integral in Eqs. (2b) and (3b), to the range of function F
+over the path:
+
+.
+parasite cost %
+
+parasite cost
+
+= 100x I F
+F
+I
+fi",," ;,udal
+
+transitions
+reauired
+
+time
+
+1
+
+0.16
+0.0016
+
+100
+
+6.1
+1.9
+
+2
+
+0.14
+0.0018
+
+78
+
+4.7
+1.9
+
+75
+
+3
+
+0.15
+0.0021
+
+71
+
+4.7
+2.1
+
+74
+
+7
+
+0.19
+0.0032
+
+59
+
+4.6
+2.4
+
+63
+
+10
+
+0.17
+0.0035
+
+49
+
+3.8
+2.5
+
+60
+
+13
+
+0.80
+0.0074
+
+110
+
+9.2
+3.2
+
+39
+
+relative path initial Mean angle extremum
+time
+len2th anlZle (std dev)
+deoth
+68
+
+(16)
+
+parasite
+cost %
+
+76 (3.8)
+76 (3.5)
+
+2.3
+2.3
+
+0.22
+0.039
+
+72 (4.3)
+73 (4.1)
+
+2.5
+2.5
+
+0.055
+0.016
+
+71 (3.7)
+72 (3.0)
+
+2.3
+2.5
+
+0.051
+0.0093
+
+69 (4.1)
+71 (7.0)
+
+2.4
+2.7
+
+0.058
+0.0033
+
+63 (2.8)
+
+64 (4.7)
+
+2.5
+2.8
+
+O.OOO6{)
+
+77 (11)
+71 (8.9)
+
+2.3
+2.7
+
+0.076
+0.0028
+
+0.030
+
+Table 1: Settling time and other measurements for various required transitions. For
+each transition case, the upper row is for V y and the lower row is for V v- Std deY
+denotes standard deviation. See text for definition of measurement terms and units.
+Noting the differences in path length and angles reported, it is clear that the path taken to the target
+hypercube comer was quite different for the two methods. Method V v settles from 1 to 2 orders of
+magnitude faster than method V -r and usually takes a path less than half as long. These relationships did not change significantly for different values for c of Eq. (14) and coefficients of Eq. (13)
+(both unity in Eq. (13?. Values used favored method Vr Parasite cost is consistently less
+significant for method V v and is quite small for both methods.
+To further compare the ability of the optimization methods to solve the brain imaging problem, a large variety of initial hypercube comers were tested. Table 2 displays results that suggest
+the ability of each method to locate the target comer or to converge to a solution that was consistent with the dipole model. Initial comers were chosen by randomly selecting a number of computational units and setting them to eXtI"emwn states opposite to that required by the target solution.
+Five cases were run for each case of required transitions. It can be observed that the system based
+on method Vv is better at finding the target comer and is much better at finding a solution that is
+consistent with the dipole model.
+DISCUSSION
+The simulation results seem to contradict settling time predictions of the second analytical
+example. It is intuitively clear that there is no contradiction when considering the analytical example as a one dimensional search and the simulations as multi-dimensional searches. Consider Fig. 4
+which illustrates one dimensional search starting at point I. Since both optimization methods must
+decrease function E monotonically, both must head along the same path to the minimum point A.
+Now consider Fig. 5 which illustrates a two dimensional search starting at point I: Here, the two
+methods needn't follow the same paths. The two dashed paths suggest that method V." can still be
+
+481
+
+V..
+
+transitions I
+required
+3
+4
+
+5
+
+I
+
+6
+
+Vv
+
+~erent dipole different target different dipole different target
+comer comer
+solution
+comer comer,
+solution
+1
+4
+0
+5
+0
+0
+4
+1
+1
+1
+0
+3
+4
+4
+1
+1
+0
+0
+4
+1
+1
+2
+0
+2
+1
+4
+4
+1
+0
+0
+3
+1
+1
+5
+0
+0
+5
+5
+0
+0
+0
+I 0
+2
+3
+0
+5
+0
+0
+
+I
+
+I
+
+I
+
+7
+13
+20
+26
+
+33
+
+5
+
+0
+
+40
+
+5
+5
+5
+
+0
+
+46
+
+I
+
+53
+
+I
+
+0
+0
+
+0
+0
+0
+0
+
+3
+3
+2
+4
+
+2
+
+I
+
+2
+
+3
+1
+
+0
+
+I
+
+0
+0
+
+!
+
+0
+
+Table 2: Solutions found starting from various initial conditions, five cases for each
+transition case. Different dipole solution indicates that the system assigned non-zero
+dipole moments at cluster locations that did not correspond to locations of the dipole
+model sources. Different corner indicates the solution was consistent with the dipole
+model but was not the target hypercube comer. Target corner indicates that the solution was the target solution.
+monotonically decreasing E while traversing a more circuitous route to minimum B or traversing a path to minimum
+A. The longer path lengths reported in Table 1 for method
+V~ suggest the occurrence of the fonner. The data of Table
+2 verifies the occurrence of the latter: Note that for many
+v
+cases where the system based on method Vv settled to the .
+Figure 4: One dimensional search
+target comer, the system based on method V~ settled to some
+other minimum.
+for minima.
+Would we observe similar differences in optimization
+I
+efficiency for other optimization problems that also have
+binary solution spaces? A view that supports the plausibility
+of the affirmative is the following: Consider Eq. (4) and Eq.
+E
+(5). We have already made the observation that method Vv
+would slow convergence into extrema of functions g. We
+have observed this experimentally via Graph 1. These observations suggest that computational units of Vv systems
+tend to stay closer to the transition regions of functions g
+compared to computational units of V'I systems. It seems
+plausible that this property may allow Vv systems to avoid
+advancing too deeply toward ineffective solutions and, hence,
+allow the systems to approach effective solutions more
+Figure 5: Two dimensional search
+efficiently. 1bis behavior might also be the explanation for
+for minima.
+the comparative success of method Vv revealed in Table 2.
+Regarding the construction of electronic circuitry to instantiate Eq. (l), systems based on
+method Vv would require the introduction of a component implementing multiplication by the
+derivative of functions g. This additional complexity may binder the use of method Vv for the
+
+482
+
+construction of analog circuits for optimization. To
+illustrate the extent of this additional complexity, Fig.
+Input
+6a shows a schematized circuit for a computational
+unit of method V-r and Fig. 6b shows a schematized
+circuit for a computational unit of method VT The
+simulations reported above suggest that there may be
+problems for which improvements in settling time
+Output
+may offset complications that might come with added
+circuit complexity.
+On the problem of imaging cerebral activity, the
+results above suggest the possibility of constructing
+analog devices to do the job. Consider the problem of
+analyzing electric potentials from the scalp of one perOutput
+son: It is noted that the measured electric potentials,
+Figure 6: Schematized circuits for a com- ~_as"rcd' appear as linear coefficients in F of Eq.
+putational unit Notation is consistem (14); hence, they would appear as constant terms in
+with Horowitz and Hill IS. Shading of of Eq. (1). Thus. cf)_asllrcd would be implemented as
+amplifiers is to e3IIllark components amplifier biases in the circuits of Figs. 6. This is a
+referred to in the text. a) Computational significant benefit. To understand this. note that funcunit for method Vr b) Computational tion Ij of Fig. 1 corresponding to the optimization of
+. ti
+thod V
+function F of Eq. (14) would involve a weighted
+umt or me
+...
+linear sum of inputs g 1(v 1), ??? , gN (VN). The weights
+would be the nonlinear coefficients of Eq. (14) and correspond to the strengths of the connections
+shown in Fig. 1. These connection strengths need only be calculated once for the person ar!d Car!
+then be set in hardware using, for example, a resistor network. Electric potential measurements
+could then be ar!alyzed by simply using the measurements to bias the input to shaded amplifiers of
+Figs. 6. For initialization, the system can be initialized with all dipole moments at zero (the 10
+transition case in Table 1). This is a reasonable first guess if it is assumed that cluster locations are
+far denser than the loci of cerebral activity to be observed. For subsequent measurements, the solution for immediately preceding measurements would be a reasonable initial state if it is assumed
+that cerebral activity of interest waxes and wanes continuously.
+Might non-invasive real time imaging of cerebral activity be possible using such optimization
+devices? Results of this study are far from adequate for answering this question. Many complexities that have been avoided may nUllify the practicality of the idea. Among these problems are:
+1)
+The experiment avoided the possibility of dipole sources actually occurring at locations other
+than cluster locations. The minimization of function F of Eq. (14) may circumvent this
+problem by employing the superposition of dipole moments at neighboring cluster locations
+to give a sufficient model in the mear!.
+2)
+The experiment asswned a very restricted range of dipole strengths. This might be dealt
+with by increasing the number of bits used to represent dipole moments.
+3)
+The conductor model, a homogeneously conducting sphere, may not be sufficient to model
+the hwnan head 16. Non-sphericity ar!d major inhomogeneities in conductivity Car! be dealt
+with, to a certain extent, by replacing Eq. (12) with a generalized equation based on a
+numerical approximation of a boundary integral equation 20
+4)
+The cerebral activity of interest may not be observable at the scalp.
+5)
+Not all forms of cerebral activity give rise to dipolar sources. (For example, this is well
+known in olfactory cortex 8.)
+6)
+Activity of interest may be overwhelmed by irrelevant activity. Many methods have been
+devised to contend with this problem (For example, Gevins and Morgan 9.)
+Clearly, much theoretical work is left to be done.
+(a)
+
+(b)
+
+1
+
+CONCLUDING REMARKS
+
+483
+
+In this study. the mapping principle underlying the application of artificial neural networks to
+the optimization of multi-dimensional scalar functions has been stated explicitly. Hopfield 12 has
+shown that for some scalar functions. i.e. functions F quadratic in functions 1. this mapping can
+lead to dynamical systems that can be easily implemented in hardware. notably. hardware that
+requires electronic components common to semiconductor technology. Here. mapping principles
+that have been known for a considerably longer period of time. those underlying gradient based
+optimization, have been shown capable of leading to dynamical systems that can also be implemented using semiconductor hardware. A problem in medical imaging which requires the search of
+a multi-dimensional surface full of local extrema has suggested the superiority of the latter mapping
+principle with respect to settling time of the corresponding dynamical system. 1bis advantage may
+be quite significant when searching for global extrema using techniques such as iterated descent 2
+or iterated genetic hill climbing 1 where many searches for local extrema are required. This advantage is further emphasized by the brain imaging problem: volumes of measurements can be
+analyzed without reconfiguring the interconnections between computational units; hence, the cost of
+developing problem specific hardware for finding local extrema may be justifiable. Finally. simulations have contributed plausibility to a possible scheme for non-invasively imaging cerebral
+activity.
+APPENDIX
+
+To show that for a dynamical system based on method Vr E,. is a monotonic function of
+time given that all functions g are differentiable and monotonic in the same sense, we need to
+show that the derivative of ET with respect to time is semi-definite:
+
+dET
+dt
+
+-
+
+N dFT dg j N [M
+dVj ] dg,
+= L - - - L D( )(Vj)-- - .
+j
+
+dgj
+
+dt
+
+i
+
+dt
+
+(Ala)
+
+dt
+
+Substituting Eq. (2a),
+-dET ==
+dt
+
+N [
+I,
+f?
+
+dV'] dg?
+'dt
+dt
+
+(Alb)
+
+-D(M)(v ? ) + - ' - ' .
+
+j '
+
+Using Eq. (1),
+
+d~ = N [dV i
+dt
+~, dt
+
+]2 dgi ~O
+
+(Alc)
+
+av?, s
+
+as needed. The appropriate inequality depends on the sense in which functions 1 are monotonic.
+In a similar manner, the result can be obtained for method Vv>- With the condition that functions 1
+are differentiable, we can show that the derivative of 4 is semi-definite:
+
+dE.".
+dt
+
+_v
+
+dv?
+N [
+dV'] dv?
+v= IN ,dF' - I,
+D(M)(Vj)_-' - ' .
+j
+
+dVj
+
+dt
+
+j
+
+dt
+
+(A2a)
+
+dt
+
+Using Eqs. (3a) and (1),
+
+dEv
+N [dVj
+dt - ~
+, dt
+
+--~-
+
+]2~0
+
+(A2b)
+
+S
+
+as needed.
+In order to use the results derived above to conclude that Eq. (1) can be used for optimization of functions 4 and Et in the vicinity of some point
+we need to show that there exists a
+neighborhood of Vo in which there exist solution trajectories to Eq. (1). The necessary existence
+theorems and transformations of Eq. (1) needed in order to apply the theorems can be found in
+many texts on ordinary differential equations; e.g. Guckenheimer and Holmes 11. Here, it is mainly
+important to state that the theorems require that functions ,?c(1), functions g are differentiable,
+and initial conditions are specified for all derivatives of lower order than M.
+
+vo.
+
+484
+
+ACKNOWLEDGEMENTS
+I would like to thank Dr. Michael Raugh and Dr. Pentti Kanerva for constructive criticism
+and support. I would like to thank Bill Baird and Dr. James Keeler for reviewing this work. I
+would like to thank Dr. Derek Fender, Dr. John Hopfield, and Dr. Stanley Klein for giving me
+opportunities that fostered this conglomeration of ideas.
+
+[1]
+[2]
+[3]
+[4]
+[5]
+[6]
+[7]
+[8]
+[9]
+[10]
+[11]
+[12]
+[13]
+[14]
+[15]
+[16]
+
+[171
+[18]
+[19]
+[20]
+[21]
+[22]
+[23]
+[24]
+
+REFERENCES
+Ackley D.H., "Stochastic iterated genetic bill climbing", PhD. dissertation, Carnegie Mellon
+U.,1987.
+Bawn E., Neural Networks for Computing, ed. Denker 1.S. (AlP Confrnc. Proc. 151, ed.
+Lerner R.G.), p53-58, 1986.
+Brody D.A., IEEE Trans. vBME-32, n2, pl06-110, 1968.
+Brody D.A., Terry F.H., !deker RE., IEEE Trans. vBME-20, p141-143, 1973.
+Cohen M.A., Grossberg S., IEEE Trans. vSMC-13, p815-826, 1983.
+Cuffin B.N., IEEE Trans. vBME-33, n9, p854-861. 1986.
+Darcey T.M., AIr J.P., Fender D.H., Prog. Brain Res., v54, pI28-134, 1980.
+Freeman W J., "Mass Action in the Nervous System", Academic Press, Inc., 1975.
+Gevins A.S., Morgan N.H., IEEE Trans., vBME-33, n12, pl054-1068, 1986.
+Goles E., Vichniac G.Y., Neural Networks for Computing, ed. Denker J.S. (AlP Confrnc.
+Proc. 151, ed. Lerner R.G.), p165-181, 1986.
+Guckenheimer J., Holmes P., "Nonlinear Oscillations, Dynamical Systems, and Bifurcations
+of Vector Fields", Springer Verlag, 1983.
+Hopfield J.I., Proc. Nat!. Acad. Sci., v81, p3088-3092, 1984.
+Hopfield 1.1., Tank D.W., Bio. Cybrn., v52, p141-152, 1985.
+Hopfield 1.J., Tank D.W., Science, v233, n4764, p625-633, 1986.
+Horowitz P., Hill W., "The art of electronics", Cambridge U. Press, 1983.
+Hosek RS., Sances A., Jodat RW., Larson S.I., IEEE Trans., vBME-25, nS, p405-413, 1978.
+Hutchinson J.M., Koch C., Neural Networks for Computing, ed. Denker J.S. (AlP Confrnc.
+Proc. 151, ed. Lerner RG.), p235-240, 1986.
+Jeffery W., Rosner R, Astrophys. I., v310, p473-481, 1986.
+Lapedes A., Farber R., Neural Networks for Computing, ed. Denker 1.S. (AlP Confrnc. Proc.
+lSI, ed. Lerner RG.), p283-298, 1986.
+Leong H.M.F., ''Frequency dependence of electromagnetic fields: models appropriate for the
+brain", PhD. dissertation, California Institute of Technology, 1986.
+Platt I.C., Hopfield J.J., Neural Networks for Computing, ed. Denker I.S. (AlP Confrnc. Proc.
+151, ed. Lerner RG.), p364-369, 1986.
+Press W.H., Flannery B.P., Teukolsky S.A., Vetterling W.T., "Numerical Recipes", Cambridge U. Press, 1986.
+Takeda M., Goodman J.W., Applied Optics, v25. n18, p3033-3046, 1986.
+Tank D.W., Hopfield I.J., "Neural computation by concentrating infornation in time", preprint, 1987.
+
+
