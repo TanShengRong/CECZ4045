@@ -45,7 +45,7 @@ ___
 
 3.2 Development of a ⟨ Noun - Adjective ⟩ Pair Ranker (20 marks)
 
-> Placeholder
+> ![q3_2_1](./question_3_2/before_similarity.jpg)
 
 3.3 Application (10 marks)
 
