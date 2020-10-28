@@ -47,6 +47,8 @@ ___
 
 > ![q3_2_1](./question_3_2/before_similarity.jpg)
 
+> ![q3_2_2](./question_3_2/after_similarity.jpg)
+
 3.3 Application (10 marks)
 
 > ![q3_3](./question_3_3/q3_3.png)
