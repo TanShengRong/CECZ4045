@@ -97,6 +97,7 @@ for f in files:
         else:
             continue
 
+print(tokens)
 
 print("No. of unique tokens:")
 print(len(tokens))
