@@ -2,15 +2,36 @@ import nltk
 import glob
 
 #files = glob.glob("C:/Users/owner/Desktop/NLP Dataset/*.txt")
-files = glob.glob("*.txt")  # reads all text files in the current directory
+
 tokens = []
 stemmed_tokens = []
-
+files = None
 # function that accepts a list of tokens and returns
 # number of tokens with a certain character count
 
 
-def length_distributor(token_list):
+dataset_select = input(
+    "Please enter 1 for Game Guides, 2 for Deep Learning Papers, 3 for Food Reviews:")
+
+if dataset_select == "1":
+    # reads all text files in the current directory
+    files = glob.glob("dataset1/*.txt")
+    print(files)
+elif dataset_select == "2":
+    # reads all text files in the current directory
+    files = glob.glob("dataset2/*.txt")
+    print(files)
+elif dataset_select == "3":
+    # reads all text files in the current directory
+    files = glob.glob("dataset3/*.txt")
+    print(files)
+
+
+report_name = input("Please enter a filename for the generated report:")
+report = open(str(report_name) + ".txt", "w+", encoding="UTF-8")
+
+
+def length_distributor(token_list, report):
     # stores a list of integers corresponding to number of characters of tokens
     num_of_characters_list = []
     token_count_objects_list = []  # stores all instances of token_count objects
@@ -34,7 +55,22 @@ def length_distributor(token_list):
     print("summarizing results...")
     for obj in token_count_objects_list:
         print("Tokens with " + str(obj.character_num) + " characters:")
+        report.write("Tokens with " + str(obj.character_num) +
+                     " characters: "+str(obj.count)+"\n")
         print(obj.count)
+        report.write("List of tokens with "+str(obj.character_num)+"\n")
+        counter = 0
+        L = []
+        for item in obj.token_list:
+            if counter < 10:
+                L.append(item)
+                L.append(",")
+                counter += 1
+            else:
+                report.writelines(L)
+                report.write("\n")
+                L.clear()
+                counter = 0
 
 
 class token_count:
@@ -61,10 +97,15 @@ for f in files:
         else:
             continue
 
+print(tokens)
 
 print("No. of unique tokens:")
 print(len(tokens))
-length_distributor(tokens)
+report.write("BEFORE STEMMING"+"\n")
+report.write(""+"\n")
+length_distributor(tokens, report)
+report.write(""+"\n")
+
 
 ps = nltk.PorterStemmer()
 print("stemming...")
@@ -77,4 +118,8 @@ for token in tokens:
 
 print("No. of unique tokens after stemming is:")
 print(len(stemmed_tokens))
-length_distributor(stemmed_tokens)
+report.write("AFTER STEMMING"+"\n")
+report.write(""+"\n")
+length_distributor(stemmed_tokens, report)
+report.write(""+"\n")
+report.close()

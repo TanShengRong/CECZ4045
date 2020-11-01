@@ -24,11 +24,16 @@ General
 
 `cd amazon_reviews_scraping && scrapy crawl amazon -o ../downloads/reviews100.csv -t csv` 
 
-- look into q3_2.ipynb
+- extract a random sample of 30 reviews
+- 30_reviews.csv for the manual pairing
+- q3_2.ipynb for the pairing programmatically 
 
 3.3 Application (10 marks)
 
-> Placeholder
+- aws_sentiment.py for the console application
+- sentiment-api folder for the backend
+  - AWS Comprehend
+  - AWS Lambda, Serverless
 
 ___
 
@@ -40,11 +45,13 @@ ___
 
 3.2 Development of a ⟨ Noun - Adjective ⟩ Pair Ranker (20 marks)
 
-> Placeholder
+> ![q3_2_1](./question_3_2/before_similarity.jpg)
+
+> ![q3_2_2](./question_3_2/after_similarity.jpg)
 
 3.3 Application (10 marks)
 
-> Placeholder
+> ![q3_3](./question_3_3/q3_3.png)
 
 ___
 
