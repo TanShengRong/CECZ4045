@@ -1,7 +1,6 @@
 import nltk
 import glob
 
-#files = glob.glob("C:/Users/owner/Desktop/NLP Dataset/*.txt")
 
 tokens = []
 stemmed_tokens = []
