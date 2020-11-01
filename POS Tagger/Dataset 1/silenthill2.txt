@@ -1,0 +1,2463 @@
+
+
+   __   _    _     ___   _   _   _____     _   _   _   _     _         __    
+  / _| | |  | |   |  _| | \ | | |_   _|   | | | | | | | |   | |       / _\   
+ | / \ | |\_| |   | |_\_|  \| |/  | |\_  _| |_| |/| |/| |_  | |      |_// |  
+  \ \ \| |/ | |  /|  _|\|     |\__| | _\/ |  _  |\| |_| | \/| |\____//\/ /   
+  _\ \/| |  | |_/_| |_\_| |\  | _/| |/   \| | | |_| |\| |_ /| |_ _/_/ / /_   
+ |___/ |_|_/|___| |___| |_| \_|/  |_|     |_| |_| |_|_|___| |___|__/ |____|  
+ ____________________________________________________________________________ 
+|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+|                   Author: A I e x                                          |
+|                   Began: January 6th, 2005                                 |
+|                   Completed: January 9th, 2005                             |
+|____________________________________________________________________________|
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+O============================================================================O
+|                              Table of Contents                             |
+O============================================================================O
+
+** In order to navigate this guide I have implemented a Ctrl+f system, which 
+means you press ctrl+f in your browser or word processer to bring up the 
+search menu, then enter the letters in brackets on the right of the section 
+that you're looking for.
+
+1. Characters..........................................................(01000)
+     i - Characters....................................................(01001)
+2. Full Walkthrough....................................................(00000)
+     i - Silent Hill...................................................(00001)
+     ii - Wood Side Apartment..........................................(00002)
+     iii - Blue Creek Apartment........................................(00003)
+     iv - Silent Hill..................................................(00004)
+     v - Brookhaven Hospital...........................................(00005)
+     vi - Alternate Hospital...........................................(00006)
+     vii - Silent Hill.................................................(00007)
+     viii - Silent Hill Historical Society.............................(00008)
+     ix - Labyrinth....................................................(00009)
+     x - Lakeview Hotel................................................(0000A)
+     xi - Alternate Hotel..............................................(0000C)
+3. Additional Info.....................................................(10000)
+     i - Weapons.......................................................(10001)
+     ii - Items........................................................(10002)
+     iii - Enemies.....................................................(10003)
+     iv - Endings......................................................(10004)
+     v - Item List.....................................................(10005)
+4. Maps................................................................(00100)
+     i - Silent Hill...................................................(00101)
+     ii - Wood Side Apartment..........................................(00102)
+     iii - Blue Creek Apartment........................................(00103)
+     iv - Brookhaven Hospital..........................................(00104)
+     v - Toluca Prison.................................................(00105)
+     vi - Labyrinth....................................................(00106)
+     vii - Lakeview Hotel..............................................(00107)
+5. Version History.....................................................(0001A)
+6. Legal...............................................................(0001B)
+7. Credits.............................................................(0001C)
+
+
+O============================================================================O
+|                                 Characters                         (01000) |
+O============================================================================O
+
+/
+\ ilent Hill 2 /-------------------------------------------------------------o
+/ ------o------\                         Characters                          |
+     (01001)    \------------------------------------------------------------o
+
+o------------------o  James Sunderland is the main character of Silent Hill 2.
+| James Sunderland |  One day he received a letter from his wife telling him
+o------------------o  she was waiting in their special place, the small town
+                      of Silent Hill.  The only problem is that his wife has 
+been dead for three years, but dead people can't write letters.  Despite 
+misgivings James Sunderland decides to make the trip to Silent Hill, and 
+search for his wife who was taken away on that day three years ago.
+
+o-------------------------o  Mary Sheperd-Sunderland is James Sunderland's
+| Mary Sheperd-Sunderland |  wife.  Three years ago she was diagnosed with a
+o-------------------------o  terminal disease and passed away soon after.
+                             Recently a mysterious letter made its way to her 
+husband's hands written and signed in her name, but is a dead woman really 
+waiting back at the town they had called their special place so long ago?
+
+o---------------o  Angela is a mysterious girl who you first meet in a
+| Angela Orosco |  a graveyard on your way to the town of Silent Hill.
+o---------------o  She has a very mysterious past, it seems most evident
+                   that she had a very abusive childhood, her actions and 
+words lead her to be a very sheltered person.  She'll show up quite a few 
+times throughout your advanture, as the mysteries of her past unfold.
+
+o------------------o  Eddie is a big oaf who, like James, seems to have been
+| Eddie Dombrowski |  called to Silent Hill for reasons not quite clear.  He
+o------------------o  is very wild with his attitudes and seems to shift from
+                      one mood to another almost instantaneously.  He always 
+seems to find himself in the middle of trouble, and is intent on convincing 
+everyone that he is innocent, even those who are unaware of any crimes.
+
+o-------o  Laura is a sweet eight year old girl who just happens to be 
+| Laura |  wandering around in the town of Silent Hill.  Her motives (if any)
+o-------o  are unknown, but she seems to have a knack for showing up at some
+           of the most unexpected times.
+
+o-------o  Maria bears an uncanny resemblance to Mary, from her hair, face
+| Maria |  and body.  The only difference is her attitude and clothes.  She
+o-------o  too often finds herself in the middle of wild mood swings, but
+           her dedication to James seems to be true, so when she asks to tag
+along with him on his search, he is in no position to disagree.
+
+
+O============================================================================O
+|                               Full Walkthrough                     (00000) |
+O============================================================================O
+
+       Fun Fact: Press L1 + R1 in the options menu for extra options!
+
+/
+\ ilent Hill 2 /-------------------------------------------------------------o
+/ ------o------\                         Silent Hill                         |
+     (00001)    \------------------------------------------------------------o
+
+o------- Item Checklist -------o  When the game begins take a moment to get 
+|                              |  used to the controls.  You'll find yourself 
+| Map of Silent Hill....._____ |  in a rather disgusting bathroom.  Leave the 
+| Chainsaw..............._____ |  room and watch the scene outside.  There's a 
+| First-Aid Kit.........._____ |  car here parked in the middle with the 
+| Health Drink..........._____ |  driver's side door open.  Go and check out 
+| Health Drink..........._____ |  the seat to find a 'Map of Silent Hill.'  
+| Wooden Plank..........._____ |  There is a set of stairs at the upper left 
+| Radio.................._____ |  of this parking lot, go down them and you'll 
+| Apartment Gate Key....._____ |  be on a dirt path.  Follow this path for 
+| Health Drink..........._____ |  quite a ways.  After awhile you'll come to a 
+| First-Aid Kit.........._____ |  small well on your right, you can't miss it.  
+| First-Aid Kit.........._____ |  If you go up to this well and examine it 
+| Health Drink..........._____ |  you'll find an odd red object inside, this 
+| Hyper Spray............_____ |  is a save point and many of them can be 
+|                              |  found throughout the game.  Continue North 
+o------------------------------o  along the path and you'll reach a gate, 
+                                  inside is a graveyard, when you approach the 
+gravestones a scene will occur.  Once the scene is over keep running North, 
+you'll reach a stone wall at the top, around the centre of it is another gate.  
+Stay on the path and keep running, as you go along the way you may hear a loud 
+noise.  You will only hear this noise if you have completed the game once 
+before.  As you pass the pick up trucks you there will be a 'Chainsaw' in the 
+pileof logs, your reward for completing the game.  Once again stay on the path 
+and at the end, go through the gate in the enclosed area.  Now you will find 
+yourself on a long concrete path, it will finally lead you to an open area 
+which is the town of Silent Hill.
+
+Go straight ahead and cross the street, then follow the sidewalk to the left.  
+Just past the flower shop where the wooden fence starts there's a 'First-Aid 
+Kit' on the little table.  Head East down the main road and you'll come to a 
+streak of blood on the ground.  Follow the direction it leads you, all others 
+are blocked off.  Eventually it will steer you in the direction of a small 
+sideroad.  As you run down this road you'll come to a fenced off area on your 
+right.  Enter the gate in the middle.  There's a save point here on the table, 
+one 'Health Drink' beside the table leg and another 'Health Drink' in the 
+lower left corner.  Leave this are and continue down the path.  You'll come to 
+a section of dirt path, it leads to a dead end but if you examine the boards 
+of wood barricading the tunnel you will climb into it.  Watch the scene.
+
+You will now be in a fight for your life!  Luckily you've got a weapon in your 
+hand, to attack hold the R2 button and press X to swing.  The buttons are 
+pressure sensitive so the harder the press the more powerful your attack, this 
+holds true for most weapons, but keep in mind this attack may also be slower.  
+Approach the monsters and strike it down with your nail board.  This is going 
+to be your new weapon for awhile, the 'Wooden Plank.'  Once the enemy is dead 
+go back out the way you came and there's a scene involving your new 'Radio.'  
+Now run all the way back the way you came until you reach the main street 
+again.  Keep a watchful eye here because the town itself is now home to a 
+number of new enemies, your Wooden Plank is perfectly suited to the task of 
+protecting you.  Follow Lindsey Street. South until you reach the corner, then 
+turn onto Katz St. West.  This is based on your map of course, press triangle 
+to open it.  The first chance you get, make a right onto Martin St. and follow 
+it all the way to the end.  At the upper left side you'll find a rather bloody 
+corpse, examine it to get the 'Apartment Gate Key.'  On your way back down, 
+just before you reach the green car on your right you can find a 'Health 
+Drink' sitting at the corner beside the fence.
+
+If you don't want to pick up any helpful items, skip ahead to the next 
+paragraph.  Now head West on Katz Street.  When you reach the corner run 
+Northwest to the Lucky Jade Restaurant on the corner, out front of the door 
+you can find a First-Aid Kit on the ground.  Now head South, when you reach 
+the next corner run up to the Northeast building labelled as Neely's Bar on 
+your map.  You can enter this building from the side door on Neely Street.  
+First examine the map on the desk and yours will get automatically marked 
+based on the available locations.  Return to the corner and go to the lower 
+East side of the Happy Burger to find a First-Aid Kit.  Go North a bit and 
+walk up the front steps of the building just to the right of Neely's Bar to 
+find a Health Drink.  Now if you've beaten the game before, make your way 
+South, then East to the corner of Saul and Harris where you'll find a motor 
+home.  Inside is a can of Hyper Spray which is a bonus item for completing the 
+game.  There's also a save point there.  Now you're prepared.
+
+Make your way to the Wood Side Apartment labelled on your map, reach it by 
+going North on Neely Street and making a West turn onto Katz Street.  As you 
+run by the apartment fence on the North end of the street, the camera will 
+focus on a particular gate as you go by.  Examine this fence to use your 
+Apartment Gate Key and enter through the main blue doors.
+
+/
+\ ilent Hill 2 /-------------------------------------------------------------o
+/ ------o------\                      Wood Side Apartment                    |
+     (00002)    \------------------------------------------------------------o
+
+o------- Item Checklist -------o  When you first enter the apartment check the 
+|                              |  corkboard on your left for a 'Map of 
+| Map of Apartment Bldg.._____ |  Apartment Bldg.'  Now if you look and the 
+| Health Drink..........._____ |  little raised area coming out from under the 
+| Flashlight............._____ |  stairs you can find a 'Health Drink,' and 
+| Handgun Bullets........_____ |  you'll see a save point on the right wall.  
+| Handgun Bullets........_____ |  Ascend the stairs and enter the door on the 
+| Handgun................_____ |  second floor.  Run East all the way to the 
+| Key to Room 202........_____ |  end of the hall and go into the last room 
+| Clock Key.............._____ |  on your right, there's a bright light here.  
+| Health Drink..........._____ |  Examine the dress to receive the 
+| Courtyard Key.........._____ |  'Flashlight' but watch out, the moment you 
+| Fire Escape Key........_____ |  pick it up a mannequin enemy will attack, 
+| First-Aid Kit.........._____ |  don't bother with it and just run out of the 
+| Handgun Bullets........_____ |  room.  With this Flashlight you can now look 
+| Health Drink..........._____ |  at your map in dark areas, as well as 
+| Canned Juice..........._____ |  navigate better in them.  Leave the room and 
+| Coin [Old Man]........._____ |  make a right, follow the hall around the 
+| Coin [Snake]..........._____ |  corner and into Room 210, the first room on 
+| Handgun Bullets........_____ |  your left.  Pick up the 'Handgun Bullets' 
+| Handgun Bullets........_____ |  off the table, and there's another pack of 
+|                              |  'Handgun Bullets' in the bedroom.  Now run 
+o------------------------------o  back to the door leading to the staircase.
+
+Climb to the third floor and go into the hall.  Approach the bars on your 
+right and examine, you'll see a key.  Choose "Yes" and try to pick it up for a 
+scene.  Run West and enter the very last room in the hall on your left, Room 
+301.  Examine (the handle) of the shopping cart to receive a 'Handgun.'  Now 
+that you have this weapon you can progress further on the second floor.  Go 
+back down there now.  Run East and you'll hear a cry when you reach the fork.  
+Head North all the way to the end and enter the last door on your right, Room 
+208, but before you do check out the bars blocking your way to the North end 
+of the hall.  Inside the room examine the man in front of the television, then 
+check the shelf beside him for 'Key to Room 202.'  With this key in hand leave 
+the room and head South to Room 202.  Walk into the bedroom and examine the 
+hole beside the bed, reach in and find the 'Clock Key.'  Return to room 208 
+and go into the small room on the North end of this apartment.  You'll find a 
+clock here, using the Clock Key you can open the face and spin the hands.  In 
+order to proceed you must set the clock to the right time.
+
+The clue to the puzzle is on the wall behind you, examine it to see three 
+clock hands with the words "Henry," "Mildred," and "Scott" which not too 
+surprisingly correspond to hours, minutes and seconds.  You need to set the 
+clock in order to this pattern, so turn around and stand beside the clock.  
+Enter your inventory and select the Clock Key to use, now you can turn the 
+hands yourself.  Set the time to 9:10, you'll know you did it right if you 
+hear a clicking sound.  Cancel out and check the right side of the clock to 
+push it out of the way, now enter the hole.
+
+In the kitchen you'll find a 'Health Drink' on the counter and a save point on 
+the end table in the living room.  Leave the room and head North, climb the 
+stairs to the third floor.  Make your way South past the first two doors, then 
+enter Room 307 and watch the scene.  Afterwards step back into the closet and 
+pick up the 'Courtyard Key.'  Exit the room and run down the hall, turn West 
+at the end and pick up the key that was kicked out of your reach, the 'Fire 
+Escape Key.'  Head into the room nearest to your, Room 303 and pick up the 
+'First-Aid Kit' off the table, and then the 'Handgun Bullets' from the bedroom 
+and finally the 'Health Drink' from the kitchen.  Return to the hallway and 
+head West, enter the stairwell at the end of the hall and descend down to the 
+first floor.  Run to the North end of the first floor hall and pick up the 
+'Canned Juice' from the ground.  Now instead of going all the way back up, 
+walk South and just exit through the front door.  Run West and you'll find the 
+main door where you first came in, go in there.
+
+Climb the stairs back up to the second floor.  When you're in the hall go into 
+the laundry room just beside the stairwell door and examine the trash chute to 
+find it plugged with garbage.  Now is the chance to get it unstuck, access and 
+use the Canned Juice in front of the trash chute to knock it all down.  Go 
+down the stairs and back outside, on the right of the main door is a little 
+alley leading to the trash pickup area, examine it to find 'Coin [Old Man]' 
+and read the magazine article as well.  Back into the main door again, and run 
+North to the end of the first floor, use your Courtyard Key to gain access to 
+the courtyard.  At the Northwest end you'll find a large drained pool with a 
+baby carriage inside, examine it to receive 'Coin [Snake]' but watch out for 
+the three patient monsters currently occupying the pool.  Once you have the 
+coin take the East exit of the courtyard to reach another section of the 
+apartment.  Head South and enter Room 101, watch the scene in the bathroom.
+
+After watching the scene pick up the 'Handgun Bullets' on the living room 
+floor before you leave.  Go North down the hall and into Room 104.  Pick up 
+the 'Handgun Bullets' off the chair.  Now make your way all the way back 
+through the courtyard to the main apartment entrance and stairwell.  Climb the 
+stairs to the second floor, then examine the door at the West end of the hall.  
+Use your Fire Escape Key then proceed through the door to the next area.
+
+
+/
+\ ilent Hill 2 /-------------------------------------------------------------o
+/ ------o------\                      Blue Creek Apartment                   |
+     (00003)    \------------------------------------------------------------o
+
+o------- Item Checklist -------o  Start off by wandering into the bathroom and 
+|                              |  examining the disgusting toiler, you'll find 
+| Handgun Bullets........_____ |  a memo with some numbers on it.  The numbers 
+| Handgun Bullets........_____ |  represent a combination for a dial, and the 
+| Handgun Bullets........_____ |  arrows show which way to turn it.  Now in 
+| Handgun Bullets........_____ |  the living room you'll find the safe you 
+| Health Drink..........._____ |  need to open, go to your menu and select 
+| Map of West Apt Bldg..._____ |  the Memo option, you can see the numbers 
+| First-Aid Kit.........._____ |  again by selecting "Wallet in the toilet 
+| Handgun Bullets........_____ |  bowl."  Examine the safe and turn the dial 
+| Angela's Knife........._____ |  in the directions specified to each number, 
+| Coin [Prisoner]........_____ |  when you finish you'll hear a clicking 
+| White Chrism..........._____ |  sound.  Note that if you're playing on a 
+| Lyne House Key........._____ |  harder difficulty, they will incorporate 
+| Handgun Bullets........_____ |  roman numerals as well.  Like say X7 
+| Apartment Stairway Key._____ |  would be 17, you replace the values and not 
+|                              |  add them together, you only add the roman 
+o------------------------------o  numerals.  Another example would be VV6 
+                                  which would be 16, add the numerals and 
+replace the digit.  Inside the safe you find 'Handgun Bullets,' 'Handgun 
+Bullets,' 'Handgun Bullets,' and finally 'Handgun Bullets.'  Go into the 
+kitchen and get the 'Health Drink' then leave the room.  The first thing to do 
+is to go down the hall until you see a red exit sign hanging from the room, go 
+into the door beside it to reach the stairwell and examine the paper on the 
+floor, it's the 'Map of West Apt Bldg.' Now descend the stairs.
+
+Watch out for stupid little cockroaches in this area, stomp them with the X 
+button of blast them with your handgun.  Go into the laundry room beside the 
+stairwell door and you'll find a 'First-Aid Kit' on the laundry machine.  Head 
+up to the first room North of the stairwell door on your left, Room 109.  
+Check the couch to find some 'Handgun Bullets.'  Open the South door in this 
+room and watch the scene.  When it's over, you automatically get 'Angela's 
+Knife,' pick up the 'Coin [Prisoner]' off the table and look at the photo on 
+the ground in the middle of the room.  Return to the hallway and enter Room 
+105, across from the stairwell.  Check the kitchen for 'White Chrism' this is 
+one of the four special items, if you collect all four of them you will get a 
+special ending, you don't have to pick it up if you don't want that ending.  
+Note that these items will not appear on your first time through the game.  
+Down at the end of the hallway in this room you'll find a save point.  Now 
+back in the living room examine the desk there, you need to put your coins 
+into the correct slots based on the little story you get.  Try and see if you 
+can figure it out, or read ahead if you want the answers.
+
+___________Easy_____________________Normal_____________________Hard___________
+  _    _    _    _    _  |  _    _    _    _    _  |  _    _    _    _    _   
+ /O\  / \  /S\  / \  /P\ | / \  /O\  /P\  / \  /S\ | / \  /O\  / \  /S\  /P\ 
+ \_/  \_/  \_/  \_/  \_/ | \_/  \_/  \_/  \_/  \_/ | \_/  \_/  \_/  \_/  \_/ 
+_________________________|_________________________|__________________________
+
+
+Shouldn't be too hard to figure out what that means, but if you still can't, 
+the three boxes represent the three different difficulties and the answer for 
+each one.  If you're playing on normal use the middle box, O, P, and S 
+represent Old Man, Prisoner and Snake respectively and the letters show which 
+position to put each coin for.  Very simple.  In order to insert a coin you 
+must first select it from your inventory.
+
+Once you've inserted the coins into the correct slots you'll hear a click, 
+examine the desk again to find the 'Lyne House Key.'  Go back up to the second 
+floor and use the Lyne House Key on Room 209.  You can see that the balcony is 
+open so go out there and it will lead you around to Room 208.  Pick up the 
+'Handgun Bullets' off the chair and the 'Apartment Stairway Key' off the bed.  
+I highly recommend using the save point on the North wall here.  Leave the 
+room and go North down the hall, enter the stairwell at the end with your key 
+and watch the scene when you go through the door.
+
+o- Boss (Pyramid Head) ------------------------------------------------------o
+|                                                                            |
+| The transition between the scene and the boss fight isn't as obvious as    |
+| you may think, as soon as it changes perspective to James then you have    |
+| control and must be ready to fight.  This fight will pretty much be based  |
+| around your ability to dodge moreso than your ability to fight.In fact you |
+| don't have to fight this boss at all, eventually it will run away.  His    |
+| attacks are extremely dangerous so they'll certainly be something to watch |
+| for, if you didn't notice he carries a giant knife the size of a Buster    |
+| Sword, so you can bet even the slightest contact with that blade will lead |
+| to some serious damage, and you're right.  The horizontal attack will      |
+| hurt you considerably, and the overhead swing is instant death on any      |
+| difficulty other than easy.  Fortunately for you despite these powerful    |
+| attacks, they are rather easy to dodge, so stick to the corners.  He'll    |
+| indicate he is going to overhead swing by lifting his knife, this is your  |
+| cue to quickly dodge to the side and run to the other corner, take         |
+| advantage of the strafing power of the L1 and R1 buttons to aid you in     |
+| your escape.  Once enough time has elapsed determined by difficulty level, |
+| a siren will go off, this means Pyramid Head is running away.  This is     |
+| very important, running away does not mean harmless!  Stay the hell away   |
+| from him as he moves toward the stairs, he is perfectly happy to attack    |
+| you on his way there, and dying after winning is pathetic, so steer clear! |
+|                                                                            |
+o----------------------------------------------------------------------------o
+
+After the battle, the water impeding your progress will be drained, and you 
+are able to access the stairs going down.  Exit through the first floor door.
+
+
+/
+\ ilent Hill 2 /-------------------------------------------------------------o
+/ ------o------\                         Silent Hill                         |
+     (00004)    \------------------------------------------------------------o
+
+o------- Item Checklist -------o  Climb down the stairs and run toward the 
+|                              |  fence, you'll find a 'Firest-Aid Kit' on 
+| First-Aid Kit.........._____ |  your right, beside the pylons.  Now head 
+| Handgun Bullets........_____ |  North, part way along the path a scene will 
+| Handgun Bullets........_____ |  occur.  Just past the stone wall is a large 
+| Handgun Bullets........_____ |  arch, and just past that on your left is a 
+| Handgun Bullets........_____ |  staircase.  At the top you can find two sets 
+| Health Drink..........._____ |  of 'Handgun Bullets.'  Keep going and you'll 
+| Handgun Bullets........_____ |  soon find yourself in Rosewater Park.  A 
+| Health Drink..........._____ |  couple steps beyond the sign is a set of 
+| Steel Pipe............._____ |  stairs leading West, follow it to the West 
+| Lost Memories.........._____ |  corner and pick up another two sets of 
+| Health Drink..........._____ |  'Handgun Bullets.'  Go down the stairs to 
+| Health Drink..........._____ |  the South and then make a West turn at the 
+| Handgun Bullets........_____ |  fork, pick up the 'Health Drink' off the 
+| Handgun Bullets........_____ |  bench here.  Continue South and then head 
+| Health Drink..........._____ |  East at the end, up the stairs ahead of you 
+| First-Aid Kit.........._____ |  there's a gazebo and 'Handgun Bullets' on 
+|                              |  the bench.  Proceed South from this area, 
+o------------------------------o  when you reach the railing at the bottom 
+                                  pick up the 'Health Drink' from beside the 
+view scope, and then go West, a cutscene will trigger as you run by.  After 
+the scene you will have Maria following you, she can be hurt just as you can, 
+and her death leads to a game over.  This isn't as bad as it sounds, you can 
+run as far ahead of her as you like and she'll probably be just fine, she's 
+not stupid enough to stand around and wait for monsters to kill her.
+
+Run West along with Maria and taken the South path to reach Nathan Avenue once 
+again.  Keep going West on this road, your destination is the Texxon Gas 
+Station.  When you arrive you'll find a running car sitting at the gas pumps, 
+examine its hood to receive the 'Steel Pipe.'  This is also the location of 
+the second special ending item, in the newspaper dispenser you'll find the 
+book 'Lost Memories.'  Run South from the gas pumps and in front of the truck 
+there's a stash of items including two 'Health Drink' and 'Handgun Bullets.'  
+Now your true destination is the hotel, but if you follow Nathan Avenue in 
+that direction you'll reach a body which has a map directing you to the Bowl-
+O-Rama.  You can find 'Handgun Bullets' bear the corpse but it's a very long 
+walk, and you can just circumvent it entirely by going straight to the Pete's 
+Bow-O-Rama.  Examine the door, watch the scene, and head inside.
+
+Walk through the door on your left for another scene, navigate the room and 
+enter the bowling alley, then approach Eddie and speak to him.  Now run all 
+the way down to the end of the bowling alley and examine the pins area of the 
+middle row to find 'Handgun Bullets.'  Now exit the bowling alley through the 
+doubles doors at the bottom right and watch the scene when you try and go.  
+Before following her, find the bushes in the triangular bed in front of the 
+bowling alley, when facing the alley look on the right of it to find a 'Health 
+Drink.'  Run down the alley between the Bowl-O-Rama and then fence, open the 
+gate at the end.  Proceed South (according to the map) and watch the scene at 
+the end.  Examine the door and an event occurs.
+
+Climb the stairs and examine the crates of bottles blocking another set of 
+stairs at the top.  Go through the door into the main bar area, you can find a 
+'First-Aid Kit' sitting on one of the chairs here.  Leave the bar through the 
+door on the other side and you'll be back on the street.  Head South until you 
+are interrupted by an event, then make your way into the Brookhaven Hospital.
+
+
+/
+\ ilent Hill 2 /-------------------------------------------------------------o
+/ ------o------\                     Brookhaven Hospital                     |
+     (00005)    \------------------------------------------------------------o
+
+o------- Item Checklist -------o  The first thing to do is examine the board 
+|                              |  on the right to find a 'Map of Hospital.'  
+| Map of Hospital........_____ |  Head forward and into the door right in 
+| Health Drink..........._____ |  front of you.  This is the Reception Office, 
+| Purple Bull Key........_____ |  there's a save point here.  Pick up the 
+| Shotgun................_____ |  'Health Drink' off the table beside the East 
+| Bent Needle............_____ |  door, then go through it.  Examine the 
+| Examination Room Key..._____ |  document beside the typewriter to receive 
+| Shotgun Shells........._____ |  the 'Purple Bull Key.'  That's about as much 
+| Handgun Bullets........_____ |  as you need to do on the first floor for now 
+| First-Aid Kit.........._____ |  so climb the stairs and open the door to 2F.  
+| Shotgun Shells........._____ |  There are quite a few enemies in this area, 
+| Lapis Eye Key.........._____ |  normally I'd say just to run past them, but 
+| Health Drink..........._____ |  the corridors are tight and Maria is 
+| Handgun Bullets........_____ |  susceptible, so whip out your Handgun and 
+| Health Drink..........._____ |  blast them.  Run North and enter the door at 
+| First-Aid Kit.........._____ |  the end on your left labelled as the Women's 
+| Roof Key..............._____ |  Locker Room.  Pick up the 'Shotgun' out of 
+| Health Drink..........._____ |  the locker, then check out the teddy bear on 
+| Piece of Hair.........._____ |  the table to find a 'Bent Needle.'  Cross 
+| Elevator Key..........._____ |  the hall into the Men's Locker Room and 
+| Handgun Bullets........_____ |  examine the bloody jacket twice to find the 
+| Shotgun Shells........._____ |  'Examination Room Key.'  Now go back to the 
+|                              |  first floor.  Head into the Examination Room 
+o------------------------------o  using your key and take the only other door 
+                                  in there.  You'll find yourself in the 
+Doctor's Lounge, there are some 'Shotgun Shells' in the sink to pick up.  Now 
+check out the board on the left of the East door it will tell you a code.
+
+Return to the second floor once again and head through the big doors to the 
+Southwest.  Pick up the 'Handgun Bullets' off the stools here.  Begin down the 
+hall and go into the first big set of double doors on your right.  Pick up the 
+'First-Aid Kit' and then examine the typewriter, there's another code on this 
+piece of paper.  Leave this room and go into M2, you'll find 'Shotgun Shells' 
+and 'Lapis Eye Key' here.  Now go next door into room M3 and watch out for the 
+monster which will ambush you.  Pick up the 'Health Drink' and 'Handgun 
+Bullets' off the floor beside the pile of mattresses.  M6 is the only other 
+room with something in it, but you'll be ambushed again.  Pick up the 'Shotgun 
+Shells' and 'Health Drink' then leave.  Backtrack to the stairs and this time 
+take them all the way to the third floor.
+
+Kill the nurses in this area, then pick up the 'First-Aid Kit' at the 
+Northeast corner of the hall.  Try to go through the big double doors at the 
+Southwest end only to find a code is needed, this is the same code you found 
+in the Doctor's Lounge on the first floor, if you don't remember the code on 
+easy and normal is 7335, and 1328 on hard.  There are tons of patient rooms 
+here, first of all start by going into room S3 for a scene.  Afterwards 
+examine the desk to find the 'Roof Key.'  Make your way to S11 and you'll find 
+a 'Health Drink' along with a save point.  Once again backtrack to the stairs 
+and climb up to the roof.  Use your key to go out onto the roof.  At the upper 
+left corner you'll find a notebook, if you read it, it will have a small 
+effect on what ending you may get, keep that in mind.  You don't have to read 
+it, just approach it and then run down to the fence in between the stairwell 
+and the Control Room, you'll hear a sound and then an unavoidable scene 
+involding the most evil of all creatures, Pyramid Head.
+
+When you have control again you'll be in a room with four doors on the North 
+wall.  Note that you actually take damage from that fall so make sure you 
+aren't in too much danger.  Go into the third door on the left and examine the 
+bloody mess, make note of the numbers you see here.  Sometimes they can be 
+hard to make out, and numbers like fives can actually sort of look like 
+different numbers, there's no way to know for sure since it's random, but do 
+your best.  Leave this room and go back into the large Southwest double doors, 
+this time enter room S14.  Approach the box and go into your inventory, use 
+the Lapis Eye key to remove the first of the four locks, then the Purple Bull 
+Key to remove the second.  In your menu select the Memo option at the bottom, 
+and choose the "Imprint on carbon paper."  Use this number seen here and punch 
+it into the button lock on the right side of the box.  Finally go back to Memo 
+and check "Tern tern tern the numbers" and make note of this code.  Input it 
+into the cylindrical lock (the numbers facing forward from top to bottom) and 
+the chest should now open up.  You get 'Piece of Hair.'
+
+Leave this room and enter the room beside the stairs laballed as the shower 
+room.  Standin front of the drain and access your inventory.  Select the Piece 
+of Hair and choose "Combine" rather than "Use."  Now press circle and select 
+the Bent Needle and use it.  Combined you are able to make a hook and get the 
+'Elevator Key.'  Head back to room S11 and save your game.  Examine the 
+elevator just across the hall and you can now get into it.  Select the first 
+floor and ride.  The first room you should go into is C3.  Inside you'll find 
+'Handgun Bullets' on the floor, and 'Shotgun Shells' on the end table.  Enter 
+room C2 and approach the back for a scene.
+
+o- Boss (Hanging Demons) ----------------------------------------------------o
+|                                                                            |
+| Your weapon of choice for this battle is most definitely the Shotgun.      |
+| With this equipped it is actually possible to hit more than one of the     |
+| hangers at a time if aimed correctly.  The basic strategy for this fight   |
+| is simple, stand in a corner, let off about two shots, then hold square    |
+| and L1/R1 to strafe to another corner of the room, then repeat the         |
+| process.  The only way they can hurt you is either by a strangle attack,   |
+| which will only hit you if you're stationary (usually reloading) or a      |
+| kick attack which they very rarely do.  In fact, if you're able to just    |
+| keep a watchful eye on your health there's almost no way these things      |
+| can kill you.  If you do happen to get strangled you will temporarily      |
+| lose control on your character, mash some buttons (not the menu buttons)   |
+| to get out of their grip quicker.  About ten Shotgun blasts from a decent  |
+| range should kill then on the normal difficulty, also you start the battle |
+| against two hangers, but when one is killed another drops down and joins   |
+| the battle, try to distribute the damage equally so you can kill the first |
+| two close together, and deal with the last one easily by itself.           |
+|                                                                            |
+o----------------------------------------------------------------------------o
+
+
+/
+\ ilent Hill 2 /-------------------------------------------------------------o
+/ ------o------\                      Alternate Hospital                     |
+     (00006)    \------------------------------------------------------------o
+
+o------- Item Checklist -------o  You'll find yourself in the garden when you 
+|                              |  wake up.  Go through the door and walk 
+| Shotgun Shells........._____ |  South, pick up the 'Shotgun Shells' and save 
+| First-Aid Kit.........._____ |  your game.  Enter the West hall and go into 
+| Handgun Bullets........_____ |  room C2, pick up the 'First-Aid Kit.'  Now 
+| Health Drink..........._____ |  leave and take a few steps right, inside 
+| Handgun Bullets........_____ |  room C1 you'll find 'Handgun Bullets' and 
+| Health Drink..........._____ |  'Health Drink.'  Now leave the room and get 
+| Dry Cell Battery......._____ |  into the elevator.  Examine the control 
+| Basement Storeroom Key._____ |  panel and select the second floor.  Walk 
+| Ampoule................_____ |  into room M4, watch out there are two nurses 
+| Handgun Bullets........_____ |  in this small room, a Shotgun may be needed.  
+| Handgun Bullets........_____ |  After pick up the 'Handgun Bullets' and 
+| First-Aid Kit.........._____ |  'Health Drink.'  Leave and run down to the 
+| Shotgun Shells........._____ |  West end of the hall and into room M6.  
+| Shotgun Shells........._____ |  Examine the hands on the wall to find a 'Dry 
+| Copper Ring............_____ |  Cell Battery' and 'Basement Storeroom Key.'  
+| Lead Ring.............._____ |  Now get in the elevator and take it to the 
+| Shotgun Shells........._____ |  third floor.  Enter room S11 for 'Ampoule' 
+| Shotgun Shells........._____ |  and 'Handgun Bullets' as well as a note on 
+| Shotgun Shells........._____ |  the bed.  You can check S3, Maria's room, if 
+| Shotgun Shells........._____ |  you want but there's nothing in there.  Make 
+| Shotgun Shells........._____ |  your way down to the East end of the hall 
+| Ampoule................_____ |  and go through the door leading to the main 
+| Ampoule................_____ |  hall.  Inside the room marked as the Store 
+| Hospital Lobby Key....._____ |  Room, you will find 'Handgun Bullets,' 
+|                              |  'First-Aid Kit,' and 'Shotgun Shells.'  
+o------------------------------o  Enter the main stairwell and save your game.  
+                                  Descend the stairs all the way down to the 
+                                  basement and use the Basement Storeroom Key.
+
+Pick up the 'Shotgun Shells' from the pile of stuff in front of you.  Examine 
+the bloody handprints on the bookshelf, then attempt to go in the hole to 
+trigger a scene.  Go down the ladder and pick up the 'Copper Ring' from the 
+floor.  Ascend the stairs back up to the third floor now.  Proceed through the 
+big Southwest double doors to the patient wing, enter the elevator and ride it 
+to the second floor.  On your way down a scene will occur, an entertaining 
+little radio show.  This will come into play soon, for now get off on the 
+second floor and head East into the Day Room.  Examine the fridge and choose 
+to open it.  You'll receive the 'Lead Ring' here.  Leave the room and take the 
+elevator back up to the third floor.  Right when you step out of the elevator 
+examine the door to the stairwell on your left.  Use the Lead Ring and Copper 
+Ring to unlock the door here.  Before going in there's still the matter of the 
+little Trick-or-Treat game.  Head West to the main hall and into the Store 
+Room again.  There's now a treasure chest-like object in the room.  Examine it 
+and you'll be given a panel, this panel corresponds to the answers from the 
+radio game.  The Answers are as follows:
+
+   1 2 3  The X's represent the buttons to hit to get the delicious contents,
+Q1 O O X  if you somehow manage to fail you'll be sprayed with a gas that
+Q2 X O O  leaves you on death's door in terms of health, that's the "trick"
+Q3 O O X  part of the game.  The "treat" part is the reward for getting the
+          questions right, the chest contains five 'Shotgun Shells' and in 
+addition to that, two 'Ampoule' as well.  Exit the room and go in the closest 
+stairwell to save your game.  Backtrack to the other stairwell with the lady's 
+picture on the door, you can now access it.  Go all the way down the stairs 
+and into the basement door.  You'll find yourself in a long hallway, start 
+running and don't stop!  As you proceed through this hall you'll notice 
+there's someone on your tail.  It poses virtually no danger to you, however 
+Maria has a very high risk of being killed here.  Resist the urge to turn 
+around and fight, just run as fast as possible no matter how far behind she 
+gets until you reach the elevator which means you did it.  The next scene will 
+not change regardless of your actions.  After the scene leave the elevator and 
+go into the Director's Room at the Northeast corner.  Examine the object on 
+the table to receive 'Hospital Lobby Key.'  Proceed to the entrance, save your 
+game using the save point on the wall, and leave the Brookhaven Hospital.
+
+
+/
+\ ilent Hill 2 /-------------------------------------------------------------o
+/ ------o------\                         Silent Hill                         |
+     (00007)    \------------------------------------------------------------o
+
+o------- Item Checklist -------o  When you first leave the hospital make a 
+|                              |  right and run South down the street.  At the 
+| First-Aid Kit.........._____ |  corner make a right turn West onto Rendell 
+| Health Drink..........._____ |  Street.  As you go forward you'll reach a 
+| Handgun Bullets........_____ |  couple of items on the ground behind a car, 
+| Ampoule................_____ |  they include 'First-Aid Kit' and 'Health 
+| Shotgun Shells........._____ |  Drink.'  Further West at the left side of 
+| Shotgun Shells........._____ |  the blockade are 'Handgun Bullets' and 
+| Rifle Shells..........._____ |  'Ampoule.'  Now make your way East on 
+| Handgun Bullets........_____ |  Rendell Street, past the corner.  Stay on 
+| Handgun Bullets........_____ |  the North sidewalk as you run East, 
+| Handgun Bullets........_____ |  eventually the fence will open up into a 
+| Health Drink..........._____ |  small parking area, here you can find  two 
+| Health Drink..........._____ |  sets of 'Shotgun Shells' and 'Rifle 
+| First-Aid Kit.........._____ |  Shells.'  Further East from here still in 
+| Shotgun Shells........._____ |  the same area are more 'Rifle Shells' and 
+| Shotgun Shells........._____ |  'Handgun Bullets.'  Now follow the road East 
+| Handgun Bullets........_____ |  and turn South onto Munson.  At the South 
+| Handgun Bullets........_____ |  end of the street are two sets of 'Handgun 
+| First-Aid Kit.........._____ |  Bullets' as well as a dead end.  Go back 
+| Rifle Shells..........._____ |  North a bit and make a right (East) onto 
+| Rifle Shells..........._____ |  Saul Street.  Just as you start down this 
+| First-Aid Kit.........._____ |  street check the Southern sidewalk by the 
+| Handgun Bullets........_____ |  door for two 'Health Drink.'  Continue East 
+| Shotgun Shells........._____ |  through the tunnel, and into the chain link 
+| Shotgun Shells........._____ |  gate.  There are some new enemies in here 
+| Health Drink..........._____ |  than hang from the grating on the ground and 
+| Shotgun Shells........._____ |  move hand over hand along, they're perfectly 
+| Shotgun Shells........._____ |  happy minding their own business and won't 
+| Handgun Bullets........_____ |  pose a threat to you unless you happen to 
+| Wrench................._____ |  stop for some reason.  In the next area 
+| Health Drink..........._____ |  you'll find a motorhome on your right with a 
+| Health Drink..........._____ |  'First-Aid Kit' right beside it.  Enter and 
+| Handgun Bullets........_____ |  save your game here, leave the motorhome.
+| Handgun Bullets........_____ |  
+| Rifle Shells..........._____ |  There are a number of things to pick up 
+| Health Drink..........._____ |  here, nothing required but it will really 
+| Handgun Bullets........_____ |  help out, skip to the next paragraph for 
+| Health Drink..........._____ |  your actual real destination.  Head East 
+| First-Aid Kit.........._____ |  from the motorhome, almost immediately on 
+| First-Aid Kit.........._____ |  your right you'll find two sets of 'Shotgun 
+| Ampoule................_____ |  Shells.'  Follow the road East, stay on the 
+| Health Drink..........._____ |  South sidewalk to find two sets of 'Handgun 
+| Shotgun Shells........._____ |  Bullets' beside some newspaper dispensers.  
+| Shotgun Shells........._____ |  Turn North onto Neely Street, when you start 
+| Ampoule................_____ |  up Neely Street look on the West sidewalk 
+| Old Bronze Key........._____ |  for a 'First-Aid Kit' near the corner.  When 
+| First-Aid Kit.........._____ |  you reach the Happy Burger you should find 
+|                              |  some 'Rifle Shells' just at the corner, and 
+o------------------------------o  more 'Rifle Shells' on the other side of the 
+                                  building.  Cross Neely Street to the West 
+and there's a 'First-Aid Kit' in front of one of the stores there.  Go 
+Northeast to Neely's Bar and pick up the 'Handgun Bullets' out front.  Run 
+East on Sanders Street, on the South sidewalk, as you approach the corner 
+you'll come to a small set of stairs leading to two 'Shotgun Shells.'  
+Continue to the corner and turn right (South) onto Lindsey, after a couple 
+steps there's a set of stairs on your right with 'Health Drink' at the top.  
+Keep going East down Sanders on the South sidewalk and you'll approach the 
+Flower Shop you saw right when you first entered town.  In the parking lot in 
+front of a car are two sets of 'Shotgun Shells' and 'Handgun Bullets.'
+
+Now make your way to the corner of Saul and Lindsey Street.  Head North and 
+stay on the West sidewalk, the second residential house on your left has 
+something on the front porch.  Examine it to find a letter and a 'Wrench.'  
+Head to Neely's Bar, now go North.  As you run along this road keep an eye on 
+the West sidewalk, you'll pass a 'Health Drink' followed by another 'Health 
+Drink.'  When you reach the corner of Neely and Katz, pick up the 'Handgun 
+Bullets' on the left corner.  Go North from here and pick up the 'Handgun 
+Bullets' from in front of the Lucky Jade Restaurant, then East across the 
+street to find 'Rifle Shells' and 'Health Drink' at Big Jay's.  From here make 
+your way back to the Wood Side Apartment, but don't go in.  Instead continue 
+West to the door and go through back to Western Silent Hill.
+
+Head West to the junction between Munson and Katz Street, on the Southwest 
+corner of this 4-way split there is a staircase leading to 'Handgun Bullets' 
+and 'Health Drink.'  Run all the way down to the West end of Katz Street, stay 
+on the North sidewalk, as you go you'll find a 'First-Aid Kit' beside a fire 
+hydrant.  When you reach the wall at the end go South into the fenced area to 
+find 'First-Aid Kit' and 'Ampoule.'  Return to the corner and head all the way 
+North, make a left onto Nathan Avenue and go into the Rosewater Park West 
+entrance.  Stay on the left side of the path and beside the litle booth as you 
+enter you'll find 'Health Drink' and two sets of 'Shotgun Shells.'  Continue 
+South down three sets of stairs, on your left you'll find an 'Ampoule.'  Go 
+back up two sets of stairs North, then East down, followed by South.  At the 
+four way split make a left (West) and you'll come to a statue.  Examine the 
+small mound of dirt behind the statue and choose to dig.  Once you do access 
+your inventory and select the Wrench.  Inside is the 'Old Bronze Key.'  Go 
+back to Nathan Avenue and begin the long trek West.  Stay on the North side of 
+
+the street, when it finally opens up into a parking lot pick up the 'First-Aid 
+Kit' at the top.  Head a little bit West and enter the Historical Society.
+
+
+/
+\ ilent Hill 2 /-------------------------------------------------------------o
+/ ------o------\                Silent Hill Historical Society               |
+     (00008)    \------------------------------------------------------------o
+
+o------- Item Checklist -------o  There's a save point directly beside you 
+|                              |  when you get inside.  Check out the creepy 
+| Obsidian Goblet........_____ |  painting in the next room then go through 
+| First-Aid Kit.........._____ |  the door.  Inside the smashed galss case, if 
+| Spiral-Writing Key....._____ |  you're collecting them, is the third special 
+|                              |  ending item, the 'Obsidian Goblet.'  Now 
+o------------------------------o  begin descending the stairs through the 
+                                  broken hole in the wall, they go down quite 
+a ways, I counted about thirty-seven seconds to descend them while running.  
+Just after going into the door at the bottom, pick up the 'First-Aid Kit' from 
+the table and continue into the next room.  Follow this hallway South to the 
+end and through the door.  There's a very large hole here, examine it and jump 
+down.  You will find yourself in the bottom of what looks like a well, with no 
+doors or means of escape.  Circle the well examining the walls very carefully 
+and find a spot where James says "Huh?  This is different..." whipe out either 
+your Wooden Plank, Steel Pipe or even the Chainsaw and start smashing it, the 
+bricks will fall away and will reveal a door to the next area.
+
+Run down the waterway and up the small set of stairs.  Go into the door on the 
+right, then into the door on the right in the next room.  Pick up the 'Spiral-
+Writing Key' and all of a sudden everything goes black.  Access your inventory 
+and use that Dry Cell Battery you picked up awhile ago.  THis will reveal how 
+many cricket enemies there really are in this room, forget trying to kill them 
+all and examine the key panel beside the door.  Of the nine buttons you will 
+three three highlighted, the password is a permutation of these numbers 
+leaving only six possible choices, meaning that even though there are no clues 
+it should not be hard to eventually figure out.  Walk South into the next room 
+to find a gate on the loor, examine it then use the Spiral-Writing Key to open 
+the gate and jump down.
+
+
+/
+\ ilent Hill 2 /-------------------------------------------------------------o
+/ ------o------\                         Toluca Prison                       |
+     (00009)    \------------------------------------------------------------o
+
+o------- Item Checklist -------o  Watch the scene when you land.  Pick up the 
+|                              |  'Health Drink' off the table, and another 
+| Health Drink..........._____ |  'Health Drink' nearby.  At the top on the 
+| Health Drink..........._____ |  shelf there is a tablet of 'Gluttonous 
+| Gluttonous Pig........._____ |  Pig.'  Turn around and you should see a save 
+| Handgun Bullets........_____ |  point on the support.  Exit the cafeteria 
+| Map of Prison.........._____ |  through the door beside the corpse.  Head 
+| The Seductress........._____ |  North down the hall, at the first desk you 
+| Handgun Bullets........_____ |  pass on your left pick up the 'Handgun 
+| Wax Doll..............._____ |  Bullets.'  At the second be sure to get the 
+| Handgun Bullets........_____ |  'Map of Prison.'  Head South and enter the 
+| Rifle Shells..........._____ |  large shower room in the middle.  Walk North 
+| The Oppressor.........._____ |  and check the far right shower for the 
+| Horseshoe.............._____ |  tablet of 'The Seductress.'  Godown the hall 
+| First-Aid Kit.........._____ |  to the South and enter the first hallway you 
+| Lighter................_____ |  pass leading to the prison cells.  Inside 
+| Health Drink..........._____ |  the first open cell you will find 'Handgun 
+| First-Aid Kit.........._____ |  Bullets,' in the second there is a 'Wax 
+| Ampoule................_____ |  Doll.'  Leave the cell block to the East and 
+| Hunting Rifle.........._____ |  head North in the hallway.  Pick up the 
+| Rifle Shells..........._____ |  'Handgun Bullets' off the desk on your left 
+| Rifle Shells..........._____ |  as you pass.  Continue North and go into the 
+| Shotgun Shells........._____ |  double doors on your left.  Pick up the 
+| Shotgun Shells........._____ |  'Rifle Shells' from the shelf here.  Return 
+| Handgun Bullets........_____ |  to the hall, head North and into the next 
+| First-Aid Kit.........._____ |  door on your left leading to the Southern 
+| Rifle Shells..........._____ |  cells of the North cell block.
+|                              |  
+o------------------------------o  Pick up the tablet of 'The Oppressor' inside 
+                                  the 7th cell you pass.  Now that you have 
+all three tablets, backtrack to the East hall and enter the enormous outdoor 
+area.  In the centre of this place is a platform with three square 
+indentations.  Stand in front of it and access your inventory, use Gluttonous 
+Pig, The Seductress, and The Oppressor.  You can even combine the three of 
+them and use that combination to save time.  Following this you'll hear a 
+scream.  Head back into the prison, when you do you'll automatically pick up 
+the 'Horseshoe' on the door handle.  Navigate through one of the cell blocks 
+to get back to the West hallway.  There are two doors leading West at the 
+North end of this hall, take the lower one first and pick up the 'First-Aid 
+Kit.'  Now take the upper door to the Western-most hallway.  
+
+Take a couple steps down and enter the first room to the East.  Pick up the 
+lighter off the ledge.  Now go down and into the third room South of the one 
+your were just in, this is a bathroom with a save point above one of the 
+urinals.  Leave and go across the hall into the room West of this one.  Pick 
+up the 'Health Drink' and the 'First-Aid Kit,' there's also an 'Ampoule' by 
+the sink.  Proceed through the North door in this room.  In the glass case is 
+a 'Hunting Rifle.'  Examine it again to get 'Rifle Shells,' then the one 
+beside it to get 'Rifle Shells' and 'Shotgun Shells.'  Back in the hall, go 
+through the metal gate to the South.  Examine the panel on the floor to see 
+there is no handle on it.  Access your inventory and combine the following 
+items, the Lighter, Wax Doll, and Horseshoe.  Once you've done this examine 
+the hole and choose to jump down.  Head South through the double doors, 
+through the morgue, and down the next hole.  Into the door and down another 
+hole.  Get into the elevator and walk to the back, it will automatically 
+begind descending.  While you're waiting pick up the 'Shotgun Shells,' 
+'Handgun Bullets,' 'First-Aid Kit,' and 'Rifle Shells.'  Leave the elevator 
+and save your game, then go through the door.
+
+
+/
+\ ilent Hill 2 /-------------------------------------------------------------o
+/ ------o------\                           Labyrinth                         |
+     (0000A)    \------------------------------------------------------------o
+
+o------- Item Checklist -------o  Step forward and make a left at the corner.  
+|                              |  Head West until you reach a wall, then go 
+| Great Knife............_____ |  South.  There are two ladders here, go down 
+| Shotgun Shells........._____ |  the North one.  At the bottom head right, if 
+| Shotgun Shells........._____ |  you here footsteps in the background that's 
+| Wire Cutter............_____ |  because this entire path is circular, and 
+| Handgun Bullets........_____ |  Pyramid Head is walking around this area.  
+| Handgun Bullets........_____ |  If you happen to bump in to him, run!  Along 
+| Handgun Bullets........_____ |  the path you'll reach a door, go inside and 
+| Key of the Persecuted.._____ |  examine the table to receive the 'Great 
+| First-Aid Kit.........._____ |  Knife' and two sets of 'Shotgun Shells.'  
+| Shotgun Shells........._____ |  The Great Knife is the giant blade wielded 
+| Shotgun Shells........._____ |  by Pyramid Head when you first fought him in 
+| Shotgun Shells........._____ |  the apartment, very powerful but very 
+| Ampoule................_____ |  awkward, there are few uses for it really in 
+| Shotgun Shells........._____ |  the game, but it's fun to equip now and 
+| Rifle Shells..........._____ |  then.  Leave the room, find and ascend the 
+|                              |  closest ladder you can get to.
+o------------------------------o  
+                                  In the hallway again, head East from the two 
+ladders, and North at the fork.  You'll come to another ladder at a broken 
+section of floor, go down.  Run to the end of this area and climb the next 
+ladder you reach.  In front of you there will be an odd looking box with faces 
+on it.  Examine it and follow these directions exactly.  For either easy or 
+normal difficulty, press up twice so that the red face it upright, then press 
+right once so that the yellow face is upside-down.  For hard difficulty this 
+does not apply because it is randomly generated, so you'll just need to use 
+the basic knowledge that the cube direction directly affects the room behind 
+you.  When you've completed it you can run through the room to the stairs 
+behind and watch a scene.  Head back up to the ladder near the puzzle box, and 
+examine the sparking fuse box beside it to receive a 'Wire Cutter.'  Now 
+return all the way back to the entrance of the Labyrinth.
+
+North of you should be a door completely blocked by wires.  Step up to it and 
+use the Wire Cutter to get through.  Follow the path and make a right at the 
+fork, then go up the ladder.  Make a right at the fork here, and go down the 
+next ladder.  Yet another fork at the bottom, make a left (East), go around 
+one corner, on the next corner there's a somewhat hard to notice path leading 
+to a ladder going up.  Follow this hallway around and down the ladder at the 
+end.  Walk along the path and you'll come to two paths, both on your left.  
+Take the first of the two and climb the ladder.  Pick up the 'Handgun 
+Bullets' on the ground right at the top.  Take the only other ladder downward 
+from here.  Now in this area you are going to want to take the very first path 
+on your left and go up the ladder.  If you don't take this path you will most 
+certainly encounrer Pyramid Head, who is wandering around down in this area.  
+If you do choose to take this path you will end up at a ladder leading up to 
+two sets of 'Handgun Bullets,' a reward which is far from worth your trouble, 
+just take the left path from the ladder you came down, and go up the ladder 
+you find here.  Save your game, go through the door, walk forward for a scene.
+
+o- Boss (Doorman) -----------------------------------------------------------o
+|                                                                            |
+| Doorman is a hard boss pretty much only because of the tight quarters you  |
+| are forced to fight it in.  The weapon of choice for this battle is the    |
+| Shotgun, outclassing the Hunting Rifle because of its poor clip capacity   |
+| and long reloading time.  The boss doesn't take too many hits but the      |
+| problem is that you won't be able to get in more than a couple before you  |
+| are forced to retreat to the other side of the room, the L1/R1 strafe      |
+| buttons will be a lifesaver in this battle.  For attacks, the Doorman      |
+| with suck you into his door thing when he gets close enough and do         |
+| reasonable damage with this.  One thing that makes it difficult is that    |
+| it seems to be able to attack you even when you think you're out of range, |
+| it lunges forward so always give yourself plenty of retreat time, there's  |
+| no time limit here.  After a dozen or so shots on normal, it will die.     |
+|                                                                            |
+o----------------------------------------------------------------------------o
+
+Leave the room and go through the door leading North.  First of all enter the 
+door on your right, you'll find six corpses here, write down or try to 
+remember to positioning of each of them.  Now leave the room and run to the 
+end of the hall, go through the door on your left.  This room looks similar 
+however instead of corpses, there are nooses.  You must determine which of the 
+six men is the innocent one, and pull the noose corresponding to his position.  
+To determine which man is innocent read the large sign in this room, it will 
+give you a riddle to solve.  Try and figure it out yourself if you can, but be 
+warned the answers follow.  On the easiest difficulty the innocent man is the 
+kidnapper, on normal it's the arsonist, on hard it's the counterfeiter, and on 
+extra it's the thief.  Examine and pull the noose corresponding to the 
+innocent man on your difficulty, then return to the corpse room to find on the 
+ground where the man was hanging, the 'Key of the Persecuted.'
+
+Leave the room and go into the door at the very end of the hall.  Examine the 
+handcuffed valve and use the Key of the Persecuted.  Desend the ladder down.  
+Follow the path without changing direction and enter the door, then watch the 
+scene.  When outside the room again, head back down and make a turn East at 
+the fork.  At the top of the next ladder you'll find a 'First-Aid Kit' on the 
+ground in front of you.  There's a cemetery just beyond this hall.  In this 
+area you'll find 'Shotgun Shells,' 'Shotgun Shells,' 'Shotgun Shells,' 
+'Ampoule,' and a save point.  The grave at the upper right corner is open, 
+examine the headstone and then jump down.  There's another long hallway here, 
+run all the way to the end and go into the door.  Watch the scene.
+
+o- Boss (Eddie) -------------------------------------------------------------o
+|                                                                            |
+| Eddie is quite a powerful boss, so make sure you know what you're doing.   |
+| The beginning of the fight takes place in close quarters, this is          |
+| actually one of the only places that the Great Knife is useful.  If you    |
+| can hit Eddie with a simgle overhead swing, you can progress to the        |
+| second stage of the battle.  If you don't like the Great Knife stick       |
+| with the Shotgun.  Watch out for his gun, about three shots from that      |
+| and you'll be dead.  After he has taken a certain amount of damage he'll   |
+| run through the door into the next room.  Be sure to take this time to     |
+| pick up the 'Shotgun Shells' and 'Rifle Shells' from the ground.  Go       |
+| through the door, watch the scene, and the fight continues.  This time     |
+| around the best weapon is the Hunting Rifle.  Find a good vantage point    |
+| while taking cover behind the large hunks of meat, when you get a good     |
+| shot be sure to take it.  You can easily get off the four shots before     |
+| he can do anything, but the problem is that he will almost always hit you  |
+| after that, even if you don't reload you'll still get shot trying to run.  |
+| See if you can try hitting him from a close range, because his punch is    |
+| extremely weak, and he'll always do it when you get near him.  With enough |
+| shots from the Hunting Rifle, eventually Eddie will fall.                  |
+|                                                                            |
+o----------------------------------------------------------------------------o
+
+Leave the room through the large double doors.  On your right is a barrel with 
+a save point on top.  Run to the end of the dock and step into the boat.  Now 
+what you want to do us use the D-pad, press left or right and turn yourself 
+until you see a bright light off in the distance.  Face yourself in that 
+direction and hold up to begin rowing.  Now if you're playing hard this 
+becomes more of a challenge, you need to spin both analog sticks in opposite 
+directions to row, and in the same direction to turn.  Once you get close 
+enough to the light, a scene occurs and you finally arrive at the hotel.
+
+
+/
+\ ilent Hill 2 /-------------------------------------------------------------o
+/ ------o------\                        Lakeview Hotel                       |
+     (0000B)    \------------------------------------------------------------o
+
+o------- Item Checklist -------o  Run up the dock and approach the hotel.  
+|                              |  Before going inside check the fountain on 
+| Little Mermaid........._____ |  the left, there is a 'Little Mermaid' music 
+| Hotel Map (Guests)....._____ |  box sitting on the edge.  When you get 
+| Fish Key..............._____ |  inside, take the 'Hotel Map (Guests).'  Head 
+| Rifle Shells..........._____ |  forward and go right at the corner, enter 
+| Handgun Bullets........_____ |  the Rastaurant "Lake Shore."  Check one of 
+| Handgun Bullets........_____ |  the tables in this room for the 'Fish Key.'  
+| Handgun Bullets........_____ |  When you try to leave a scene occurs.  
+| Thinner................_____ |  Afterward go out to the hall again, watch 
+| First-Aid Kit.........._____ |  out for the Doorman enemies similar to the 
+| Shotgun Shells........._____ |  boss you fought recently.  Two shots with 
+| Shotgun Shells........._____ |  the Shotgun should knock them down, and then 
+| Handgun Bullets........_____ |  just finish them off with a kick.  Go down 
+| Handgun Bullets........_____ |  to the West of of the hall, but don't enter 
+| Key to Room 204........_____ |  the West corridor, instead go into the large 
+| Handgun Bullets........_____ |  grey room on your map to the South.  In the 
+| Handgun Bullets........_____ |  lower room you can find 'Rifle Shells' and 
+| Shotgun Shells........._____ |  three packs of 'Handgun Bullets.'  Return to 
+| Shotgun Shells........._____ |  the main hall and go down the  main stairs 
+| Health Drink..........._____ |  to the basement floor.  Step into the 
+| Employee Elevator Key.._____ |  elevator at the end of the elevator at the 
+| Cinderella............._____ |  end of the hall and pick up the can of 
+| Health Drink..........._____ |  'Thinner.'   Go back upstairs and enter one 
+| Rifle Shells..........._____ |  of the two large double doors on either side 
+| Health Drink..........._____ |  of the down stairs leading North.  There's a 
+| Health Drink..........._____ |  save point on the Northwest chair in this 
+| Hotel Map (Employees).._____ |  area.  Open the door to the reception desk 
+| Videotape.............._____ |  beside the gift shop, pick up the 'Key to 
+| Can Opener............._____ |  Room 312' off the  rack on the wall.  Once 
+| Rifle Shells..........._____ |  again, take the stairs to 2F.             
+| Rifle Shells..........._____ |  
+| Snow White............._____ |  First go into the room behind the desk 
+| Bar Key................_____ |  marked as the Cloak Room.  Get the 'First-
+| First-Aid Kit.........._____ |  Aid Kit,' two sets of 'Shotgun Shells' and 
+| Health Drink..........._____ |  two sets of 'Handgun Bullets.'  Approach the 
+| Health Drink..........._____ |  briefcase and use the Fish Key to open it.  
+| Health Drink..........._____ |  Inside is the 'Key to Room 204.'  Leave the 
+| Lightbulb.............._____ |  room and go South to the end of the hall, 
+| Hotel Stairway Key....._____ |  pick up the two 'Handgun bullets' off the 
+|                              |  table.  Check your map and go into the 
+o------------------------------o  Reading Room.  In here you'll find two sets 
+                                  of 'Shotgun Shells' and a 'Health Drink.'  
+Head back North and make a left to enter the West corridor.  Examine the third 
+door on your right, Room 204, and gain access using the key.    Pick up the 
+'Employee Elevator Key' off the table here and go through the wall into the 
+next room.  Examine the pictures spread all over the bed.  Access your 
+inventory and use the Thinner.  You'll now be able to see a code word in the 
+picture, examine the briefcase beside the bed and enter the code and you'll 
+find the 'Cinderella' music box inside.  Head to the East side of 2F.
+
+In this area pick up the 'Health Drink' and 'Rifle Shells' off the tables.  
+The North door in this area leads to a room which can be opened with your 
+Employee Elevator Key.  Inside this room you can find two 'Health Drink.'  If 
+you walk onto the elevator an alarm will go off.  Examine the control panel to 
+learn it is only made for one person.  Now you can examine the lockers in the 
+room to put every last thing you own on the shelf.  Take the elevator down to 
+the first floor.  When you step off be sure to pick up the 'Hotel Map 
+(Employees)' on your left.  Run down the hall to the North and into the first 
+door on the left.  Examine the safe to find 'Videotape' and 'Can Opener.'  Two 
+rooms North of this one is the Employee Lounge, there's two sets of 'Rifle 
+Shells.' in here.  Go to the Southeast corner of this floor and enter the 
+Pantry, the room with the red light above it.  You'll find the 'Snow White' 
+music box on a shelf on the right.  Now head to the stairwell across from the 
+office, and descend down to the basement level.  
+
+Head South then East to reach the Boiler Room.  You can find the 'Bar Key' 
+here as well as a 'First-Aid Kit' sitting on the ground.  Leave and head West 
+to the Kitchen.  There are a total of three 'Health Drink' in this room.  
+There's also a can on the counter, stand in front of it and use the Can Opener 
+to find a 'Lightbulb.'  Leave the kitchen through the West door.  Go around 
+the bar and examine the flashlight sitting on the corner, use your Lightbulb 
+to turn it on.  Now you can go through the West door.  Climb the stairs and 
+you'll be back on the main floor.  Make sure you head back up to the second 
+floor Elevator Room to retrieve your stuff.  Head back to the hotel Lobby and 
+examine the object in the centre.  The puzzle answer is as follows:
+
+          Seat of the Princess          Twas shameful greed did stain
+          who fled at midnight          her shoe with blood
+          - Cinderella                  - Cinderella
+
+          Seat of the Princess          Beauty - Both a blessing
+          who awoke from death          and a curse thou be
+          - Snow Shite                  - Snow White
+
+          Seat of the Princess          Even so, I still want to believe
+          who spoke no words            that she was happy
+          - Little Mermaid              - Little Mermaid
+
+Examine each of the three indentations and use the appropriate music box in 
+each spot.  When finished putting all three in, choose to play the music box 
+and you will receive the 'Hotel Stairway Key' if you examine it again.  You 
+can now get up to the third floor with this key, it opens the gate which 
+blocks your way, so return to the stairs and head all the way to the top.  
+Enter room 312, which is the only one you can get into.  Approach the VCR, use 
+the tape in your inventory and watch the scene.  Now leave the room.
+
+
+/
+\ ilent Hill 2 /-------------------------------------------------------------o
+/ ------o------\                       Alternate Hotel                       |
+     (0000C)    \------------------------------------------------------------o
+
+o------- Item Checklist -------o  Down the hall to your right is a save point 
+|                              |  on the door.  Head downstairs and enter the 
+| Crimson Ceremonies....._____ |  reading room.  There are two things here 
+| Handgun Bullets........_____ |  which will both have a drastic effect on 
+| Handgun Bullets........_____ |  your ending.  One is the pair of headphones 
+| Ampoule................_____ |  on the desk, you can choose whether you want 
+| Ampoule................_____ |  to listen to it or not.  The second is the 
+| Health Drink..........._____ |  fourth and final item for the special 
+| Health Drink..........._____ |  ending, on the shelf is the book of 'Crimson 
+| Health Drink..........._____ |  Ceremonies.'  Exit the room and into the 
+| Health Drink..........._____ |  West corridor.  Each door will now teleport 
+| Health Drink..........._____ |  you to the location of a different door when 
+| Rifle Shells..........._____ |  you go through it, the one you want to take 
+| Rifle Shells..........._____ |  is Room 202, at the very top on your right.  
+| Shotgun Shells........._____ |  Once you go through you'll find yourself in 
+| Shotgun Shells........._____ |  the East corridor.  Pick up the two 'Handgun 
+| First-Aid Kit.........._____ |  Bullets' from the window, and head South and 
+| Ampoule................_____ |  into the double doors to reach the main 
+| Ampoule................_____ |  hall.  You can access the elevator, get in 
+| Scarlet Egg............_____ |  and ride in down to the basement, but before 
+| Rust-Colored Egg......._____ |  you do be sure to pick up the two 'Ampoule.'
+|                              |  
+o------------------------------o  Enter the bar and pick up the five 'Health 
+                                  Drink' sitting on the counter!  Further on 
+in the kitchen, you'll find two 'Rifle Shells,' two 'Shotgun Shells,' and a 
+'First-Aid Kit.'  Go into the next hallway and enter the stairwell for a 
+scene.  Once it's over leave through the door, and you'll wind up in the 
+normal stairwell.  Ascend the stairs and into the door at the top.  Run along 
+the hall, there are two 'Ampoule' in this area, then go into the door at the 
+end, the path is completely linear here.  Cross the grated path with the 
+hangers proceed through the door, in the next are use one of the nine save 
+points pasted on the wall, now head through the doors and watch the scene.
+
+o- Boss (Pyramid Heads) -----------------------------------------------------o
+|                                                                            |
+| This boss while seemingly a daunting opponent, is actually quite easy      |
+| if you utilize a very easy strategy.  That strategy is one of patience.    |
+| If you want to avoid being hit it's extremely easy to do, but you have to  |
+| accept that you'll only be able to get off a couple shots max.  Run to     |
+| one corner and equip your Hunting Rifle, which is superior in this fight   |
+| because of its superior range.  Fire off about two shots, maybe three if   |
+| you're good and then strafe-run to the other side of the room and repeat   |
+| the process.  Use the menu to reload your weapon rather than doing it      |
+| in game.  While running the Pyramid Heads attacks will be far to slow to   |
+| actually hit you, and they'll end up stabbing where you were standing      |
+| a good deal of time ago.  There's only too dangers with this strategy      |
+| really, either number one, you get greedy and fire off too many shots,     |
+| they'll catch up and hit you.  The other is that is you forget how many    |
+| bullets you have left and find yourself reloading right when they're       |
+| closing on you.  Other weapons can be effective too, the Hunting Rifle     |
+| is just the pick of the litter.  Personally I find the Great Knife to      |
+| work surprisingly well here.  Even with the mobility detriment, using the  |
+| L1 and R1 buttons to strafe you can dodge their attacks almost every time, |
+| and the super powerful overhead swing will almost always hit since one of  |
+| them is bound to step in front of you.  The thing you have to watch out    |
+| for is their ninja spear-spin, where they spin their spear around their    |
+| head and attack inside a rather large circumference.  You'll take more     |
+| damage for sure with this method but it will also take only half the time. |
+|                                                                            |
+o----------------------------------------------------------------------------o
+
+Following the battle examine the corpses of both the Pyramid Heads, you'll get 
+the 'Scarlet Egg' and 'Rust-Colored Egg.'  Approach the two doors at the top 
+and insert the two egss, one into each door.  Order doesn't matter, and which 
+one you enter doesn't matter.  Continue North into the next hallway, you'll 
+hear a conversation in the background.  Whether you choose to listen to the 
+entire thing or to walk through the door early will affect your ending.  
+Proceed through the door and up the large metal stairs, then watch the scene.
+
+o- Boss (Final Boss) --------------------------------------------------------o
+|                                                                            |
+| The final boss has one primary and extremely obnoxious attack, and while   |
+| it doesn't deal much damage, you'll be spending the majority of this       |
+| fight just evading it.  She released a bunch of moths which chase after    |
+| you and get in your hair, this deals an insignificant amount of damage,    |
+| the main purpose is to leave you distracted and vulnerable to her two      |
+| other attacks which include a stab from her scorpion tail, and a           |
+| strangling of your neck.  Avoid the moth attack simply by running,         |
+| strafing while running is preferable and you should be able to avoid it    |
+| every single time.  Equip the Hunting Rifle in order to deal the most      |
+| damage, but I'm not kidding when I say you only get one shot max between   |
+| sessions of evading the moths.  The second best weapon is the Handgun,     |
+| followed by the Shotgun.  Melee weapons are useless as you would probably  |
+| assume.  About fifteen shots should be enough on normal difficulty.        |
+|                                                                            |
+o----------------------------------------------------------------------------o
+
+You now have the unenviable task of striking the final blow with any weapon 
+you choose.  There's satisfaction in all of them, from the Wooden Plank, to 
+the Steel Pipe. to the Great Knife.  Select your weapon of choice and strike.
+
+Now sit back and enjoy the ending.
+
+You beat the game.  Good job!                  
+
+                               
+                             
+                             
+                                 d--(o_O)--b
+
+
+
+
+
+O============================================================================O
+|                               Additional Info                      (10000) |
+O============================================================================O
+
+
+/
+\ ilent Hill 2 /-------------------------------------------------------------o
+/ ------o------\                          Weapons                            |
+     (10001)    \------------------------------------------------------------o
+
+
+o--------------o  The Wooden Plank is the basic melee weapon in this game,
+| Wooden Plank |  it is a long board of wood with some nails at the end using
+o--------------o  for swinging and bashing enemies in the face.  You'll 
+                  automatically acquire this weapon at the beginning of the 
+game at the end of the path where the blood trails leads.  It's useful in 
+almost all situations as a good, all around smashing stick.  To use the weapon 
+simply hold R2 and press X, the harder you push the more powerful your attack.
+
+o---------o  The handgun is a light and easy to use weapon, good for both 
+| Handgun |  short and long range combat.  It reloads quickly and is quite
+o---------o  powerful.  You'll find it in room 301 of the apartment complex,
+             inside a very conspicuous shopping cart.  It holds 10 bullets at 
+a time, new bullets can be found in various places quite often throughout the 
+game.  No matter how far you are in the game, it can always come in handy.
+
+o------------o  The Steel Pipe is the second melee weapon you will find in
+| Steel Pipe |  this game.  It is longer and more powerful than the Wooden
+o------------o  Plank, it will make the plank virtually useless after you
+                pick this weapon up.  You can find it at the Texxon Gas 
+Station where Nathan and Caroll Street meet, approach the car at the gas pumps 
+and examine the hood to pull it out.  Equip the weapon and start smashing.
+
+o---------o  The shotgun is much more powerful than the handgun, and has the
+| Shotgun |  ability to hit multiple enemies as well with its spread.  It
+o---------o  can hold a total of six shots at any one time.  You'll find the
+             shotgun in one of the doctor's coats in the locker room of the
+second floor of the hospital.  Shotgun bullets are scattered through the game.
+
+o-------------o  The weapon of the legendary Pyramid Head, the great knife
+| Great Knife |  is certainly the most powerful weapon in the entire game
+o-------------o  but this comes at a price, it is also the most awkward to
+                 use, even moving while having it equipped becomes an ordeal.
+If you are able to strike quickly it becomes an ideal weapon for ending boss 
+fights in no time flat, however you'll find that there really are very few 
+practical uses for this weapon.  It can be found in the Labyrinth, in the area
+where Pyramid Head can be found circling around the path.
+
+o---------------o  The hunting rifle is a powerful long range weapon good for
+| Hunting Rifle |  stopping single enemies in their tracks.  It can only hold
+o---------------o  four bullets and takes quite awhile to reload, but what it
+                   lacks in this respect it makes up for in damage.  You will 
+find the hunting Rifle inside the Toluca Prison in one of the office rooms.
+
+o----------o  The chainsaw is a powerful melee weapon that is only available
+| Chainsaw |  after you have beaten the gameat least one.  It takes time to
+o----------o  get going so it loses a lot of its practical usage in the prep
+              time, but can be a powerful weapon if wielded correctly.  Once
+you have beaten the game it can be found in the log pile just path the pick up 
+truck on the first path through the woods, you can't miss it.
+
+o-------------o  Similar to the chainsaw the Hyper Spray can only be acquired
+| Hyper Spray |  after you've beaten the game at least once.  You can find it
+o-------------o  in the RV on Saul Street.  The weapon is actually used for
+                 paralyzing enemies rather than killing them, however if you
+managed to beat the game with a perfect rating you'll get the green Hyper 
+Spray which does have the ability to kill when used.  It does not consume 
+ammo, the only thing you have to watch out for is that it will drain you 
+helath if used to often, and runs low on pressure if used for too long.
+
+
+/
+\ ilent Hill 2 /-------------------------------------------------------------o
+/ ------o------\                           Items                             |
+     (10002)    \------------------------------------------------------------o
+
+o--------------o  The Health Drink is the most basic of all healing items.
+| Health Drink |  There are plenty to find in this game, in fact if you
+o--------------o  were to pick them all up you'd win up with more than you
+                  could ever possibly find a use for.  It takes about four 
+health drinks to heal you completely, but usually one at a time will suffice 
+just fine for the most minor of wounds.  Very handy little things.
+
+o-----------o  These too are fairly common throughout the game, however not
+| First-Aid |  nearly as much as the Health Drinks.  They're probably the
+o-----------o  best overall healing items in the game in terms of healing and
+               rarity.  Using a First-Aid Kit it will take about two of them 
+to completely heal you from near-death to maximum HP, very helpful.
+
+o---------o  Ampoules are very rare, but what they lack in commonality they
+| Ampoule |  make up for in healing intensity.  One Ampoule will take you
+o---------o  from any measure of damage to full health instantly.
+
+o-----------------o  Simple pack of bullets for the Handgun, found like
+| Handgun Bullets |  Health Drinks almost anywhere, even the most
+o-----------------o  inappropriate places.  Each pack comes with 10 bullets,
+                     enough to fill a single clip for your handgun.
+
+o-----------------o  Shotgun Bullets are somewhat rarer than Handgun bullets
+| Shotgun Bullets |  and are much more powerful.  Comes with six in each 
+o-----------------o  pack, be sure to pick them up when you see them.
+
+o--------------o  Rifle Shells aren't exactly commonplace, so they're best
+| Rifle Shells |  saved for some of the more difficult bosses, especially
+o--------------o  if you're playing on Ammo x1.  Comes with 4 in a pack.
+
+
+/
+\ ilent Hill 2 /-------------------------------------------------------------o
+/ ------o------\                          Enemies                            |
+     (10003)    \------------------------------------------------------------o
+
+o----------o  Patients are the weird demons whose skin covers them like
+| Patients |  a straight jacket.  They're the most common enemies during the
+o----------o  beginning of the game, they come in two forms and have two main 
+              attacks.  They can either crawl around on the ground or stand 
+upright.  They'll crew on your foot from the ground and spray some poisonous 
+gas at you while standing up.  Basically any weapon is effective against them.
+
+o-------------o  Cockroaches are rather rare to find in this game, but they 
+| Cockroaches |  do appear.  They'll nip at your feet for very insignificant 
+o-------------o  damage, but they'll do it often and quickly.  They an be
+                 killed with the handgun but to conserve ammo, it's also
+very easy to kill them simply by hitting X when standing close, to deliver a 
+swift and firm stomp, leaving them a pile of mush on the ground.
+
+o------------o  Mannequins will first start appearing in the apartments
+| Mannequins |  near the start of the game.  Their attacks are slightly
+o------------o  stronger but possess less range than the patient demons.
+                Their only attack is to use their torso feet to kick you
+while they walk.  Any normal weapons should suffice to stop them.
+
+o--------o  Nurses appear not surprisingly in the hospital area of the game.
+| Nurses |  They are equipped with a steel pipe very similar to the one
+o--------o  James wields, however slightly shorter.  They will swing it
+            wildly in an attempt to hit you at some point during their wild 
+swinging frenzy.  A shotgun blast to the torso works great to eliminate them.
+
+o---------o  Hangers will begin to appear in the dark version of town, going
+| Hangers |  hand over hand on the underside of metal link walkways.  They
+o---------o  can only hit you if their hands met your foot, but this is rare
+             and unless you happen to stop you'll probably never be hit at
+all.  Since they pose almost no threat there's no reason to kill them, it is 
+possible however, but you must use a ranged weapon, melee are ineffective.
+
+o---------o  Doorman begins as a boss but soon enough appears commonly in
+| Doorman |  hallways, always eager to eat your skin.  His attack will
+o---------o  engulf you in his skin pouch underside as he has his way with
+             your face, it isn't pleasant and deals quite a lot of damage.
+The Hunting Rifle and Shotgun are you best bets when you encounter these foes,
+usually fiddling with melee weapons will end with your untimely death.
+
+
+/
+\ ilent Hill 2 /-------------------------------------------------------------o
+/ ------o------\                          Endings                            |
+     (10004)    \------------------------------------------------------------o
+
+o----------o  In order to get the "In Water" ending the following must be
+| In Water |  accomplished, note that you don't need to do every single thing
+o----------o  mentioned here, each one you do will increase the chances of
+              getting this ending, which is actually quite easy to get.  First
+of all, throughout the entire game, the more time you spend with low to mid 
+health, the better chance you have of getting this ending.  Every once in 
+awhile go into your inventory and examine the Angela's Knife as well.  Read 
+the diary on top of the hospital, as well as listen to the headphones in the 
+hotel.  The final thing to do is stand in the final hallway while the 
+conversation with Mary plays out, do not leave until it is over.
+
+o-------o  The "Leave" ending is pretty much the default ending you will get
+| Leave |  if you just play through casually, which makes it quite easy to
+o-------o  get if it's your intention.  Make sure you go in the direction of
+           the hotel when Maria first starts following you around.  DO not 
+examine the diary on top of the hospital or listen to the headphones, but do 
+listen to the conversation in the final hallway.  If you ever get hurt during 
+the game, access your menu and heal your wounds immediately.
+
+o-------o  This is the hardest ending to acquire, as it takes the most work 
+| Maria |  from the player.  It mostly revolves around your actions when Maria
+o-------o  is with you, never try and go in the wrong direction in town, head
+           toward the hotel, then the bowling alley.  Never let Maria get hit 
+by enemies, or by you.  When you drop her off in the patient ward in the 
+hospital, make sure you stay with her for some time, then make a number of 
+return visits to check on her.  Run all the way to the end of the hall at the 
+end of the game and ignore the conversation, and try not to do any of the 
+major factors for the other endings, like examining Angela's Knife.
+
+o---------o  The "Rebirth" ending can only be acquired after you've completed
+| Rebirth |  the game at least once, it involves collecting four items you'll
+o---------o  find throughout the game, this is the only condition and you will 
+             guarantee this ending if you pick them all up.  It's not hard to 
+get if you know where to look.  The locations of the four items are noted in 
+the walkthrough, but as a quick reference they are as follows:  White Chrism 
+is in Room 105 of the Blue Creek Apartments, Lost Memories is in the newspaper 
+dispenser at the Texxon Gas Station, Obsidian Goblet is in a smashed glass 
+case in the Historical Society, and the Crimson Ceremonies is on the bookshelf 
+in the reading room of the alternate hotel.  Now just go and beat the game.
+
+o-----o  You cannot get the "Dog" ending until you have gotten all three basic
+| Dog |  endings, or the Rebirth ending.  When you go out the West exit of the
+o-----o  Rosewater park for the first time, head South into a little area with
+         a doghouse that only appears if the ending conditions are met, get 
+the 'Dog Key' from inside.  Now play the game as far as Room 312 in the Hotel, 
+after watching the video on the VCR, the ending will trigger automatically.
+Note that this is not a "serious" ending, don't play through expecting one.
+
+
+/
+\ ilent Hill 2 /-------------------------------------------------------------o
+/ ------o------\                         Item List                           |
+     (10005)    \------------------------------------------------------------o
+
+O============================================================================O
+|            Name              |                  Location                   |
+O==============================+=============================================O
+| Ampoule                      | Various places throughout the game          |
+|------------------------------+---------------------------------------------|
+| Angela's Knife               | Automatically acquired in apartments        |
+|------------------------------+---------------------------------------------|
+| Apartment Gate Key           | On the corpse at North end of Martin Street |
+|------------------------------+---------------------------------------------|
+| Apartment Stairway Key       | Room 208 of apartments                      |
+|------------------------------+---------------------------------------------|
+| Bar Key                      | Boiler room of the hotel                    |
+|------------------------------+---------------------------------------------|
+| Basement Storeroom Key       | Room M6 of the evil hospital                |
+|------------------------------+---------------------------------------------|
+| Bent Needle                  | Room M6 of the evil hospital                |
+|------------------------------+---------------------------------------------|
+| Can Opener                   | In the hotel first floor office safe        |
+|------------------------------+---------------------------------------------|
+| Canned Juice                 | In the hall in front of apartment 107       |
+|------------------------------+---------------------------------------------|
+| Chainsaw                     | In log pile along first path to Silent Hill |
+|------------------------------+---------------------------------------------|
+| Cinderella Music Box         | Room 202 of the hotel in suitcase           |
+|------------------------------+---------------------------------------------|
+| Clock Key                    | In room 202 of the apartment, in a hole     |
+|------------------------------+---------------------------------------------|
+| Coin [Old Man]               | In the garbage pile of the apartments       |
+|------------------------------+---------------------------------------------|
+| Coin [Prisoner]              | Room 109 of the apartments                  |
+|------------------------------+---------------------------------------------|
+| Coin [Snake]                 | In the empty pool of apartment courtyard    |
+|------------------------------+---------------------------------------------|
+| Copper Ring                  | In the hidden basement of evil hospital     |
+|------------------------------+---------------------------------------------|
+| Courtyard Key                | In apartment room 307, in the closet        |
+|------------------------------+---------------------------------------------|
+| Crimson Ceremonies           | Hotel Reading Room bookshelf                |
+|------------------------------+---------------------------------------------|
+| Dog Key                      | Dog house South of Rosewater park exit      |
+|------------------------------+---------------------------------------------|
+| Drycell Battery              | Room M6 of the evil hospital                |
+|------------------------------+---------------------------------------------|
+| Elevator Key                 | In the drain of evil hospital shower room   |
+|------------------------------+---------------------------------------------|
+| Employee Elevator Key        | In room 204 of the hotel                    |
+|------------------------------+---------------------------------------------|
+| Examination Room Key         | Hospital second floor locker room, coat     |
+|------------------------------+---------------------------------------------|
+| Fire Escape Key              | Third floor apartment hall, on the floor    |
+|------------------------------+---------------------------------------------|
+| First-Aid Kit                | Various places throughout the game          |
+|------------------------------+---------------------------------------------|
+| Fish Key                     | Table in hotel restaurant                   |
+|------------------------------+---------------------------------------------|
+| Flashlight                   | Room 205 of apartments, middle of room      |
+|------------------------------+---------------------------------------------|
+| Great Knife                  | In Labyrinth area where Pyramid Head lives  |
+|------------------------------+---------------------------------------------|
+| Handgun                      | In shopping cart in apartment room 301      |
+|------------------------------+---------------------------------------------|
+| Handgun Bullets              | Various places throughout the game          |
+|------------------------------+---------------------------------------------|
+| Health Drink                 | Various places throughout the game          |
+|------------------------------+---------------------------------------------|
+| Horseshoe                    | Toluca prison on the courtyard handle       |
+|------------------------------+---------------------------------------------|
+| Hospital Lobby Key           | Evil hospital, in Director's Room           |
+|------------------------------+---------------------------------------------|
+| Hotel Map for Employees      | Employee elevator room                      |
+|------------------------------+---------------------------------------------|
+| Hotel Map for Guests         | Front hall of the hotel                     |
+|------------------------------+---------------------------------------------|
+| Hotel Stairway Key           | On the music box pedestal in the hotel      |
+|------------------------------+---------------------------------------------|
+| Hunting Rifle                | Toluca Prison office locker                 |
+|------------------------------+---------------------------------------------|
+| Hyper Spray                  | Inside an RV corner of Saul and Harris St   |
+|------------------------------+---------------------------------------------|
+| Key of the Persecuted        | Solve hanged man puzzle in Labyrinth        |
+|------------------------------+---------------------------------------------|
+| Key to Room 202              | In room 208 of apartments when have handgun |
+|------------------------------+---------------------------------------------|
+| Key to Room 204              | Hotel cloak room, in the suitcase           |
+|------------------------------+---------------------------------------------|
+| Key to Room 312              | On the shelf behind hotel reception desk    |
+|------------------------------+---------------------------------------------|
+| Lapis Eye Key                | In room M2 of the hospital                  |
+
+|------------------------------+---------------------------------------------|
+| Laura's Letter               | Automatically acquired in the hotel         |
+|------------------------------+---------------------------------------------|
+| Lead Ring                    | In Day Room fridge in evil hospital         |
+|------------------------------+---------------------------------------------|
+| Letter from Mary             | Automatically acquired at start of game     |
+|------------------------------+---------------------------------------------|
+| Light Bulb                   | In the metal can in hotel basement kitchen  |
+|------------------------------+---------------------------------------------|
+| Lighter                      | Toluca Prison visiting room                 |
+|------------------------------+---------------------------------------------|
+| Little Mermaid Music Box     | Water fountain out front of the hotel       |
+|------------------------------+---------------------------------------------|
+| Lost Memories                | Texxon Gas Station newspaper dispenser      |
+|------------------------------+---------------------------------------------|
+| Lyne House Key               | Desk in apartment room 105, in puzzle desk  |
+|------------------------------+---------------------------------------------|
+| Map of Apartment Building    | Inside front hall of apartments             |
+|------------------------------+---------------------------------------------|
+| Map of Apartment West        | Inside West stairs of apartments            |
+|------------------------------+---------------------------------------------|
+| Map of Hospital              | Inside front hall of the hospital           |
+|------------------------------+---------------------------------------------|
+| Map of Prison                | On the desk, in the prison main hall        |
+|------------------------------+---------------------------------------------|
+| Map of Silent Hill           | Driver's seat of James car at start         |
+|------------------------------+---------------------------------------------|
+| Obsidian Goblet              | Historical Society display case             |
+|------------------------------+---------------------------------------------|
+| Old Bronze Key               | Dig behind statue in Rosewater Park         |
+|------------------------------+---------------------------------------------|
+| Photo of Mary                | Automatically acquired at start of game     |
+|------------------------------+---------------------------------------------|
+| Piece of Hair                | In the chained box of S14 room of hospital  |
+|------------------------------+---------------------------------------------|
+| Purple Bull Key              | In hospital Document Room, by typewriter    |
+|------------------------------+---------------------------------------------|
+| Radio                        | Automatically acquired near beginning       |
+|------------------------------+---------------------------------------------|
+| Rifle Shells                 | Various places throughout the game          |
+|------------------------------+---------------------------------------------|
+| Roof Key                     | Room S3 of the hospital                     |
+|------------------------------+---------------------------------------------|
+| Rust-Colored Egg             | After defeating Pyramid, in his hand        |
+|------------------------------+---------------------------------------------|
+| Scarlet Egg                  | After defeating Pyramid, in his hand        |
+|------------------------------+---------------------------------------------|
+| Shotgun                      | Women's locker room in hospital             |
+|------------------------------+---------------------------------------------|
+| Shotgun Bullets              | Various places throughout the game          |
+|------------------------------+---------------------------------------------|
+| Snow White Music Box         | On the shelf in the hotel pantry            |
+|------------------------------+---------------------------------------------|
+| Spiral-Writing Key           | Historical society cockroach attack room    |
+|------------------------------+---------------------------------------------|
+| Steel Pipe                   | Texxon Gas Station, inside hood of car      |
+|------------------------------+---------------------------------------------|
+| Tablet of Gluttonous Pig     | Toluca Prison cafeteria table               |
+|------------------------------+---------------------------------------------|
+| Tablet of The Oppressor      | Toluca Prison, one of the North cells       |
+|------------------------------+---------------------------------------------|
+| Tablet of The Seductress     | Toluca Prison in the shower room            |
+|------------------------------+---------------------------------------------|
+| Thinner                      | Inside the hotel basement elevator          |
+|------------------------------+---------------------------------------------|
+| Videotape                    | Inside the hotel office safe                |
+|------------------------------+---------------------------------------------|
+| Wax Doll                     | Toluca Prison, one of the South cells       |
+|------------------------------+---------------------------------------------|
+| White Chrism                 | Apartment room 105 kitchen                  |
+|------------------------------+---------------------------------------------|
+| Wire Cutter                  | Labyrinth fuse box                          |
+|------------------------------+---------------------------------------------|
+| Wooden Plank                 | Acquired Automatically near beginning       |
+|------------------------------+---------------------------------------------|
+| Wrench                       | House porch on Vale St in evil Silent Hill  |
+o----------------------------------------------------------------------------o
+
+
+O============================================================================O
+|                                    Maps                            (00100) |
+O============================================================================O
+
+/
+\ ilent Hill 2 /-------------------------------------------------------------o
+/ ------o------\                        Silent Hill                          |
+     (00101)    \------------------------------------------------------------o
+
+o----------------------------------------------------------------------------o
+|                                                                            |
+|                             Toluca Lake                              N     |
+|________                                                 __        W__|__   |
+|------- |                                                ||     _     |  E  |
+|     __||_                                              //     //     S     |
+|    |    _|                                             ||     ||           |
+|  A |__ |                                               ||     ||           |
+|      _||                                               ||    //            |
+|     |_ |                                                \\__//           _/|
+|_______||________________________________________________ \  /           / _|
+| ______  ______  __   __nathan_ave____   _______________ \_||           / / |
+||      ||      ||  | |                | |               \_  |           | | |
+||      ||   B  ||  | |  F          G  | | H              / _ \_         | | |
+||      ||      ||  | |       __       | |              _/_/ \_ \_   ____/ | |
+||      ||      ||  | |       ||m      | |            _/_/     \_ \_/ ____/  |
+||______||     _||  | |       ||a      | |          _/_/         \_  /       |
+||-------^    |--^  | |       ||r      | |        _/_/            /__ \_     |
+||                C | |       ||t      | |_______/_/             //d \_ \_   |
+||                  |n|       ||i      |  _vachss/rd            //r    \_ \_ |
+||                  |e|       ||n      | |                     //        \_ \|
+||  E       D       |e|       ||       |l|                    //e          \ |
+||                Q |l|  I    ||s      |i|                   //s            \|
+||__________________|y|_______||t______|n|                  //t              |
+||____katz_st_  ____   _______  _______ d|                 //l               |
+||            ||    |s|       ||       |s|          ______//i                |
+||m          h|| J  |t|   K   ||    L  |e|         /--  --/w                 |
+||u          a||    | |       ||       |y|        //  ||                     |
+||n          r||    | |       ||       | |        ||  ||                     |
+||s          r||    | |       ||       |s|       //   ||                     |
+||o          i||    | |       ||       |t|       ||   ||                     |
+||n          s||    | |  M    ||    N  | |       ||   ||                     |
+||            ||    | |_______||_______| |_______||___||                     |
+||s          s||    |  ____sanders_st__   ____________ |                     |
+||t          t||    | |                | |            ||                     |
+||____________||____| | O              | |       P                           |
+| __saul_st_________  |                | |                                   |
+||                  | |                | |                                   |
+||                  | |                | |                                   |
+o----------------------------------------------------------------------------o
+
+o----------------------------------------------------------------------------o
+|\___ \____          T                                                       |
+|    \____ \____   U                        Toluca Lake                      |
+|         \____ \____                                        _______________ |
+|              \____ \____                                  | ------------- ||
+|                   \____ \____                            _||__   R      _|||
+|                        \____ \____                      |_    |        |  ||
+|                             \____ \____                   | _ |        |_ ||
+|                                  \_  _ \____              | _|           |||
+|                                    || \__   \____         ||   S         |||
+|                                    ||    ||\____ \________||_____________|||
+|                                    || V  ||     \__nathan_ave____   _______|
+|                                    ||    ||                      | |     |||
+|                                    ||    ||  W                 Y |m|     |||
+|                                    ||    ||                      |u|     |||
+|                                    ||    ||                      |n|     |||
+|                                    ||    ||c                     |s|_____|||
+|                                    || X  ||a                     |o|------^|
+|                                          ||r                     |n|       |
+|                                          ||r                     | |       |
+|                                          ||o                     |s|       |
+|                                          ||l                     |t|  Z    |
+|                                          ||l                     | |       |
+|                                          ||       _______________| |_______|
+|          South Vale                      ||s     |___katz_st_____   _______|
+|                                          ||t                     | |       |
+|                                          ||                      | |       |
+|                                          ||                      | |       |
+|                                          ||                      | |       |
+|                                          ||                      | |       |
+|                                          ||                      | |       |
+|                                  ________||______________________| |       |
+|                                _/______________rendell_st________  |       |
+|                              _/_/                                | |       |
+|                            _/_/                                  | |       |
+|                          _/_/                                    | |_______|
+|                        _/_/                                      |  saul_st|
+|                      _/_/                                        | |       |
+|                     / /                                          | |       |
+o----------------------------------------------------------------------------o
+
+o- Legend -------------------------------------------------------------------o
+|                                                                            |
+|    LOCATIONS                                                               |
+|                                                                            |
+| A - Rosewater Park                    B - Silent Hill Savings Bank         |
+| C - Pet Center                        D - Wood Side Apartment              |
+| E - Blue Creek Apartment              F - St. Stella Church                |
+| G - South Silent Hill Fire Station    H - Ridgeview Medical Center         |
+| I - Big Jay's                         J - Grand Market                     |
+| K - Cafe Mist                         L - Cafe Texan                       |
+| M - Neely's Bar                       N - Gonzale's Mexican Restaurant     |
+| O - Happy Burger                      P - Flower Shop                      |
+| Q - Lucky Jade Restaurant             R - Rosewater Park                   |
+| S - Parking                           T - Boat Launch                      |
+| U - Silent Hill Historical Society    V - Pete's Bowl-O-Rama               |
+| W - Texxon Gas                        X - Heaven's Night                   |
+| Y - Jacks Inn                         Z - Blue Creek Apartment             |
+|                                                                            |
+o----------------------------------------------------------------------------o
+
+
+/
+\ ilent Hill 2 /-------------------------------------------------------------o
+/ ------o------\                     Wood Side Apartment                     |
+     (00102)    \------------------------------------------------------------o
+
+o----------------------------------------------------------------------------o
+|                                       _                                    |
+|  WOOD SIDE APARTMENT 1F              |_|_________                          |
+|                                      |_|         |                         |
+|                                      |_|        /                          |
+|                                      |/         |                          |
+|                                      ||   104   |                          |
+|                                      ||       S |                          |
+|                                      ||         |                          |
+|                                      ||_________|                          |
+|                                      ||         |               ________   |
+|                                      ||         |              |        |  |
+|           __________________         ||         |              |        |  |
+|          |               |  |        ||   103   |              |         \ |
+|          |  ___________  |  |        ||         |              |  107    | |
+|          | |           | |  |        ||         |              |         | |
+|          | |     Q     | |  |        ||_________|              |         | |
+|          | |___________| |  |        ||         |              |________ | |
+|          |    _______  __|  |        ||         |              |        O| |
+|          |/\ |       ||  |  |        ||         |              |        || |
+|          |\/ |       ||  |  |        ||   102   |              |        || |
+|          |___|_______||__|  |        ||         |              |  106   || |
+|          |                  |        ||         |              |        || |
+|          |                  |________||_________|              |        || |
+|          |                   --------  ---------               |________|| |
+|          |_________________ |        ||         |              |        || |
+|                            ||        ||         |              |        || |
+|                            ||        ||         |              |        || |
+|                            ||        ||   101   |              |  105   || |
+|                            ||        ||         |              |        || |
+|                            ||        ||       R |              |        || |
+|  __________________________||________||_________|              |_______ || |
+| |                      ____||                                      |_||| | |
+| |                     |_ _  |                                      |_|-| | |
+| |                     |_| | |                                      |_| | | |
+| |                     |_| | |_                                     |_|_| | |
+| |                     |_|_B |P|                                    |     | |
+| |                     |A   $| |                                    |     | |
+| |_____________________|_____| |____________________________________|_____| |
+o----------------------------------------------------------------------------o
+
+o----------------------------------------------------------------------------o
+|                                       _                                    |
+|  WOOD SIDE APARTMENT 2F              |_|_________                          |
+|                                      |_|         |                         |
+|                                      |_| I      /                          |
+|                                      |/         |                          |
+|                                      || $ 209   |                          |
+|                                      ||         |                          |
+|                                      ||         |                          |
+|                                      ||_________|              _________   |
+|                                      ||         |             |         |  |
+|                                      ||         |             |         |  |
+|                                      ||       G |             |          \ |
+|                                      ||   208   |             |   212    | |
+|                                      ||         |             |          | |
+|                                      ||         |             |          | |
+|                                      ||_________|             |_________ | |
+|                                      ||         |             |         || |
+|                                      ||         |             |         || |
+|                                      ||         |             |         || |
+|                                      ||   207   |             |   211   || |
+|                                      ||         |             |         || |
+|                                      ||         |             |         || |
+|                                      ||_________|             |_________|| |
+|                                      ||         |             |         || |
+|                                      ||         |             | E       || |
+|                                      ||         |             |         || |
+|                                      ||   206   |             | D 210   || |
+|                                      ||         |             |         || |
+|                                      ||         |             |         || |
+|  ____________________________________||_________|_____________|_________|| |
+| |------------------------------------------------------------------------| |
+| |          |          |____|| |           |            |           |_||| | |
+| |          |          |_ _  | |           |            |     C     |_|-| | |
+| |          |          |_| | | |           |            |           |_| | | |
+| |   201    |   202    |_| | |_|    203    |    204     |    205    |_|_| | |
+| |          | H        |_|_| | |           |            |           |     | |
+| |          |          |     | |           |            |           |     | |
+| |__________|__________|_____| |___________|____________|___________|_____| |
+o----------------------------------------------------------------------------o
+
+o----------------------------------------------------------------------------o
+|                                       _                                    |
+|  WOOD SIDE APARTMENT 3F              |_|_________                          |
+|                                      |_|         |                         |
+|                                      |_|        /                          |
+|                                      |/         |                          |
+|                                      ||   309   |                          |
+|                                      ||         |                          |
+|                                      ||         |                          |
+|                                      ||_________|                          |
+|                                      ||         |                          |
+|                                      ||         |                          |
+|                                      ||         |                          |
+|                                      ||   308   |                          |
+|                                      ||         |                          |
+|                                      ||         |                          |
+|                                      ||_________|                          |
+|                                      ||         |                          |
+|                                      ||         |                          |
+|                                      ||         |                          |
+|                                      ||   307   |                          |
+|                                      ||         |                          |
+|                                      ||  J      |                          |
+|                                      ||_________|                          |
+|                                      ||         |                          |
+|                                      ||         |                          |
+|                                      ||         |                          |
+|                                      ||   306   |                          |
+|                                      ||         |                          |
+|                                      ||         |                          |
+|  ____________________________________||_________|________________________  |
+| |---------------------------------K--------------------------------------| |
+| |          |          |____|| |           |            |           |_||| | |
+| |    F     |          |_ _  | |        N  |            |           |_|-| | |
+| |          |          |_| | | |           |            |           |_| | | |
+| |   301    |   302    |_| | |_|    303    |    304     |    305    |_|_| | |
+| |          |          |_|_| | |           |            |           |     | |
+| |          |          |     | |       L M |            |           |     | |
+| |__________|__________|_____| |___________|____________|___________|_____| |
+o----------------------------------------------------------------------------o
+
+o- Legend -------------------------------------------------------------------o
+|                                                                            |
+|    ITEMS                                                                   |
+|                                                                            |
+| A - Map of Apartment Building         B - Health Drink                     |
+| C - Flashlight                        D - Handgun Bullets                  |
+| E - Handgun Bullets                   F - Handgun                          |
+| G - Key to Room 202                   H - Clock Key                        |
+| I - Health Drink                      J - Courtyard Key                    |
+| K - Fire Escape Key                   L - First-Aid Kit                    |
+| M - Handgun Bullets                   N - Health Drink                     |
+| O - Canned Juice                      P - Coin [Old Man]                   |
+| Q - Coin [Snake]                      R - Handgun Bullets                  |
+| S - Handgun Bullets                   $ - Save Point                       |
+|                                                                            |
+o----------------------------------------------------------------------------o
+
+
+/
+\ ilent Hill 2 /-------------------------------------------------------------o
+/ ------o------\                     Blue Creek Apartment                    |
+     (00103)    \------------------------------------------------------------o
+
+o----------------------------------------------------------------------------o
+|                                                                            |
+|  BLUE CREEK APARTMENT                                                      |
+|   _________                _________                _________              |
+|  |         ||______  1F   |         ||______  2F   |         ||______  3F  |
+|  |         || ||||||      |         || ||||||      |         || ||||||     |
+|  |         ||  |||||      |         ||  |||||      |         ||  |||||     |
+|  |   108   ||______|__    |   208   ||______|__    |   308   ||______|__   |
+|  |         ||         |   |         ||         |   |         ||         |  |
+|  |         ||         |   |         ||         |   |         ||         |  |
+|  |         ||   107   |   | M $     ||   207   |   |         ||   307   |  |
+|  |         ||         |   |    N    ||         |   |         ||         |  |
+|  |_________||         |   |_________||         |   |_________||         |  |
+|  |         ||_________|   |         ||_________|   |         ||_________|  |
+|  |         ||         |   |         ||         |   |         ||         |  |
+|  |         ||         |   |         ||         |   |         ||         |  |
+|  |   109   ||   106   |   |   209   ||   206   |   |   309   ||   306   |  |
+|  |         ||         |   |         ||         |   |         ||         |  |
+|  |  IJ     ||         |   |         ||         |   |         ||         |  |
+|  |_________||_________|   |_________||_________|   |_________||_________|  |
+|       |    ||    L    |        | G  ||         |        |    ||         |  |
+|      _|____||         |       _|____||         |       _|____||         |  |
+|     | |||||||   105   |      | |||||||   205   |      | |||||||   305   |  |
+|   __|_|||||||         |    __|_||||F||         |    __|_|||||||         |  |
+|  |         ||  K   $  |   |         ||         |   |         ||         |  |
+|  |         ||_________|   |         ||_________|   |         ||_________|  |
+|  |   101   ||         |   |   201   ||         |   |   301   ||         |  |
+|  |         ||         |   |         ||         |   |         ||         |  |
+|  |         ||   104   |   |         ||   204   |   |         ||   304   |  |
+|  |_________||         |   |_________||         |   |_________||         |  |
+|  |         ||         |   |         ||         |   |         ||         |  |
+|  |         ||_________|   |         ||_________|   |         ||_________|  |
+|  |         ||         |   |         ||         |   |         ||         |  |
+|  |         ||         |   |         ||       A |   |         ||         |  |
+|  |   102   ||   103   |   |   202   ||   203 B |   |   302   ||   303   |  |
+|  |         ||         |   |         || E     C |   |         ||         |  |
+|  |         ||         |   |         ||       D |   |         ||         |  |
+|  |_________||_________|   |_________||_________|   |_________||_________|  |
+|                                                                            |
+o----------------------------------------------------------------------------o
+
+o- Legend -------------------------------------------------------------------o
+|                                                                            |
+|    ITEMS                                                                   |
+|                                                                            |
+| A - Handgun Bullets                   B - Handgun Bullets                  |
+| C - Handgun Bullets                   D - Handgun Bullets                  |
+| E - Health Drink                      F - Map of West Apt Bldg             |
+| G - First-Aid Kit                     H - Handgun Bullets                  |
+| I - Angela's Knife                    J - Coin [Prisoner]                  |
+| K - White Chrism                      L - Lyne House Key                   |
+| M - Handgun Bullets                   N - Apartment Stairway Key           |
+| $ - Save Point                                                             |
+|                                                                            |
+o----------------------------------------------------------------------------o
+
+
+/
+\ ilent Hill 2 /-------------------------------------------------------------o
+/ ------o------\                     Brookhaven Hospital                     |
+     (00104)    \------------------------------------------------------------o
+
+o----------------------------------------------------------------------------o
+|                                                        _____               |
+|  BROOKHAVEN HOSPITAL          1F           ___________| % A |____________  |
+|  ____________________________________     |6     |  ____________  |15    | |
+| |                                    |    |      | |9      |10  | |   PP | |
+| |                                    |    |      | |       |    | |______| |
+| |                                    |    |______| |  $  B |  C | |16    | |
+| |                                    |    |7     | |       |    | |      | |
+| |            Garden                  |    |      | |_______|____| |______| |
+| |                                    |    |______| |11   |12    | |17    | |
+| |                                   _|____|8     | |     |      | |__    | |
+| |                                  |5     |      | |     | G    | |  |___| |
+| |                                  |      |      | |_____|      | |__|   | |
+| |              ________            |      |______| |13 |____ ___| |18    | |
+| |             | |2 | |_|___________|      |||||| | |   |14  |     |______| |
+| |             | |  | |_|3      |   |      |----- | |   |    |     |19    | |
+| |             | |__|_|_|       |   |      ||||||_| |___|____|     |      | |
+| |_____________| |  |___|_______|___|______|    _________________  |______| |
+| |_____________%AA_______________________      |            |    | |20    | |
+| |         |  |  |     |     |     |     |_____|            |    | |      | |
+| |         |  |  |     | V   |     | DD  |4    |            |____| |      | |
+| |         |  |  |     |     |     |     |     | Day Room   |    | |      | |
+| |  Pool   |__|__| C4  | C3  | C2  | C1  |     |            |____| |      | |
+| |         |1    |     |     |     |     |     |                 | |      | |
+| |         |     |     |   U | BB  |  CC |     |                 | |      | |
+| |_________|_____|_____|_____|_____|_____|_____|_________________|_|______| |
+|                                                                            |
+|                                                                            |
+|                                                                            |
+|                                            BF                    ______    |
+|                                          _______________        |25    |   |
+|                                         |||||||| |22    |_______|      |   |
+|                                         |______| |   NN |23   | |______|   |
+|                                         |21    | |______|_____| |26    |   |
+|                                         |______|________________|______|   |
+|                                                          |24    |          |
+|                                                          |      |          |
+|                                                          |______|          |
+|                                                                            |
+o----------------------------------------------------------------------------o
+
+o----------------------------------------------------------------------------o
+|                                                  ______________            |
+|  BROOKHAVEN HOSPITAL                            |  |  |  |     |           |
+|                                                 |  |  |  |     |           |
+|                                                 |__|__|__|_____|____       |
+|                                                 |32            |33  |      |
+|                      ________             ______|______________|KK _|____  |
+|                     | |27| |_|___________|30    |||||| |       |LL|34 | P| |
+|                     | |  | |_|28|29  |   |      |-----%|       |MM|   |  | |
+|         3F          | |__|_|_| T|    |   |      ||||||_|       |__|___|  | |
+|      _______________| |  |___|__|____|___|______|     _________________  | |
+|     |__________________________________________      |            |    | | |
+|     |S |S |S | $|S |S |S |S |S |S |S |S |S |S  |_____|            |    | | |
+|     |1 |1 |1 | R|1 |9 |8 |7 |6 |5 |4 |3 |2 |1  |31   |            |____| | |
+|     |4 |3 |2 |II|0 |  |  |  |  |  |  | Q|  |   |     | Day Room   |    | | |
+| RF  |_S|__|__|JJ|__|__|__|__|__|__|__|__|__|___|     |            |____| | |
+|  ___________                                   |     |                 | | |
+| |_____| |35 |______                            |     |                 | | |
+| ||||||| |     |    |                           |_____|_________________|_| |
+| |       |_____|    |                              ________                 |
+| |                  |                             |40    | |                |
+| |                  |                             |  D E | |_____           |
+| |                  |                             |______| |42 F |          |
+| |                  |                             |41    | |_____|          |
+| |                  |                             |      | |43   |          |
+| |                  |                             |      | |     |          |
+| |                  |  ________             ______|______| |_____|__ _____  |
+| |__________________| | |36| |_|___________|38    |||||| | |   |44  |     | |
+|                      | |  | |_|37     |   |      |----- | |   |    |     | |
+|           2F         | |__|_|_|       |   | I    ||||||_| |___|____|     | |
+|         _____________| |  |___|_______|___|______|    _________________  | |
+|        |_______________________________________    H |            |    | | |
+|        |      |     |      |      |      |     |_____|            |    | | |
+|        |      |     |      |      |      |     |39   |            |____| | |
+|        |      |     |      |      |      |     |     | Day Room   |    | | |
+|        |  M6  | M5  |  M4  |  M3  |  M2  | M1  |     |            |____| | |
+|        |O   GG|     |      |      |      |     |     |      OO         | | |
+|        | N  HH|     | EE FF| LM   |   JK |     |     |                 | | |
+|        |______|_____|______|______|______|_____|_____|_________________|_| |
+|                                                                            |
+o----------------------------------------------------------------------------o
+
+o- Legend -------------------------------------------------------------------o
+|                                                                            |
+|    LOCATIONS                                                               |
+|                                                                            |
+| 1 - Shower Room                       2 - Elevator                         |
+| 3 - Bath                              4 - Rest Room                        |
+| 5 - Examining Room 2                  6 - Pharmacy                         |
+| 7 - Store Room                        8 - Visiting Room                    |
+| 9 - Reception Office                  10 - Document Room                   |
+| 11 - Examination Room                 12 - Doctor's Lounge                 |
+| 13 - Examining Room 1                 14 - Elevator                        |
+| 15 - Director's Room                  16 - Meeting Room                    |
+| 17 - Men's Washroom                   18 - Women's Washroom                |
+| 19 - Cafeteria                        20 - Kitchen                         |
+| 21 - Electrical Room                  22 - Store Room                      |
+| 23 - Elevator                         24 - Store Room                      |
+| 25 - Boiler Room                      26 - Pump Room                       |
+| 27 - Elevator                         28 - Shower Room                     |
+| 29 - Bath 3                           30 - Examining Room 4                |
+| 31 - Rest Room                        32 - Special Treatment Room          |
+| 33 - Store Room                       34 - Elevator                        |
+| 35 - Elevator Control Room            36 - Elevator                        |
+| 37 - Bath 2                           38 - Examining Room 3                |
+| 39 - Rest Room                        40 - Women's Locker Room             |
+| 41 - Nurse's Station                  42 - Men's Locker Room               |
+| 43 - Linen Room                       44 - Elevator                        |
+|                                                                            |
+|     ITEMS                                                                  |
+|                                                                            |
+| A - Map of Hospital                   B - Health Drink                     |
+| C - Purple Bull Key                   D - Shotgun                          |
+| E - Bent Needle                       F - Examination Room Key             |
+| G - Shotgun Shells                    H - Handgun Bullets                  |
+| I - First-Aid Kit                     J - Shotgun Shells                   |
+| K - Lapis Eye Key                     L - Health Drink                     |
+| M - Handgun Bullets                   N - Shotgun Shells                   |
+| O - Health Drink                      P - First-Aid Kit                    |
+| Q - Roof Key                          R - Health Drink                     |
+| S - Piece of Hair                     T - Elevator Key                     |
+| U - Handgun Bullets                   V - Shotgun Shells                   |
+| $ - Save Point                                                             |
+|                                                                            |
+|     NIGHTMARE HOSPITAL ITEMS                                               |
+|                                                                            |
+| AA - Shotgun Shells                   BB - First-Aid Kit                   |
+| CC - Handgun Bullets                  DD - Health Drink                    |
+| EE - Handgun Bullets                  FF - Health Drink                    |
+| GG - Dry Cell Battery                 HH - Basement Storeroom Key          |
+| II - Ampoule                          JJ - Handgun Bullets                 |
+| KK - Handgun Bullets                  LL - First-Aid Kit                   |
+| MM - Shotgun Shells                   NN - Shotgun Shells                  |
+| ?? - Copper Ring                      OO - Lead Ring                       |
+| PP - Hospital Lobby Key               %  - Save Point                      |
+|                                                                            |
+o----------------------------------------------------------------------------o
+
+
+/
+\ ilent Hill 2 /-------------------------------------------------------------o
+/ ------o------\                         Toluca Prison                       |
+     (00105)    \------------------------------------------------------------o
+
+o----------------------------------------------------------------------------o
+|    _________________________________                                       |
+|   |    | |    | ___________________ |    1F                                |
+|   |____| |    || | | | | | | | | | ||                                      |
+|   |    | |____||_|_|_|_|_|_|_|_|_|_||                                      |
+|   |____| |    || | | |K| | | | | | ||____________________________________  |
+|   |    | |    ||_|_|_|_|_|_|_|_|_|_||                                    | |
+|   |____| |____|E___________________ |                                    | |
+|   |RSTU| |N M ||                   ||                                    | |
+|   |____| |____||_______            ||                                    | |
+|   |    | |____||  _____|           ||                                    | |
+|   | O  | |    || | | | |           ||                                    | |
+|   | QP | |____|| |_|_| |      _____||                                    | |
+|   |__  | | $  || | | | |     |   | ||                                    | |
+|   |__|_| |____|| | | |F|     |_  | ||                                    | |
+|   |____  |    || |_|_|_|     |   | ||L                                   | |
+|   |    | |____|| | | | |     |_  | ||                                    | |
+|   |    | |    || | | | |     |   |J||                                    | |
+|   |    |_|    || |_|_|_|     |___|_||                                    | |
+|   |    |_|    || | | | |           ||                                    | |
+|   |    |_|    || |_|_|_|           ||                                    | |
+|  _|____|_|____||_______|           ||                                    | |
+| |             ||                   I|                                    | |
+| |             ||___________________||                                    | |
+| |_____________|D___________________ |                                    | |
+| |             || | | | |G| | | |H| ||____________________________________| |
+| |    $        ||_|_|_|_|_|_|_|_|_|_||                                      |
+| |  C          || | | | | | | | | | ||                                      |
+| |  B    A     ||_|_|_|_|_|_|_|_|_|_||                                      |
+| |_____________|_____________________|                                      |
+|                                                                            |
+|   B1F                                                                      |
+|  ____________                                                              |
+| |     ||     |                                                             |
+| |_____||_____|                                                             |
+| |     ||     |                                                             |
+| |_____||_____|                                        TOLUCA PRISON        |
+|      |__|                                                                  |
+|      |__|                                                                  |
+o----------------------------------------------------------------------------o
+
+o- Legend -------------------------------------------------------------------o
+|                                                                            |
+|    ITEMS                                                                   |
+|                                                                            |
+| A - Health Drink                      B - Health Drink                     |
+| C - Gluttonous Pig                    D - Handgun Bullets                  |
+| E - Map of Prison                     F - The Seductress                   |
+| G - Handgun Bullets                   H - Wax Doll                         |
+| I - Handgun Bullets                   J - Rifle Shells                     |
+| K - The Oppressor                     L - Horseshoe                        |
+| M - First-Aid Kit                     N - Lighter                          |
+| O - Health Drink                      P - First-Aid Kit                    |
+| Q - Ampoule                           R - Hunting Rifle                    |
+| S - Rifle Shells                      T - Rifle Shells                     |
+| U - Shotgun Shells                    $ - Save Point                       |
+|                                                                            |
+o----------------------------------------------------------------------------o
+
+
+/
+\ ilent Hill 2 /-------------------------------------------------------------o
+/ ------o------\                           Labyrinth                         |
+     (00106)    \------------------------------------------------------------o
+
+o----------------------------------------------------------------------------o
+|                                                                            |
+|                                LABYRINTH                                   |
+|  _____                                                                     |
+| |     |                    ||                                              |
+| |_   _|             _______||                                              |
+| |  $  |            | ______ |                                              |
+| |_____|            ||      ||                   _____    ______            |
+|     ||_____________||      ||                  |     |  |      |           |
+|     | ______  _____ |                          |     |__|      |__         |
+|     ||      ||     ||                          |      __       ||||        |
+|     ||      ||_____||_______                   |     |  |     D|--         |
+|     ||      |______|_______ |                  |_____|  |______|           |
+|                            ||                                              |
+|                                                                            |
+|                                                          ||                |
+|                                                          ||                |
+|         ||   ||            ||                            ||__              |
+|         ||   ||            ||                           _|__ |             |
+|     ____||___||            ||                          |    ||             |
+|    | _________|          __||__                        |    ||             |
+|    ||                   |      |                       |    ||             |
+|    ||                   |      |                       |____||             |
+|    ||                   |      |                       | ____|             |
+|                         |      |                       ||    |             |
+|               ___       |______|                       ||    |             |
+|              |__ |                      _______________|| H  |             |
+|         ||      ||                     |_$______________|____|             |
+|         ||      ||                               |     |                   |
+|         ||______||                               |_____|                   |
+|         |_______ |                                                         |
+|                 ||___                                                      |
+|                 || __|                                                     |
+|         ||      |||                                                        |
+|         ||______|||                                                        |
+|         |_________|                                                        |
+|   ___                 ______________                                       |
+|  |FG_|               |_E____________|                                      |
+|                                                                            |
+o----------------------------------------------------------------------------o
+
+o----------------------------------------------------------------------------o
+|                                                                            |
+|          __________            LABYRINTH                                   |
+|        / _________ \                                 _______________       |
+|       / /    ||   \ \                               |               |      |
+|      | |           | |                              | M             |      |
+|      | |   _____   | |                              |         J     |      |
+|      | |__| ABC |  | |                              |   $           |      |
+|      |  __      |  | |                              |               |      |
+|      | |  |_____|  | |                              |               |      |
+|      | |           | |                              | L           K |      |
+|      | |           | |                              |_______  ______|      |
+|       \ \____||___/ /                                       ||             |
+|        \___________/                               _____    ||             |
+|                   ________                      __| |   |   ||             |
+|                  | _______|                    |||| |   |   ||___          |
+| ||            ___||                             --|_|___|   |_I_ |         |
+| ||           |____|                                             ||         |
+| ||______________                                      ||        ||         |
+
+| |___  __________|                                     ||        ||         |
+|     ||                                                ||        ||         |
+|     ||                                                ||________||         |
+|    ________                                           | _________|         |
+|   /______  |                                          ||                   |
+|  //      |||                                          ||                   |
+| ||       |||  _____                                   ||                   |
+| || ||     || |  __ |                                  ||                   |
+| ||_||_____|| |||  ||                                  ||                   |
+| |__________| |||  ||                                  ||                   |
+|  ____        |||  ||                                                       |
+| |    |_______|||_ ||                                                       |
+| |     ________|_ |                                                         |
+| |____|  ____    ||                                                         |
+|        |    |__ ||         ||                                              |
+|        |     _ |__         ||___                                           |
+|        |_  _| |__ |        | ___|                                          |
+|          ||      ||        ||                                              |
+|          ||______||________||                                              |
+|          |__________________|                                              |
+o----------------------------------------------------------------------------o
+
+o- Legend -------------------------------------------------------------------o
+|                                                                            |
+|    ITEMS                                                                   |
+|                                                                            |
+| A - Great Knife                       B - Shotgun Shells                   |
+| C - Shotgun Shells                    D - Wire Cutter                      |
+| E - Handgun Bullets                   F - Handgun Bullets                  |
+| G - Handgun Bullets                   H - Key of the Persecuted            |
+| I - First-Aid Kit                     J - Shotgun Shells                   |
+| K - Shotgun Shells                    L - Shotgun Shells                   |
+| M - Ampoule                           $ - Save Point                       |
+|                                                                            |
+o----------------------------------------------------------------------------o
+
+
+/
+\ ilent Hill 2 /-------------------------------------------------------------o
+/ ------o------\                        Lakeview Hotel                       |
+     (00107)    \------------------------------------------------------------o
+
+o----------------------------------------------------------------------------o
+|                                                                            |
+|  LAKEVIEW HOTEL B1F                                                        |
+|                                                                            |
+|                                                                            |
+|                                                                            |
+|                                                                            |
+|                                                                            |
+|                                                                            |
+|                                                                            |
+|                                                                            |
+|                                                                            |
+|                                                                            |
+|                                                                            |
+|                                                                            |
+|                                                                            |
+|                         _________________                                  |
+|                        |_______________  |                _ _________      |
+|                        |1   |2   |_____| |               | |||||||||||     |
+|                        |    |    |_____| |               | |||||||||||     |
+|                        |____|____|_____| |               | |_________|     |
+|                                        | |           ____| |8        |     |
+|                                        | |__________|6|7|  |         |     |
+|                                       _|____________|+|_|  |_________|___  |
+|                                      |3      |4     |    |  _____|10     | |
+|                                      |       |      |____| |9    |     ^ | |
+|                                      |       |      |      |     |       | |
+|                                      |       | &*() |______|     |  %    | |
+|                                      |       |      |5     |     |       | |
+|                                      |       |______|      |     |_______| |
+|                                      |       |      |      |_____|         |
+|                                      |_______|      |______|               |
+|                                                                            |
+|                                                                            |
+|                                                                            |
+|                                                                            |
+|                                                                            |
+|                                                                            |
+|                                                                            |
+o----------------------------------------------------------------------------o
+
+o----------------------------------------------------------------------------o
+|                                                                            |
+|  LAKEVIEW HOTEL 1F                                                         |
+|  ______________________                           ______________________   |
+| |          ||          |                         |28 |   |     |31 |    |  |
+| |   101    ||   102    |                         |   |   |     |   |    |  |
+| |          ||          |                         |___|   |_____|___|____|  |
+| |__________||__________|                         |   |   |29   |  ______|  |
+| |          ||          |                         |   |   |     | |      |  |
+| |          ||          |                         |___|___|_____| |      |  |
+| |   103    ||   104    |    _________________    |27   | |30   | |      |  |
+| |          ||          |   |                 |   | !@  | |     | |      |  |
+| |__________||__________|   | $      =        |   |     | |_____| |______|  |
+| |          ||          |   |                 |   |     |  _____  |33    |  |
+| |          ||          |   |     Lobby       |   |     | |32   |_|      |  |
+| |   105    ||   106    |   |                 |   |  ___| |      |       |  |
+| |          ||          |   |                 |___|_|26 | |      |       |  |
+| |__________||__________|   |       ___       |23 | |   | |      |_ _____|  |
+| |          ||          |   |      |___|      |   |_|___| |      | |34   |  |
+| |          ||          |   |      |___|      |___|25   | |______| |     |  |
+| |   107    ||   108    |   |      |___|      |24 |     | | |||| | |_____|  |
+| |          ||          |___|      |___|      |   |     | |------| |35   |  |
+| |__________||_________|_||_|      |___|      |   |  YZ | |_||||_| |     |  |
+| |          ||11  |12  |_||_|      |___|      |___|_____|   _______|_____|  |
+| |          ||    |    |_||_|      |___|      | |18|22|X   |19 |20 |21   |  |
+| |   109    ||    |    |_||_|      |___|      | |  |  |    |   |   |   # |  |
+| |          ||____|____|_||_|______|___|______| |__|__|    |___|___|_____|  |
+| |__________||______________________   _________|________________________|  |
+| |          ||    13    |14 |       | |                 |15        |16   |  |
+| |          ||    ||    |   |       | |                 |          |     |  |
+| |   110    ||    ||    |   |       | |    Restaurant   |          |     |  |
+| |          ||    ||    |   |       | |   "Lake Shore"  |          |     |  |
+| |__________||____||____|   |       | |                 |          |_____|  |
+| |          ||    ||    |   |       | |                 |          |17   |  |
+| |          ||    ||    |___|       | |           B     |          |     |  |
+| |   111    || CD ||    |     Cafe  | |                 |          |     |  |
+| |          || EF ||    |  "Toluca" |A|                 |          |     |  |
+| |__________||____||____|___________|_|_________________|__________|_____|  |
+|                                                                            |
+o----------------------------------------------------------------------------o
+
+o----------------------------------------------------------------------------o
+|                                                                            |
+|  LAKEVIEW HOTEL 2F                                                         |
+|  ______________________                           ______________________   |
+| |          ||          |                         |          ||          |  |
+| |   201    ||   202    |                         |          ||          |  |
+| |          ||       S  |                         |   219    ||   220    |  |
+| |__________||__________|                         |          ||          |  |
+| |          ||          |                         |__________||__________|  |
+| |          ||       R  |                         |          ||          |  |
+| |   203    ||   204    |    _________________    |          ||          |  |
+| |          ||          |   |                 |   |   217    ||   218    |  |
+| |__________||__________|   |                 |   |          ||          |  |
+| |          ||          |   |                 |   |__________||__________|  |
+| |          ||          |   |                 |   |          ||          |  |
+| |   205    ||   206    |   |                 |   |          ||          |  |
+| |          ||          |   |                 |   |   215    ||   216    |  |
+| |__________||__________|   |                 |   |          ||          |  |
+| |          ||          |   |                 |   |__________||__________|  |
+| |          ||          |   |                 |   |          ||          |  |
+| |   207    ||   208    |   |                 |   |   213    ||   214    |  |
+| |          ||          |___|                 |   |          ||          |  |
+| |__________||_________|_||_|       ___       |___|__________||__________|  |
+| |          ||36  |37  |_||_|      |___|      |U|__|45|      ||          |  |
+| |          ||    |    |_||_|      |___|      | |44|  |   VW ||   212    |  |
+| |   209    ||    |    |_||_|      |___|      | |  |  | $    ||          |  |
+| |          ||____|____|_||_|______|___|______|T|__|__|______||__________|  |
+| |__________|________  ____________________________  _________|          |  |
+| |           |38     ||40   |                 |41  ||43 |                |  |
+| |           |       || GH  |                 |    ||   |                |  |
+| |           |       || IJ  |                 |    ||   |                |  |
+| |           |_______|| KL  |                 |____||_  |                |  |
+| |   210     |39     ||_____|      Hall       |42     | |       211      |  |
+| |           |       ||     |                 |       |_|                |  |
+| |           |  O    ||     |                 |____     |                |  |
+| |           |       ||     |                 |    |    |                |  |
+| |           | Q   P |M     |                 |    |    |                |  |
+| |___________|_______|N_____|_________________|____|____|________________|  |
+|                                                                            |
+o----------------------------------------------------------------------------o
+
+o----------------------------------------------------------------------------o
+|                                                                            |
+|  LAKEVIEW HOTEL 3F                                                        |
+|  ______________________                           ______________________   |
+| |          ||          |                         |          ||          |  |
+| |   301    ||   302    |                         |          ||          |  |
+| |          ||          |                         |   323    ||   324    |  |
+| |__________||__________|                         |          ||          |  |
+| |          ||          |                         |__________||__________|  |
+| |          ||          |                         |          ||          |  |
+| |   303    ||   304    |                         |          ||          |  |
+| |          ||          |                         |   321    ||   322    |  |
+| |__________||__________|                         |          ||          |  |
+| |          ||          |                         |__________||__________|  |
+| |          ||          |                         |          ||          |  |
+| |   305    ||   306    |                         |          ||          |  |
+| |          ||          |                         |   319    ||   320    |  |
+| |__________||__________|                         |          ||          |  |
+| |          ||          |                         |__________||__________|  |
+| |          ||          |                         |          ||          |  |
+| |   307    ||   308    |                         |   317    ||   318    |  |
+| |          ||          |___                      |          ||          |  |
+| |__________||_________|_||_|                  ___|__________||__________|  |
+| |          ||46  |    |_||_|                 | |__|50|      ||          |  |
+| |          ||    |    |_||_|                 | |49|  |      ||   316    |  |
+| |   309    ||    |    |_||_|                 | |  |  |      ||          |  |
+| |          ||____|____|_||_|_________________| |__|__|______||__________|  |
+| |__________|________  _______________________________________|          |  |
+| |           |        |47      |48        |        |        |            |  |
+| |           |        |        |          |        |        |            |  |
+| |           |        |        |          |        |        |            |  |
+| |           |        |        |          |        |        |            |  |
+| |   310     |  311   |  312   |          |  313   |  314   |    315     |  |
+| |           |        |        |          |        |        |            |  |
+| |           |        |        |          |        |        |            |  |
+| |           |        |        |__________|        |        |            |  |
+| |           |        |        |          |        |        |            |  |
+| |___________|________|________|__________|________|________|____________|  |
+|                                                                            |
+o----------------------------------------------------------------------------o
+
+o- Legend -------------------------------------------------------------------o
+|                                                                            |
+|    LOCATIONS                                                               |
+|                                                                            |
+| 1 - Women's Washroom                  2 - Men's Washroom                   |
+| 3 - Bar "Venus Tears"                 4 - Kitchen                          |
+| 5 - Electrical Room                   6 - Elevator                         |
+| 7 - Elevator                          8 - Store Room                       |
+| 9 - Pump Room                         10 - Boiler Room                     |
+| 11 - Women's Washroom                 12 - Men's Washroom                  |
+| 13 - Store room                       14 - Kitchen                         |
+| 15 - Kitchen                          16 - Employee Cafeteria              |
+| 17 - Dishroom                         18 - Elevator                        |
+| 19 - Refrigerator Room                20 - Freezer Room                    |
+| 21 - Pantry                           22 - Elevator                        |
+| 23 - Gift Shop                        24 - Reception                       |
+| 25 - Office                           26 - Telephone Operator's Room       |
+| 27 - Employee Lounge                  28 - Manager's Residence             |
+| 29 - Men's Locker Room                30 - Women's Locker Room             |
+| 31 - Security Office                  32 - Laundry Room                    |
+| 33 - Manager's Office                 34 - Women's Washroom                |
+| 35 - Men's Washroom                   36 - Women's Washroom                |
+| 37 - Men's Washroom                   38 - Lounge                          |
+| 39 - Reading Room                     40 - Cloak Room                      |
+| 41 - Hall Anteroom                    42 - Service Room                    |
+| 43 - Store Room                       44 - Elevator                        |
+| 45 - Elevator                         46 - Women's Washroom                |
+| 47 - Men's Washroom                   48 - Observation Room                |
+| 49 - Elevator                         50 - Elevator                        |
+|                                                                            |
+|     ITEMS                                                                  |
+|                                                                            |
+| A - Hotel Map (Guests)                B - Fish Key                         |
+| C - Rifle Shells                      D - Handgun Bullets                  |
+| E - Handgun Bullets                   F - Handgun Bullets                  |
+| G - First-Aid Kit                     H - Shotgun Shells                   |
+| I - Shotgun Shells                    J - Handgun Bullets                  |
+| K - Handgun Bullets                   L - Key to Room 204                  |
+| M - Handgun Bullets                   N - Handgun Bullets                  |
+| O - Shotgun Shells                    P - Shotgun Shells                   |
+| Q - Health Drink                      R - Employee Elevator Key            |
+| S - Cinderella                        T - Health Drink                     |
+| U - Rifle Shells                      V - Health Drink                     |
+| W - Health Drink                      X - Hotel Map (Employees)            |
+| Y - Videotape                         Z - Can Opener                       |
+| ! - Rifle Shells                      @ - Rifle Shells                     |
+| # - Snow White                        % - Bar Key                          |
+| ^ - First-Aid Kit                     & - Health Drink                     |
+| * - Health Drink                      ( - Health Drink                     |
+| ) - Lightbulb                         = - Hotel Stairway Key               |
+| + - Thinner                           $ - Save Point                       |
+|                                                                            |
+o----------------------------------------------------------------------------o
+
+
+O============================================================================O
+|                                Version History                     (01003) |
+O============================================================================O
+
+Version 0.25 - (January 6th, 2005)   - Began the walkthrough
+Version 0.50 - (January 7th, 2005)   - Continued the walkthrough
+Version 0.75 - (January 8th, 2005)   - Continued the walkthrough
+Version 1.00 - (January 9th, 2005)   - Completed the walkthrough
+Version 1.01 - (February 2nd, 2005)  - Small updates
+
+
+O============================================================================O
+|                                    Legal                           (01004) |
+O============================================================================O
+
+This document is copyright (c) 2007 by A I e x.
+
+I am no longer active writing guides for video games, and thus I will no
+longer any questions or update with any corrections sent through email.  It
+is likely that after this point this guide will never be updated again.  I am
+aware that there are errors occasionally and I apologize for those.  Please
+do not email me any corrections, or ask me for any help with this particular
+game, as I will not respond.
+
+It is also not necessary to send any email to thank me for the work, I will
+say right now that you are very welcome.  
+
+Furthermore, please do not contact me about hosting this guide on your website,
+I will not grant permisson.  I am still willing to take action if I find this
+guide being hosted anywhere other than GameFAQs.com, IGN.com, or a very small
+number of other select sites.
+
+Finally, if you need to contact me for some reason that is not covered above, 
+then you can reach me at StarOceanDC(a.t)gmail(d.o.t)com.  
+
+
+O============================================================================O
+|                                   Credits                          (01005) |
+O============================================================================O
+
+Thanks to CVXFREAK and Minesweeper for writing such a great walkthrough
+
+Thanks to CJayC for continuing to keep GameFAQs running smoothly, and the same 
+to Sailor Bacon.  Thanks to Sean, Mark and Jeremy here at the University of 
+Guelph, thanks to everyone in the GameFAQs FAQ contributor community for being 
+great people, and thanks to everyone who takes the time to send feedback.
+
+Thank you very much finally, to anyone and everyone reading this walkthrough.
+
+O============================================================================O
+

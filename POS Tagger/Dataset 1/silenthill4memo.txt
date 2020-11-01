@@ -1,0 +1,1918 @@
+
+
+    ____  _ _            _     _   _ _ _ _   __  __                      
+   / ___|(_) | ___ _ __ | |_  | | | (_) | | |  \/  | ___ _ __ ___   ___  
+   \___ \| | |/ _ \ '_ \| __| | |_| | | | | | |\/| |/ _ \ '_ ` _ \ / _ \ 
+    ___) | | |  __/ | | | |_  |  _  | | | | | |  | |  __/ | | | | | (_) |
+   |____/|_|_|\___|_| |_|\__| |_| |_|_|_|_| |_|  |_|\___|_| |_| |_|\___/ 
+                                                                      
+                   _                _           _     
+                  / \   _ __   __ _| |_   _ ___(_)___ 
+                 / _ \ | '_ \ / _` | | | | / __| / __|
+                / ___ \| | | | (_| | | |_| \__ \ \__ \
+               /_/   \_\_| |_|\__,_|_|\__, |___/_|___/
+                                      |___/          
+
+SILENT HILL 4: THE ROOM MEMO ANALYSIS
+
+Copyright 2007 by Sean "Mephianse" Dickinson
+
+WARNING WARNING WARNING: There are spoilers past this point. If you haven't 
+completed the game yet, stop reading right now and don't come back until 
+you're done, because key plot points will be revealed and dissected. You have 
+been warned.
+
+
+___ _ _________ ____ __ _ _____ _ __________ __ _ _____________ __ _ _____ __
+
+
+
+--TABLE OF CONTENTS--
+
+Use the Search function of your Internet browser (commonly Ctrl + F for PCs) 
+to quickly find the information you are looking for. Use the terms in the 
+[brackets] for faster searching. For example, if you want to get to the list 
+of all the memos, you would use the phrase [03memos].
+
+Legal crap. . . . . . . . . . . . . . . . . . . . . . . . . . . . . [01legal]
+
+Version history . . . . . . . . . . . . . . . . . . . . . . . . . [02version]
+
+Introduction. . . . . . . . . . . . . . . . . . . . . . . . . . . . [03intro]
+
+About this FAQ (FRIGGIN' READ IT) . . . . . . . . . . . . . . . . . [04about]
+
+Memos list. . . . . . . . . . . . . . . . . . . . . . . . . . . . . [05memos]
+
+A few notes on the red diaries. . . . . . . . . . . . . . . . . .[reddiaries]
+
+When you're done / Mini-FAQ . . . . . . . . . . . . . . . . . . . . [06after]
+
+Credits/Thanks. . . . . . . . . . . . . . . . . . . . . . . . . . .[07thanks]
+
+
+___ _ _________ ____ __ _ _____ _ __________ __ _ _____________ __ _ _____ __
+
+
+
+Version history . . . . . . . . . . . . . . . . . . . . . . . . . [02version]
+
+1.0
+6/15/2007: FAQ started.
+
+1.1
+6/17/2007: Cleaned up and spellchecked, submitted.
+
+1.2
+6/21/2007: Corrected minor spelling and formatting errors, updated legal and
+contact information.
+
+___ _ _________ ____ __ _ _____ _ __________ __ _ _____________ __ _ _____ __
+
+
+
+Legal crap. . . . . . . . . . . . . . . . . . . . . . . . . . . . . [01legal]
+
+This work may be not be reproduced under any circumstances except for 
+personal, private use. It may not be placed on any web site or otherwise 
+distributed publicly without advance written permission. Use of this guide on 
+any other web site or as a part of any public display is strictly prohibited, 
+and a violation of copyright. All trademarks and copyrights contained in this 
+document are owned by their respective trademark and copyright holders. 
+(Thanks GameFAQs boilerplate!)
+
+These websites and these websites only have the rights to publish this FAQ:
+www.gamefaqs.com
+www.supercheats.com
+www.neoseeker.com
+
+
+___ _ _________ ____ __ _ _____ _ __________ __ _ _____________ __ _ _____ __
+
+
+
+Introduction. . . . . . . . . . . . . . . . . . . . . . . . . . . . [03intro]
+
+Hi there, I'm Mephianse and welcome to my first attempt at an FAQ. I figured 
+I'd start off small and with a game I know pretty well, so I thought than an 
+analysis of all the memos you come across in the game would be important for 
+any serious student of Silent Hill. You can learn a great deal about what's 
+going on in the games from just the memos, if you scrutinize them closely and 
+have a basic idea about how certain functions of the game work, like Walter's 
+world. There's a lot of reading between the lines to be done to really 
+decipher everything in some of the wordier memos, so I thought I'd save you 
+some time and write this bad boy up for your future attempts to try and figure 
+out just what the hell is going on in room 302. If you'd like to get ahold of 
+me in regards to anything you see in this document, you are more than welcome 
+to contact me at the following locations (as long as you can be polite). 
+Please include "Silent Hill 4" somewhere in your subject line / initial IM, so 
+that I know why you're talking to me.
+
+E-mail: sean (dot) paul (dot) dickinson (at) comcast (dot) net.
+AOL Instant Messenger: Mephianse.
+
+
+___ _ _________ ____ __ _ _____ _ __________ __ _ _____________ __ _ _____ __
+
+
+
+About this FAQ (FRIGGIN' READ IT) . . . . . . . . . . . . . . . . . [04about]
+
+
+I have tried as hard as I possibly could to leave this guide free of 
+conjecture and my own personal theories and leave you with nothing but the 
+cold, hard truth, laid bare for your examination. I will always accept what 
+happens in the game over what I may think, and I will never, EVER present any 
+information that doesn't have some solid in-game backup. That's why the memos 
+are such an invaluable source of information, they're written in plain English 
+and they're CANON, no ifs ands or buts. If there are any uncertainties, I will 
+provide any and all possible options to leave things as open to your own 
+interpretation as I possibly can. However, with a series of games as open to 
+interpretation as Silent Hill is, sometimes going out on a limb is 
+unavoidable. Don't take my word as gospel, this is just as near as I can 
+decipher the memos in the game. Use it as a starting point for your own 
+conclusion about what really happened. That's way more fun than believing an 
+outside source, anyway. I've got my own theories, sure, but they don't belong 
+in an FAQ that should be based in fact.
+
+I assume you have a basic understanding of the plot of Silent Hill 4 and know 
+character names, locations, and other points of interest. If you don't, a lot 
+of this isn't going to make sense. Play through the game again or read a plot 
+guide. I try not to use abbreviations, since I feel it makes things sound too 
+much like jargon and I want to keep this guide easy and readable. If you 
+haven't played through the game at all, stop reading this and go play it right 
+now. Go on, hurry up. This guide will be here when you're done, I promise.
+
+This is not a plot guide. There are several excellent ones out there, and 
+plenty right here at GameFAQs. If you're looking for a plot breakdown, you're 
+in the wrong place.
+
+
+
+___ _ _________ ____ __ _ _____ _ __________ __ _ _____________ __ _ _____ __
+
+
+
+Memos list. . . . . . . . . . . . . . . . . . . . . . . . . . . . . [05memos]
+
+What follows is a complete list of all the memos Henry collects in his 
+scrapbook, along with their meanings and hidden subtext revealed. Also 
+included is an index of all the memo titles, so you can turn on your copy of 
+SH4, find the memo you're curious about, and go from there. As with the titles 
+of the sections, you can simply use your browser's search function to find the 
+memo you'd like. So if you want to know what's up with the Old Picture Book, 
+you'd type "[28]" (without the quotes) into your browser's search function.
+
+[01] First Letter
+[02] Book Scrap
+[03] Jasper's Memo Pad
+[04] Holy Scripture Scrap
+[05] Exploration Memo
+[06] Guard's Diary
+[07] Waterwheel Room Plate Message
+[08] Prison Diary
+[09] 1F Surveillance Room Report
+[10] 2F Surveillance Room Report
+[11] Secret Number Memo
+[12] Superintendent's Memo
+[13] Bartender's Memo
+[14] Mike's Diary: July 1
+[15] Mike's Diary: July 2
+[16] Superintendent's Diary (Umbilical Cord)
+[17] Mike's Love Letter
+[18] Nurse's Memo
+[19] Kid's Letter
+[20] Jasper's Burned Memo
+[21] Wheelchair Doll Text
+[22] Descent of the Holy Mother - The 21 Sacraments
+[23] Note from the Bloody Prisoner's Shirt
+[24] Reminisces
+[25] Later Bartender's Memo
+[26] Superintendent's Diary (Man with the Coat)
+[27] Crimson Tome
+[28] Old Picture Book
+[29] Red Diary - April 4
+[30] Red Diary - April 8
+[31] Red Diary - May 2
+[32] Red Diary - May 14
+[33] Red Diary - May 20
+[34] Red Diary Scrap
+[35] Red Diary Scrap (Cont.)
+[36] Red Diary - June 11
+[37] Red Diary - June 14
+[38] Red Diary - July 13
+[39] Red Diary - July 17
+[40] Red Diary - July 18
+[41] Red Diary - July 20 
+[42] Red Diary - July 23
+[43] Red Diary - July 25
+[44] Red Diary - July 28
+[45] Red Diary - July 29
+[46] Red Diary - August 2
+[47] Red Diary - August 3
+[48] Red Diary - August 4
+[49] Red Diary - August 5
+[50] Red Diary - August 7
+[51] Red Diary - ??/??
+[52] Joseph's Letter
+[53] Joseph's Article
+
+
+
+[1] --FIRST LETTER--
+
+"Mom,
+Why doesn't u Wake up?"
+
+A letter from Walter to his "mother", room 302. He thinks she isn't "awake" 
+and he's wondering why she won't talk to him/let him inside.
+
+[2] --BOOK SCRAP--
+
+"Through the Ritual of the Holy Assumption, he built a world.
+It exists in a space separate from the world of our Lord.
+More accurately, it is within, yet without the Lord's world.
+Unlike the world of our Lord, it is a world in extreme flux.
+Unexpected doors or walls, moving floors, odd creatures, a world only he can
+control...
+Anyone swallowed up by that world will live there for eternity, undying.
+They will haunt that realm as a spirit.
+How can our Lord forgive such an abomination...?
+(This part of the book is too damaged to read.)
+...It is important to travel lightly in that world. He who carries too heavy
+a burden will regret it...
+(The book is too damaged to read any more.)"
+
+-"Through the Ritual of the Holy Assumption, he built a world."
+The Ritual of the Holy Assumption frees you from your physical body and lets 
+you make a world however you desire. Walter underwent this ten years ago as 
+part of his goal to revive his mother. Note that the "he" referred to in the 
+memo isn't Walter specifically, since no one could know what Walter's doing 
+and relay that information to Henry, save Joseph. Besides, this isn't written 
+like the other stuff we get from Joseph. It's probably a excerpt from a 
+religious text.
+
+-"It exists in a space separate from the world of our Lord.
+More accurately, it is within, yet without the Lord's world."
+Walter's world isn't really part of our world. You can't really take your 
+physical body there. Henry's crawling through the holes to get to Walter's 
+world is simply symbolic, he's really just passing out and his consciousness 
+is 
+sucked into Walter's world. It's why he wakes up on his bed when you return, 
+rather than coming back out of the hole. The holes are just a way for Henry to 
+concentrate on what he's doing rather than lying down and passing out. 
+Remember Henry's line, "But I do know that if you get killed here... Then you 
+die in the real world too..."? He knows Walter's world isn't completely real 
+and realizes the distinction between Walter's world and the real one (leaving 
+your body behind as something to return to when you leave Walter's world, lest 
+you get stuck there).
+
+-"Unlike the world of our Lord, it is a world in extreme flux.
+Unexpected doors or walls, moving floors, odd creatures, a world only he can 
+control..."
+You've seen how messed up Walter's world is. It's because he can do anything 
+he wants to with it. He's not bound by any of the laws that exist in our 
+world, so if he feels like making a door twenty feet high or filling an entire 
+room with a freakish Eileen head, he damn well can. And of course, since it's 
+Walter's world, only he can do these things. But it seems Walter actually 
+didn't have a whole lot of control in designing his world, it's mainly cobbled 
+together from fragments of childhood memories and repressed, painful, and 
+buried thoughts. Why else would Walter's world look so... incomplete? The only 
+thing that isn't rusted out, bloody or worn down is room 302, since it's the 
+only thing Walter cares about.
+
+-"Anyone swallowed up by that world will live there for eternity, undying. 
+They will haunt that realm as a spirit."
+A reference to the ghosts who dog you throughout the game. They're Walter's 
+victims, and since they were killed by Walter, they're irrevocably tied to his 
+world, never to leave.
+
+-"How can our Lord forgive such an abomination...?"
+Distinctly Christian stuff here. The Book Scrap may either be from a Christian 
+cult that opposed the Order, or it could be from the rival sect of the Order 
+(as in, not the sect that taught Walter the scriptures.)
+
+-"...It is important to travel lightly in that world. He who carries too heavy 
+a burden will regret it..."
+It's obviously important to be careful in Walter's world, unless you want to 
+end up hacked into little pieces or have your heart crushed or whatever it is 
+the ghosts do. As for carrying a heavy burden, that could mean a few things. 
+Several characters in the Silent Hill games carry heavy burdens (just about 
+everyone in SH2, for example), and the Otherworld used it against them. Henry 
+isn't carrying too much, guilt-wise, but it certainly doesn't mean he's safe, 
+as he's vital to Walter's goal. His burden could be his agonizing trek through 
+the various places he's subjected to. Or perhaps Henry's complete selflessness 
+makes him vulnerable to the ruthless Walter.
+
+[3] --JASPER'S MEMO PAD--
+
+"I'm not sure what that nosy guy meant when he said:
+'His home is the orphanage
+in the middle. The lake is northwest.
+So the opposite is southeast.'
+The nosy guy said one other thing I
+don't understand.
+'If you bring the dug-up key,
+you can't go back.
+Put it away somewhere before
+you return there.'"
+
+-"I'm not sure what that nosy guy meant."
+The "nosy guy" is Joseph, victim number 15. He underwent much of what Henry 
+did, to fulfill his role as the Giver of Wisdom, even though he didn't know it 
+and thought he was just researching Walter.
+
+The rest of this memo is a puzzle clue.
+
+[4] --HOLY SCRIPTURE SCRAP--
+
+"The Second Sign
+And God said,
+Offer the Blood of the Ten Sinners
+and the White Oil.
+Be then released from the bonds of the flesh, and gain the Power of Heaven.
+From the Darkness and Void, bring forth Gloom,
+and gird thyself with Despair for the Giver of Wisdom.
+The Third Sign
+And God said,
+Return to the Source through sin's Temptation.
+Under the Watchful eye of the demon, wander alone in the formless Chaos.
+Only then will the Four Atonements
+be in alignment."
+
+This will be explained in the entry for "Descent of the Holy Mother - The 21 
+Sacraments."
+
+[5] --EXPLORATION MEMO--
+
+"Lucky! I finally escaped from the cell.
+I decided to take a careful look around this building.
+The scariest place was the 1st floor basement. There's a kitchen in the
+northeast, but next door in the northwest is a death chamber.
+To get in there, you have to punch in the right numbers. I don't know the
+numbers, and it was too dark to even see the panel, so I didn't go in."
+
+-"The scariest place was the 1st floor basement. There's a kitchen in the
+northeast, but next door in the northwest is a death chamber."
+There probably wasn't a "death chamber" in the water prison. The children 
+simply speculated about it, because the water prison was a terrible place and 
+they were scared. The only reason it exists in Walter's world is because he 
+shaped his world subconsciously around his childhood memories, and talk of 
+a "death room" stuck with him. Who could forget something that harrowing?
+
+The rest of this memo is a puzzle clue.
+
+[6] --GUARD'S DIARY--
+
+"To get to the surveillance rooms in the middle of this complex, you have to 
+use
+the corpse disposal chutes in the cells.
+However, on the 1st and 2nd floors, these cells are locked. That's so the kids
+wouldn't discover them.
+So you have to get to the 1st floor from one of the cells on the 3rd floor. I
+know how to do it, but it's really a pain. Also, the lights only work on the
+2nd floor."
+
+Mostly just background info for solving the water prison puzzles, but look at 
+how nonchalantly they discuss "corpse disposal chutes". Either the cult was 
+paying these guys really well, they were true believers, or they were just all-
+out sickos.
+
+The rest of this memo is a puzzle clue.
+
+[7] --WATERWHEEL ROOM PLATE MESSAGE--
+
+"To turn on the lights in the 3rd floor cells, turn this waterwheel. Remember
+that the water must flow in the direction of the waterwheel. Of course, you 
+also
+have to open the sluice gate on the roof."
+
+This memo is a puzzle clue.
+
+[8] --PRISON DIARY--
+
+"We had beef stew yesterday.
+In the cafeteria, I heard there's a death chamber behind the kitchen, and they
+take meat straight from the dead people and cook it.
+That really scared me."
+
+Hints that there probably isn't a death room, just word-of-mouth rumors. 
+Remember, these are all kids, all of which are probably cold, scared, and 
+lonely. The cult is sick, yeah, but they don't show any evidence of 
+cannibalism in previous games. That's a big thing to hold back.
+
+The rest of this memo is a puzzle clue.
+
+[9] --1F SURVEILLANCE ROOM REPORT--
+
+"This place continues to deteriorate.
+The doors to a number of cells no longer open. As a result, the kids inside can
+no longer go outside. But the less they now about that, the better.
+I can't open the doors, but from this room, I can watch them get more and more
+emaciated each day. With no food and never showering themselves, they turn into
+smelly little grey slumps in there.
+Following the suggestion of an engineer, we've disposed of the corpses by
+digging a hole below the cells. Since each floor of this building can be 
+rotated
+independently, we can dispose of the bodies without the others noticing by
+aligning each cell with a body in it vertically.
+P.S.
+Chief,
+I bet you're just dying to see the interrogation room behind the kitchen.
+I understand your feelings, but have you noticed?
+There are three rooms with bloody beds. One is on the 1st floor, one is on the
+2nd floor, and one is on the 3rd floor. If you line those three rooms up, then
+it's 'bingo."
+
+This is mostly a puzzle clue, but the slightly jaunty way of writing about 
+such nasty things has always disturbed me. There's obvious disdain for the 
+unwilling occupants of the tiny cells, and complete disregard for their well-
+being or even basic health and hygiene. I'm willing to bet the guy who wrote 
+this particular diary was a cultist, and a devout one at that, as you couldn't 
+trust an outsider with this kind of stuff.
+
+The rest of this memo is a puzzle clue.
+
+[10] --2F SURVEILLANCE ROOM REPORT--
+
+"To keep a close eye on the kids,
+it's important to keep the cells well lit.
+The lights on the 3rd floor were
+originally bought as searchlights.
+As a precaution against a blackout, they were set up to run on a private
+generator. There's a hydroelectric generator in the basement. To light up the
+1st and 2nd floors, use the corpse disposal chutes.
+Since each floor of this building can be rotated, you can light up any of the
+cells by matching up the holes.
+Repeating this periodically is an effective way to keep the kids fearful and
+well-behaved.
+P.S.
+Chief,
+if you turn the valve in the middle of this room, you can easily rotate the
+cells. You can't rotate the 1st floor, so align the 2nd and 3rd floors with the
+1st floor cell that have the blood-stained bed.
+By the way, if you're using the peephole in this room, it's easy to make sure
+you're doing it right. Give it a try.
+Also, please don't forget to open the sluice gate on the roof.
+Much appreciated, Chief!"
+
+Again, mostly a puzzle clue with that same disregard for the pain they're 
+inflicting.
+
+[11] --SECRET NUMBER MEMO--
+
+"The Secret Number for getting through the door in back of the kitchen this 
+month
+is '0302.'
+Thanks for your cooperation."
+
+This doesn't need an analysis, plot- or gameplay-wise. If you don't get this, 
+trade in your copy of Silent Hill 4 for a nice coloring book or something.
+
+[12] --SUPERINTENDENT'S MEMO--
+
+"(It's stained with blood, and I can't read it...)"
+
+The Super slips this under your door before you venture into the Apartment 
+world. When he wrote on it, it was obviously clean, but it comes into your 
+room illegible. However, when you slip bloody scraps of paper under your door 
+in the Apartment world and check them out when you return to your apartment 
+via a hole, you can read them. It probably goes to show how the two different 
+worlds (the "real" world vs. Walter's world) aren't compatible and are 
+constantly at odds with one another. It may be referencing the Book Scrap 
+("How can our Lord forgive such an abomination...?")
+
+[13] --BARTENDER'S MEMO--
+
+"The boss said that the number this time is the last 4 digits of this store's
+phone number. But the phone number is written right there on the sign on the
+roof. Anybody could see it from South Ashfield Street. Is that really okay?"
+
+This memo is a puzzle clue. But trying dialing the number on the billboard 
+from the phone in Henry's bedroom for a little something.
+
+[14] --MIKE'S DIARY: JULY 1--
+
+"The last few months, Joseph, the guy next door to me who gave me that rare 
+porn
+magazine, looks like he's been work super hard.
+He said if he found another rare one, he'd give it to me but he hasn't shown 
+his
+face around much lately.
+He said he was a journalist and he is always investigating stuff.
+But I think something strange is going on with him. He's been shut in his
+apartment and I can hear all these weird noises coming from there."
+
+-"The last few months, Joseph, the guy next door to me who gave me that rare 
+porn magazine, looks like he's been work super hard."
+Well Mike, he HAS been sort of wrapped up in descending deeper and deeper into 
+Walter's nightmare world. You'd look worn-out too.
+
+-"He said if he found another rare one, he'd give it to me but he hasn't shown 
+his face around much lately."
+Joseph is losing his control and can't resist the pull of Walter's world much 
+when Mike wrote this, so it's becoming harder and harder for him to leave room 
+302.
+
+-"He said he was a journalist and he is always investigating stuff.
+But I think something strange is going on with him. He's been shut in his
+apartment and I can hear all these weird noises coming from there."
+Joseph's unwilling forays into Walter's world do cross the threshold of the 
+two realities, and as such, the "real" world and Walter's world overlap at 
+times as described in the Book Scrap ("It exists in a space separate from the 
+world of our Lord. More accurately, it is within, yet without the Lord's 
+world.") Joseph is in room 302 when Mike hears the noises, and at the same 
+time, he isn't. Mike could be hearing Walter's world slowly invading room 302, 
+or he may be hearing Joseph's muffled cries for help.
+
+What's interesting to note about Mike's diaries and, for that matter, all the 
+memos you find in the Apartment world, is that there's no way they could be 
+there without either Walter having read it or their writers going to Walter's 
+world. If Walter hasn't seen it, doesn't know about it, or hasn't conjured it, 
+it doesn't exist in his world, unless someone else adds it. And the only way 
+to add something to Walter's world is to be in it. It's why we see Frank's 
+diaries scattered around, there are several obvious hints that Frank has been 
+to Walter's world a few times. The best explanation for all the tenant's memos 
+lying around is that all of South Ashfield Heights is influenced by Walter's 
+world. Frank's all the way down in room 105 and he's been to Walter's world 
+(probably without even Walter knowing he was drawn in, due to the growing 
+power of Walter's world thanks to the murders), so the influence of Walter's 
+world extends far outside of room 302. Hell, Walter managed to kill a guy in 
+MEXICO (victim 14, Tony Archbolt) when he was still enshrined in room 302. 
+Walter's influence is far-reaching indeed.
+
+[15] --MIKE'S DIARY: JULY 2--
+
+"Oh my beautiful Rachael,
+What's with the note on the red paper?
+I thought you'd written a note back to me...
+But I guess maybe it was somewhere else...
+He took it along with my clothes.
+Those were my best clothes."
+
+-"Oh my beautiful Rachael, what's with the note on the red paper?"
+Mike's obviously obsessed with Rachel. As for the note on the red paper, Henry 
+seems to be getting a lot of those, too. It might be Joseph, wandering in the 
+Apartment world, slipping notes under people's doors and asking for help. But 
+if the Superintendent's Memo is any point of reference, they wouldn't be able 
+to read it (Clean in one world, bloody in the next).
+
+-"I thought you'd written a note back to me... But I guess maybe it was 
+somewhere else..."
+No dice, stalker. Rachel isn't too find of Mike. What woman would LIKE a 
+creepy stalker, especially when said woman is already obviously attached to 
+someone else?
+
+"He took it along with my clothes. Those were my best clothes."
+"He" is Richard Braintree. Mike's referring to the "skinned Mike" incident, 
+set off by Richard's explosive temper. Remember, Mike wasn't really skinned, 
+Richard just beat him up. It didn't stop little Walter from thinking Mike 
+really got skinned, though. Still, that's not cool, Richard. He's a weirdo 
+stalker, yeah, but you need to take some Valium or something.
+
+The rest of this memo is a puzzle clue.
+
+[16] --SUPERINTENDENT'S DIARY (UMBILICAL CORD)--
+
+"The red box seems even stranger today.
+It's giving off a terrible smell.
+It's disgusting, but I just can't throw it away.
+It must have been around 30 years ago. That young couple was living in the
+apartment, but one day they just suddenly disappeared.
+Ran off just like thieves in the night.
+I don't know why. It must have been money troubles, or maybe they got 
+themselves
+into some kind of danger.
+The problem came after that. They left their newborn baby when they took off.
+I even found the umbilical cord.
+I called the ambulance right away and I heard the baby survived, but I don't
+know what happened to him.
+Although a few years later, I often saw a young kid hanging around the
+apartment.
+One day he just stopped coming by.
+But now that I think of it, I'll bet he was that abandoned baby.
+It's a horrible story.
+Abandoning a newborn baby...
+That all happened in Room 302...
+And the umbilical cord I found there...
+Well, I still can't get myself to throw it away."
+
+-"The red box seems even stranger today. It's giving off a terrible smell. 
+It's disgusting, but I just can't throw it away."
+It's no wonder the box seems strange. It's the most important piece of 
+Walter's physical body since it ties him and his "mother" together physically, 
+mentally and emotionally, and with Walter's strong otherworldly presence in 
+South Ashfield Heights, I'm not surprised Frank is worried by it. It would 
+explain why he can't throw it away, either.
+
+-"It must have been around 30 years ago. That young couple was living in the 
+apartment, but one day they just suddenly disappeared.
+Ran off just like thieves in the night."
+They most likely ran off because of Walter's father. If we're to believe 
+Walter's memories of his father, he didn't want a child, and felt that 
+abandoning it would be the best course of action, regardless of what it would 
+do to the baby.
+
+-"I don't know why. It must have been money troubles, or maybe they got 
+themselves into some kind of danger."
+Again, Walter's dad is just a heartless jerk and didn't want a child. They may 
+have had some other unspecified trouble such as money issues, but it doesn't 
+matter that much. What does matter is that Walter's father WANTED to leave him 
+behind, and had no compunctions about doing so, forming the bedrock for 
+Walter's psychosis.
+
+-"The problem came after that. They left their newborn baby when they took 
+off. I even found the umbilical cord."
+The newborn baby WAS the problem and why they took off. Seems pretty gruesome, 
+doesn't it? Give birth, cut the cord, then run like a bat out of hell. No 
+wonder Walter's messed up.
+
+-"I called the ambulance right away and I heard the baby survived, but I don't 
+know what happened to him. Although a few years later, I often saw a young kid 
+hanging around the apartment. One day he just stopped coming by."
+Frank knows more about Walter than he's aware of. Since Frank's got ahold of 
+Walter's umbilical cord, he's subject to Walter's supernatural powers, more so 
+than the other residents of South Ashfield Heights. After all, Frank is the 
+only one who makes any mention of having been to Walter's world, even if it is 
+a vague one. Or it might be because of Walter's strong presence in South 
+Ashfield Heights. How else could his diary end up in Walter's world? There's 
+no way Walter ever read it, especially this entry (since Walter was dead by 
+the time this was written and can't interact with the real world unless he 
+pulls a person through to his world). And the only other way people can 
+influence Walter's world is by going into it, so... Frank obviously took a 
+trip or two himself, and just doesn't know what was going on. A later diary 
+entry by Frank, the Superintendent's Diary (Man with the Coat) details a 
+strange "dream" Frank has... either way, he visited Walter's world and stayed 
+long enough to leave a little piece of himself behind for others to see.
+
+-"But now that I think of it, I'll bet he was that abandoned baby."
+Gee, you think? You're a swift one, Frank.
+
+-"It's a horrible story. Abandoning a newborn baby... That all happened in 
+Room 302... And the umbilical cord I found there... Well, I still can't get 
+myself to throw it away."
+One of your first big insights to what makes Walter tick. He was abandoned in 
+302, and eventually comes to think of it as his mother. Frank's right, it IS a 
+horrible story.
+
+[17] --MIKE'S LOVE LETTER--
+
+"Rachael...
+...love you...always
+watching...window...
+protect you...ith love,
+Mike"
+
+Another insight into the twisted mind of the stalker extraordinaire, Mike. His 
+love is unrequited. Probably because he's a freakin' stalker. However, he does 
+make mention of watching Rachel from the window, which can tip you off that 
+looking out your apartment window and spying on your neighbors can yield 
+some... interesting results.
+
+[18] --NURSE'S MEMO--
+
+"I lost Eileen Galvin's hospital room key.
+She was a patient brought in with severe injuries.
+I wonder if I left it in one of the other hospital rooms. I really hope not..."
+
+Pretty much a puzzle clue, but my main concern is: Why were they locking 
+Eileen up? She was in no condition to walk right when she was first admitted, 
+and there's no way her injuries were self-inflicted, so she wouldn't be on 
+suicide watch. Maybe because of the distinctive numbers carved on her back and 
+the police having suspicions about a Walter Sullivan copycat, the hospital 
+staff and the police were worried about the killer showing up to finish the 
+job.
+
+The rest of this memo is a puzzle clue.
+
+[19] --KID'S LETTER--
+
+"Mommy, I'll giv you this so pleez wake up soon.
+It's inside my toy train."
+
+Another letter from Walter to his "mother". Is he giving her gifts as an 
+incentive to wake up, or this the young, innocent side of Walter you see 
+wandering around actually trying to help Henry out of some misguided 
+benevolence? Your call... but I vote it's a gift to "mommy".
+
+The rest of this memo is a puzzle clue.
+
+[20] --JASPER'S BURNED MEMO--
+
+"Something's here but nothing's here.
+I feel something from the well.
+Something's missing.
+Aaaaaaaahhhh!!!!!
+It has begun!!!
+
+Jasper"
+
+-"Something's here but nothing's here."
+Remember, Walter's world operates on no specific rules, save what Walter 
+wants. There are things there (ghosts, Wish House, the Mother Stone, Jasper 
+himself, etc.), but at the same time, none of it really exists. Jasper may be 
+coming to realize his new role in Walter's world as simply a spirit haunting 
+it.
+
+-"Something's missing."
+A lot could be considered "missing" in Walter's world. The actual physical 
+world, perhaps? A sense of reason and coherence? The ability to leave of your 
+own will? Or he may simply be hinting at the wheelchair doll puzzle.
+
+-"Aaaaaaaahhhh!!!!! It has begun!!!"
+Jasper's an occult nut, so he could just be babbling. But he probably isn't. 
+I'm willing to bet that he's referring to Walter drawing closer and closer to 
+completing the ritual. He would just be entering the Last Sign, after all... 
+only Eileen and Henry left.
+
+[21] --WHEELCHAIR DOLL TEXT--
+
+"Though my body be destroyed,
+I will not let you pass here.
+To prepare for the Receiver of Wisdom...
+I cut my body into five pieces and hid them in the darkness.
+When my body is once again whole, the path to below will be opened.
+If you are the Receiver of Wisdom, you will understand my words.
+The ritual has begun..."
+
+-"To prepare for the Receiver of Wisdom..."
+That'd be you, Henry. Dig out those ears and listen up!
+
+-"If you are the Receiver of Wisdom, you will understand my words. The ritual 
+has begun..."
+Henry is the Receiver of Wisdom, so there's no doubt he'll understand what the 
+charred doll is talking about. And like we mentioned earlier, Walter just 
+started the Last Sign, all he has left to do is kill Eileen and Henry. We're 
+nearing the climax.
+
+The rest of this memo is a puzzle clue.
+
+[22] --DESCENT OF THE HOLY MOTHER-THE 21 SACRAMENTS--
+
+The First Sign
+And God said,
+At the time of fullness, cleanse the world with my rage.
+Gather forth the White Oil, the Black Cup and the Blood of the Ten Sinners.
+Prepare for the Ritual of the Holy Assumption.
+
+-"Time of Fullness." Makes it sound like the ritual has to be performed at 
+some opportune time. This probably doesn't deal with Walter so much as it does 
+the cult leaders who taught him the ritual. Maybe Walter's abandonment and 
+conditioning made him ideal for the ritual.
+
+-"Cleanse the world with my rage."
+The cult probably sees this as they always do, as in "Paradise by killing 
+everyone so they can be happy in nothingness." Sounds pretty par for the 
+course for the Valtiel sect, but I have to wonder if Walter didn't question 
+this. Does "rage" sound like something Walter's ideal loving mother would 
+partake in? Walter seems to think he's going to purify his mother from the 
+world's sins, but really, it's the other way around (his "mother" is purifying 
+the world of sin.) Might be a translation error, or Walter just not believing 
+something that doesn't fit into his grand scheme. Then again, Walter was 
+forced to memorize this as a child. He's said these words so many times, 
+they've probably lost their meaning to him and the entire thing translates 
+to "revive mother and be happy" for him now.
+
+-"Gather forth the White Oil, the Black Cup and the Blood of the Ten Sinners." 
+The White Oil and Black Cup are obviously tied with rebirth, as we witness in 
+Silent Hill 2 ("Rebirth" ending, "Born From a Wish" scenario.) He wouldn't 
+need the Crimson Ceremony or the Book of Lost Memories as James would, since 
+Walter is already familiar with the cult's teachings. Since Walter would be no 
+good as a dead man, he needed the oil and the cup to bring himself back to 
+life, or at least prevent his consciousness from disappearing. So he takes the 
+oil, the cup, and the hearts, and performs the ritual. Maybe this would 
+explain why no one else in the series has been successful with the whole 
+rebirth thing, they're missing the ten hearts. You can potentially make a case 
+that James was successful in reviving Mary in the "Rebirth" ending, but you'd 
+just be speculating.
+
+-"Prepare for the Ritual of the Holy Assumption."
+Pretty simple. After getting the Blood of the Ten Sinners, White Oil and Black 
+Cup, perform the Ritual of the Holy Assumption. It doesn't exactly state how 
+the ritual is performed, but Walter is obviously well-versed in cult teachings 
+and pulls it off.
+
+The Second Sign
+And God said,
+Offer the Blood of the Ten Sinners and the White Oil.
+Be then release from the bonds of the flesh, and gain the Power of Heaven.
+From the Darkness and Void, bring forth Gloom,
+and gird thyself with Despair for the Giver of Wisdom.
+
+-"Offer the Blood of the Ten Sinners and the White Oil."
+No mention of the Black Cup this time around, maybe it's used to hold either 
+the blood or the oil. Either way, make some kind of offering with it. Probably 
+to the cult's god.
+
+-"Be then release from the bonds of the flesh, and gain the Power of Heaven."
+The line about releasing from the bonds of flesh should be obvious: Abandon 
+your physical body. Gaining the power of "heaven" means that you have control 
+over your own realm (see Book Scrap) and can mold it as you see fit. Walter's 
+world is designed mostly from his childhood memories of the places that were 
+focal to his development (Wish House, the water prison, South Ashfield 
+Heights). It's also influenced by his childhood fears, which explains why a 
+lot of the foes you come across look like freakish facsimilies of people. 
+Remember, Walter was taught that the outside world was bad and scary, and it 
+shows in how he constructed the people as part of his world. Chances are, his 
+world wasn't formed by conscious thought, but rather cobbled together from his 
+memories as a child.
+
+-"From the Darkness and Void, bring forth Gloom,
+and gird thyself with Despair for the Giver of Wisdom."
+Darkness, Void, Gloom and Despair are all murder themes. Darkness and Void 
+probably refer to Walter's world which is obviously a sad, scary place. Gloom 
+could refer to the bad feelings he brings to his victims. Walter's plenty 
+girded in Despair, as he led a horrible, lonely life. Giver of Wisdom isn't a 
+murder theme, rather, it's a person (Joseph Schreiber). Walter had to have 
+some background stuff to pass on so the Giver of Wisdom would have some wisdom 
+to impart to the Receiver (Henry).
+
+The Third Sign
+And God said,
+Return to the Source through sin's Temptation.
+Under the Watchful eye of the demon, wander alone in the formless Chaos.
+Only then will the Four Atonements be in alignment.
+
+-"Return to the Source through sin's Temptation."
+Two more murder themes, Source and Temptation. Walter botches this one and 
+doesn't follow the murders in the same order as depicted in the scriptures, 
+though. Outside of the obvious murder themes, you can draw a lot of 
+conclusions from this. The Source is probably his original goal (reviving his 
+mother), or it could be the innermost part of himself where the final battle 
+takes place. Sin's Temptation may refer to his victims, all of which 
+were "Sinners".
+
+-"Under the Watchful eye of the demon, wander alone in the formless Chaos."
+The Watchful eye of the demon is most likely the cult's god(s), watching and 
+observing his progress. They'd obviously have a stake in Walter's success. He 
+obviously does wander alone in the formless Chaos (his world). Sure, he isn't 
+alone since Eileen and Henry are both there, but in many respects, he is 
+alone. Eileen and Henry don't want to be there, Walter wants them to be so he 
+can complete his mad scheme. He pops up wherever he feels like. He can't be 
+killed. It's his world, other people are just visiting at his behest. He is 
+alone.
+
+-"Only then will the Four Atonements be in alignment."
+There is never any mention of these Four Atonements. They could really be 
+anything you want to infer. As far as I can tell, it's the four cards you find 
+to create the second hole in the laundry room.
+
+The Last Sign
+And God said, separate from the flesh too, she who is the Mother Reborn and he
+who is the Receiver of Wisdom.
+If this be done, by the Mystery of the 21 Sacraments, the Mother shall be 
+reborn
+and the Nation of Sin shall be redeemed.
+
+-"And God said, separate from the flesh too, she who is the Mother Reborn."
+Push aside the flowery language and it's obvious: Kill the Mother Reborn, 
+which is obviously Eileen.
+
+-"And he who is the Receiver of Wisdom."
+Henry. Duh.
+
+-"If this be done, by the Mystery of the 21 Sacraments, the Mother shall be 
+reborn and the Nation of Sin shall be redeemed."
+The cult's ultimate goal: Revive their god. It's one of those nasty "Paradise 
+by killing everyone so they can be happy" kind of things. Yeah, redeem our 
+sins by killing all of us. GREAT idea.
+
+[23] --NOTE FROM THE BLOODY PRISONER'S SHIRT--
+
+"My room is on the 2nd floor and I had to drink something with black things in
+it. I hid the sword with the triangle handle under my bed. That guy, the fat
+one, took the basement key. Next time I'll stick this triangle sword into that
+pig and take the key."
+
+-"My room is on the 2nd floor and I had to drink something with black things 
+in it."
+Those leeches on the wall are black, aren't they? Ewww. DeSalvo's a sick 
+puppy, alright. It may have some significance with the cult, or it could be 
+DeSalvo being DeSalvo and torturing kids.
+
+-"I hid the sword with the triangle handle under my bed."
+A Sword of Obedience, they have a triangular hilt.
+
+-"That guy, the fat one, took the basement key."
+Again, he's talking about DeSalvo.
+
+-"Next time I'll stick this triangle sword into that pig and take the key."
+If you are at all surprised that the inhabitants of the water prison feel 
+angry about being locked up in there and would do almost anything to get out, 
+there's something wrong with you.
+
+[24] --REMINISCES--
+
+"I want to go back to that time...
+Things were so good then...
+The day of my birthday...
+The cute cat in the pet store...
+All those balls in the basket...
+Playing pool was fun too...
+The door of time was wide open...
+When I see four things,
+I can't help but remember that time..."
+
+This is a memo from the first ghost you see in the Building world, the one 
+with the Sword of Obedience stuck in his belly. He was murdered on his 
+birthday, and it's no wonder he has fond memories. Nostalgia aside, it's a 
+puzzle clue.
+
+[25] --LATER BARTENDER'S MEMO--
+
+"The boss said we had to change our phone number 'cause all of the complaints
+about the weird noises. Now we have to change the store sign on the roof. What
+a pain.
+By the way, the number is the last 4 digits of the new phone number. Not too
+smart if you ask me..."
+
+-"The boss said we had to change our phone number 'cause all of the complaints 
+about the weird noises."
+Ever tried dialing the number for the bar from Henry's phone? Try it. It's fun.
+
+[26] --SUPERINTENDENT'S DIARY (MAN WITH THE COAT)--
+
+"I had that weird dream today.
+The one with the man with the long hair and coat. He was crying and looking for
+his mother again.
+I saw that man with the coat 10 years ago at this apartment.
+He was going up the stairs, carrying a heavy tool, and old-looking bowl and a
+bag that was dripping blood.
+I never saw him again after that.
+But a few days later, the neighbors complained that they heard strange noises
+coming from the supposedly empty Room 302.
+So I took a look around Room 302 and found signs that someone had been in 
+there,
+but nothing odd other than that.
+But that's when it all started.
+I still hear strange noises coming from the window of Room 302.
+
+Sunderland"
+
+-"I had that weird dream today."
+Frank's dreaming about Walter's world too, hmm? We all know that Walter is 
+dead and buried, and the only way you can come in contact with him is to pay a 
+visit to his world. That would explain how Frank's diaries seem to find their 
+way into Walter's world...
+
+-"The one with the man with the long hair and coat. He was crying and looking 
+for his mother again."
+I really doubt that Walter is looking for his mother. He knows exactly where 
+his "mother" is, and what he has to do to wake her up. Besides, Walter isn't 
+the crying type, that's Wally's territory. So why could Walter be crying? 
+Maybe because he lead such an amazingly depressing life, that would make 
+plenty of sense. But I still don't buy Walter crying, when Wally's around. 
+This line was probably just added because it sounds cool, or it may have been 
+a translation slip-up.
+
+-"I saw that man with the coat 10 years ago at this apartment."
+That's a point of contention. Was Walter dead before he showed up at room 302 
+and performed the Ritual of the Holy Assumption? That's a can of worms I'm not 
+willing to open here, read a plot guide instead. This is just a memo analysis.
+
+-"He was going up the stairs, carrying a heavy tool, and old-looking bowl and 
+a bag that was dripping blood."
+The heavy tool is the Great Knife you see lying on the table of the secret 
+room in 302. The old-looking bowl is the Black Cup. The bag that was dripping 
+blood was holding the Blood of the Ten Sinners (or more specifically, their 
+hearts).
+
+-"I never saw him again after that."
+Don't feel too bad, Frank. No one did. You're just unlucky enough to be the 
+super of South Ashfield Heights.
+
+-"But a few days later, the neighbors complained that they heard strange 
+noises coming from the supposedly empty Room 302."
+The "noises" could be a lot of things. Maybe Walter didn't have full control 
+of his new powers, and as his twisted world was being created, it spilled into 
+our world a little bit. Maybe Walter was still alive in there (He was SEWN TO 
+A CROSS, for God's sake. You'd make noises too before kicking the bucket, and 
+it would take a few days.) But the noises are most likely Walter's world 
+crossing the boundaries a teensy bit. It obviously does that from time to time.
+
+-"So I took a look around Room 302 and found signs that someone had been in 
+there, but nothing odd other than that."
+Frank obviously didn't notice the newly blocked-off wall to the room where 
+Walter performed the Ritual of the Holy Assumption, which makes me question 
+just how good a super this guy is when he doesn't notice whole freakin' rooms 
+just missing. He didn't notice anything too huge, just a sign or two that 
+someone was in there, like tracks on the carpet (he couldn't have seen blood, 
+the blocked wall, or anything else suspicious). Makes you wonder why Frank 
+didn't let Joseph or Henry know about this, huh? "A guy dragged a bloody bag 
+up to this apartment and went inside, but we never found him. Did I tell you 
+about the move-in special?" Maybe Walter's world held some tiny amount of sway 
+over him and prevented him from letting potential tenants know about 302's... 
+issues. It would help explain why Frank can't get rid of the umbilical cord 
+and didn't notice an entire room of 302 missing, too.
+
+-"But that's when it all started. I still hear strange noises coming from the 
+window of Room 302."
+It actually started 34 years ago when Walter was born, but I'll let you slide 
+on that one, Frank. And since room 302 is definitely not normal, strange 
+noises are par for the course. Again, the noises are probably Walter's world 
+overlapping with ours. Or in this case, he could be hearing Henry's muffled 
+pounding and cries for help, he just can't figure out what they are.
+
+
+[27] --CRIMSON TOME--
+
+"'Crimson Tome'
+
+She who is called the "Holy Mother" be not holy one whit.
+The "Descent of the Holy Mother" is naught but the Descent of the Devil.
+Those that be called the "21 Sacraments" be not sacramental one whit.
+The "21 Sacraments" be naught but the 21 Heresies.
+To give birth to a world of wickedness within the blessed realm of our Lord be
+blasphemy and the work of the Devil.
+If thou would stop the Descent of the Devil, you must bury part of the
+Conjurer's mother's flesh within the Conjurer's true body.
+Thou must also pierce the Conjurer's flesh with the 8 spears of "Void",
+"Darkness", "Gloom", "Despair", "Temptation", "Source", "Watchfulness" and
+"Chaos."
+Do so and the Conjurer's unholy flesh will become that which once it was, by
+the grace of our Lord."
+
+Poetic junk aside, this is mostly a clue (use umbilical cord on fetus thing 
+and stab it with spears to defeat Walter). There are a few interesting points, 
+though.
+
+-"'Crimson Tome'"
+Joseph obviously got his hands on this bad boy somehow, as it appears in room 
+302 of the past. But where does it come from? Joseph was pretty intent on 
+Walter and the Order, so we can assume he found it somewhere during his 
+investigation of one or the other. Is it a religious text from the rival 
+faction of the Order? It would make sense, wouldn't it? Is the Book Scrap also 
+a part of the Crimson Tome? Again, it would make sense, seeing as a lot of the 
+memos you find in 302 are Joseph's doing (Red Diaries and whatnot). Besides, 
+Walter sure as hell wouldn't want you to see this, as it goes against his God, 
+his religion, and his goal. And look at how it rags on the Sacraments, the 
+Holy Mother, the whole shebang. An outside cult probably wouldn't have this 
+much knowledge of the Order's inner working, so I think it's safe to say the 
+Crimson Tome is part of the rival sect's teachings.
+
+-"If thou would stop the Descent of the Devil, you must bury part of the
+Conjurer's mother's flesh within the Conjurer's true body."
+Conjurer = creator of his own world (he "conjured" it) = Walter. Wait... that 
+ugly white deformed thing is Walter's TRUE body? I don't have much to say on 
+that subject, that's just gross.
+
+-"Thou must also pierce the Conjurer's flesh with the 8 spears of 'Void',
+'Darkness', 'Gloom', 'Despair', 'Temptation', 'Source', 'Watchfulness' 
+and 'Chaos.'"
+It's no coincidence that the eight spears you have to stab Walter with are all 
+murder themes. The first ten murders were all part of the same binding theme 
+(Ten Hearts / Ten Sinners) and weren't too important. You'll notice "Mother 
+Reborn" and "Receiver of Wisdom" aren't on the list, since Walter obviously 
+hasn't taken care of them yet. That only leaves eight other people, all of 
+whom had to fit a specific archetype to work for Walter's plan. Stabbing 
+Walter 
+with spears named after them could symbolic of Henry robbing Walter of the 
+power he gleaned from their deaths, or it could be symbolic of these eight 
+people getting their revenge on Walter. Both of those explanations work pretty 
+well for me.
+
+-"Do so and the Conjurer's unholy flesh will become that which once it was, by 
+the grace of our Lord."
+The "grace of our Lord?" Boy, sometimes the cult sounds like your everyday, 
+run-of-the-mill religious nutjobs, and sometimes they have to get all pseudo-
+Christian on us. It's a head job, alright. Oh yeah, their "Lord" probably 
+wouldn't be doing us any favors, anyway. The cult's gods have a bit of a bad 
+track record.
+
+[28] --OLD PICTURE BOOK--
+
+"There once was a baby and a mother who were connected by a magical cord.
+But one day the cord was cut, and the mother went to sleep.
+The baby was left all alone.
+But the baby made lots of friends at Wish House, and everyone was very nice to
+him.
+The baby was happy.
+His friends told him how to wake up his mother.
+So the baby went right away to go and wake her up.
+But the mother wouldn't wake up.
+No matter how he tried, she wouldn't wake up.
+Because the one that he was trying to wake up was actually the Devil.
+The baby has been deceived.
+Poor baby.
+The baby cried and cried and cried.
+When he thought of the mother, he remembered the feelings of being connected to
+her through the magical cord.
+Just then, a ray of light came down from the sky.
+The light was very warm and made the baby feel good.
+When the baby looked into his hand, he saw that the magical cord was lying
+there.
+With the cord clutched in his hand, the baby went happily to sleep."
+
+-"There once was a baby and a mother who were connected by a magical cord."
+Walter really does believe that his umbilical cord links him to room 302. In a 
+way, it does, but not in the way he wants. But Walter probably doesn't know 
+this, otherwise I'll bet Frank would have ditched that nasty thing years ago.
+
+-"But one day the cord was cut, and the mother went to sleep. The baby was 
+left all alone."
+The cord being cut sounds symbolic of the beginning of Walter's sadness and 
+subsequent break with reality. It's here he decides he wants to perform the 
+ritual, so he won't have to be alone and unhappy. We never really know exactly 
+when Walter and reality part ways. It could have been at Wish House, or when 
+he was a student at Pleasant River, or some indeterminate time between during 
+one of his many visits to room 302. However, my money's on his time at Wish 
+House. Since Wally seems to represent Walter's more innocent and benign half, 
+Wally is probably Walter right before they split.
+
+-"His friends told him how to wake up his mother. So the baby went right away 
+to go and wake her up. No matter how he tried, she wouldn't wake up. Because 
+the one that he was trying to wake up was actually the Devil. The baby has 
+been deceived."
+Ah ha, now THIS is interesting. This has to be Joseph's doing, Walter would 
+definitely not like seeing this. Walter believes so much that what he's doing 
+is really waking up his mother, when all along, it's the cult's devil (or the 
+devil as another faction sees it). So doesn't it seem like Walter was used by 
+the wackos in Wish House to revive their God? Ding ding ding! Why else would 
+they teach all those kids the sacraments, treat them so harshly, and teach 
+them the outside world is evil and scary? They were conditioning future 
+cultists, and due to Walter's scarred psyche and suggestibility, they groomed 
+him to perform the ritual. Walter was used, deceived and lied to from the very 
+beginning, all for the cult's own good. I'm starting to hate these guys even 
+more as each subsequent game comes out. Some "friends" they are.
+
+-"Poor baby. The baby cried and cried and cried."
+I really don't blame the baby for this one, he really got the short end of the 
+stick. But Walter's grief is his driving force to achieve his goal, which the 
+sick cultist had to have planned on.
+
+-"When he thought of the mother, he remembered the feelings of being connected 
+to her through the magical cord."
+The cord seems to symbolize Walter's happiness with his mother here. Thing is, 
+Walter has never been really happy. He was only with his "mother" for a few 
+hours at most before Frank found him and got him to Saint Jerome's hospital. 
+Is that the only happiness Walter's ever had, a slight few hours right after 
+he was born that he probably doesn't even remember? That might very well be, 
+aside from a few (very brief) moments scattered throughout his life (Eileen 
+giving him the doll, for example). Walter's striving for a goal he can't 
+achieve. I'm also willing to bet Walter has at least some idea that he won't 
+get anything out of this, too. But he's come too far to stop now.
+
+-"When the baby looked into his hand, he saw that the magical cord was lying 
+there. With the cord clutched in his hand, the baby went happily to sleep."
+Apparently, all Walter needs to do is hold the cord for whatever reason. Since 
+the umbilical cord was Walter's link to his mother, he'd want to keep it 
+around if it had a chance of reconnecting him with his "mother". Lucky for us, 
+since we need it to ice his crazy ass.
+
+
+___ _ _________ ____ __ _ _____ _ __________ __ _ _____________ __ _ _____ __
+
+
+
+A few notes on the red diaries. . . . . . . . . . . . . . . . . .[reddiaries]
+
+The Red Diaries given to you by Joseph Schreiber contain some of the most 
+important information in the game. As the Giver of Wisdom, it's Joseph's job 
+to make sure that Henry knows exactly what's going on. As the Receiver of 
+Wisdom, it's Henry's job (and yours, by proxy) to take the information to 
+heart.
+
+It should be obvious at this point, but I'll say it anyway. Joseph went 
+through most of, if not all of, what Henry went through. He visited much of 
+Walter's world to gained the knowledge required of the Giver of Wisdom. How 
+else would he know about the Swords of Obedience, Holy Candles, Saint 
+Medallions, and all that other stuff? How else could he prepare for his role 
+as the Giver of Wisdom?
+
+Joseph gives you pages of the Red Diary in pieces for a reason. If he gave it 
+to you all at once, Henry would become the Receiver of Wisdom too early (i.e. 
+before Walter had killed his way up to Henry's number).
+
+It's debatable as to whether Joseph knows he's the Giver of Wisdom. He knows 
+Henry is the Receiver of Wisdom as evidenced by a Red Diary entry and your 
+conversation with him, but if he knew he was the Giver, he probably wouldn't 
+have given Henry the Red Diaries. With no information, Henry can't become the 
+Receiver of Wisdom, and Walter has no final victim. On the other hand, at the 
+point Joseph is giving you the Red Diary entries, he could be just a puppet of 
+Walter's world with no will of his own. But that's not entirely possible, 
+because Joseph knows how to stop Walter, and lets you know about it, too. But 
+then again (again), maybe knowing how to stop Walter is part of the Receiver 
+of Wisdom's role, and he's supposed to fail. There isn't enough information 
+provided in the game to be certain. I like to believe that Joseph is unaware 
+of the role he's playing and just thinks he's helping Henry, but we can't be 
+sure.
+
+Many of Joseph's entries are self-explanatory, so they won't need much 
+commenting. However, when it's needed, I'll do my best to clarify what Joseph 
+means and uncover any hidden meanings.
+
+It can be hard to tell, but from in-game events and Red Diary entries we can 
+pinpoint how long Joseph was stuck in room 302. We know that Henry moves into 
+302 six months after the previous tenant disappears and lives there for two 
+years before the same fate befalls him. We know that when Joseph started 
+writing his diary, Walter had been dead for seven years. Joseph's diary spans 
+April to August (five months) of an unspecified year. We know that when we 
+begin the game as Henry, Walter has been dead for ten years. If you start 
+Joseph off at seven years after Walter's death and place Henry at ten years 
+after Walter's death, Joseph only has six months to write his diary and die, 
+because for six months the apartment was vacant and the other 2 years Henry's 
+living in room 302. Since Joseph's diary spans 5 of those months and he can't 
+exactly die between April 4th and August 7th, he must have died somewhere 
+between August 8th and September 8th. After that the apartment was vacant for 
+six months, then Henry moves in for the two years leading up to the game. He 
+couldn't have died in the 2 1/2 years of his "disappearance", since we know 
+that your physical body can't be drawn into Walter's world, only your 
+consciousness. That leaves the only time of death for Joseph between August 
+8th 
+and September 8th.
+
+___ _ _________ ____ __ _ _____ _ __________ __ _ _____________ __ _ _____ __
+
+
+[29] --RED DIARY - APRIL 4--
+
+"Lately I've been feeling like my life is in serious danger.
+I've been through a lot in my life, but I've never felt this kind of pure,
+animal fear.
+In case something happens to me, I've decided to write down what I've learned
+for whoever you are that's living on the apartment now.
+I've been investigating the mass murder that took place 7 years ago in which
+10 people were killed in 10 days.
+They were killed in a variety of ways, but the one thing they had in common
+was that each corpse had the following numbers, in order of their deaths,
+carved into them:
+01121, 02121, 03121,
+04121, 05121, 06121,
+07121, 08121, 09121,
+10121 ... The name of their killer... it was carved in as well...
+His name was...Walter Sullivan."
+
+-"In case something happens to me, I've decided to write down what I've learned
+for whoever you are that's living on the apartment now."
+It seems that Joseph is already preparing himself for his role as Giver of 
+Wisdom, whether he knows it or not. This was written while his death was 
+possible, yes, but it wouldn't happen for a little while yet.
+
+[30] --RED DIARY - APRIL 8--
+
+"Although the cult itself is gone, I'm sure the spirit of it is still alive.
+There are too many strange things happening in that town.
+I'm investigating two people. Or maybe I should say just one. I've just about
+discovered what's going on."
+
+-"Although the cult itself is gone, I'm sure the spirit of it is still alive."
+Joseph contradicts himself. He knows that the Order existed, and that they ran 
+Wish House (see Joseph's Article), yet now he's certain the cult is gone. He 
+may be referring to the main sect of the cult responsible for the whole 
+Alessa / Cheryl / Heather mess, or he may be hinting at Silent Hill's 
+otherworldly phenomenon. But it's certain that at least some offshoots of it 
+still exist unless it was very recently eradicated. Since Joseph's article 
+contains no date and all the Red Diary entries have no dated years, this is 
+entirely possible. But it is much more probable that a sect or two still 
+exists in one way or another.
+
+-"I'm investigating two people. Or maybe I should say just one. I've just about
+discovered what's going on."
+Joseph is referring to Walter Sullivan and the alleged "copycat" murders. Even 
+this early, he believes that Walter is killing from beyond the grave. If he's 
+that easy to convince, he must have had a hard time being a fair and impartial 
+reporter.
+
+[31] --RED DIARY - MAY 2--
+
+"I figured out the riddle behind the numbers.
+"01121" is actually "01/21."
+In other words, 1 out of 21.
+So Walter was planning to kill 21 people...?
+But he never finished the job.
+He was convicted for the murders of Billy and Miriam Locane, the 7th and 8th
+victims. Afterwards, he committed suicide in his jail cell.
+The grisly mass murder of 10 people shocked the world and came to be known as
+the "Walter Sullivan Case."
+There are two big puzzles here.
+The first is: What was the motive for the murders?
+The second is: Why did he kill himself before completing his task?
+Was he simply insane...?"
+
+-"He was convicted for the murders of Billy and Miriam Locane, the 7th and 8th
+victims."
+I've always wondered why he wasn't even brought to trial for his other eight 
+victims at the time. Maybe it was in the works and his suicide cut it short. 
+Still, with not even a whisper of Walter being charged with, tried for, or 
+accused of the other eight murders, it makes me think something's missing. 
+Though it could just be a simple oversight.
+
+The rest of this note explains itself. Or rather, the rest of the note is 
+explained if you've been paying any attention to the game at all.
+
+[32] --RED DIARY - MAY 14--
+
+"It was four years ago that they discovered the body with "12/21" carved into 
+it.
+Right away I had this terrible feeling and couldn't stop shaking. The victims
+had been murdered six months earlier, but Walter had been dead for seven years,
+having committed suicide three years before the murder.
+The police thinks it's a copycat crime, and are calling it the Sullivan Case
+Round Two.
+But something about it bothered me..."
+
+-"It was four years ago that they discovered the body with "12/21" carved into 
+it."
+Remember, Joseph started writing his diary seven years after Walter died. Four 
+years earlier means that Walter started killing again three years after he bit 
+the big one. Why did Walter wait three years to continue his work? There's no 
+concrete proof, but there's plenty of theories. Perhaps he didn't have a reign 
+on his new powers yet, and it took him three years to get things under 
+control. Even after a decade Walter's world is pretty unstable, I wouldn't be 
+surprised if it was even worse when he first created it. Perhaps he waited for 
+the world to forget him so he could operate with less suspicion (not like it 
+matters, the cops can't arrest a dead man). Then again, if Walter drew too 
+much attention to himself, Frank may have mentioned Walter's little visit to 
+302 after his death, the cops might search the place and find Walter's body, 
+and that would mean game over. Or perhaps Walter didn't have a specific reason 
+to wait three years, he just waited for the hell of it. With no in-game proof, 
+we can only speculate. Personally, I like the first theory.
+
+[33] --RED DIARY - MAY 20--
+
+"I picked up the key that Eileen from Room 303 must have dropped.
+I thought I'd return it but she wasn't home. I guess I'll give it to the 
+super."
+
+This memo is a puzzle clue.
+
+[34] --RED DIARY SCRAP--
+
+"I lost the key to Eileen Galvin's room.
+I've gotta find it and bring it back.
+Let me think... The last place I saw it was...
+(It's ripped here and
+I can't read the rest)"
+
+This memo is a puzzle clue.
+
+[35] --RED DIARY SCRAP (CONT.)--
+
+"Oh yeah, I had a really wicked headache that day and just collapsed on the 
+bed.
+Maybe if I look near the bed in my room -302's bedroom- I'll find it.
+I get headaches every day now.
+It's terrible.
+What am I going to do?"
+
+"I get headaches every day now. It's terrible. What am I going to do?"
+Headaches seem to be sort of a recurring theme in Silent Hill. It usually 
+heralds the transition between one world and another. Could Joseph be visiting 
+Walter's world already, and is simply unaware of it this early on?
+
+The rest of this memo is a puzzle clue.
+
+[36] --RED DIARY - JUNE 11--
+
+"Walter Sullivan did kill himself.
+He died in his prison cell of blood loss after he stabbed himself in the neck
+with his spoon.
+His body was buried in a cemetery just outside his hometown of Silent Hill in
+an unmarked grave.
+After that, his name became famous all over the world and it looked like his
+string of mass murders was finished at 10 out of 21.
+But 3 years later, they found a corpse that had "12/21" carved into it.
+The corpse was from 6 months earlier.
+In other words, the person was killed two and a half year after Sullivan
+committed suicide.
+The MO was exactly the same as Sullivan's.
+Except for one thing.
+All 10 of Sullivan's victims were found with their hearts cut out and their
+chest wounds sewn together expertly with thread.
+On the other hand, the "12/21" victim still had their heart.
+Naturally the police think it's a copy cat and are proceeding on that basis.
+But they haven't made any progress and recently discovered victim number 13.
+This corpse also had their heart intact.
+The police still haven't identified a suspect.
+I've got a working hypothesis.
+Very few people knew the details of the original crimes and would be able to
+copy Sullivan's MO so precisely.
+First I'll head to Silent Hill.
+To the graveyard near that beautiful little lake.
+Maybe I'll find the answer there."
+
+-"Walter Sullivan did kill himself. He died in his prison cell of blood loss 
+after he stabbed himself in the neck with his spoon. His body was buried in a 
+cemetery just outside his hometown of Silent Hill in an unmarked grave."
+Oh God, PROBLEMS PROBLEMS PROBLEMS. As I have stated earlier, this is not a 
+plot guide and this is a HUGE issue with Silent Hill 4's plot, so I'm not 
+going to go into huge detail. Besides, for all the theories out there, there 
+is very little proof as to what really happened. Rather, I'll just pose the 
+question to you and let you come to your own conclusion. With no proof, that's 
+as good as we can do. Here you go.
+
+IF WALTER WAS DEAD AND BURIED IN SILENT HILL, HOW COULD HE GET TO SOUTH 
+ASHFIELD HEIGHTS TO PERFORM THE RITUAL OF THE HOLY ASSUMPTION?
+
+He couldn't have performed it already, we know he did it in the storage room 
+of 302. And we know he died in his cell, too. Further confounding things are 
+various in-game texts contradicting each other (one places his burial at 
+Pleasant River, another at Silent Hill, one text states his birthplace was 
+Pleasant River when we know it was Ashfield). So how could he get from point A 
+to point B as a corpse? Several theories abound, but they are just that, 
+theories. All the texts and game dialogue are posted right here at GameFAQs. 
+Read them over and figure out whatever makes you happy, you won't be able to 
+do any better.
+
+[37] --RED DIARY - JUNE 14--
+
+"The weather that day was very strange.
+Even though I avoided the earlier storm, there was a thick fog clinging to
+everything.
+Fortunately, that allowed me to avoid being seen and get right to work.
+The police are still stubbornly acting as if it's just a copycat case. So I
+figured things probably hadn't been touched here.
+But I was wrong.
+I should have come sooner.
+The cemetery was in such bad condition that it was almost sad.
+The storm must have raised the sea level. Anyway, that's how it was when I 
+found
+Walter Sullivan's grave.
+(This diary is too damaged around this point and I can't read anymore.)
+I'm still in shock...
+There was no body in the grave...
+And on top of that, written on the coffin were the number '11/21'..."
+
+-"Even though I avoided the earlier storm, there was a thick fog clinging to
+everything."
+Either Silent Hill is naturally extremely foggy, or the dark forces were at 
+work when Joseph paid a visit. But to what end?
+
+-"I'm still in shock... There was no body in the grave... And on top of that, 
+written on the coffin were the number '11/21'..."
+Obviously, Walter was his own 11th victim. The theme of victim 11 has to 
+be "Assumption", as in the one who is going to undergo the Ritual of the Holy 
+Assumption. Sorta sucks you have to die for this to work, doesn't it?
+
+[38] --RED DIARY - JULY 13--
+
+"I don't think I can protect myself.
+He's truly insane.
+I can't hold on any longer.
+His power can't be measured.
+I was so scared today that I sealed off the back of the storage room.
+I wonder if Eileen Galvin is okay.
+She has no idea what's going on...
+But she's in danger nevertheless."
+
+-"I was so scared today that I sealed off the back of the storage room."
+He's most likely talking about the hole that appears in the laundry room (the 
+one you need the four cards to open so you can make your second trip to each 
+of the worlds). It's not explained HOW he had the power to seal it off, 
+though. Maybe he had some cement handy?
+
+-"I wonder if Eileen Galvin is okay. She has no idea what's going on... But 
+she's in danger nevertheless."
+Joseph is doing a mighty fine job as Giver of Wisdom, isn't he? He's already 
+learned that Eileen is the Mother Reborn. He probably figured it out from one 
+of his many forays into Walter's world.
+
+This is also the last entry where we can be sure that Joseph is able to leave 
+room 302, since he went to Silent Hill. Mike also saw him before July 1st (See 
+Mike's Diary - July 1st). After this point he never mentions going out of room 
+302 again, so he may well be trapped from July 14th onwards.
+
+[39] --RED DIARY - JULY 17--
+
+"A few days after Walter killed himself in his cell, several residents 
+witnessed
+a long-hair man with a coat here.
+Through his window, Richard Braintree in 207 saw the man moving something heavy
+and doing something in Room 302.
+Even Sunderland, the superintendent, saw the man with the coat hanging around
+Room 302, and confirmed there were signs of someone having been in there."
+
+This memo ties back in to the huge problem of Walter getting his own corpse to 
+room 302 after his suicide. You're on your own on this one. I have some ideas, 
+but they are pure speculation and have no place here.
+
+[40] --RED DIARY - JULY 18--
+
+"My theory is that Walter never died at the prison. It may have been someone 
+else
+who committed suicide. Either that, or the person the police arrested was not 
+the
+real Walter Sullivan.
+I'm in no position to investigate what really happened in the prison, but in 
+any
+case, Walter didn't die at the prison.
+The man with the coat that showed up here was the real Walter.
+7 years ago he did something in that apartment. I'm certain there's a link
+between that and the bizarre things that have been happening here. Just a 
+little
+bit more and I'll have this whole thing figured out. I may even find that the
+real Walter is somewhere nearby."
+
+-"My theory is that Walter never died at the prison. It may have been someone 
+else
+who commited suicide. Either that, or the person the police arrested was not 
+the
+real Walter Sullivan. I'm in no position to investigate what really happened 
+in the prison, but in any case, Walter didn't die at the prison."
+Hey, cool! Look! A theory about what's up with Walter's apparent suicide! 
+But... he doesn't really give any evidence outside of "he didn't really die", 
+does he? Even Joseph doesn't have a decent idea, and he dies before he can get 
+one. The game at least HINTS that Walter didn't die in his cell on the 22nd, 
+so you can use that as a launching point.
+
+[41] --RED DIARY - JULY 20--
+
+"You've seen that world as well...
+That horrible nightmare.
+But if you get sucked into it, it's not just a nightmare. Don't get lost in
+there. If you get pulled in, you'll be killed.
+But there's still hope.
+Maybe this "small key" will guide you.
+If you've seen the door with the placard set in it, look on the other side of
+the door.
+Then keep going down. To the deepest part of him.
+And look for the ultimate Truth."
+
+-"You've seen that world as well... That horrible nightmare."
+Joseph was always writing this for the next tenant of room 302, but now he's 
+really getting into the swing of things. It's like he KNOWS this is going to 
+happen to someone else, doesn't it? Hmm...
+
+-"But if you get sucked into it, it's not just a nightmare. Don't get lost in 
+there. If you get pulled in, you'll be killed."
+Joseph knows his real body isn't going to Walter's world, but that doesn't 
+lessen the danger. He just wanted to let you know. Gee thanks, Joseph, all 
+this time I've been LETTING this freaking monsters have their way with me.
+
+-"If you've seen the door with the placard set in it, look on the other side 
+of the door."
+Remember those doors you saw in each world? Joseph is directing you to those, 
+since they lead to the Spiral (a deeper part of Walter's subconsciousness).
+
+-"Then keep going down. To the deepest part of him. And look for the ultimate 
+Truth."
+Joseph wants you to plumb the depths of Walter's psyche (the deeper you go in 
+the Spiral, the more you learn about Walter) to find out exactly what's going 
+on. Boy, it sure sounds like he's setting you up to be the Receiver of Wisdom, 
+doesn't it? How innocent is Joseph, really?
+
+[42] --RED DIARY - JULY 23--
+
+"I've found something that's extremely effective against the ghosts.
+It saved my life.
+It was stuck into the huge rock in the woods near the orphanage.
+It's a sword blade with a hand-made, triangle-shaped wooden handle that has 
+some
+kind of spell written on it.
+As a weapon, it's heavy and hard to carry. But somehow it seems to change in
+response to the ghost-victim's power.
+Strike when the sword is energized!
+If you don't reduce their power, your attack will be repelled.
+As far as I know, there are only 5 swords in existence with that kind of power.
+It's extremely valuable."
+
+This one explains itself, although, "Strike when the sword is energized!" is a 
+tad misleading. It should really read more like, "Strike when your foe is 
+down!"
+
+[43] --RED DIARY - JULY 25--
+
+"I've found two mysterious and powerful artifacts that seem to be very 
+effective
+for evading the ghost-victims:
+the Holy Candle and the Saint Medallion.
+Not only are they effective against the ghost-victims in the Other World, they
+also seem to prevent them from invading my room. Just light the candle near
+where they're coming in and its holy power is activated.
+The Saint Medallion seems to repel unholy energy when it's worn (equipped).
+I'm starting to gain some hope."
+
+-"I've found two mysterious and powerful artifacts that seem to be very 
+effective
+for evading the ghost-victims."
+Joseph already knows that the ghosts in Walter's world are his victims, Henry 
+never would have had concrete evidence of this if not for Joseph. It really 
+helps to tie things together for poor Henry. Thanks, Joseph!
+
+Again, this one explains itself. Holy Candles and Saint Medallions are good!
+
+[44] --RED DIARY - JULY 28--
+
+"I'm going to summarize everything that I've learned about Walter Sullivan so
+far.
+He was born right here in Room 302 of "South Ashfield Heights." His parents
+abandoned him soon afterwards and disappeared somewhere, leaving the baby 
+alone.
+He was discovered and sent to St. Jerome's Hospital.
+He was "adopted" by "Wish House," an orphanage in the forest near Silent Hill
+that's run by the secret Silent Hill religious cult. When he was six years old,
+someone from the cult showed him where he was born.
+Since then, he started to believe that Room 302 itself -- in other words, this
+room -- was his mother. Every week, he traveled from the orphanage to South
+Ashfield Heights, a pretty long trip for a kid his age. Sometimes he took the
+subway, and sometimes the bus.
+----------------------------------------
+I'm tired.
+My headache is already killing me.
+I'll write more tomorrow."
+
+-"When he was six years old, someone from the cult showed him where he was 
+born."
+That "someone" was Dahlia herself, of Silent Hill 1 fame. Man, is there 
+ANYTHING she won't try? What a nutcase.
+
+Other than that, this memo is awesome on its own and needs no explanation.
+
+[45] --RED DIARY - JULY 29--
+
+"Continuing from yesterday, I'm going to summarize everything that I've learned
+about Walter Sullivan so far.
+Naturally, it was a long way for a kid his age to travel, but he made the trip 
+every week by subway or bus. Unfortunately, someone else was living in this
+apartment and so he couldn't be reunited with his mother (Room 302).
+For years, he continued to come here, almost like he was possessed, just to
+peek into the apartment. Eventually, the tenants began to complain and treat
+him badly when they saw him hanging around. Walter began to fear the tenants
+and see them as obstacles preventing him from seeing his mother.
+As the years passed and Walter matured, he began to be more and more influenced
+by the teachings of the cult. Furthermore, his obsession with his mother and
+his feelings of resentment towards the other world became even deeper.
+Walter became preoccupied with one particular tract from the cult's "Bible."
+"The Descent of the Holy Mother -- The 21 Sacraments"
+"By the 21 Sacraments, the Holy Mother shall appear in the countries of the
+world and shall bring salvation to the sinful ones."
+After Walter left Wish House, he moved to Pleasant River, a town neighboring
+Silent Hill. For a while, he lived the life of a normal student, but he was
+still filled with bitterness and resentment towards the rest of the world.
+Several years later, he launched his plan there. The 21 murders..."
+
+-"Unfortunately, someone else was living in this apartment and so he couldn't 
+be reunited with his mother (Room 302)."
+We never find out who the "someone" is, but we do know that Walter doesn't 
+kill them. They're the only people to live in room 302 since Walter was 
+abandoned there and not get royally shafted. Lucky them!
+
+The rest of this memo needs no assistance, it spells everything out for you.
+
+[46] --RED DIARY - AUGUST 2--
+
+"What's with this room?
+It's covered in blood and rust...
+This is my room...
+But what the hell has happened to it...?
+This room...
+Is it really my room...?
+It's in terrible shape...
+The air is so heavy... My head hurts...
+Creepy... It looks like a face.
+What the hell am I writing...?"
+
+Everything Joseph writes here are comments that you can possibly make when 
+examining room 302 at the very beginning of the game. In case you didn't know, 
+the intro to the game has you very briefly playing as Joseph Schreiber 
+himself. It's why he asks why where his typewriter is, questions the presence 
+of the TV, and doesn't recognize the picture of Henry (room 302's future 
+tenant and Walter's most important victim).
+
+[47] --RED DIARY - AUGUST 3--
+
+"I can't break down the wall."
+
+Joseph is either trying to break down the wall to Eileen's room (hence the 
+digging done there and the tiny peephole), or he's trying to bust down the 
+wall to the hidden room that contains Walter's body. Either would make plenty 
+of sense since he never specifies what he's talking about, but I'm inclined to 
+believe he's talking about the room that contains Walter's body. You get a 
+clear shot of that particular wall and you can see Joseph's been going at it 
+with the Pickaxe of Hope, but he can't knock it down for some reason. Maybe 
+he's too weak from being cooped up in 302 for however long he's been in there, 
+or maybe Walter simply doesn't want him knocking down that wall and ruining 
+his plans.
+
+[48] --RED DIARY - AUGUST 4--
+
+"When the bell rings, Eileen=mother's body, blood."
+
+Eileen is victim 20, the Mother Reborn. Duh.
+
+[49] --RED DIARY - AUGUST 5
+
+"The Crimson Tome
+"Bury part of the Conjurer's mother's flesh within the true body of the
+Conjurer."
+Part of the flesh=super's room?"
+
+Walter's umbilical cord is in the superintendent's room. Double duh.
+
+[50] --RED DIARY - AUGUST 7--
+
+"No. 1...Ten heart...
+No. 2...Ten...
+No. 3...Ten hearts...
+No. 4...Ten hearts Steve Garl...
+No. 5...Ten...
+No. 6...Ten heart...
+No. 7...Ten hearts Billy Locane
+No. 8...Ten hearts Miriam Locane
+No. 9...Ten hearts...
+No. 10...Ten...
+No. 11...Assumption Walter Sullivan
+No. 12...Void...
+No. 13...Darkness...
+No. 14...Gloom...
+No. 15...Despair Joseph Schreiber
+No. 16...Temptation Cynthia Velasquez
+No. 17...Source Jasper Gein
+No. 18...Watchfulness Andrew DeSalvo
+No. 19...Chaos Richard Braintree
+No. 20...Mother Eileen Galvin
+No. 21...Wisdom Henry Townshend"
+
+Definitely creepy the first time you read it, seeing your own name on Walter's 
+murder list. Joseph is leaving things out, obviously. Here's what it should 
+really look like.
+
+No. 1... Ten hearts Jimmy Stone
+No. 2... Ten hearts Bobby Randolph
+No. 3... Ten hearts Sein Martin
+No. 4... Ten hearts Steve Garland
+No. 5... Ten hearts Rick Albert
+No. 6... Ten hearts George Rosten
+No. 7... Ten hearts Billy Locane
+No. 8... Ten hearts Miriam Locane
+No. 9... Ten hearts William Gregory
+No. 10... Ten hearts Eric Walsh
+No. 11... Assumption Walter Sullivan
+No. 12... Void Peter Walls
+No. 13... Darkness Sharon Blake
+No. 14... Gloom Tony Archbolt
+No. 15... Despair Joseph Schreiber
+No. 16...Temptation Cynthia Velasquez
+No. 17...Source Jasper Gein
+No. 18...Watchfulness Andrew DeSalvo
+No. 19...Chaos Richard Braintree
+No. 20...Mother Eileen Galvin
+No. 21...Wisdom Henry Townshend
+
+The first thing on the list is the theme of the murder (Ten hearts, Void, 
+Temptation, whatever) and the second thing is the name of the victim. As we 
+can see, Walter planned the murders after Ten Hearts pretty meticulously.
+
+[51] --RED DIARY - ??/?? (Sometime between August 8th and September 8th, see 
+notes at the beginning of the Red Diaries for more information.)--
+
+"How long has it been since I left this room? I can't tell if it's been days or
+hours...
+But during that time, they've found the body of '14/21.'
+I've been having hallucinations lately.
+I think I'm losing my mind."
+
+-"How long has it been since I left this room? I can't tell if it's been days 
+or
+hours..."
+A month at the most, buddy, but I'm willing to bet it's closer to a few days. 
+We have no idea how much Joseph has to eat or drink in there, and it's not 
+like he can go the grocery store at this point.
+
+-"But during that time, they've found the body of '14/21.'"
+Joseph obviously knows he's next. Man, that has GOTTA suck.
+
+-"I've been having hallucinations lately. I think I'm losing my mind."
+I really don't understand why Joseph thinks he's hallucinating. He knows what 
+Walter's world is like and what it can do. He has to understand that what he's 
+seeing are the product of an insane mind, yes, but it's not HIM that's insane. 
+Maybe Walter's world finally got too far under his skin and he lost it. You 
+can hardly blame the poor guy.
+
+[52] --JOSEPH'S LETTER--
+
+"He used this place as the locus for the creation of his world. I'm certain he
+must have performed the "Ritual of the Holy Assumption" near here.
+But I'm not strong enough to stop him anymore...
+He locked me up in this room and played with me just like a toy...
+My eyes are starting to go blind...
+The pain...
+I can feel my body starting to die...
+But...things are taken care of...
+Whoever lives here after me...
+You'll be the 21st, the last of the sacrifices...
+I leave it up to you...
+When the bell tolls,
+the ritual begins.
+Eileen=mother's body, blood.
+Part of the mother's
+flesh=super's room.
+This is all I've been able
+to figure out.
+I hope this letter gets to you in time...
+
+Joseph Schreiber"
+
+If you can't figure out what Joseph wants you to do, I feel sorry for you.
+
+[53] --JOSEPH'S ARTICLE--
+
+"Teaching Despair: 'Wish House'
+
+'Wish House,' an orphanage on the outskirts of Silent Hill. But behind it's 
+false image is a place where children are kidnapped and brainwashed.
+Wish House is managed by the 'Silent Hill Smile Support Society,' a charity 
+organization sometimes called '4S'.
+It's true that 4S is a well-respected charity that "takes in poor children 
+without homes and raises them with hope."
+But at it's heart it is a heathen organization that teaches its own warped 
+dogma in lieu of good religious values.
+Mr. Smith (temp), who lives near 'Wish House,' had this to say:
+'Sometimes at night I can hear their weird prayers and the sounds of [children]
+crying. I went there to complain one time, but they ran me right out. Since
+then it hasn't changed a bit.'
+In fact, this reporter was refused admission when he attempted to take
+photographs in the facility.
+What exactly do the folks at 'Wish House' have to hide?
+During my investigations I was able to discover, however, a suspicious-looking
+round concrete tower which appears to be part of their facilities.
+Unfortunately no one was willing to tell us what the tower was used for. But
+it seems unlikely that it has anything to do with the business of raising
+orphans. It may in fact be a prison or a 
+secret place of worship.
+The cult religion that operates 'Wish House' is known by the locals simply as
+'The Order.'
+It's a religion that is deeply interwoven with Silent Hill's history.
+But it's worshippers' fervent belief that they are among the elite 'chosen
+people' has a dark and dangerous side.
+I intend to continue my investigation of 'Wish House' and the cult behind it.
+I've always believed that 'telling the whole truth' and showing the children
+the true path is our most important duty.
+
+Joseph Schreiber"
+
+Good on you, Joseph, you find the truth! Never mind what it's going to cost 
+you...
+
+
+___ _ _________ ____ __ _ _____ _ __________ __ _ _____________ __ _ _____ __
+
+
+
+When you're done / Mini-FAQ . . . . . . . . . . . . . . . . . . . . [06after]
+
+Now that you've read the analysis of the memos (or at least what you wanted to 
+read), you should have a better understanding of some of that nasty hidden 
+context. You may be feeling a few things. Allow me to answer your questions 
+before you ask them.
+
+"You are an idiot and all this is wrong blah blah blah et cetera."
+It's cool if you don't agree with me. Like I said, everything in the Silent 
+Hill series is extremely subjective, and if you feel I'm incorrect, I welcome 
+your criticism. But if you resort to baseless insults or are otherwise 
+insulting to me, your message will be deleted without a response and your e-
+mail and / or IM info will be blocked. Criticism is cool, it helps us realize 
+our mistakes and better ourselves. Being a jerk won't get you anywhere.
+
+"You made a grammatical mistake / typo / some other kind of error that relates 
+to formatting or spelling and not the actual FAQ."
+Please please PLEASE let me know about it. I pride myself on my grammar and 
+spelling, and it's the one kind of mistake I can't abide.
+
+"Can you back this crap up?"
+Yes, everything in this guide can be supported by some in-game event or 
+official Konami documentation. I didn't include it all in here because it's 
+either A) widely known, or B) it supports itself. Besides, this thing is long 
+enough already without a bibliography.
+
+"Are you open to talk about Silent Hill stuff?"
+Absolutely, yes. If you want to IM me about anything Silent Hill related, 
+please feel free to do so. This is sort of a mania for me, and I love to share 
+it with those who are willing.
+
+"Something else is wrong with the FAQ that isn't covered here."
+Then go ahead and e-mail or IM me and let me know what it is. I'll change the 
+FAQ depending on the validity of your point.
+
+"I have some other nonspecific question I want to ask."
+Unless it pertains to the guide or Silent Hill, I'd rather you didn't e-mail 
+or IM me just to "chat". I work tech support, I "chat" with people enough, 
+thank you very much.
+
+
+
+___ _ _________ ____ __ _ _____ _ __________ __ _ _____________ __ _ _____ __
+
+
+
+Credits/Thanks. . . . . . . . . . . . . . . . . . . . . . . . . . .[07thanks]
+
+To my mom, for being my mom.
+
+To everyone who helps GameFAQs the invaluable gaming resource it is, site 
+staff and contributors alike. This place would be nothing without the stellar 
+contributions it gets on a daily basis. Keep it up.
+
+To Longsword24, for reposting Konami's victim information in his Victim FAQ. 
+By the way, I'm the Mephianse@*e-mail address here* in your FAQ that pointed 
+out victim number 4's little shovel thing is called a "trowel". I know I 
+didn't contact you for permission, but since it's just Konami info, it should 
+be covered under fair use.
+
+To Sunderland for his Memo FAQ, it saved me a LOT of time on manually typing 
+out all the memos. You have no idea how helpful that was. Again, I know I 
+didn't contact you with permission, but since it's just copying verbatim from 
+the game, fair use should cover me.
+
+Copyright 2007 Sean "Mephianse" Dickinson
+
