@@ -51,7 +51,14 @@ ___
 
 3.1 Domain Specific Dataset Analysis (20 marks)
 
-> Placeholder
+- Sentence Segmentation (found in sentence_segm folder)
+  1. Explanation within ipynb outputs
+- Tokenizer (found in tokenizer folder)
+  `python3 tokenizer.py` 
+  1. output the token and stemming results as a specified file after inputting which dataset to parse
+- POS Tagger (found in POS Tagger folder)
+  `python3 POS_Tagger.py`
+  1. outputs the POS Tagging results in the console
 
 3.2 Development of a ⟨ Noun - Adjective ⟩ Pair Ranker (20 marks)
 
@@ -59,9 +66,13 @@ ___
 
 > ![q3_2_2](./question_3_2/after_similarity.jpg)
 
+  1. Explanation within ipynb outputs
+
 3.3 Application (10 marks)
 
 > ![q3_3](./question_3_3/q3_3.png)
+
+  1. Prints out the result of the sentiment analysis in table form
 
 ___
 
