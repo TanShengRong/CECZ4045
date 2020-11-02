@@ -4,7 +4,7 @@ ____
 
 #### A *link* to download the third-party library if you used any in your assignment.
 
-> pip install -r requirements.txt
+> run `pip3 install -r requirements.txt` in the terminal/cmd
 
 ___
 
@@ -54,10 +54,10 @@ ___
 - Sentence Segmentation (found in sentence_segm folder)
   1. Explanation within ipynb outputs
 - Tokenizer (found in tokenizer folder)
-  `python3 tokenizer.py` 
+  run `python3 tokenizer.py` in the terminal/cmd
   1. output the token and stemming results as a specified file after inputting which dataset to parse
 - POS Tagger (found in POS Tagger folder)
-  `python3 POS_Tagger.py`
+  run `python3 POS_Tagger.py` in the terminal/cmd
   1. outputs the POS Tagging results in the console
 
 3.2 Development of a ⟨ Noun - Adjective ⟩ Pair Ranker (20 marks)
