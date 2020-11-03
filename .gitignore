@@ -6,4 +6,4 @@ node_modules/
 */.aws/config
 .aws/
 apienv/
-part2/q2venv/
+q2venv/
