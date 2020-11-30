@@ -2,6 +2,7 @@
 
 #### Main Notebooks
 ass2_q1_iv.ipynb
+
 ass2_q1.ipynb
 
 The above notebooks are used to train each corresponding network that varies in parameters. 
@@ -21,10 +22,15 @@ The dataset can be obtained from [here](https://github.com/pytorch/examples/tree
 
 #### Main Notebooks
 ner_cnn_1.ipynb
+
 ner_cnn_2.ipynb
+
 ner_cnn_3.ipynb
+
 ner_cnn_4.ipynb
+
 ner_cnn_5.ipynb
+
 ner_cnn_6.ipynb
 
 The above notebooks are used to train each corresponding number of CNN layers. They share the same code, with only the training results and graphs differing from each other.
